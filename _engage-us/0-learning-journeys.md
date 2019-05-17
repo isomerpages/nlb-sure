@@ -1,8 +1,8 @@
----** 
+---
 layout: leftnav-page-content
-title: Learning Journeys
-permalink: /engage-us/learning-journeys/
-breadcrumb: Learning Journeys
+title: Learning Journey
+permalink: /engage-us/learning-journey/
+breadcrumb: Learning Journey
 collection_name: engage-us
 ---
 
