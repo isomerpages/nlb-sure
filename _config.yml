@@ -1,6 +1,6 @@
-title: Title
-title-abbreviated: Title
-description: >- # this means to ignore newlines until "baseurl:"
+title: S.U.R.E.
+title-abbreviated: S.U.R.E.
+description: The S.U.R.E. campaign is an initiative by the National Library Board to promote the importance of information searching and discernment. The nation-wide campaign was launched in 2013, and Singapore is the first country outside of the United States to promote Information Literacy (IL) on a national scale for the general public.
   Description
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -47,8 +47,6 @@ collections:
     output: true
   elearn:
     output: true
-  national-library:
-    output: true
-  fake-news:
+  engage-us:
     output: true
 resources_name: resource-room
