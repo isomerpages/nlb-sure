@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Smart Nation Initiatives in Singapore
-date:   
+date:   2019-05-17
 permalink: /resource-room/cheat-sheets/smart-nation-initiatives-in-sg
 ---
 
