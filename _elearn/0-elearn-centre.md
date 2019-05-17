@@ -12,8 +12,6 @@ eLearn Centre is an e-learning portal where you can gain new research knowledge 
 
 Gain new knowledge and develop your research skills according to three levels – Basic, Advanced and Continuous Education. Each module includes a video lesson and interactive activities for fun learning. eLearn Centre modules can be accessed anytime and anywhere as long as you have Internet access.
 
-Go on… visit eLearn Centre and use this guide book to become a savvy information user today!
-
-Download our [guide to eLearn centre](/document/eLearn-16pp-Brochure.pdf).
+Go on… visit eLearn Centre and use this [guide book](/document/eLearn-16pp-Brochure.pdf) to become a savvy information user today!
 
 **No Login required. Access is free.**
