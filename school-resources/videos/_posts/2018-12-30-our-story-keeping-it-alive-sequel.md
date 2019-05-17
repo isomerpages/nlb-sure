@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Our Story: Keeping It Alive
+title:  Our Story Keeping It Alive Sequel
 date:   2018-12-30
 permalink: /school-resources/videos/our-story-keeping-it-alive-sequel
 ---
