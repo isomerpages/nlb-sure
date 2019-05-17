@@ -14,13 +14,13 @@
 - title: eLearn
   url: /elearn/elearn-centre/
   sub-links:
-  - title: Scheck Your Sources
+  - title: Source
     url: /elearn/scheck-your-sources/
-  - title: Understanding The Information
+  - title: Understand
     url: /elearn/understanding-the-information/
-  - title: Research Digging Deeper
+  - title: Research
     url: /elearn/research-digging-deeper/
-  - title: Evaluate Presenting Your Conclusion
+  - title: Evaluate
     url: /elearn/evaluate-presenting-your-conclusion/
 - title: School Resources
   url: /school-resources/big-picture/
@@ -39,6 +39,6 @@
   url: /engage-us/infographics/
   sub-links:
   - title: Learning Journeys
-    url: /fake-news/learning-journeys/
+    url: /engage-us/learning-journeys/
   - title: Workshops
-    url: /fake-news/workshops/
+    url: /engage-us/workshops/
