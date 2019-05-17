@@ -11,9 +11,9 @@ collection_name: elearn
 
 Designed for kids, this course will show them how to spot the critical elements and clues presented in visual images such as posters, brochures, websites and advertisements. Learn how to narrow down the different interpretations of a given scenario and write about them accordingly.
 
-* [Explaining the various ways visual messages are presented](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic1/index.html){:target="_blank"}  – Scenarios: at the supermarket, shopping mall, school, home
-* [Unmasking the main ideas and meaning](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic2/index.html){:target="_blank"}  – Including creation strategies
-* [Telling stories through visuals](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic3/index.html){:target="_blank"}  – Descriptive and picture stories, conflict and obstacle
+* [Explaining the various ways visual messages are presented](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic1/index.html){:target="_blank"} – Scenarios: at the supermarket, shopping mall, school, home
+* [Unmasking the main ideas and meaning](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic2/index.html){:target="_blank"} – Including creation strategies
+* [Telling stories through visuals](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic3/index.html){:target="_blank"} – Descriptive and picture stories, conflict and obstacle
 
 
 ### **Information Literacy for Educators**
