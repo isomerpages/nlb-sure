@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Elearn Centre
+title: eLearn Centre
 permalink: /elearn/elearn-centre/
-breadcrumb: Elearn Centre
+breadcrumb: eLearn Centre
 collection_name: elearn
 ---
 
