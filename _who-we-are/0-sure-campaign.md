@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Sure Campaign
+title: S.U.R.E. Campaign
 permalink: /who-we-are/sure-campaign/
-breadcrumb: Sure Campaign
+breadcrumb: S.U.R.E. Campaign
 collection_name: who-we-are
 ---
 
