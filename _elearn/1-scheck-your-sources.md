@@ -6,7 +6,8 @@ breadcrumb: Source - Check Your Sources
 collection_name: elearn
 ---
 
-### **Internet Searching Skills** *Basic*
+### **Internet Searching Skills** 
+*Basic*
 
 Learn how to craft search statements using methods such as Boolean searching and phrase searching to find appropriate Internet sources. From this fun and interactive course, you will also gain tips on evaluating and selecting relevant websites for your project work.
 
@@ -15,7 +16,8 @@ Learn how to craft search statements using methods such as Boolean searching and
 * [Employing the most effective search strategies](http://www.nlb.gov.sg/sure/coursewares/ISS/mod3/index.html){:target="_blank"} – Keywords, free text searches, specific subject headings
 
 
-### **Visual Text Awareness Essentials** *Advanced*
+### **Visual Text Awareness Essentials** 
+*Advanced*
 
 The ability to analyse visual and textual information is key to thriving in today’s visually-rich, technology driven world. Through this course you will learn how to navigate social networking as well as how to make informed decisions, take positive steps and manage your digital footprint.
 
@@ -24,7 +26,8 @@ The ability to analyse visual and textual information is key to thriving in toda
 * [Applying S.U.R.E. to navigate and manage your social networking efforts](http://www.nlb.gov.sg/sure/coursewares/VTAWE_topic3/index.html){:target="_blank"} 
 
 
-### **Savvy Internet Searchers** *Advanced*
+### **Savvy Internet Searchers** 
+*Advanced*
 
 When it comes to research, there are many credible online sources that can be helpful. The key to locating them quickly is simply to use the right search tools and strategies. In this course, you’ll learn the ‘art’ of advanced Internet searching and reap the benefits of this lifelong skill.
 
