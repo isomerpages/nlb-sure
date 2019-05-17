@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Safer Internet Day 2018 Video: "Do What's Right: Be Smart"
+title:  Safer Internet Day 2018 Video
 date:   2018-12-31
 permalink: /school-resources/videos/safter-internet-day-2018-video
 ---
