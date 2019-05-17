@@ -2,7 +2,7 @@
 layout: post
 title:  Smart Nation Initiatives in Singapore
 date:   2019-05-17
-permalink: /resource-room/cheat-sheets/smart-nation-initiatives-in-sg
+permalink: /school-resources/cheat-sheets/smart-nation-initiatives-in-sg
 ---
 
 ![Smart Nation Initiatives poster](/images/NLB_Cheatsheet_SmartNationInitiatives-1-1050x613.png)

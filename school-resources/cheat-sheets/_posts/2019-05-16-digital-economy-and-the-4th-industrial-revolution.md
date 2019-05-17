@@ -2,7 +2,7 @@
 layout: post
 title:  Digital Economy and the 4th Industrial Revolution
 date:   2019-05-16
-permalink: /resource-room/cheat-sheets/digital-economy-and-the-4th-industrial-revolution
+permalink: /school-resources/cheat-sheets/digital-economy-and-the-4th-industrial-revolution
 ---
 
 ![Digital Economy and the 4th Industrial Revolution poster](/images/DigitalEcon-1050x700.png)
