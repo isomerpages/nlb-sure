@@ -3,10 +3,10 @@ layout: leftnav-page-content
 title: Combating Fake News Talks
 permalink: /engage-us/workshops/
 breadcrumb: Workshops
-collection_name: fake-news
+collection_name: engage-us
 ---
 
-![Banner for Combating Fake News workshops](/images/banner-workshop.jpg)
+![Banner for Combating Fake News workshops](/images/banner-workshops.jpg)
 
 ### **S.U.R.E. or Not? Combating Fake News**
 

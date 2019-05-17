@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Learning Journeys
 permalink: /engage-us/learning-journeys/
 breadcrumb: Learning Journeys
-collection_name: fake-news
+collection_name: engage-us
 ---
 
 ### **S.U.R.E. for Work - Learning Journey & Workshop**
