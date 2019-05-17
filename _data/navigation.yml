@@ -4,8 +4,6 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
 - title: Who We Are
   url: /who-we-are/sure-campaign/
   sub-links:
@@ -13,20 +11,9 @@
     url: /who-we-are/sure-campaign/
   - title: National Library And National Archives
     url: /who-we-are/national-library-and-national-archives/
-- title: School Resources
-  url: /school-resources/big-picture/
-  sub-links:
-  - title: Big Picture
-    url: /school-resources/big-picture/
-  - title: Infographics
-    url: /school-resources/infographics/
-  - title: Cheat Sheets
-    url: /school-resources/cheat-sheets/
-- title: Elearn
+- title: eLearn
   url: /elearn/elearn-centre/
   sub-links:
-  - title: Elearn Centre
-    url: /elearn/elearn-centre/
   - title: Scheck Your Sources
     url: /elearn/scheck-your-sources/
   - title: Understanding The Information
@@ -35,36 +22,23 @@
     url: /elearn/research-digging-deeper/
   - title: Evaluate Presenting Your Conclusion
     url: /elearn/evaluate-presenting-your-conclusion/
-  - title: Faq
-    url: /elearn/faq/
-- title: National Library
-  url: /national-library/ourstory/
+- title: School Resources
+  url: /school-resources/big-picture/
   sub-links:
-  - title: Ourstory
-    url: /national-library/ourstory/
-  - title: Curiocity
-    url: /national-library/curiocity/
-  - title: Resource Guides
-    url: /national-library/resource-guides/
-- title: Fake News
-  url: /fake-news/infographics/
-  sub-links:
+  - title: Cheat Sheets
+    url: /school-resources/cheat-sheets/
   - title: Infographics
-    url: /fake-news/infographics/
+    url: /school-resources/infographics/
   - title: Quizzes
-    url: /fake-news/quizzes/
-  - title: Workshops
-    url: /fake-news/workshops/
+    url: /school-resources/quizzes/
+  - title: Resource Guides
+    url: /school-resources/resource-guides/
+  - title: Videos
+    url: /school-resources/videos/
+- title: Engage Us
+  url: /engage-us/infographics/
+  sub-links:
   - title: Learning Journeys
     url: /fake-news/learning-journeys/
-- title: Resource Room
-  url: /resource-room/
-  sub-links:
-  - title: All
-    url: /resource-room/
-  - title: Subcategory A
-    url: /resource-room/subcategory-A/
-  - title: Subcategory B
-    url: /resource-room/subcategory-B/
-  - title: Subcategory C
-    url: /resource-room/subcategory-C/
+  - title: Workshops
+    url: /fake-news/workshops/
