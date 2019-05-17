@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Understanding The Information
+title: Understand - Understanding The Information
 permalink: /elearn/understanding-the-information/
 breadcrumb: Understand - Understanding The Information
 collection_name: elearn
