@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Devil, The Angels and I (Episode 4): "What are you afraid of?"
-date:   2019-05-16
+date:   2018-12-29
 permalink: /school-resources/videos/the-devil-the-angels-and-i-episode-4
 ---
 
