@@ -20,9 +20,6 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
-# Resource Room and Pagination
-paginate: 12
-
 # Homepage sections
 homepage_hero_i_want_to: false
 homepage_resources: true
@@ -49,4 +46,8 @@ collections:
     output: true
   engage-us:
     output: true
-resources_name: resource-room
+    
+# Resources and pagination
+resources_name: school-resources
+paginate: 12
+paginate_path: "/school-resources/page:num"
