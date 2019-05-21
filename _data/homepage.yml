@@ -11,14 +11,14 @@ favicon: /images/sure-favicon.jpg
 agency-logo: /images/sure-logo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: 
+hero-subtitle: 
 hero-banner: /images/hero-banner-sure.png
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /who-we-are/
+  - text: 
+    url: 
     
 key-highlights:
   - title: Highlight A
