@@ -14,11 +14,6 @@ agency-logo: /images/sure-logo.png
 hero-title: 
 hero-subtitle: 
 hero-banner: /images/hero-banner-sure.png
-
-#Call to Action Button
-button:
-  - text: 
-    url: 
     
 key-highlights:
   - title: Highlight A
