@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Combating Fake News infographics
-permalink: /fake-news/infographics/
+permalink: /fakenews/infographics/
 breadcrumb: Infographics
-collection_name: fake-news
+collection_name: fakenews
 typora-root-url: ./
 typora-copy-images-to: ..\fakenews
 ---
