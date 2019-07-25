@@ -31,15 +31,15 @@ Interested organisations can email us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.s
 
 <table class="table-v">
   <tr>
-    <td>Neo Tiong Seng</td>
-    <td>Tiong Seng is a librarian with a passion for training and facilitation. He has experience in conducting talks and workshops for internal staff as well as the general public, ranging from students to working adults to senior citizens. Tiong Seng is currently involved in promoting the National Library’s collections and information literacy as part of the S.U.R.E. team. As a reference librarian, his research interests are in the social sciences, including history and politics.</td>
-  </tr>
-  <tr>
     <td>Mervin Ang</td>
     <td>Mervin is a versatile, engaging trainer and facilitator with over four years of training experience. He has conducted numerous talks and workshops on information literacy, fighting fake news and library resources for diverse audiences.</td>
   </tr>
   <tr>
     <td>Damien Wang</td>
     <td>Damien is a librarian with more than 18 years of experience in content creation and training. A member of the S.U.R.E. team since its inception in 2012, he has delivered talks and conducted workshops about fake news and hoax websites, as well as tools and techniques to deal with them.</td>
+  </tr>
+      <tr>
+    <td>Carmen Wang</td>
+    <td>Carmen is an associate librarian experienced in doing both large and small scale outreaches promoting reading and literacy. She has conducted talks, workshops and training for audiences ranging from children to adults.</td>
   </tr>
 </table>
