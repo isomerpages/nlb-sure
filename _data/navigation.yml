@@ -25,6 +25,8 @@
 - title: School Resources
   url: /school-resources/
   sub-links:
+  - title: Big Picture
+    url: /school-resources/big-picture/
   - title: Cheat Sheets
     url: /school-resources/cheat-sheets/
   - title: Infographics
