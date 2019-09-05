@@ -21,7 +21,7 @@ breadcrumbs:
     image: false # Show image or title text
 
 # Homepage sections
-homepage_hero_i_want_to: false
+homepage_hero_i_want_to: true
 homepage_resources: true
 
 # Feedback Form URL
@@ -39,6 +39,18 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 
 collections:
   who-we-are:
+    output: true
+  resources:
+    output: true
+  ongoing-events:
+    output: true
+  past-events:
+    output: true
+  resources-audience:
+    output: true
+  resources-format:
+    output: true
+  resources-categories:
     output: true
   school-resources:
     output: true

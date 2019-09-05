@@ -15,18 +15,12 @@ hero-title:
 hero-subtitle: 
 hero-banner: /images/hero-banner-sure.png
     
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+# I want to dropdown
+i-want-to:
+  - title: find info-literacy related resources 
+    url: /resources/sure/
+  - title: find research resources
+    url: /resources/research/
 
 resources-title: Resources
 resources-subtitle: Combat Fake News
