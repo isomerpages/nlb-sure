@@ -4,45 +4,30 @@
 #                                #
 ##################################
 
-- title: Who We Are
+- title: About Us
   url: /who-we-are/sure-campaign/
   sub-links:
+  - title: National Library
+    url: /who-we-are/national-library-and-national-archives/
   - title: Sure Campaign
     url: /who-we-are/sure-campaign/
-  - title: National Library And National Archives
-    url: /who-we-are/national-library-and-national-archives/
-- title: eLearn
-  url: /elearn/elearn-centre/
+- title: Programmes
+  url: /programmes/ongoing-events/
   sub-links:
-  - title: Source
-    url: /elearn/scheck-your-sources/
-  - title: Understand
-    url: /elearn/understanding-the-information/
-  - title: Research
-    url: /elearn/research-digging-deeper/
-  - title: Evaluate
-    url: /elearn/evaluate-presenting-your-conclusion/
-- title: School Resources
-  url: /school-resources/
+  - title: Ongoing Events
+    url: /programmes/ongoing-events/
+  - title: Past Events
+    url: /programmes/past-events/
+- title: Resources
+  url: /resources/
   sub-links:
-  - title: Big Picture
-    url: /school-resources/big-picture/
-  - title: Cheat Sheets
-    url: /school-resources/cheat-sheets/
-  - title: Infographics
-    url: /school-resources/infographics/
-  - title: Quizzes
-    url: /school-resources/quizzes/
-  - title: Resource Guides
-    url: /school-resources/resource-guides/
-  - title: Videos
-    url: /school-resources/videos/
-- title: Engage Us
-  url: /engage-us/learning-journeys/
-  sub-links:
-  - title: Learning Journeys
-    url: /engage-us/learning-journeys/
-  - title: Workshops
-    url: /engage-us/workshops/
+  - title: Audience
+    url: /resources/audience/
+  - title: Format
+    url: /resources/format/
+  - title: Categories
+    url: /resources/categories/
+- title: Blog
+  url: /blog/
 - title: Contact Us
   url: /contact-us/
