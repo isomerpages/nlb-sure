@@ -9,7 +9,7 @@
   sub-links:
   - title: About Learn
     url: /who-we-are/about-learn/
-  - title: National Library
+  - title: National Library Board
     url: /who-we-are/national-library-and-national-archives/
   - title: SURE (Info-literacy) Campaign
     url: /who-we-are/sure-campaign/
@@ -24,10 +24,5 @@
     url: /resources/categories/
 - title: Blog
   url: /blog/
-  sub-links:
-  - title: Ongoing Events
-    url: /programmes/ongoing-events/
-  - title: Past Events
-    url: /programmes/past-events/
 - title: Contact Us
   url: /contact-us/
