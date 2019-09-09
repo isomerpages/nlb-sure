@@ -8,7 +8,7 @@
 favicon: /images/nlb-favicon.ico
 
 # Agency logo
-agency-logo: /images/nl-logo.png
+agency-logo: /images/nl-logo.jpg
 
 # Hero Banner
 hero-title: Learning
@@ -29,7 +29,7 @@ info-sections:
     section-more-button: Check out our other learning videos
     section-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar tempus justo, id scelerisque enim auctor et. Nunc auctor, felis in cursus bibendum, justo lectus tristique magna, id cursus arcu odio quis eros.
     section-more-button-url: /resources/sure/
-    section-image-path: /images/hero-banner-sure.jpg
+    section-image-path: /images/hero-banner-sure.png
     section-image-alt: Learning Videos
   - section-title: Highlights
     section-subtitle: Blog
