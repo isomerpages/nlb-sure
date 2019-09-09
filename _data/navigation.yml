@@ -9,15 +9,8 @@
   sub-links:
   - title: National Library
     url: /who-we-are/national-library-and-national-archives/
-  - title: Sure Campaign
+  - title: SURE (Info-literacy) Campaign
     url: /who-we-are/sure-campaign/
-- title: Programmes
-  url: /programmes/ongoing-events/
-  sub-links:
-  - title: Ongoing Events
-    url: /programmes/ongoing-events/
-  - title: Past Events
-    url: /programmes/past-events/
 - title: Resources
   url: /resources/categories/
   sub-links:
@@ -29,5 +22,10 @@
     url: /resources/categories/
 - title: Blog
   url: /blog/
+  sub-links:
+  - title: Ongoing Events
+    url: /programmes/ongoing-events/
+  - title: Past Events
+    url: /programmes/past-events/
 - title: Contact Us
   url: /contact-us/
