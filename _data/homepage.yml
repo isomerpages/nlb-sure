@@ -12,7 +12,7 @@ agency-logo: /images/nl-logo.jpg
 
 # Hero Banner
 hero-title: Learning
-hero-subtitle: Discover and Learn through National Library and Info-literacy resources
+hero-subtitle: Discover and Learn through our resources
 hero-banner: /images/sample-hero-banner.gif
     
 # I want to dropdown
@@ -26,7 +26,7 @@ i-want-to:
 info-sections:
   - section-title: Highlights
     section-subtitle: Learning Videos
-    section-more-button: Check out our other learning videos
+    section-more-button: Check out our learning videos
     section-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar tempus justo, id scelerisque enim auctor et. Nunc auctor, felis in cursus bibendum, justo lectus tristique magna, id cursus arcu odio quis eros.
     section-more-button-url: /resources/sure/
     section-image-path: /images/hero-banner-sure.png
