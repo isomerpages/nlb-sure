@@ -12,12 +12,12 @@
   - title: SURE (Info-literacy) Campaign
     url: /about-us/sure-campaign/
 - title: Resources
-  url: /resources/categories/
+  url: /resources/audience/
   sub-links:
   - title: Audience
-    url: /resources/audience/teachers-and-students
+    url: /resources/audience/
   - title: Formats
-    url: /resources/format
+    url: /resources/format/
 - title: Blog
   url: /blog/
 - title: Contact Us
