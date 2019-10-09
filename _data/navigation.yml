@@ -5,12 +5,12 @@
 ##################################
 
 - title: About Us
-  url: /who-we-are/sure-campaign/
+  url: /about-us/sure-campaign/
   sub-links:
   - title: National Library
-    url: /who-we-are/national-library-and-national-archives/
+    url: /about-us/national-library-and-national-archives/
   - title: SURE (Info-literacy) Campaign
-    url: /who-we-are/sure-campaign/
+    url: /about-us/sure-campaign/
 - title: Resources
   url: /resources/categories/
   sub-links:
