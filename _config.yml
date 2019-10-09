@@ -40,8 +40,6 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   about-us:
     output: true
-  who-we-are:
-    output: true
   resources:
     output: true
   resources-by-audience:
@@ -52,15 +50,7 @@ collections:
     output: true
   past-events:
     output: true
-  resources-audience:
-    output: true
-  resources-format:
-    output: true
-  resources-categories:
-    output: true
   school-resources:
-    output: true
-  elearn:
     output: true
   engage-us:
     output: true
