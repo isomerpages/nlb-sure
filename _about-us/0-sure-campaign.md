@@ -1,9 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: SURE Campaign
 permalink: /about-us/sure-campaign/
 breadcrumb: SURE Campaign
-collection_name: about-us
 ---
 
 ### **About the SURE campaign**
