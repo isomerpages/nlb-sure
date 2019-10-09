@@ -44,11 +44,7 @@ collections:
     output: true
   resources:
     output: true
-  resources-for-teachers-and-students:
-    output: true
-  resources-for-adults:
-    output: true
-  resources-for-seniors:
+  resources-by-audience:
     output: true
   resources-by-format:
     output: true
