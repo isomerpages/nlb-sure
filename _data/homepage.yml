@@ -11,34 +11,17 @@ favicon: /images/nlb-favicon.ico
 agency-logo: /images/nl-logo.jpg
 
 # Hero Banner
-hero-title: Learning
-hero-subtitle: Discover and Learn through our resources
+hero-title: S.U.R.E.
+hero-subtitle: Discover about the National Library's Learning & Information Literacy resources
 hero-banner: /images/sample-hero-banner.gif
     
 # I want to dropdown
 i-want-to:
-  - title: find info-literacy related resources 
-    url: /resources/sure/
-  - title: find research resources
-    url: /resources/research/
+  - title: find out more about SURE or fake news
+    url: /who-we-are/sure-campaign/
+  - title: find resources for schools
+    url: /resources/audience/teachers-and-students
     
-# Info Sections
-info-sections:
-  - section-title: Highlights
-    section-subtitle: Learning Videos
-    section-more-button: Check out our learning videos
-    section-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar tempus justo, id scelerisque enim auctor et. Nunc auctor, felis in cursus bibendum, justo lectus tristique magna, id cursus arcu odio quis eros.
-    section-more-button-url: /resources/sure/
-    section-image-path: /images/hero-banner-sure.png
-    section-image-alt: Learning Videos
-  - section-title: Highlights
-    section-subtitle: Blog
-    section-more-button: Stay updated with our blog
-    section-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar tempus justo, id scelerisque enim auctor et. Nunc auctor, felis in cursus bibendum, justo lectus tristique magna, id cursus arcu odio quis eros.
-    section-more-button-url: /resources/sure/
-    section-image-path: /images/banner-dubious-messages.png
-    section-image-alt: Blogs
-
 resources-title: Resources
 resources-subtitle: Combat Fake News
 resources-more-button: More Resources
