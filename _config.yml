@@ -56,6 +56,6 @@ collections:
     output: true
     
 # Resources and pagination
-resources_name: school-resources
+resources_name: blog
 paginate: 12
-paginate_path: "/school-resources/page:num"
+paginate_path: "/blog/page:num"
