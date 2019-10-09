@@ -18,7 +18,7 @@ hero-banner: /images/sample-hero-banner.gif
 # I want to dropdown
 i-want-to:
   - title: find out more about SURE or fake news
-    url: /who-we-are/sure-campaign/
+    url: /about-us/sure-campaign/
   - title: find resources for schools
     url: /resources/audience/teachers-and-students
     
