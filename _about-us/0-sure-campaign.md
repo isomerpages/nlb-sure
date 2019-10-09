@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: About Us
 permalink: /about-us/sure-campaign/
 breadcrumb: About Us
+collection_name: about-us
 ---
 
 ### **About the SURE campaign**
