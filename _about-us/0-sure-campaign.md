@@ -28,9 +28,7 @@ Download our [S.U.R.E. poster](/document/NILB_About_lowres_FA.pdf) to find out m
 
 <hr>
 
-
-
-**Alignment to national frameworks**
+## Alignment to National Frameworks
 
 Apart from reaching out to schools in Singapore,  SURE is aligned to the various national frameworks. 
 
