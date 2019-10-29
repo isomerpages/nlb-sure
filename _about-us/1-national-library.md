@@ -10,7 +10,9 @@ The National Library is a national knowledge institution empowering individuals 
 
 The Lee Kong Chian Reference Library, named after Dr Lee Kong Chian, in honour of the Lee Foundation's S$60 million donation, aims to be the premier resource for works on or about Singapore and the region for local and overseas researchers and academics.
 
- Visit [this webpage](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2f+Lee+Kong+Chian+Reference+Library)
+ Visit [this webpage](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2f+Lee+Kong+Chian+Reference+Library) for more details.
+
+
 
 
 
