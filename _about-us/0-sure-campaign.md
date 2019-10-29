@@ -26,14 +26,17 @@ Download our [S.U.R.E. poster](/document/NILB_About_lowres_FA.pdf) to find out m
 
 
 
-<hr></hr>
+<hr>
+
+
+
 **Alignment to national frameworks**
 
 Apart from reaching out to schools in Singapore,  SURE is aligned to the various national frameworks. 
 
  
 
-**MOE school– since 2013**  (see [Resources for Teachers and  Students](#Teachers_Students))
+### **MOE school– since 2013**  (see [Resources for Teachers and  Students](#Teachers_Students))
 
 ST: https://www.straitstimes.com/singapore/mr-kiasu-part-of-nlbs-campaign-to-help-public-be-net-savvy 
 
@@ -45,9 +48,7 @@ Schoolbag (MOE): https://www.schoolbag.sg/story/are-you-sure-this-is-real
 
 
 
-**National Digital Readiness Blueprint – since June 2018**
-
-
+### **National Digital Readiness Blueprint – since June 2018**
 
 CNA: https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390  
 
@@ -57,13 +58,13 @@ MCI: https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-bl
 
 
 
-**MCCY counter-terrorism curriculum- since Jan 2019**
+### **MCCY counter-terrorism curriculum- since Jan 2019**
 
 CNA: https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834 
 
  
 
-**New 6th pillar of Total Defence: Digital Defence – since Feb 2019**
+### **New 6th pillar of Total Defence: Digital Defence – since Feb 2019**
 
 ST: https://www.straitstimes.com/politics/all-recruits-to-learn-about-information-literacy-in-bmt-to-deal-with-fake-news-maliki-osman
 
@@ -73,7 +74,7 @@ MINDEF:  https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-rele
 
  
 
-**National Digital Media & Information Literacy Framework – since July 2019**
+### **National Digital Media & Information Literacy Framework – since July 2019**
 
 MCI: https://www.mci.gov.sg/literacy 
 
