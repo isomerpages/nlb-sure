@@ -29,50 +29,56 @@ Download our [S.U.R.E. poster](/document/NILB_About_lowres_FA.pdf) to find out m
 <hr></hr>
 **Alignment to national frameworks**
 
- Apart from reaching out to schools in Singapore,  SURE is aligned to the various national frameworks. 
+Apart from reaching out to schools in Singapore,  SURE is aligned to the various national frameworks. 
 
  
 
 **MOE school– since 2013**  (see [Resources for Teachers and  Students](#Teachers_Students))
 
-<ul>
+ST: https://www.straitstimes.com/singapore/mr-kiasu-part-of-nlbs-campaign-to-help-public-be-net-savvy 
 
-- ST: https://www.straitstimes.com/singapore/mr-kiasu-part-of-nlbs-campaign-to-help-public-be-net-savvy 
-- TODAY: https://www.todayonline.com/singapore/sure-or-not-mr-kiasu-back
-- TODAY: https://www.todayonline.com/singapore/nlb-programme-help-children-assess-quality-online-information
-- Schoolbag (MOE): https://www.schoolbag.sg/story/are-you-sure-this-is-real 
+TODAY: https://www.todayonline.com/singapore/sure-or-not-mr-kiasu-back
 
- </ul>
+TODAY: https://www.todayonline.com/singapore/nlb-programme-help-children-assess-quality-online-information
+
+Schoolbag (MOE): https://www.schoolbag.sg/story/are-you-sure-this-is-real 
+
+
 
 **National Digital Readiness Blueprint – since June 2018**
 
-- CNA: https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390  
-- MCI: https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint 
 
-</ul>
+
+CNA: https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390  
+
+MCI: https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint 
+
+
 
 
 
 **MCCY counter-terrorism curriculum- since Jan 2019**
 
-- CNA: https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834 
+CNA: https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834 
 
- </ul>
-
-
+ 
 
 **New 6th pillar of Total Defence: Digital Defence – since Feb 2019**
 
-- ST: https://www.straitstimes.com/politics/all-recruits-to-learn-about-information-literacy-in-bmt-to-deal-with-fake-news-maliki-osman
-- MCI: https://www.mci.gov.sg/portfolios/digital-defence/digital-defence 
-- MINDEF:  https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2019/February/15feb19_fs 
+ST: https://www.straitstimes.com/politics/all-recruits-to-learn-about-information-literacy-in-bmt-to-deal-with-fake-news-maliki-osman
 
- </ul>
+MCI: https://www.mci.gov.sg/portfolios/digital-defence/digital-defence 
+
+MINDEF:  https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2019/February/15feb19_fs 
+
+ 
 
 **National Digital Media & Information Literacy Framework – since July 2019**
 
-- MCI: https://www.mci.gov.sg/literacy 
-- SkillsFuture for the Digital Workplace (SFDW) – since July 2019
-- SSG: https://www.ssg-wsg.gov.sg/news-and-announcements/3_Aug_2019.html 
+MCI: https://www.mci.gov.sg/literacy 
 
-  </ul>
+SkillsFuture for the Digital Workplace (SFDW) – since July 2019
+
+SSG: https://www.ssg-wsg.gov.sg/news-and-announcements/3_Aug_2019.html 
+
+  
