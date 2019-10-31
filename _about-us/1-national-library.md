@@ -30,12 +30,11 @@ Learn more about early Singapore through paper-based artefacts such as official 
 <br>Morning: 10.00am - 11.30am
 <br>Afternoon: 2.30pm - 4.00pm
 
-
 Level 10, Gallery
 <br>National Library Building
 <br>100 Victoria Street, S188064 
 
-Register at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg)  with the email subject 'On Paper Learning Journey for <school name>' 
+Register at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg)  with the email subject 'On Paper Learning Journey for [school name]' .
 
 
 
