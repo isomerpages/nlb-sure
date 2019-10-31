@@ -8,7 +8,7 @@ second_nav_title: "SURE Campaign"
 ---
 
 **S.U.R.E. for Work** helps adults pick up trusted techniques to sieve out reliable sources of information at work,
-using handy tips and fact-checking tools to identify fake news. We work with organisations to equip our workforce with information literacy skills through [presentations and workshops in English](#SURE_Talks) and [Mandarin](#SURE_Talk_Mandarin), as well as [learning journeys](#Learning_Journey).
+using handy tips and fact-checking tools to identify fake news. We work with organisations to equip our workforce with information literacy skills through presentations and workshops in English and [Mandarin](#SURE_Talk_Mandarin), as well as [learning journeys](#Learning_Journey).
 
 <hr>
 
@@ -47,18 +47,18 @@ We offer the following to organisations:
 **Our Trainers:**
 
 **Mervin Ang**
- Mervin is a versatile, engaging trainer and facilitator with over four years of training experience. He has conducted numerous talks and workshops on information literacy, fighting fake news and library resources for diverse audiences.
+Mervin is a versatile, engaging trainer and facilitator with over four years of training experience. He has conducted numerous talks and workshops on information literacy, fighting fake news and library resources for diverse audiences.
 
 **Damien Wang**
- Damien is a librarian with more than 18 years of experience in content creation and training. A member of the S.U.R.E. team since its inception in 2012, he has delivered talks and conducted workshops about fake news and hoax websites, as well as tools and techniques to deal with them.
+Damien is a librarian with more than 18 years of experience in content creation and training. A member of the S.U.R.E. team since its inception in 2012, he has delivered talks and conducted workshops about fake news and hoax websites, as well as tools and techniques to deal with them.
 
-**Carmen Wang** Carmen is an associate librarian experienced in doing both large and small scale outreaches promoting reading and literacy. She has conducted talks, workshops and training for audiences ranging from children to adults.
+**Carmen Wang** 
+Carmen is an associate librarian experienced in doing both large and small scale outreaches promoting reading and literacy. She has conducted talks, workshops and training for audiences ranging from children to adults.
 
 
 
 <hr>
-
-**分享会：应对****“****假新闻****”**
+<a name="SURE_Talk_Mandarin">**分享会：应对****“****假新闻****”**
 
 近年来,假新闻与不实信息层出不穷，让人防不胜防。这个由新加坡国家图书馆举办的讲座将与大家分享如何应对假新闻与不实信息的贴士。分享会主要针对的对象是团体或机构。我们也很乐意与来自团体和机构的培训导师和协调人分享我们的培训教材, 以方便他们将信息与他们所在的机构或团体分享。
 
@@ -84,7 +84,7 @@ We offer the following to organisations:
 
 <hr>
 
-**S.U.R.E. FOR WORK – LEARNING JOURNEY & WORKSHOP**
+**<a nam="Learning_Journey">S.U.R.E. FOR WORK – LEARNING JOURNEY & WORKSHOP**
 
 **Duration:** 2 Hour (inclusive of a library tour)
 
