@@ -84,7 +84,7 @@ Carmen is an associate librarian experienced in doing both large and small scale
 
 <hr>
 
-**<a nam="Learning_Journey">S.U.R.E. FOR WORK – LEARNING JOURNEY & WORKSHOP**
+**<a name="Learning_Journey">S.U.R.E. FOR WORK – LEARNING JOURNEY & WORKSHOP**
 
 **Duration:** 2 Hour (inclusive of a library tour)
 
