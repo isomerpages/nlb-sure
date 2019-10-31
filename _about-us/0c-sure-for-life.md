@@ -7,7 +7,7 @@ collection_name: about-us
 second_nav_title: "SURE Campaign"
 ---
 
-**S.U.R.E. for Life** aims to educate the general public on the threats that deliberate online falsehoods pose to the peace and stability of society. We work with organisations to equip Singaporeans with information literacy skills through presentations and workshops in English and [Mandarin](#SURE_Talk_Mandarin).
+**S.U.R.E. for Life** aims to educate the general public on the threats that deliberate online falsehoods pose to the peace and stability of society. We work with partners to equip Singaporeans with information literacy skills through presentations and workshops in English and [Mandarin](#SURE_Talk_Mandarin).
 
 <hr>
 **“COMBATING FAKE NEWS” TALK**
