@@ -50,11 +50,11 @@ These resources give more information on Singapore’s buildings, environment an
 
 7)    [Water in Singapore](cheatsheet/NLB_Cheatsheet_Reducing_Waste_Jul2019.pdf) 
 
-8)    Understanding Our Water Supply 
+8)    *Understanding Our Water Supply* 
 
-9)    Energy in Singapore 
+9)    *Energy in Singapore* 
 
-10)  Liveable Cities 
+10)  [Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
 
 11)  Traffic Congestion 
 
