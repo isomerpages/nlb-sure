@@ -34,7 +34,7 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 
  
 
-### **MOE school– since 2013**  (see [Resources for Teachers and  Students](/resources/audience/teachers-and-students/primary-level))
+**MOE school– since 2013**  (see [Resources for Teachers and  Students](/resources/audience/teachers-and-students/primary-level))
 
 ST: [https://www.straitstimes.com/singapore/mr-kiasu-part-of-nlbs-campaign-to-help-public-be-net-savvy](https://www.straitstimes.com/singapore/mr-kiasu-part-of-nlbs-campaign-to-help-public-be-net-savvy ) 
 
@@ -46,7 +46,7 @@ Schoolbag (MOE): [https://www.schoolbag.sg/story/are-you-sure-this-is-real](http
 
 
 
-### **National Digital Readiness Blueprint – since June 2018**
+**National Digital Readiness Blueprint – since June 2018**
 
 CNA: [https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390](https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390  )  
 
@@ -56,13 +56,13 @@ MCI: [https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-b
 
 
 
-### **MCCY counter-terrorism curriculum- since Jan 2019**
+**MCCY counter-terrorism curriculum- since Jan 2019**
 
 CNA: [https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834](https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834 ) 
 
  
 
-### **New 6th pillar of Total Defence: Digital Defence – since Feb 2019**
+**New 6th pillar of Total Defence: Digital Defence – since Feb 2019**
 
 ST: [https://www.straitstimes.com/politics/all-recruits-to-learn-about-information-literacy-in-bmt-to-deal-with-fake-news-maliki-osman](https://www.straitstimes.com/politics/all-recruits-to-learn-about-information-literacy-in-bmt-to-deal-with-fake-news-maliki-osman)
 
@@ -72,13 +72,13 @@ MINDEF:  [https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-rel
 
  
 
-### **National Digital Media & Information Literacy Framework – since July 2019**
+**National Digital Media & Information Literacy Framework – since July 2019**
 
 MCI: [https://www.mci.gov.sg/literacy](https://www.mci.gov.sg/literacy ) 
 
 
 
-### SkillsFuture for the Digital Workplace (SFDW) – since July 2019
+SkillsFuture for the Digital Workplace (SFDW) – since July 2019
 
 SSG: [https://www.ssg-wsg.gov.sg/news-and-announcements/3_Aug_2019.html](https://www.ssg-wsg.gov.sg/news-and-announcements/3_Aug_2019.html ) 
 
