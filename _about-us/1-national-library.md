@@ -14,7 +14,27 @@ The Lee Kong Chian Reference Library, named after Dr Lee Kong Chian, in honour o
 
 <hr>
 
+### **On Paper: Singapore before 1867**
 
+#### **Learning Journeys for Schools**
+
+Thinking of an educational and exciting post-exam activity or school learning journey? Then don't miss this opportunity to bring your students to the exhibition *On Paper: Singapore Before 1867* at the National Library. 
+
+Learn more about early Singapore through paper-based artefacts such as official records, documents, maps and paintings. These items, many of which are on display here for the first time, will help to enrich and broaden your students' understanding of our nation's past.
+
+ 
+
+**Book Your Slots Now!**
+
+22 Oct 2019 – 20 Mar 2020
+Morning: 10.00am - 11.30am
+Afternoon: 2.30pm - 4.00pm
+
+Level 10, Gallery
+National Library Building
+100 Victoria Street, S188064 
+
+Register at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg)  with the email subject 'On Paper Learning Journey for <school name>' 
 
 
 
