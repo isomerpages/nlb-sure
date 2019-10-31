@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Singapore Costumes
-permalink: /resources/singapore-costmes
-breadcrumb: singapore-costumes
-collection_name: infographic
+title: Format
+permalink: /resources/format
+breadcrumb: Format
+collection_name: resources-by-format
 ---
 
 In multi-ethnic Singapore, the varieties of vibrant traditional costumes we see reflect the unique heritage and cultures here.
