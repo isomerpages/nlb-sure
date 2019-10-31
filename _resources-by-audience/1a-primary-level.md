@@ -26,7 +26,7 @@ Learn more about different cultures in the resources below.
 1)    [Singapore Costumes](/infographic/UPDATED19%20NLB_Infographic03_Costumes_FA.pdf
 )
 
-2)    Harmony in Diversity: Interfaith Dialogue and Integration Efforts 
+2)    [Harmony in Diversity: Interfaith Dialogue and Integration Efforts](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf) 
 
  
 
@@ -36,19 +36,19 @@ These resources give more information on Singapore’s buildings, environment an
 
  
 
-1)    Greek and Roman Architecture in Singapore Civic District 
+*1)    Greek and Roman Architecture in Singapore Civic District* 
 
-2)    Housing in Singapore 
+*2)    Housing in Singapore* 
 
-3)    Living in Kampongs 
+*3)    Living in Kampongs* 
 
-4)    Environmental Champions 
+*4)    Environmental Champions* 
 
-5)    Climate Change Effects and Low Carbon Future 
+*5)    Climate Change Effects and Low Carbon Future* 
 
-6)    Reducing Waste and Managing the Problem 
+6)    [Reducing Waste and Managing the Problem](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf)) 
 
-7)    Water in Singapore 
+7)    *Water in Singapore* 
 
 8)    Understanding Our Water Supply 
 
