@@ -23,7 +23,7 @@ Check out the resources curated by our Librarians at: http://www.nlb.gov.sg/disc
 
 Learn more about different cultures in the resources below. 
 
-1)    Singapore Costumes 
+1)    Singapore Costumes
 
 2)    Harmony in Diversity: Interfaith Dialogue and Integration Efforts 
 
@@ -239,4 +239,3 @@ Not everybody surfing the internet has good intentions. Look through the resourc
 
 
 
- 
