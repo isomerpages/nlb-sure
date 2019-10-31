@@ -22,7 +22,7 @@ S.U.R.E. distills key Information Literacy (IL) concepts into 4 simple ways:
 
 We get people to start thinking about the information they receive every day and its sources through awareness marketing, training and engaging the public.
 
-Download our [S.U.R.E. poster](/document/NILB_About_lowres_FA.pdf) to find out more.
+Download our [S.U.R.E. poster](/infographic/NILB_AboutUs_A2_FA (Revised)) to find out more.
 
 
 
