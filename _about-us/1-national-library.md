@@ -12,6 +12,12 @@ The Lee Kong Chian Reference Library, named after Dr Lee Kong Chian, in honour o
 
  Visit [this webpage](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2f+Lee+Kong+Chian+Reference+Library) for more details.
 
+<hr>
+
+
+
+
+
 
 
 
