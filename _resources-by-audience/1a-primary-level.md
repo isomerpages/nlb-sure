@@ -48,7 +48,7 @@ These resources give more information on Singapore’s buildings, environment an
 
 6)    [Reducing Waste and Managing the Problem](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf)) 
 
-7)    [Water in Singapore](cheatsheet/NLB_Cheatsheet_Reducing_Waste_Jul2019.pdf) 
+7)    [Water in Singapore](/cheatsheet/NLB_Cheatsheet_Reducing_Waste_Jul2019.pdf) 
 
 8)    *Understanding Our Water Supply* 
 
