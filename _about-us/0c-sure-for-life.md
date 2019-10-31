@@ -7,10 +7,9 @@ collection_name: about-us
 second_nav_title: "SURE Campaign"
 ---
 
-**S.U.R.E. for Life** aims to educate the general public on the threats that deliberate online falsehoods pose to the peace and stability of society.
+**S.U.R.E. for Life** aims to educate the general public on the threats that deliberate online falsehoods pose to the peace and stability of society. We work with organisations to equip our workforce with information literacy skills through presentations and workshops in English and [Mandarin](#SURE_Talk_Mandarin).
 
 <hr>
-
 **“COMBATING FAKE NEWS” TALK**
 
 **Combating Fake News** 
@@ -56,8 +55,7 @@ We offer the following to organisations:
 
 
 <hr>
-
-**分享会：应对****“****假新闻****”**
+<a name="SURE_Talk_Mandarin">**分享会：应对****“****假新闻****”**
 
 近年来,假新闻与不实信息层出不穷，让人防不胜防。这个由新加坡国家图书馆举办的讲座将与大家分享如何应对假新闻与不实信息的贴士。分享会主要针对的对象是团体或机构。我们也很乐意与来自团体和机构的培训导师和协调人分享我们的培训教材, 以方便他们将信息与他们所在的机构或团体分享。
 
