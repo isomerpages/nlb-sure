@@ -34,7 +34,7 @@ These resources give more information on Singapore’s buildings, environment an
 
 *3)    [Living in Kampongs](/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf)* 
 
-*4)    Environmental Champions* 
+4)    [Environmental Champions](/cheatsheet/Cheatsheet2_Environment.pdf) 
 
 *5)    Climate Change Effects and Low Carbon Future* 
 
@@ -42,23 +42,19 @@ These resources give more information on Singapore’s buildings, environment an
 
 7)    [Water in Singapore](/cheatsheet/NLB_Cheatsheet_WaterinSingapore_Jul2019.pdf) 
 
-8)    *Understanding Our Water Supply* 
+8)    *Energy in Singapore* 
 
-9)    *Energy in Singapore* 
+9)  [Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
 
-10)  [Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
+10)  [Traffic Congestion](/cheatsheet/NLB_Cheatsheet_Traffic_Congestion_Jul2019.pdf) 
 
-11)  [Traffic Congestion](/cheatsheet/NLB_Cheatsheet_Traffic_Congestion_Jul2019.pdf) 
+11)  [A Car-lite Future: Reducing Car Usage in Singapore](/cheatsheet/NLB_Cheatsheet_Carlite_Jul2019.pdf) 
 
-12)  [A Car-lite Future: Reducing Car Usage in Singapore](/cheatsheet/NLB_Cheatsheet_Carlite_Jul2019.pdf) 
+12)  [Islands of Singapore](/cheatsheet/NLB_Cheatsheet_IslandsofSingapore_Jul2019.pdf) 
 
-13)  *Fun Places to Visit in Singapore* 
+13)  [Smart Nation Initiatives in Singapore](/cheatsheet/NLB_Cheatsheet_Smart_Nation_Initiatives_Jul2019.pdf) 
 
-14)  [Islands of Singapore](/cheatsheet/NLB_Cheatsheet_IslandsofSingapore_Jul2019.pdf) 
-
-15)  [Smart Nation Initiatives in Singapore](/cheatsheet/NLB_Cheatsheet_Smart_Nation_Initiatives_Jul2019.pdf) 
-
-16)  [Weather and Climate](/cheatsheet/NLB_Cheatsheet_WeatherandClimate_Jul2019.pdf) 
+14)  [Weather and Climate](/cheatsheet/NLB_Cheatsheet_WeatherandClimate_Jul2019.pdf) 
 
  
 
