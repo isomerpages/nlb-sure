@@ -35,7 +35,7 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 
  
 
-**MOE school– since 2013**  
+**MOE schools –  since 2013**  
 
 - [Resources for Teachers and  Students](/resources/audience/teachers-and-students/primary-level)
 - ST: [https://www.straitstimes.com/singapore/mr-kiasu-part-of-nlbs-campaign-to-help-public-be-net-savvy](https://www.straitstimes.com/singapore/mr-kiasu-part-of-nlbs-campaign-to-help-public-be-net-savvy ) 

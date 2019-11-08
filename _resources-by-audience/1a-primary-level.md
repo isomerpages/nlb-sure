@@ -8,13 +8,6 @@ second_nav_title: "For Teachers & Students"
 ---
 
 
-
-# **SURE-vivor** 
-
-Check out the resources curated by our Librarians at: http://www.nlb.gov.sg/discovereads/can-you-sure-vive/
-
-<HR> 
-
 # **SOCIAL STUDIES**
 
 
@@ -235,7 +228,9 @@ Not everybody surfing the internet has good intentions. Look through the resourc
  
 
 <HR>
+# **SURE-vivor** 
 
+Check out the resources curated by our Librarians at: [http://www.nlb.gov.sg/discovereads/can-you-sure-vive/](http://www.nlb.gov.sg/discovereads/can-you-sure-vive/)
 
 
 
