@@ -8,9 +8,10 @@ collection_name: about-us
 
 ### **About the SURE campaign**
 
-The SURE campaign is an initiative by the [National Library Board](http://www.nlb.gov.sg/) to promote the importance of information searching and discernment. The nation-wide campaign was launched in 2013, and Singapore is the first country outside of the United States to promote Information Literacy (IL) on a national scale for the general public.
+The  [National Library Board](http://www.nlb.gov.sg/) ’s (NLB) S.U.R.E programme, first launched in 2013, promotes the importance of information searching and discernment to the general public. The acronym stands for Source, Understand, Research, Evaluate – four concepts that an individual should keep in mind when assessing the reliability of news. NLB has since upgraded its S.U.R.E programme to become S.U.R.E. 2.0 – S.U.R.E for School; S.U.R.E. for Work; and S.U.R.E. for Life – to cater to the different needs and segments of the population.
 
-S.U.R.E. distills key Information Literacy (IL) concepts into 4 simple ways:
+ S.U.R.E. distills key Information Literacy (IL) concepts into 4 simple ways:
+
 * **S**ource: Look as its origins. Is it trustworthy?
 * **U**nderstand: Know what you’re reading. Search for clarity.
 * **R**esearch: Dig deeper. Go beyond the initial source.
@@ -64,7 +65,7 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 - CNA: [https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834](https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834 ) 
 
 
- 
+
 
 **New 6th pillar of Total Defence: Digital Defence – since Feb 2019**
 
@@ -75,7 +76,7 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 - MINDEF:  [https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2019/February/15feb19_fs](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2019/February/15feb19_fs ) 
 
 
- 
+
 
 **National Digital Media & Information Literacy Framework – since July 2019**
 
@@ -89,4 +90,3 @@ SkillsFuture for the Digital Workplace (SFDW) – since July 2019
 - SSG: [https://www.ssg-wsg.gov.sg/news-and-announcements/3_Aug_2019.html](https://www.ssg-wsg.gov.sg/news-and-announcements/3_Aug_2019.html ) 
 
 
-  
