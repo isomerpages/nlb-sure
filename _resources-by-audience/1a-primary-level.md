@@ -28,11 +28,11 @@ These resources give more information on Singapore’s buildings, environment an
 
  
 
-*1)    Greek and Roman Architecture in Singapore Civic District* 
+1)    [Greek and Roman Architecture in Singapore Civic District](/cheatsheet/Cheat-sheet-Architecture-lowres (1).pdf)
 
-*2)    Housing in Singapore* 
+2)    [Housing in Singapore](/infographic/BigPicture_Housing-in-Singapore.pdf) 
 
-*3)    Living in Kampongs* 
+*3)    [Living in Kampongs](/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf)* 
 
 *4)    Environmental Champions* 
 
@@ -74,9 +74,9 @@ Find out more about the history of Singapore through these resources.
 
 *4)    Transcending History: Our Historical Monuments* 
 
-*5)    Gambling* 
+*5)    [Gambling](/infographic/BigPicture-theme04-Gambling_FINAL-publish.pdf)*
 
-*6)    Street Hawkers* 
+*6)    [Street Hawkers](/infographic/BigPicture-theme01-Street-Hawkers_FINAL-publish-Aug2017.pdf)* 
 
  
 
