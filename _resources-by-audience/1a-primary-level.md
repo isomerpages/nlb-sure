@@ -16,8 +16,7 @@ second_nav_title: "For Teachers & Students"
 
 Learn more about different cultures in the resources below. 
 
-1)    [Singapore Costumes](/infographic/UPDATED19%20NLB_Infographic03_Costumes_FA.pdf
-)
+1)    [Singapore Costumes](/infographic/UPDATED19 Singapore Costumes.pdf)
 
 2)    [Harmony in Diversity: Interfaith Dialogue and Integration Efforts](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf) 
 
@@ -49,17 +48,17 @@ These resources give more information on Singapore’s buildings, environment an
 
 10)  [Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
 
-11)  Traffic Congestion 
+11)  [Traffic Congestion](/cheatsheet/NLB_Cheatsheet_Traffic_Congestion_Jul2019.pdf) 
 
-12)  A Car-lite Future: Reducing Car Usage in Singapore 
+12)  [A Car-lite Future: Reducing Car Usage in Singapore](/cheatsheet/NLB_Cheatsheet_Carlite_Jul2019.pdf) 
 
-13)  Fun Places to Visit in Singapore 
+13)  *Fun Places to Visit in Singapore* 
 
-14)  Islands of Singapore 
+14)  [Islands of Singapore](/cheatsheet/NLB_Cheatsheet_IslandsofSingapore_Jul2019.pdf) 
 
-15)  Smart Nation Initiatives in Singapore 
+15)  [Smart Nation Initiatives in Singapore](/cheatsheet/NLB_Cheatsheet_Smart_Nation_Initiatives_Jul2019.pdf) 
 
-16)  Weather and Climate 
+16)  [Weather and Climate](/cheatsheet/NLB_Cheatsheet_WeatherandClimate_Jul2019.pdf) 
 
  
 
@@ -67,17 +66,17 @@ These resources give more information on Singapore’s buildings, environment an
 
 Find out more about the history of Singapore through these resources. 
 
-1)    Singapore Street Names 
+1)    [Singapore Street Names](/infographic/UPDATED19 Singapore street names.pdf) 
 
-2)    Know Our Presidents 
+2)    *Know Our Presidents* 
 
-3)    Singapore Clan Associations 
+3)    *Singapore Clan Associations* 
 
-4)    Transcending History: Our Historical Monuments 
+*4)    Transcending History: Our Historical Monuments* 
 
-5)    Gambling 
+*5)    Gambling* 
 
-6)    Street Hawkers 
+*6)    Street Hawkers* 
 
  
 
@@ -87,19 +86,19 @@ Find out more about the history of Singapore through these resources.
 
 These resources provide information on various topics about the world. 
 
- 1)    Ancient Inventions 
+ 1)    [Ancient Inventions](/cheatsheet/NLB_Cheatsheet_Ancient_Inventions_Jul2019.pdf) 
 
-2)    The Value of History and the Past 
+2)    [The Value of History and the Past](/cheatsheet/NLB_Cheatsheet_Values of History and the Past_Jul2019.pdf) 
 
-3)    Different Types of Hotels Around the World 
+3)    [Different Types of Hotels Around the World](/cheatsheet/NLB_Cheatsheet_Hotels_Jul2019.pdf) 
 
-4)    Inventions in the 21st Century 
+4)    *Inventions in the 21st Century* 
 
-5)    Types of Houses Around the World 
+5)    *Types of Houses Around the World* 
 
-6)    Migration 
+6)    [Migration](/cheatsheet/NLB_Cheatsheet_Migration_Jul2019.pdf) 
 
-7)    Digital Economy and the 4th Industrial Revolution 
+7)    [Digital Economy and the 4th Industrial Revolution](/cheatsheet/NLB_Cheatsheet_Digital_Economy_Jul2019.pdf) 
 
  
 
@@ -107,11 +106,11 @@ These resources provide information on various topics about the world.
 
 Find out some interesting facts about Southeast Asia in these resources. 
 
- 1)    Ancient Kingdoms in Southeast Asia 
+ 1)    [Ancient Kingdoms in Southeast Asia](/cheatsheet/NLB_Cheatsheet_SEAKingdom_Jul2019.pdf) 
 
-2)    Southeast Asia: People and Places 
+2)    [Southeast Asia: People and Places](/cheatsheet/NLB_Cheatsheet_SEA_People_and_Places_Jul2019.pdf) 
 
-3)    Capteh 
+3)    *Capteh* 
 
  
 
