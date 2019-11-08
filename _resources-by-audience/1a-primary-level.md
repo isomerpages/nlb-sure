@@ -36,15 +36,15 @@ These resources give more information on Singapore’s buildings, environment an
 
 4)    [Environmental Champions](/cheatsheet/Cheatsheet2_Environment.pdf) 
 
-*5)    Climate Change Effects and Low Carbon Future* 
+5)    [Climate Change Effects and Low Carbon Future*](/cheatsheet/NLB_Cheatsheet_11_ClimateChange.pdf 
 
 6)    [Reducing Waste and Managing the Problem](/cheatsheet/NLB_Cheatsheet_Reducing_Waste_Jul2019.pdf) 
 
 7)    [Water in Singapore](/cheatsheet/NLB_Cheatsheet_WaterinSingapore_Jul2019.pdf) 
 
-8)    *Energy in Singapore* 
+8)    *[Energy in Singapore](/cheatsheet/NLB_CheatSheet-Energy-in-Singapore.pdf)*
 
-9)  [Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
+9)    [Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
 
 10)  [Traffic Congestion](/cheatsheet/NLB_Cheatsheet_Traffic_Congestion_Jul2019.pdf) 
 
