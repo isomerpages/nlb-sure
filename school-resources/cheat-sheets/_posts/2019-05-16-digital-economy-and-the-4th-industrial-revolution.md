@@ -10,3 +10,4 @@ permalink: /school-resources/cheat-sheets/digital-economy-and-the-4th-industrial
 The future economy will see economic activities transiting in the digital economy, where digital technologies form the basis of the activities. Countries around the world are now gearing up for the transformation towards the future economy.
 
 Download our [cheat sheet](/document/NLB_CHEATSHEET_DigitalEconomy.pdf) to find out what Singapore is doing to develop its digital economy.
+
