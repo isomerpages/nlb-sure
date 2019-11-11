@@ -34,3 +34,4 @@ When it comes to research, there are many credible online sources that can be he
 * [Identify information needs and resource types – Academic resources, deep web & portals, images, repository sites & Singapore-related content](http://www.nlb.gov.sg/sure/coursewares/SIS/mod1/index.html){:target="_blank"} 
 * [Applying advanced search strategies – Phrase searching, domain searching, file type searching and in-title searching](http://www.nlb.gov.sg/sure/coursewares/SIS/mod2/index.html){:target="_blank"} 
 * [Filtering and evaluating online resources – AACCO Criteria (Authority, Accuracy, Currency, Coverage and Objectivity)](http://www.nlb.gov.sg/sure/coursewares/SIS/mod3/index.html){:target="_blank"} 
+
