@@ -7,20 +7,6 @@ collection_name: resources-by-audience
 second_nav_title: "For Adults"
 ---
 
-**Useful NLB resources**
-
-Singapore Infopedia
-
-Archives Online 
-
-NLB eResources and Setting Up myLibrary ID 
-
-
-
-<hr>
-
-
-
 **Combating Fake News**
 
  
@@ -38,18 +24,5 @@ The 7 Pros and Cons of Social Media
 To tweet or not to tweet
 
 <hr>
-
-**Information searching & Research**
-
-How to Use Academic Databases 
-
-Fact Checking Using Multiple Sources 
-
-How to Paraphrase 
-
-How to Avoid Plagiarism
-
-Citations 
-
 
 

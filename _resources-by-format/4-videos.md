@@ -13,13 +13,11 @@ When it comes to online sources, be S.U.R.E. (Source, Understand, Research, Eval
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aYPCW_FYxbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### SURE Seminar 2019:  Breaking the Chain: Insights Into Fake News
 
 On 20 July 2019, the SURE team organized its inaugural public seminar programme titled Breaking the Chain: Insights into Fake News. 60 participants attended the seminar, in which guest speakers Grace Yeoh (Rice Media) and Ken Chen (Home Team) shared on the proliferation of fake news and the psychological factors behind their spread, along with a moderated Q&A session with the audience. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xZVOp-misPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <hr> 
 
 
@@ -31,7 +29,6 @@ Check out this video featuring Ros and Roz as they give you some tips and strate
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PmmlYXjRxOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### Be an Ace Researcher in Secondary School
 
 In this video series, discover the importance of credible online sources when it comes to secondary school project work. Begin your learning experience through this introductory video by the National Library (Singapore).
@@ -39,17 +36,14 @@ In this video series, discover the importance of credible online sources when it
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y95SrymNbOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### NLB eResources & Setting Up MyLibrary ID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### How To Use Academic Databases
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2H7JG9oaaXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 #### NewspaperSG
@@ -70,7 +64,6 @@ It holds a collection of articles on Singapore and covers a wide range of topics
 
 
 
-
 #### Archives Online
 
 Brought to you by the National Archives of Singapore (NAS), Archives Online is designed to allow users to seamlessly search information across NAS' various independent databases and view selected photographs, maps and plans, listen to oral history interview samplers and watch snippets of audio-visual recordings, round the clock. [http://www.nas.gov.sg/archivesonline](https://www.youtube.com/redirect?redir_token=L2WmvvVCiQqvxy31UDZqnh4JcEB8MTU3MzU0NjcwNEAxNTczNDYwMzA0&event=video_description&v=27xY2ZuG57o&q=http%3A%2F%2Fwww.nas.gov.sg%2Farchivesonline)
@@ -80,11 +73,9 @@ Brought to you by the National Archives of Singapore (NAS), Archives Online is d
 
 
 
-
 #### Cross-Referencing and Citation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RyJBxgNooSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
@@ -98,13 +89,11 @@ Are you aware of the recent fake government websites phishing for personal data?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20iQi10WNFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### Be S.U.R.E. before you share! I Are you S.U.R.E.? I EP. 2
 
 It's easy to be S.U.R.E. when you know you can access trustworthy information with just a few clicks! The National Library Board's electronic resources (eResources) are reliable avenues, where working professionals can obtain credible information. Watch this video to find out how the eResources can benefit you!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1RT3GVuFJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 #### Fake Website Test (Social Experiment) I Are you S.U.R.E.? I EP. 3
@@ -116,13 +105,11 @@ Watch this video to find out how Singaporeans fare when they are put to the test
 
 
 
-
 #### How to develop healthy media usage habits? (Parenting Special) | Are you S.U.R.E.? | EP.4
 
 In this video, Dr Jiow Hee Jhee shares some tips on how you can be a digitally savvy parent and help your child cope with the large amount of information he/she receives. Dr Jiow is a lecturer with the Singapore Institute of Technology and a pioneer of the cyber-wellness movement in Singapore.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YuGp54ZhXd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 <hr>
@@ -132,17 +119,14 @@ In this video, Dr Jiow Hee Jhee shares some tips on how you can be a digitally s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/idBVtJ9s7F4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### SURE Lok Hom & the Case of the Cosplay Showdown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLZoUIhte58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### SURE Lok Hom & the case of the Mysterious Map
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fHGQN4dmOG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 

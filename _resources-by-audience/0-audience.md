@@ -32,8 +32,6 @@ We have categorised our resources according to audience categories:
 
 - [Combating Fake News](/resources/audience/seniors/combating-fake-news)
 
-- [Digital Readiness](/resources/audience/seniors/digital-readiness)
-
 - [NLB eResources](/resources/audience/seniors/nlb-eresources)
 
 - [Time of Your Life articles](/resources/audience/seniors/time-of-your-life-articles)
