@@ -7,7 +7,6 @@ collection_name: resources-by-format
 second_nav_title: "eLearn"
 ---
 
-<hr>
 **An Introduction to Basic Report Writing**
 
 *Basic*
