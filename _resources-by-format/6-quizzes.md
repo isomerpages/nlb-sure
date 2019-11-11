@@ -6,19 +6,15 @@ breadcrumb: Quizzes
 collection_name: resources-by-format
 ---
 
-![Banner for Fake News Detector quiz]()
+#### Fake News Detector quiz
 
-On 10 January 2018, the Parliament of Singapore unanimously voted in favour of setting up a Select Committee to study the problem of deliberate online falsehoods.  How much do you know about this development?  Try this [quiz](https://goo.gl/forms/80RNdfHb5DzyV4a52){:target="_blank"} now!
-
-<hr>
-
-![Banner for Fake News Detector quiz](C:/Users/user/Documents/GitHub/nlb-sure/_resources-by-format/images/banner-fake-news-detector.png)
+(/images/banner-fake-news-detector.png)
 
 How good are you at telling what is real news or otherwise? Try this [quiz](https://goo.gl/forms/AWw7DGfGApZnIrsx2){:target="_blank"} now!
 
 <hr>
 
-![Banner for Fake News Detector quiz](C:/Users/user/Documents/GitHub/nlb-sure/_resources-by-format/images/banner-sure-real-or-fake-quiz-game.png)
+**Real or Fake? quiz game**
 
 We recently developed a quiz game for the Google Assistant platform called “Real or Fake”. Using voice commands or text inputs, players can guess if the featured news headlines were real or fake.
 
