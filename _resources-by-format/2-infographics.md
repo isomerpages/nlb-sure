@@ -7,12 +7,15 @@ collection_name: resources-by-format
 ---
 
 **[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
+
 Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore and Malaya and how to think critically when reading news articles.  
 
 <hr>
 
-**Fact-Checking Using Multiple Sources**
+[**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
+
 If you receive any dubious information, you can check the facts using credible sources before you share.
+
 
 
 
