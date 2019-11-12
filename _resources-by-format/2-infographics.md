@@ -8,7 +8,7 @@ collection_name: resources-by-format
 
 **[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
 Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore and Malaya and how to think critically when reading news articles.   
-![[img](/infographic/NLB_NewspaperSG_v5.pdf)](../images/NewspaperSG-masthead-1050x536.png)
+![[img](/infographic/NLB_NewspaperSG_v5.pdf)](/images/NewspaperSG-masthead-1050x536.png)
 
 
 
