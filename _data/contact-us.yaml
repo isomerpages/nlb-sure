@@ -23,6 +23,7 @@ column:
   - title: General Enquiries & Feedback
     content:
     - line: ref@nlb.gov.sg (email)
+    - line: sure@nlb.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
 # Image
