@@ -6,15 +6,12 @@ breadcrumb: Quizzes
 collection_name: resources-by-format
 ---
 
-#### Fake News Detector quiz
-
-(/images/banner-fake-news-detector.png)
+Fake News Detector quiz
 
 How good are you at telling what is real news or otherwise? Try this [quiz](https://goo.gl/forms/AWw7DGfGApZnIrsx2){:target="_blank"} now!
 
 <hr>
-
-**Real or Fake? quiz game**
+#### **Real or Fake? quiz game**
 
 We recently developed a quiz game for the Google Assistant platform called “Real or Fake”. Using voice commands or text inputs, players can guess if the featured news headlines were real or fake.
 
