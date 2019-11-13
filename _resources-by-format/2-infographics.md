@@ -23,8 +23,10 @@ If you receive any dubious information, you can check the facts using credible s
 
 
 
-**How To Deal With Dubious Messages**
+**[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
+
 Bogus stories can be easily spread through SMS and social messaging tools and apps. Before you share, verify the information using the steps in this tip sheet. 
+
 
 
 
