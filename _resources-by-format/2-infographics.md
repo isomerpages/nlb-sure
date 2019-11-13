@@ -16,6 +16,8 @@ Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore an
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
+![](../images/Multiple-Sources-Header.png)
+
 If you receive any dubious information, you can check the facts using credible sources before you share.
 
 
@@ -26,6 +28,8 @@ If you receive any dubious information, you can check the facts using credible s
 
 
 **[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
+
+![](../images/dubious-messages-English.png)
 
 Bogus stories can be easily spread through SMS and social messaging tools and apps. Before you share, verify the information using the steps in this tip sheet. 
 
@@ -46,6 +50,8 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 குறுஞ்செய்தி, சமூக ஊடகச்செயலிகள் போன்றவற்றின்மூலம் பொய்யான கதைகள் எளிதில் பரப்பப்படலாம். பகிர்வதற்ககு முன், இந்த வழிகளின் மூலம் தகவல்களைச் சரி பாருங்கள்.
 
 <hr>
+![](../images/seniors-fake-news.JPG)
+
 
 
 
