@@ -6,7 +6,7 @@ breadcrumb: Quizzes
 collection_name: resources-by-format
 ---
 
-Fake News Detector quiz
+#### Fake News Detector quiz
 
 How good are you at telling what is real news or otherwise? Try this [quiz](https://goo.gl/forms/AWw7DGfGApZnIrsx2){:target="_blank"} now!
 
