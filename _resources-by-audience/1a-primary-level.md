@@ -8,77 +8,67 @@ second_nav_title: "For Teachers & Students"
 ---
 
 
-# **SOCIAL STUDIES**
+### **SOCIAL STUDIES**
 
 
 
-## **Cultural Diversity** 
+#### **Cultural Diversity** 
 
 Learn more about different cultures in the resources below. 
 
-1)    [Singapore Costumes](/infographic/UPDATED19 Singapore Costumes.pdf)
+[Singapore Costumes](/infographic/UPDATED19 Singapore Costumes.pdf)
 
-2)    [Harmony in Diversity: Interfaith Dialogue and Integration Efforts](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf) 
+[Harmony in Diversity: Interfaith Dialogue and Integration Efforts](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf) 
 
  
 
-## **Understanding Singapore** 
+#### **Understanding Singapore** 
 
 These resources give more information on Singapore’s buildings, environment and surroundings. 
 
- 
+[Greek and Roman Architecture in Singapore Civic District](/cheatsheet/Cheat-sheet-Architecture-lowres (1).pdf)
 
-1)    [Greek and Roman Architecture in Singapore Civic District](/cheatsheet/Cheat-sheet-Architecture-lowres (1).pdf)
+[Housing in Singapore](/infographic/BigPicture_Housing-in-Singapore.pdf) 
 
-2)    [Housing in Singapore](/infographic/BigPicture_Housing-in-Singapore.pdf) 
+[Living in Kampongs](/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf)* 
 
-*3)    [Living in Kampongs](/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf)* 
+[Environmental Champions](/cheatsheet/Cheatsheet2_Environment.pdf) 
 
-4)    [Environmental Champions](/cheatsheet/Cheatsheet2_Environment.pdf) 
+[Climate Change Effects and Low Carbon Future](/cheatsheet/NLB_Cheatsheet_11_ClimateChange.pdf )
 
-5)    [Climate Change Effects and Low Carbon Future*](/cheatsheet/NLB_Cheatsheet_11_ClimateChange.pdf 
+[Reducing Waste and Managing the Problem](/cheatsheet/NLB_Cheatsheet_Reducing_Waste_Jul2019.pdf) 
 
-6)    [Reducing Waste and Managing the Problem](/cheatsheet/NLB_Cheatsheet_Reducing_Waste_Jul2019.pdf) 
+[Water in Singapore](/cheatsheet/NLB_Cheatsheet_WaterinSingapore_Jul2019.pdf) 
 
-7)    [Water in Singapore](/cheatsheet/NLB_Cheatsheet_WaterinSingapore_Jul2019.pdf) 
+[Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
 
-8)    *[Energy in Singapore](/cheatsheet/NLB_CheatSheet-Energy-in-Singapore.pdf)*
+[Traffic Congestion](/cheatsheet/NLB_Cheatsheet_Traffic_Congestion_Jul2019.pdf) 
 
-9)    [Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
+[A Car-lite Future: Reducing Car Usage in Singapore](/cheatsheet/NLB_Cheatsheet_Carlite_Jul2019.pdf) 
 
-10)  [Traffic Congestion](/cheatsheet/NLB_Cheatsheet_Traffic_Congestion_Jul2019.pdf) 
+[Islands of Singapore](/cheatsheet/NLB_Cheatsheet_IslandsofSingapore_Jul2019.pdf) 
 
-11)  [A Car-lite Future: Reducing Car Usage in Singapore](/cheatsheet/NLB_Cheatsheet_Carlite_Jul2019.pdf) 
+[Smart Nation Initiatives in Singapore](/cheatsheet/NLB_Cheatsheet_Smart_Nation_Initiatives_Jul2019.pdf) 
 
-12)  [Islands of Singapore](/cheatsheet/NLB_Cheatsheet_IslandsofSingapore_Jul2019.pdf) 
-
-13)  [Smart Nation Initiatives in Singapore](/cheatsheet/NLB_Cheatsheet_Smart_Nation_Initiatives_Jul2019.pdf) 
-
-14)  [Weather and Climate](/cheatsheet/NLB_Cheatsheet_WeatherandClimate_Jul2019.pdf) 
+[Weather and Climate](/cheatsheet/NLB_Cheatsheet_WeatherandClimate_Jul2019.pdf) 
 
  
 
-## **Singapore’s Past** 
+#### **Singapore’s Past** 
 
 Find out more about the history of Singapore through these resources. 
 
-1)    [Singapore Street Names](/infographic/UPDATED19 Singapore street names.pdf) 
+[Singapore Street Names](/infographic/UPDATED19 Singapore street names.pdf) 
 
-2)    *Know Our Presidents* 
+[Gambling](/infographic/BigPicture-theme04-Gambling_FINAL-publish.pdf)
 
-3)    *Singapore Clan Associations* 
-
-*4)    Transcending History: Our Historical Monuments* 
-
-*5)    [Gambling](/infographic/BigPicture-theme04-Gambling_FINAL-publish.pdf)*
-
-*6)    [Street Hawkers](/infographic/BigPicture-theme01-Street-Hawkers_FINAL-publish-Aug2017.pdf)* 
+[Street Hawkers](/infographic/BigPicture-theme01-Street-Hawkers_FINAL-publish-Aug2017.pdf) 
 
  
 
  
 
-## **Appreciating the World** 
+#### **Appreciating the World** 
 
 These resources provide information on various topics about the world. 
 
@@ -98,7 +88,7 @@ These resources provide information on various topics about the world.
 
  
 
-## **About Southeast Asia** 
+#### **About Southeast Asia** 
 
 Find out some interesting facts about Southeast Asia in these resources. 
 
@@ -112,9 +102,9 @@ Find out some interesting facts about Southeast Asia in these resources.
 
  <HR>
 
-# **RESEARCH SKILLS**
+### **RESEARCH SKILLS**
 
-## **Information Resources** 
+#### **Information Resources** 
 
 If you’re not sure where to go to find sources to research for your homework, here is some information that you can refer to. 
 
@@ -140,7 +130,7 @@ If you’re not sure where to go to find sources to research for your homework, 
 
  
 
-##  Searching Skills
+####  Searching Skills
 
 The information available on the Internet can be overwhelming. Here are some ways to make your search for information more effective. 
 
@@ -158,7 +148,7 @@ The information available on the Internet can be overwhelming. Here are some way
 
  
 
-## Determining the Reliability of Information
+#### Determining the Reliability of Information
 
 Not all information on the internet can be trusted. You can refer to the information below and determine if your information is reliable. 
 
@@ -182,7 +172,7 @@ Not all information on the internet can be trusted. You can refer to the informa
 
 10)  Identifying and Choosing Suitable Online Resources 
 
-11)  the power of the click and tell
+11)  The power of the click and tell
 
 12)  The Case of the Antique Chairs 
 
@@ -192,7 +182,7 @@ Not all information on the internet can be trusted. You can refer to the informa
 
  
 
-## Report Writing Skills 
+#### Report Writing Skills 
 
 If you need help with writing your report after finding all the necessary information, refer to the resources below. 
 
@@ -208,7 +198,7 @@ If you need help with writing your report after finding all the necessary inform
 
  
 
-## Staying Safe Online 
+#### Staying Safe Online 
 
 Not everybody surfing the internet has good intentions. Look through the resources below to find out how you can stay safe online. 
 
@@ -223,7 +213,8 @@ Not everybody surfing the internet has good intentions. Look through the resourc
  
 
 <HR>
-# **SURE-vivor** 
+
+### **SURE-vivor** 
 
 Check out the resources curated by our Librarians at: [http://www.nlb.gov.sg/discovereads/can-you-sure-vive/](http://www.nlb.gov.sg/discovereads/can-you-sure-vive/)
 
