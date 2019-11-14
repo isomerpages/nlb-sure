@@ -20,14 +20,73 @@ The content is suitable for secondary and post-secondary students conducting res
 <HR>
 
 
+[**Be S.U.R.E. about your research**](/infographic/Be-SURE_Infographic_Hires.pdf)
 
-- Be SURE About Your Research 
-- Fact Checking Using Multiple Sources 
-- How to Paraphrase 
-- How to Avoid Plagiarism
-- Citations 
-- Using Scientific Skills for Daily Life 
-- Logical Fallacies 
-- NLB eResources and Setting Up myLibrary ID 
-- How to Use Academic Databases 
+![](/images/besure-infographicheader-e1450169907842-1050x700.png)
+
+How well do you know about the information you receive? Are you sure about the information your friend shared or the information you read online? Learn how to apply the 4 ways of S.U.R.E. to discern information in our daily activities, such as shopping and eating.
+
+
+
+[**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
+
+![Fact checking using multiple sources](/images/Multiple-Sources-Header.png)
+
+If you receive any dubious information, you can check the facts using credible sources before you share.
+
+
+
+<hr>
+
+
+
+**[How to Paraphrase**](/infographic/Infographic-how-to-paraphrase.pdf) 
+
+![](images/paraphrase-infoheader-e1450166736285-1050x700.png)
+
+When doing your project essay, you might have plagiarised unknowingly when you do not cite the author or source for the phrase which you have used. Download the full infographic to learn the four recommended steps to paraphrase.
+
+
+
+**[How to Avoid Plagiarism](/infographic/NLB_infographic_AvoidPlagiarism.pdf)**
+
+![](images/Plagiarism-1050x700.png)
+
+Nowadays, anyone can easily copy and paste information from the internet for their schoolwork. However, doing so is committing plagiarism, which is a serious offence. Download the full infographic to find out what are the different types of plagiarism and how to avoid it.
+
+
+
+**[Citations**](/infographic/Cheatsheet_Citation_25nov_.pdf) 
+
+![](images/Citations-1050x700.png)
+
+A quick guide to doing citation for academic research and projects. Download our cheat sheet to learn why, when and how to cite sources.
+
+
+
+**[Using Scientific Skills for Daily Life**](/infographic/scientificskills-1050x700.png) 
+
+![](/images/scientificskills-1050x700 (1).png)
+
+Science is everywhere – in the air, our food, and event in our bodies. Download our cheat sheet to find out how scientific skills can be applied in our daily life, and attain tips on how to search for credible information.
+
+
+
+**[Logical Fallacies**](/infographic/LogicalFallaciesInfoG5FA.pdf) 
+
+![](/images/logicalfallacy-infoheader-e1450167358786-1050x700.png)
+
+A logical fallacy refers to a flaw in reasoning. By recognising types of logical fallacies, you can strengthen your ability to evaluate information. Download the full infographic to avoid committing logical fallacies in your own arguments.
+
+<hr> 
+
+
+
+#### NLB eResources & Setting Up MyLibrary ID
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### How To Use Academic Databases
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2H7JG9oaaXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

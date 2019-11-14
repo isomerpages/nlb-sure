@@ -86,7 +86,6 @@ Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak
 
 
 <hr>
-
 **[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
 
 ![NewspaperSG](/images/NewspaperSG-masthead-1050x536.png)
