@@ -96,8 +96,9 @@ Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore an
 
 
 <hr>
-
 **[Be S.U.R.E . about your research](/infographic/Be-SURE_Infographic_Hires.pdf)**
+
+![]()
 
 How well do you know about the information you receive? Are you sure about the information your friend shared or the information you read online? Learn how to apply the 4 ways of S.U.R.E. to discern information in our daily activities, such as shopping and eating.
 
