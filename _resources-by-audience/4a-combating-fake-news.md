@@ -28,9 +28,10 @@ If you receive any dubious information, you can check the facts using credible s
 Bogus stories can be easily spread through SMS and social messaging tools and apps. Before you share, verify the information using the steps in this tip sheet. 
 
 <hr>
+
 [**How to Spot Doctored Photographs**](/infographic/Infographics7_FA-Low-Res.pdf)
 
-(/images/doctoredphoto-infoheader-e1450163501324-1050x700.png) 
+![](/images/doctoredphoto-infoheader-e1450163501324-1050x700.png) 
 
 With cameras in our smartphones, it is easy to snap away and take pictures of anything at anytime. However, we can also find image editing apps in our phones to enhance and beautify the image. These edited images may not seem to harm anyone. But unknowingly, doctored images can influence our behaviour and alter our past memories. Download the full infographic to learn how to detect doctored images.
 
