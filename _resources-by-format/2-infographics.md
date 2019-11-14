@@ -89,7 +89,7 @@ Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak
 
 **[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
 
-![NewspaperSG](images/NewspaperSG-masthead-1050x536.png)
+![NewspaperSG](/images/NewspaperSG-masthead-1050x536.png)
 
 Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore and Malaya and how to think critically when reading news articles.  
 
@@ -98,7 +98,7 @@ Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore an
 <hr>
 **[Be S.U.R.E . about your research](/infographic/Be-SURE_Infographic_Hires.pdf)**
 
-![]()
+![](/images/besure-infographicheader-e1450169907842-1050x700.png)
 
 How well do you know about the information you receive? Are you sure about the information your friend shared or the information you read online? Learn how to apply the 4 ways of S.U.R.E. to discern information in our daily activities, such as shopping and eating.
 
