@@ -6,13 +6,8 @@ breadcrumb: Infographics
 collection_name: resources-by-format
 ---
 
-**[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
 
-![NewspaperSG](/images/NewspaperSG-masthead-1050x536.png)
 
-Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore and Malaya and how to think critically when reading news articles.  
-
-<hr>
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
@@ -24,11 +19,9 @@ If you receive any dubious information, you can check the facts using credible s
 
 
 <hr>
-
+![How to deal with dubious messages](/images/dubious-messages-English.png)
 
 **[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
-
-![How to deal with dubious messages](/images/dubious-messages-English.png)
 
 Bogus stories can be easily spread through SMS and social messaging tools and apps. Before you share, verify the information using the steps in this tip sheet. 
 
@@ -74,3 +67,26 @@ Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak
 [**மூத்தவர்கள் பொய்யான செய்திகளை எப்படி எதிர்க்கலாம்?**](/infographic/Infographic1_Dont-trust-everything-you-read-online_Tamil_FA.pdf)
 
 இணையத்தில் வாசிக்கும் அனைத்தையும் நம்பிவிடாதீர்கள்.   சந்தேகமான தகவல்களை எப்படிச் சரி பார்க்கலாம் என இந்த குறிப்புத்தாளில் இருந்து தெரிந்து கொள்ளுங்கள்.  
+
+
+
+<hr>
+
+**[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
+
+![NewspaperSG](images/NewspaperSG-masthead-1050x536.png)
+
+Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore and Malaya and how to think critically when reading news articles.  
+
+
+
+<hr>
+
+
+
+**[Be S.U.R.E . about your research](/infographic/Be-SURE_Infographic_Hires.pdf)**
+
+How well do you know about the information you receive? Are you sure about the information your friend shared or the information you read online? Learn how to apply the 4 ways of S.U.R.E. to discern information in our daily activities, such as shopping and eating.
+
+
+
