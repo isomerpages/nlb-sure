@@ -27,8 +27,13 @@ Bogus stories can be easily spread through SMS and social messaging tools and ap
 
 
 
+
+
 **[如何查证可疑信息](/infographic/Dubious-Messages-Chinese.pdf)**
+
 虚假信息能够轻易地通过手机简讯、社交平台的私讯工具，以及应用软件散播开来。在点击“分享”之前，请先利用这张提示表里的步骤查证信息的可靠性。
+
+
 
 
 
@@ -38,9 +43,13 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 
 
+
+
 [**சந்தேகமான செய்திகளைக் கையாள்வது எப்படி**](/infographic/DubiousMsg_Tamil (1).pdf)
 
 குறுஞ்செய்தி, சமூக ஊடகச்செயலிகள் போன்றவற்றின்மூலம் பொய்யான கதைகள் எளிதில் பரப்பப்படலாம். பகிர்வதற்ககு முன், இந்த வழிகளின் மூலம் தகவல்களைச் சரி பாருங்கள்.
+
+
 
 <hr>
 
@@ -52,15 +61,21 @@ Don’t believe everything you read online. Find out how you can verify dubious 
 
 
 
+
+
 [**乐龄人士如何参与打击不实信息**](/infographic/Marcus-Chin-Chinese-R2.pdf)
 
 不要盲目地相信你在网上接触到的信息，请利用这张提示表来了解如何验证可疑信息。  
 
 
 
+
+
 **[Langkah-langkah untuk warga emas membasmi berita palsu](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
 
 Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak informasi dengan menggunakan tip-tip berikut.
+
+
 
 
 
@@ -81,8 +96,6 @@ Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore an
 
 
 <hr>
-
-
 
 **[Be S.U.R.E . about your research](/infographic/Be-SURE_Infographic_Hires.pdf)**
 
