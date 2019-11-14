@@ -40,16 +40,18 @@ Bogus stories can be easily spread through SMS and social messaging tools and ap
 
 
 **[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/infographic/DubiousMsg_Malay_FA.pdf)**
+
 Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan aplikasi sebaran mesej sosial. Pastikan anda menyemak informasi dengan menggunakan tip-tip  berikut.
 
 
 
 [**சந்தேகமான செய்திகளைக் கையாள்வது எப்படி**](/infographic/DubiousMsg_Tamil (1).pdf)
+
 குறுஞ்செய்தி, சமூக ஊடகச்செயலிகள் போன்றவற்றின்மூலம் பொய்யான கதைகள் எளிதில் பரப்பப்படலாம். பகிர்வதற்ககு முன், இந்த வழிகளின் மூலம் தகவல்களைச் சரி பாருங்கள்.
 
 <hr>
 
-![சந்தேகமான செய்திகளைக் கையாள்வது எப்படி](/images/seniors-fake-news.JPG)
+![How seniors can fight fake news](/images/seniors-fake-news.JPG)
 
 **[How seniors can fight fake news](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
 
@@ -63,7 +65,7 @@ Don’t believe everything you read online. Find out how you can verify dubious 
 
 
 
-**[Langkah-langkah untuk warga emas membasmi berita palsu](/infographic/SENIOR-CITIZENS-MALAY-r2)**
+**[Langkah-langkah untuk warga emas membasmi berita palsu](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
 
 Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak informasi dengan menggunakan tip-tip berikut.
 
