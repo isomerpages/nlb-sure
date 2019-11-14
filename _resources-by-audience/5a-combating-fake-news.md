@@ -102,8 +102,9 @@ With cameras in our smartphones, it is easy to snap away and take pictures of an
 
 
 
-**[How Do You Identify a Hoax Website](/images/hoaxwebsite-infoheader-e1450163706109-1050x700.png)**
+**[How Do You Identify a Hoax Website](/\infographic/Infographics5_FA-Low-Res.pdf)**
 
 ![](/images/hoaxwebsite-infoheader-e1450163706109-1050x700.png)
+
 In the world on vast information on the Internet, it is important to be sure that the website you are reading is not harbouring any false information. Download the full infographic to learn how the 4 ways of S.U.R.E. is applied to identify if a website is a hoax or not.
 
