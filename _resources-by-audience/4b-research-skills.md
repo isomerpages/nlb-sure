@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+[]()**layout**: leftnav-page-content
 title: Research Skills
 permalink: /resources/audience/adults/research-skills
 breadcrumb: Research Skills
@@ -13,11 +13,34 @@ second_nav_title: "For Adults"
 
 
 
-Fact Checking Using Multiple Sources 
+**Fact Checking Using Multiple Sources** 
 
-How to Paraphrase 
+![Fact checking using multiple sources](../_resources-by-format/images/Multiple-Sources-Header.png)
 
-How to Avoid Plagiarism
+If you receive any dubious information, you can check the facts using credible sources before you share.
 
-Citations 
 
+
+
+
+**[How to Paraphrase**](/infographic/Infographic-how-to-paraphrase.pdf) 
+
+![](/images/paraphrase-infoheader-e1450166736285-1050x700.png)
+
+When doing your project essay, you might have plagiarised unknowingly when you do not cite the author or source for the phrase which you have used. Download the full infographic to learn the four recommended steps to paraphrase.
+
+
+
+**[How to Avoid Plagiarism](/infographic/NLB_infographic_AvoidPlagiarism.pdf)**
+
+![](/images/Plagiarism-1050x700.png)
+
+Nowadays, anyone can easily copy and paste information from the internet for their schoolwork. However, doing so is committing plagiarism, which is a serious offence. Download the full infographic to find out what are the different types of plagiarism and how to avoid it.
+
+
+
+**[Citations**](/infographic/Cheatsheet_Citation_25nov_.pdf) 
+
+![](/images/Citations-1050x700.png)
+
+A quick guide to doing citation for academic research and projects. Download our cheat sheet to learn why, when and how to cite sources.
