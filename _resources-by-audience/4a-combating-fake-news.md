@@ -29,7 +29,7 @@ Bogus stories can be easily spread through SMS and social messaging tools and ap
 
 <hr>
 
-**[How to Spot Doctored Photographs**]
+[**How to Spot Doctored Photographs**](/infogaphic/Infographics7_FA-Low-Res.pdf)
 
 (/images/doctoredphoto-infoheader-e1450163501324-1050x700.png) 
 
