@@ -11,13 +11,9 @@ second_nav_title: "For Adults"
 
  
 
-Combating Fake News 
-
 How to spot doctored photographs
 
 How to do you identify a hoax website
-
-Be vigilant against online predators
 
 The 7 Pros and Cons of Social Media 
 
