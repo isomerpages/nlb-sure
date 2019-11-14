@@ -11,9 +11,10 @@ second_nav_title: "For Adults"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2H7JG9oaaXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Fact Checking Using Multiple Sources** 
 
-![Fact checking using multiple sources](../_resources-by-format/images/Multiple-Sources-Header.png)
+[Fact Checking Using Multiple Sources](/infographic/Multiple-Sources-English_revised.pdf)
+
+![Fact checking using multiple sources](/images/Multiple-Sources-Header.png)
 
 If you receive any dubious information, you can check the facts using credible sources before you share.
 
