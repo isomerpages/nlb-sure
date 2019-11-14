@@ -39,7 +39,7 @@ Bogus stories can be easily spread through SMS and social messaging tools and ap
 
 
 
-**[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/nlb-sure/infographic\DubiousMsg_Malay_FA.pdf)**
+**[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/infographic/DubiousMsg_Malay_FA.pdf)**
 Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan aplikasi sebaran mesej sosial. Pastikan anda menyemak informasi dengan menggunakan tip-tip  berikut.
 
 
