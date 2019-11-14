@@ -15,7 +15,7 @@ These sources will help you discern the reliability of the information that youâ
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
-![Fact checking using multiple sources](../_resources-by-format/images/Multiple-Sources-Header.png)
+![Fact checking using multiple sources](/images/Multiple-Sources-Header.png)
 
 If you receive any dubious information, you can check the facts using credible sources before you share.
 
@@ -57,8 +57,9 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 
 <hr>
+![How seniors can fight fake news](/images/seniors-fake-news.JPG)
 
-![How seniors can fight fake news](../_resources-by-format/images/seniors-fake-news.JPG)
+
 
 **[How seniors can fight fake news](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
 
