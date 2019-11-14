@@ -48,7 +48,6 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 குறுஞ்செய்தி, சமூக ஊடகச்செயலிகள் போன்றவற்றின்மூலம் பொய்யான கதைகள் எளிதில் பரப்பப்படலாம். பகிர்வதற்ககு முன், இந்த வழிகளின் மூலம் தகவல்களைச் சரி பாருங்கள்.
 
 <hr>
->>>>>>> 7f8e456f3d853842f929779e726106283c30c780
 
 ![சந்தேகமான செய்திகளைக் கையாள்வது எப்படி](/images/seniors-fake-news.JPG)
 
@@ -64,7 +63,7 @@ Don’t believe everything you read online. Find out how you can verify dubious 
 
 
 
-**[Langkah-langkah untuk warga emas membasmi berita palsu](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
+**[Langkah-langkah untuk warga emas membasmi berita palsu](/infographic/SENIOR-CITIZENS-MALAY-r2)**
 
 Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak informasi dengan menggunakan tip-tip berikut.
 
