@@ -7,7 +7,21 @@ collection_name: resources-by-audience
 second_nav_title: "For Teachers & Students"
 ---
 
-## **History**
+
+
+**[S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)**
+
+The S.U.R.E. Research Guide has been developed based on the four steps of S.U.R.E. and will teach students and adult learners about the principles of effective research, how to use NLB’s eResources (readily available online) and guidelines on combating online falsehoods.
+
+The content is suitable for secondary and post-secondary students conducting research for their projects and school assignments. Working professionals can also use this guide for their academic and general research needs.
+
+
+
+<hr>
+
+
+
+### History**
 
 - Sources of Singapore History 
 - Discover Singapore History Online
@@ -24,7 +38,7 @@ second_nav_title: "For Teachers & Students"
 
 
 
-## **Social Studies**
+### **Social Studies**
 
 -  Singapore Infopedia 
 - Ageing Population 
@@ -40,7 +54,7 @@ second_nav_title: "For Teachers & Students"
 
 
 
-## **Geography**
+### **Geography**
 
 - Liveable Cities 
 - Islands of Singapore 
@@ -56,7 +70,7 @@ second_nav_title: "For Teachers & Students"
 
 
 
-## **CCE / Cyberwellness / ICT**
+### **CCE / Cyberwellness / ICT**
 
 - Combating Fake News 
 - How to spot doctored photographs

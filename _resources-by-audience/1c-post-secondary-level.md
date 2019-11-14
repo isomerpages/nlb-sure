@@ -9,7 +9,7 @@ second_nav_title: "For Teachers & Students"
 
 
 
-**S.U.R.E. Research Guide**
+**[S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)**
 
 The S.U.R.E. Research Guide has been developed based on the four steps of S.U.R.E. and will teach students and adult learners about the principles of effective research, how to use NLB’s eResources (readily available online) and guidelines on combating online falsehoods.
 
