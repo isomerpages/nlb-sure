@@ -30,7 +30,7 @@ These resources give more information on Singapore’s buildings, environment an
 
 [Housing in Singapore](/infographic/BigPicture_Housing-in-Singapore.pdf) 
 
-[Living in Kampongs](/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf)* 
+[Living in Kampongs](/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf) 
 
 [Environmental Champions](/cheatsheet/Cheatsheet2_Environment.pdf) 
 
@@ -78,9 +78,9 @@ These resources provide information on various topics about the world.
 
 [Different Types of Hotels Around the World](/cheatsheet/NLB_Cheatsheet_Hotels_Jul2019.pdf) 
 
-*[Inventions in the 21st Century](/cheatsheet/NLB_CHEATSHEET_21stInventions.pdf)* 
+*[Inventions in the 21st Century](/cheatsheet/NLB_CHEATSHEET_21stInventions.pdf) 
 
-*[Types of Houses Around the World](/cheatsheet/Cheatsheet_house_Final_lowres.pdf)* 
+[Types of Houses Around the World](/cheatsheet/Cheatsheet_house_Final_lowres.pdf) 
 
 [Migration](/cheatsheet/NLB_Cheatsheet_Migration_Jul2019.pdf) 
 
@@ -96,7 +96,7 @@ Find out some interesting facts about Southeast Asia in these resources.
 
 [Southeast Asia: People and Places](/cheatsheet/NLB_Cheatsheet_SEA_People_and_Places_Jul2019.pdf) 
 
-*[Capteh](/cheatsheet/Cheatsheet_capteh_lowres.pdf)* 
+*[Capteh](/cheatsheet/Cheatsheet_capteh_lowres.pdf) 
 
  
 
@@ -115,13 +115,11 @@ If you’re not sure where to go to find sources to research for your homework, 
 NewspaperSG is an online archive of Singapore newspapers. You can search our digital archive of newspapers published since 1831, or find information on over 200 newspaper titles in the National Library's microfilm collection. [http://eresources.nlb.gov.sg/newspapers](https://www.youtube.com/redirect?v=3l38zzEptq0&redir_token=-sfM6RzuyAc7h69aC_WiP6Uf_118MTU3MzU0Njc2M0AxNTczNDYwMzYz&event=video_description&q=http%3A%2F%2Feresources.nlb.gov.sg%2Fnewspapers)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3l38zzEptq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### 
 
 #### NLB eResources & Setting Up MyLibrary ID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 #### Singapore Infopedia
@@ -130,13 +128,11 @@ Singapore Infopedia is an electronic encyclopedia on Singapore published by the 
 It holds a collection of articles on Singapore and covers a wide range of topics, including but not limited to historical events, arts, culture, economy, government and key personalities. The number of articles continues to grow as new entries are added regularly.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TfSNrJttMk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### Archives Online
 
 Brought to you by the National Archives of Singapore (NAS), Archives Online is designed to allow users to seamlessly search information across NAS' various independent databases and view selected photographs, maps and plans, listen to oral history interview samplers and watch snippets of audio-visual recordings, round the clock. [http://www.nas.gov.sg/archivesonline](https://www.youtube.com/redirect?redir_token=L2WmvvVCiQqvxy31UDZqnh4JcEB8MTU3MzU0NjcwNEAxNTczNDYwMzA0&event=video_description&v=27xY2ZuG57o&q=http%3A%2F%2Fwww.nas.gov.sg%2Farchivesonline)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/27xY2ZuG57o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 [Social Studies: Issues Investigation Made Easy](/infographic/NLB_Infographic_SocialStudies.pdf)  
@@ -165,49 +161,48 @@ The information available on the Internet can be overwhelming. Here are some way
 
 Not all information on the internet can be trusted. You can refer to the information below and determine if your information is reliable. 
 
-1)    Deconstructing media messages
+[Deconstructing media messages](/infographic/Infographics6_FA-Low-Res.pdf)
 
-2)    Facts versus opinion
+[Facts versus opinion](/infographic/FactsVsOpinionInfoG1505.pdf)
 
-3)    Analysing Visuals 
+[Analysing Visuals](/cheatsheet/Cheat-sheet-9-Visual-text-analysis-0812.pdf) 
 
-4)    Inferential Skills 
+[Inferential Skills](/cheatsheet/cheat-sheet-11-inferential-skils.pdf) 
 
-5)    Reading Critically 
+[Reading Critically](/infographic\ReadingInfoGFA.pdf) 
 
-6)    Logical Fallacies 
+[Logical Fallacies](/infographic/LogicalFallaciesInfoG5FA (1).pdf) 
 
-7)    5W1H Questioning Technique
+[5W1H Questioning Technique](/infographic/5W1H Questioning Technique.pdf)
 
-8)    Be SURE About Your Research 
+[Be SURE About Your Research](/infographic/Be-SURE_Infographic_Hires) 
 
-9)    Be SURE with Newspapers 
+[The power of the click and tell](/infographic/NILP-inforgraphics-lowres.pdf)
 
-10)  Identifying and Choosing Suitable Online Resources 
+/[Identifying Professionals from the Imposters](/infographic/Identify Professionals.pdf) 
 
-11)  The power of the click and tell
+#### Reading Critically](/infographic\ReadingInfoGFA.pdf) 
 
-12)  The Case of the Antique Chairs 
 
-13)  Identifying Professionals from the Imposters 
 
-14)  Reading Critically
+#### SURE Lok Hom & the Case of Antique Chairs
 
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/idBVtJ9s7F4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+####  
 
 #### Report Writing Skills 
 
 If you need help with writing your report after finding all the necessary information, refer to the resources below. 
 
-1)    How to Paraphrase 
+[How to Paraphrase](/infographic/Infographic-how-to-paraphrase.pdf)
 
-2)    How to Avoid Plagiarism
+[How to Avoid Plagiarism](/infographic/NLB_infographic_AvoidPlagiarism.pdf)
 
-3)    Citations 
+[Citations](/infographic/Cheatsheet_Citation_25nov_.pdf) 
 
-4)    How to Take Notes in Class 
+[How to Take Notes in Class](C:\Users\user\Documents\GitHub\nlb-sure\infographic\take-notes-lowres.pdf) 
 
-5)    How to Do a Literature Review 
+[How to Do a Literature Review](/infographic/LiteratureReviewInfoG11FA.pdf) 
 
  
 
@@ -215,13 +210,13 @@ If you need help with writing your report after finding all the necessary inform
 
 Not everybody surfing the internet has good intentions. Look through the resources below to find out how you can stay safe online. 
 
-1)    Privacy and You
+[Privacy and You](/infographic/NLB_Infographic_PrivacyandYou.pdf)
 
-2)    Be vigilant against online predators
+[Be vigilant against online predators](/infographic/NLB_Infographic_BeVigilant.pdf)
 
-3)    To Tweet or Not to Tweet
+[To tweet or not to tweet?](/infographic/NLB-inforgraphics-tweet.pdf)
 
-4)    Street Smart on Social Media 
+[Street Smart on Social Media](/infographic/Infographic-8.pdf) 
 
  
 
