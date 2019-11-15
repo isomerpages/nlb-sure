@@ -79,27 +79,37 @@ The content is suitable for secondary and post-secondary students conducting res
 
 ### **Geography**
 
-- Liveable Cities 
-- Islands of Singapore 
-- Migration 
-- Southeast Asia: People and Places 
-- Water in Singapore 
-- Understanding Our Water Supply 
-- Floods: Types, Causes and Mitigation Measures 
-- Weather and Climate 
-- Environmental Champions 
-- Climate Change Effects and Low Carbon Future 
-- Reducing Waste and Managing the Problem 
+[Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
+
+[Islands of Singapore](/cheatsheet/NLB_Cheatsheet_Migration_Jul2019.pdf) 
+
+[Migration](/cheatsheet/NLB_Cheatsheet_Migration_Jul2019.pdf) 
+
+[Southeast Asia: People and Places](/cheatsheet/NLB_Cheatsheet_SEA_People_and_Places_Jul2019.pdf) 
+
+[Floods: Types, Causes and Mitigation Measures](/cheatsheet/NLB_Cheatsheet_09_Flood.pdf) 
+
+[Weather and Climate](/cheatsheet/NLB_Cheatsheet_WeatherandClimate_Jul2019.pdf) 
+
+[Environmental Champions](/cheatsheet/Cheatsheet2_Environment.pdf) 
+
+[Climate Change Effects and Low Carbon Future](/cheatsheet/NLB_Cheatsheet_11_ClimateChange.pdf) 
+
+[Reducing Waste and Managing the Problem](/cheatsheet/NLB_Cheatsheet_Reducing_Waste_Jul2019.pdf) 
 
 
 
 ### **CCE / Cyberwellness / ICT**
 
-- Combating Fake News 
-- How to spot doctored photographs
-- How to do you identify a hoax website
-- Google tips
-- Be vigilant against online predators
-- The 7 Pros and Cons of Social Media 
-- To tweet or not to tweet
+How to spot doctored photographs
+
+How to do you identify a hoax website
+
+Google tips
+
+Be vigilant against online predators
+
+The 7 Pros and Cons of Social Media 
+
+To tweet or not to tweet
 
