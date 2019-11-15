@@ -20,34 +20,60 @@ The content is suitable for secondary and post-secondary students conducting res
 <hr>
 ### History
 
-- Sources of Singapore History 
-- Discover Singapore History Online
-- Archives Online 
-- Singapore Infopedia
-- Housing in Singapore 
-- Gambling
-- Street Hawkers 
-- Living in Kampongs 
-- Know Our Presidents 
-- Singapore Street Names 
-- Singapore Clan Associations  
-- Ancient Kingdoms in Southeast Asia 
+#### Singapore Infopedia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfSNrJttMk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Archives Online
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/27xY2ZuG57o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
+
+[Housing in Singapore](/infographic/BigPicture_Housing-in-Singapore.pdf) 
+
+[Living in Kampongs](/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf) 
+
+[Gambling](/infographic/BigPicture-theme04-Gambling_FINAL-publish.pdf)
+
+[Street Hawkers](/infographic/BigPicture-theme01-Street-Hawkers_FINAL-publish-Aug2017.pdf) 
+
+[Ancient Kingdoms in Southeast Asia](/cheatsheet/NLB_Cheatsheet_SEAKingdom_Jul2019.pdf) 
+
+[Singapore Street Names](/infographic/UPDATED19 Singapore street names.pdf) 
+
+[Singapore Clan Associations](/infographic/NLB_A1infographic_Sg-Clan-Associations.pdf)  
+
+
 
 
 
 ### **Social Studies**
 
--  Singapore Infopedia 
-- Ageing Population 
-- Understanding Poverty 
-- Non-governmental Organisations 
-- Social Enterprises 
-- Volunteer Work: Who, What, Why, Where and How 
-- Harmony in Diversity: Interfaith Dialogue and Integration Efforts 
-- Economy 101 
-- Smart Nation Initiatives in Singapore 
-- Digital Economy and the 4th Industrial Revolution 
-- A Car-lite Future: Reducing Car Usage in Singapore 
+#### Singapore Infopedia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfSNrJttMk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+[Ageing Population](/cheatsheet/NLB_CheatSheets7_Ageing-Population.pdf) 
+
+[Understanding Poverty](/cheatsheet/NLB_Cheatsheet_Poverty_Jul2019.pdf) 
+
+[Non-governmental Organisations](/cheatsheet/Cheatsheet4_NGO-FA.pdf) 
+
+[Social Enterprises](/cheatsheet/Cheatsheet1_Social-Enterprise.pdf) 
+
+[Volunteer Work](/cheatsheet/NLB_Cheatsheet_Volunteer Working_Jul2019.pdf)
+
+[Harmony in Diversity: Interfaith Dialogue and Integration Efforts](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf) 
+
+[Economy 101](/cheatsheet/Cheat-sheet-Economy-lowres.pdf) 
+
+[Smart Nation Initiatives in Singapore](/cheatsheet/NLB_Cheatsheet_Smart_Nation_Initiatives_Jul2019.pdf) 
+
+[Digital Economy and the 4th Industrial Revolution](/cheatsheet/NLB_Cheatsheet_Digital_Economy_Jul2019.pdf) 
+
+[A Car-lite Future: Reducing Car Usage in Singapore](/cheatsheet/NLB_Cheatsheet_Carlite_Jul2019.pdf) 
 
 
 
