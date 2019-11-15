@@ -179,7 +179,7 @@ Not all information on the internet can be trusted. You can refer to the informa
 
 [The power of the click and tell](/infographic/NILP-inforgraphics-lowres.pdf)
 
-/[Identifying Professionals from the Imposters](/infographic/Identify Professionals.pdf) 
+[Identifying Professionals from the Imposters](/infographic/Identify Professionals.pdf) 
 
 #### Reading Critically](/infographic\ReadingInfoGFA.pdf) 
 
