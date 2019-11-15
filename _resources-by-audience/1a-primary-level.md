@@ -114,11 +114,9 @@ If you’re not sure where to go to find sources to research for your homework, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3l38zzEptq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 #### NLB eResources & Setting Up MyLibrary ID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 #### Singapore Infopedia
 
@@ -126,7 +124,6 @@ If you’re not sure where to go to find sources to research for your homework, 
 #### Archives Online
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/27xY2ZuG57o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 [Social Studies: Issues Investigation Made Easy](/infographic/NLB_Infographic_SocialStudies.pdf)  
 
@@ -191,7 +188,7 @@ If you need help with writing your report after finding all the necessary inform
 
 [Citations](/infographic/Cheatsheet_Citation_25nov_.pdf) 
 
-[How to Take Notes in Class](C:\Users\user\Documents\GitHub\nlb-sure\infographic\take-notes-lowres.pdf) 
+[How to Take Notes in Class](/infographi/\take-notes-lowres.pdf) 
 
 [How to Do a Literature Review](/infographic/LiteratureReviewInfoG11FA.pdf) 
 
