@@ -137,13 +137,9 @@ Brought to you by the National Archives of Singapore (NAS), Archives Online is d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/27xY2ZuG57o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### 
 
-[Sources of Singapore History](/cheatsheet/cheat-sheet-13-Sources-of-Singapore13mar.pdf) 
 
-9)    Singapore Facts and Images
-
-10)  Social Studies: Information Made Easy  
+[Social Studies: Issues Investigation Made Easy](/infographic/NLB_Infographic_SocialStudies.pdf)  
 
  
 
@@ -151,15 +147,15 @@ Brought to you by the National Archives of Singapore (NAS), Archives Online is d
 
 The information available on the Internet can be overwhelming. Here are some ways to make your search for information more effective. 
 
-1)    Google Search Tips
+[Google Search Tips](/infographic/NLB_Infographic_GoogleSearchTips.pdf)
 
-2)    Research Strategy: Information Chaining
+[Research Strategy: Information Chaining](/infographic/NLB_Infographic_InformationChaining.pdf)
 
-3)    Smart Searching Saves Precious Time 
+[Smart Searching Saves Precious Time](/infographic/NILP-inforgraphics-search-save-time-lowres.pdf) 
 
-4)    Six Steps to Success 
+[Six Steps to Success](/infographic/NLB_6Steps_LR.pdf) 
 
-5)    Be Search Smart 
+[Be Search Smart](/infographic/NLB-search-smart_A2_LR.pdf) 
 
  
 
