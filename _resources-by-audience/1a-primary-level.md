@@ -72,19 +72,19 @@ Find out more about the history of Singapore through these resources.
 
 These resources provide information on various topics about the world. 
 
- 1)    [Ancient Inventions](/cheatsheet/NLB_Cheatsheet_Ancient_Inventions_Jul2019.pdf) 
+[Ancient Inventions](/cheatsheet/NLB_Cheatsheet_Ancient_Inventions_Jul2019.pdf) 
 
-2)    [The Value of History and the Past](/cheatsheet/NLB_Cheatsheet_Values of History and the Past_Jul2019.pdf) 
+[The Value of History and the Past](/cheatsheet/NLB_Cheatsheet_Values of History and the Past_Jul2019.pdf) 
 
-3)    [Different Types of Hotels Around the World](/cheatsheet/NLB_Cheatsheet_Hotels_Jul2019.pdf) 
+[Different Types of Hotels Around the World](/cheatsheet/NLB_Cheatsheet_Hotels_Jul2019.pdf) 
 
-4)    *Inventions in the 21st Century* 
+*[Inventions in the 21st Century](/cheatsheet/NLB_CHEATSHEET_21stInventions.pdf)* 
 
-5)    *Types of Houses Around the World* 
+*[Types of Houses Around the World](/cheatsheet/Cheatsheet_house_Final_lowres.pdf)* 
 
-6)    [Migration](/cheatsheet/NLB_Cheatsheet_Migration_Jul2019.pdf) 
+[Migration](/cheatsheet/NLB_Cheatsheet_Migration_Jul2019.pdf) 
 
-7)    [Digital Economy and the 4th Industrial Revolution](/cheatsheet/NLB_Cheatsheet_Digital_Economy_Jul2019.pdf) 
+[Digital Economy and the 4th Industrial Revolution](/cheatsheet/NLB_Cheatsheet_Digital_Economy_Jul2019.pdf) 
 
  
 
@@ -92,11 +92,11 @@ These resources provide information on various topics about the world.
 
 Find out some interesting facts about Southeast Asia in these resources. 
 
- 1)    [Ancient Kingdoms in Southeast Asia](/cheatsheet/NLB_Cheatsheet_SEAKingdom_Jul2019.pdf) 
+[Ancient Kingdoms in Southeast Asia](/cheatsheet/NLB_Cheatsheet_SEAKingdom_Jul2019.pdf) 
 
-2)    [Southeast Asia: People and Places](/cheatsheet/NLB_Cheatsheet_SEA_People_and_Places_Jul2019.pdf) 
+[Southeast Asia: People and Places](/cheatsheet/NLB_Cheatsheet_SEA_People_and_Places_Jul2019.pdf) 
 
-3)    *Capteh* 
+*[Capteh](/cheatsheet/Cheatsheet_capteh_lowres.pdf)* 
 
  
 
@@ -108,21 +108,38 @@ Find out some interesting facts about Southeast Asia in these resources.
 
 If you’re not sure where to go to find sources to research for your homework, here is some information that you can refer to. 
 
-1)    NewspaperSG
 
-2)    NLB eResources and Setting Up myLibrary ID 
 
-3)    Singapore Infopedia
+#### NewspaperSG
 
-4)    Archives Online
+NewspaperSG is an online archive of Singapore newspapers. You can search our digital archive of newspapers published since 1831, or find information on over 200 newspaper titles in the National Library's microfilm collection. [http://eresources.nlb.gov.sg/newspapers](https://www.youtube.com/redirect?v=3l38zzEptq0&redir_token=-sfM6RzuyAc7h69aC_WiP6Uf_118MTU3MzU0Njc2M0AxNTczNDYwMzYz&event=video_description&q=http%3A%2F%2Feresources.nlb.gov.sg%2Fnewspapers)
 
-5)    Discover Geography Online
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3l38zzEptq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-6)    Discover Singapore History Online
+#### 
 
-7)    What is that Song?
+#### NLB eResources & Setting Up MyLibrary ID
 
-8)    Sources of Singapore History 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+#### Singapore Infopedia
+
+Singapore Infopedia is an electronic encyclopedia on Singapore published by the National Library Board (NLB). [http://eresources.nlb.gov.sg/infopedia](https://www.youtube.com/redirect?q=http%3A%2F%2Feresources.nlb.gov.sg%2Finfopedia&redir_token=m4b4-UiDkjV2pSvA-Y-vmZPA4lV8MTU3MzU0NjgyMEAxNTczNDYwNDIw&v=TfSNrJttMk4&event=video_description)
+It holds a collection of articles on Singapore and covers a wide range of topics, including but not limited to historical events, arts, culture, economy, government and key personalities. The number of articles continues to grow as new entries are added regularly.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfSNrJttMk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Archives Online
+
+Brought to you by the National Archives of Singapore (NAS), Archives Online is designed to allow users to seamlessly search information across NAS' various independent databases and view selected photographs, maps and plans, listen to oral history interview samplers and watch snippets of audio-visual recordings, round the clock. [http://www.nas.gov.sg/archivesonline](https://www.youtube.com/redirect?redir_token=L2WmvvVCiQqvxy31UDZqnh4JcEB8MTU3MzU0NjcwNEAxNTczNDYwMzA0&event=video_description&v=27xY2ZuG57o&q=http%3A%2F%2Fwww.nas.gov.sg%2Farchivesonline)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/27xY2ZuG57o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### 
+
+[Sources of Singapore History](/cheatsheet/cheat-sheet-13-Sources-of-Singapore13mar.pdf) 
 
 9)    Singapore Facts and Images
 

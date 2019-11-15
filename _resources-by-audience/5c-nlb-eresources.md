@@ -14,7 +14,6 @@ NewspaperSG is an online archive of Singapore newspapers. You can search our dig
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3l38zzEptq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### NLB eResources & Setting Up MyLibrary ID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
