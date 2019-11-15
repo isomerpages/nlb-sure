@@ -40,7 +40,7 @@ If you receive any dubious information, you can check the facts using credible s
 
 
 
-**[How to Paraphrase**](/infographic/Infographic-how-to-paraphrase.pdf) 
+[How to Paraphrase](/infographic/Infographic-how-to-paraphrase.pdf) 
 
 ![](images/paraphrase-infoheader-e1450166736285-1050x700.png)
 
@@ -48,7 +48,7 @@ When doing your project essay, you might have plagiarised unknowingly when you d
 
 
 
-**[How to Avoid Plagiarism](/infographic/NLB_infographic_AvoidPlagiarism.pdf)**
+[How to Avoid Plagiarism](/infographic/NLB_infographic_AvoidPlagiarism.pdf)
 
 ![](images/Plagiarism-1050x700.png)
 
@@ -56,7 +56,7 @@ Nowadays, anyone can easily copy and paste information from the internet for the
 
 
 
-**[Citations**](/infographic/Cheatsheet_Citation_25nov_.pdf) 
+[Citations](/infographic/Cheatsheet_Citation_25nov_.pdf) 
 
 ![](images/Citations-1050x700.png)
 
@@ -64,7 +64,7 @@ A quick guide to doing citation for academic research and projects. Download our
 
 
 
-**[Using Scientific Skills for Daily Life**](/infographic/scientificskills-1050x700.png) 
+[Using Scientific Skills for Daily Life](/infographic/scientificskills-1050x700.png) 
 
 ![](/images/scientificskills-1050x700 (1).png)
 
@@ -72,7 +72,7 @@ Science is everywhere – in the air, our food, and event in our bodies. Downloa
 
 
 
-**[Logical Fallacies**](/infographic/LogicalFallaciesInfoG5FA.pdf) 
+[Logical Fallacies](/infographic/LogicalFallaciesInfoG5FA.pdf) 
 
 ![](/images/logicalfallacy-infoheader-e1450167358786-1050x700.png)
 
@@ -85,8 +85,6 @@ A logical fallacy refers to a flaw in reasoning. By recognising types of logical
 #### NLB eResources & Setting Up MyLibrary ID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### How To Use Academic Databases
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2H7JG9oaaXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
