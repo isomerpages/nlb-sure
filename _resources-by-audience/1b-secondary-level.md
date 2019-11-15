@@ -18,10 +18,7 @@ The content is suitable for secondary and post-secondary students conducting res
 
 
 <hr>
-
-
-
-### History**
+### History
 
 - Sources of Singapore History 
 - Discover Singapore History Online
