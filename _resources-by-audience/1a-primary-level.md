@@ -109,3 +109,32 @@ If you’re not sure where to go to find sources to research for your homework, 
 <div class="resp-container">
 	<iframe class="resp-iframe" src="https://www.youtube.com/embed/3MsUaXed7Gg" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
+
+#### Singapore Infopedia
+
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/TfSNrJttMk4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
+#### Archives Online
+
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/27xY2ZuG57o" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
+[Social Studies: Issues Investigation Made Easy](/infographic/NLB_Infographic_SocialStudies.pdf)
+
+
+####  Searching Skills
+
+The information available on the Internet can be overwhelming. Here are some ways to make your search for information more effective. 
+
+[Google Search Tips](/infographic/NLB_Infographic_GoogleSearchTips.pdf)
+
+[Research Strategy: Information Chaining](/infographic/NLB_Infographic_InformationChaining.pdf)
+
+[Smart Searching Saves Precious Time](/infographic/NILP-inforgraphics-search-save-time-lowres.pdf) 
+
+[Six Steps to Success](/infographic/NLB_6Steps_LR.pdf) 
+
+[Be Search Smart](/infographic/NLB-search-smart_A2_LR.pdf) 
