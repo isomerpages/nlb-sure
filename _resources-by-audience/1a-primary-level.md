@@ -7,11 +7,7 @@ collection_name: resources-by-audience
 second_nav_title: "For Teachers & Students"
 ---
 
-
 ### **SOCIAL STUDIES**
-
-
-
 #### **Cultural Diversity** 
 
 Learn more about different cultures in the resources below. 
@@ -20,7 +16,6 @@ Learn more about different cultures in the resources below.
 
 [Harmony in Diversity: Interfaith Dialogue and Integration Efforts](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf) 
 
- 
 
 #### **Understanding Singapore** 
 
@@ -52,7 +47,6 @@ These resources give more information on Singapore’s buildings, environment an
 
 [Weather and Climate](/cheatsheet/NLB_Cheatsheet_WeatherandClimate_Jul2019.pdf) 
 
- 
 
 #### **Singapore’s Past** 
 
@@ -64,9 +58,6 @@ Find out more about the history of Singapore through these resources.
 
 [Street Hawkers](/infographic/BigPicture-theme01-Street-Hawkers_FINAL-publish-Aug2017.pdf) 
 
- 
-
- 
 
 #### **Appreciating the World** 
 
@@ -86,7 +77,6 @@ These resources provide information on various topics about the world.
 
 [Digital Economy and the 4th Industrial Revolution](/cheatsheet/NLB_Cheatsheet_Digital_Economy_Jul2019.pdf) 
 
- 
 
 #### **About Southeast Asia** 
 
@@ -98,9 +88,8 @@ Find out some interesting facts about Southeast Asia in these resources.
 
 [Capteh](/cheatsheet/Cheatsheet_capteh_lowres.pdf) 
 
- 
+<HR>
 
- <HR>
 
 ### **RESEARCH SKILLS**
 
@@ -109,25 +98,35 @@ Find out some interesting facts about Southeast Asia in these resources.
 If you’re not sure where to go to find sources to research for your homework, here is some information that you can refer to. 
 
 
-
 #### NewspaperSG
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3l38zzEptq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/3l38zzEptq0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 #### NLB eResources & Setting Up MyLibrary ID
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/3MsUaXed7Gg" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 #### Singapore Infopedia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TfSNrJttMk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/TfSNrJttMk4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 #### Archives Online
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/27xY2ZuG57o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/27xY2ZuG57o" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
 
 [Social Studies: Issues Investigation Made Easy](/infographic/NLB_Infographic_SocialStudies.pdf)  
 
- 
 
 ####  Searching Skills
 
@@ -142,9 +141,6 @@ The information available on the Internet can be overwhelming. Here are some way
 [Six Steps to Success](/infographic/NLB_6Steps_LR.pdf) 
 
 [Be Search Smart](/infographic/NLB-search-smart_A2_LR.pdf) 
-
- 
-
  
 
 #### Determining the Reliability of Information
@@ -174,10 +170,13 @@ Not all information on the internet can be trusted. You can refer to the informa
 [Reading Critically](/infographic/ReadingInfoGFA.pdf) 
 
 
-
 #### SURE Lok Hom & the Case of Antique Chairs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/idBVtJ9s7F4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/idBVtJ9s7F4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 #### Report Writing Skills 
 
 If you need help with writing your report after finding all the necessary information, refer to the resources below. 
@@ -188,11 +187,10 @@ If you need help with writing your report after finding all the necessary inform
 
 [Citations](/infographic/Cheatsheet_Citation_25nov_.pdf) 
 
-[How to Take Notes in Class](/infographi/\take-notes-lowres.pdf) 
+[How to Take Notes in Class](/infographic/take-notes-lowres.pdf) 
 
 [How to Do a Literature Review](/infographic/LiteratureReviewInfoG11FA.pdf) 
 
- 
 
 #### Staying Safe Online 
 
@@ -206,16 +204,11 @@ Not everybody surfing the internet has good intentions. Look through the resourc
 
 [Street Smart on Social Media](/infographic/Infographic-8.pdf) 
 
- 
-
 <HR>
+
 
 ### **SURE-vivor** 
 
 Check out the resources curated by our Librarians at:
 
-[http://www.nlb.gov.sg/discovereads/can-you-sure-vive/](http://www.nlb.gov.sg/discovereads/can-you-sure-vive/)
-
-
-
-
+[http://www.nlb.gov.sg/discovereads/can-you-sure-vive/](http://www.nlb.gov.sg/discovereads/can-you-sure-vive/){:target="_blank"} 
