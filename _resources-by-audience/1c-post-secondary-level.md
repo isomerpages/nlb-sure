@@ -29,7 +29,7 @@ If you receive any dubious information, you can check the facts using credible s
 
 <hr>
 
-[How to Paraphrase](/infographic/Infographic-how-to-paraphrase.pdf) 
+**[How to Paraphrase](/infographic/Infographic-how-to-paraphrase.pdf)**
 
 ![Paraphrasing](/images/paraphrase-infoheader-e1450166736285-1050x700.png)
 
@@ -41,7 +41,7 @@ When doing your project essay, you might have plagiarised unknowingly when you d
 
 Nowadays, anyone can easily copy and paste information from the internet for their schoolwork. However, doing so is committing plagiarism, which is a serious offence. Download the full infographic to find out what are the different types of plagiarism and how to avoid it.
 
-[Citations](/infographic/Cheatsheet_Citation_25nov_.pdf) 
+**[Citations](/infographic/Cheatsheet_Citation_25nov_.pdf)**
 
 ![Using Citations](/images/Citations-1050x700.png)
 
@@ -53,7 +53,7 @@ A quick guide to doing citation for academic research and projects. Download our
 
 Science is everywhere – in the air, our food, and event in our bodies. Download our cheat sheet to find out how scientific skills can be applied in our daily life, and attain tips on how to search for credible information.
 
-[Logical Fallacies](/infographic/LogicalFallaciesInfoG5FA.pdf) 
+**[Logical Fallacies](/infographic/LogicalFallaciesInfoG5FA.pdf)**
 
 ![Logical Fallacies](/images/logicalfallacy-infoheader-e1450167358786-1050x700.png)
 
