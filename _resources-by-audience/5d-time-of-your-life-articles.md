@@ -13,7 +13,4 @@ The Time of Your Life magazine is a quarterly publication specially designed for
 
 Here are some S.U.R.E. articles you may wish to check out:
 
-**[Be S.U.R.E as You Shop Online**
-Issue 18, page 3](https://www.nlb.gov.sg/Portals/0/Docs/Browse/Timesofyourlife/NLB_TimeOfYourLifeIssue18.pdf#page=3)
-
-
+**[Be S.U.R.E as You Shop Online Issue 18, page 3](https://www.nlb.gov.sg/Portals/0/Docs/Browse/Timesofyourlife/NLB_TimeOfYourLifeIssue18.pdf#page=3)**
