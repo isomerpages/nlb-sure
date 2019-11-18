@@ -13,7 +13,7 @@ second_nav_title: "For Adults"
 	<iframe class="resp-iframe" src="https://www.youtube.com/embed/2H7JG9oaaXA" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
-[Fact Checking Using Multiple Sources](/infographic/Multiple-Sources-English_revised.pdf)
+**[Fact Checking Using Multiple Sources](/infographic/Multiple-Sources-English_revised.pdf)**
 
 ![Fact checking using multiple sources](/images/Multiple-Sources-Header.png)
 
