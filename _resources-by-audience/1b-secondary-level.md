@@ -7,27 +7,28 @@ collection_name: resources-by-audience
 second_nav_title: "For Teachers & Students"
 ---
 
-
-
 **[S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)**
 
 The S.U.R.E. Research Guide has been developed based on the four steps of S.U.R.E. and will teach students and adult learners about the principles of effective research, how to use NLB’s eResources (readily available online) and guidelines on combating online falsehoods.
 
 The content is suitable for secondary and post-secondary students conducting research for their projects and school assignments. Working professionals can also use this guide for their academic and general research needs.
 
-
-
 <hr>
+
 ### History
 
 #### Singapore Infopedia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TfSNrJttMk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/TfSNrJttMk4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 #### Archives Online
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/27xY2ZuG57o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/27xY2ZuG57o" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
 
 [Housing in Singapore](/infographic/BigPicture_Housing-in-Singapore.pdf) 
 
@@ -44,16 +45,13 @@ The content is suitable for secondary and post-secondary students conducting res
 [Singapore Clan Associations](/infographic/NLB_A1infographic_Sg-Clan-Associations.pdf)  
 
 
-
-
-
 ### **Social Studies**
 
 #### Singapore Infopedia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TfSNrJttMk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/TfSNrJttMk4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
 
 [Ageing Population](/cheatsheet/NLB_CheatSheets7_Ageing-Population.pdf) 
 
@@ -74,7 +72,6 @@ The content is suitable for secondary and post-secondary students conducting res
 [Digital Economy and the 4th Industrial Revolution](/cheatsheet/NLB_Cheatsheet_Digital_Economy_Jul2019.pdf) 
 
 [A Car-lite Future: Reducing Car Usage in Singapore](/cheatsheet/NLB_Cheatsheet_Carlite_Jul2019.pdf) 
-
 
 
 ### **Geography**
@@ -98,7 +95,6 @@ The content is suitable for secondary and post-secondary students conducting res
 [Reducing Waste and Managing the Problem](/cheatsheet/NLB_Cheatsheet_Reducing_Waste_Jul2019.pdf) 
 
 
-
 ### CCE / Cyberwellness / ICT
 
 [How to Spot Doctored Photographs](/infographic/Infographics7_FA-Low-Res.pdf)
@@ -112,4 +108,3 @@ The content is suitable for secondary and post-secondary students conducting res
 [The 7 Pros and Cons of Social Media](/cheatsheet/NLB_CHEATSHEET_SocialMedia-ProsandCons.pdf) 
 
 [To tweet or not to tweet?](/infographic/NLB-inforgraphics-tweet.pdf)
-
