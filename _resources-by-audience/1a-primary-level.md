@@ -101,5 +101,11 @@ If you’re not sure where to go to find sources to research for your homework, 
 #### NewspaperSG
 
 <div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/d6Q05WdKEy0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/3l38zzEptq0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
+#### NLB eResources & Setting Up MyLibrary ID
+
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/3MsUaXed7Gg" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
