@@ -5,35 +5,24 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/nlb-favicon.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/nl-logo.jpg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+hero-title: S.U.R.E.
+hero-subtitle: Discover about the National Library's Learning & Information Literacy resources
+hero-banner: /images/sure-animated-banner.gif
     
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
-
+# I want to dropdown
+i-want-to:
+  - title: find out more about S.U.R.E. (Information Literacy)
+    url: /about-us/sure-campaign/
+  - title: find resources for schools
+    url: /resources/audience/teachers-and-students/primary-level
+    
 resources-title: Resources
-resources-subtitle: Be in the know
+resources-subtitle: Combat Fake News
 resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-more-button-url: /school-resources/

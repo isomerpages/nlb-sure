@@ -1,8 +1,8 @@
-title: Title
-title-abbreviated: Title
-description: >- # this means to ignore newlines until "baseurl:"
+title: National Library Board Singapore
+title-abbreviated: NLB
+description: The S.U.R.E. campaign is an initiative by the National Library Board to promote the importance of information searching and discernment. The nation-wide campaign was launched in 2013, and Singapore is the first country outside of the United States to promote Information Literacy (IL) on a national scale for the general public.
   Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sure.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -20,19 +20,9 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
-# Resource Room and Pagination
-paginate: 12
-
 # Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
+homepage_hero_i_want_to: true
+homepage_resources: false
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
@@ -41,14 +31,24 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
-  who-we-are:
+  about-us:
+    output: true
+  resources:
+    output: true
+  resources-by-audience:
+    output: true
+  resources-by-format:
+    output: true
+  ongoing-events:
+    output: true
+  past-events:
     output: true
   school-resources:
     output: true
-  elearn:
+  engage-us:
     output: true
-  national-library:
-    output: true
-  fake-news:
-    output: true
-resources_name: resource-room
+    
+# Resources and pagination
+resources_name: blog
+paginate: 12
+paginate_path: "/blog/page:num"
