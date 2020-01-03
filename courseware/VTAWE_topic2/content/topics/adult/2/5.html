@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>building</title>
+<!--Adobe Edge Runtime-->
+    <script type="text/javascript" charset="utf-8" src="edge_includes/edge.6.0.0.min.js"></script>
+    <style>
+        .edgeLoad-EDGE-1646797 { visibility:hidden; }
+    </style>
+<script>
+   AdobeEdge.loadComposition('5', 'EDGE-1646797', {
+    scaleToFit: "both",
+    centerStage: "horizontal",
+    minW: "0px",
+    maxW: "undefined",
+    width: "1024px",
+    height: "576px"
+}, {"dom":[]}, {"dom":[]});
+</script>
+<!--Adobe Edge Runtime End-->
+<script type="text/javascript">
+    var symbols=[];
+    var selected=false;
+    soundLibrary=[
+        {url:"1",offset:2.866,duration:30}
+    ];
+    
+    bgSoundLibrary=[
+        {url:"music1",offset:0}
+    ];
+    
+    function hideControl(){
+        this.parent.control.removeControl();
+    }
+    
+    function loadNextPage(path){
+        if(this.parent.control.loadPage)this.parent.control.loadPage(path);
+    }
+    
+    var x1;
+    var x2;
+    var sym1;
+    var sym2;
+    function initGame(){
+        timeline.$("a").data("x",10);
+        timeline.$("b").data("x",351);
+        timeline.$("c").data("x",690);
+        
+        timeline.$("a").data("x1",351);
+        timeline.$("b").data("x1",690);
+        timeline.$("c").data("x1",10);
+        
+        timeline.$("a").css("left",351);
+        timeline.$("b").css("left",690);
+        timeline.$("c").css("left",10);
+        
+        timeline.$("a").data("sym",timeline.getSymbol("a"));
+        timeline.$("b").data("sym",timeline.getSymbol("b"));
+        timeline.$("c").data("sym",timeline.getSymbol("c"));
+        
+        $(".triggers").click(function(){
+            if(!selected){
+                x1 = $(this).data("x1");
+                sym1=this;
+                selected=true;
+                $(this).data("sym").stop("selected");
+                
+            }
+            else{
+                x2 = $(this).data("x1");
+                sym2 = this;
+                selected=false;
+                timeline.getSymbol("a").stop("notselected");
+                timeline.getSymbol("b").stop("notselected");
+                timeline.getSymbol("c").stop("notselected");
+                
+                $(sym1).data("x1",x2);
+                $(sym1).stop().animate({
+                    left:x2
+                });
+                $(sym2).data("x1",x1);
+                $(sym2).stop().animate({
+                    left:x1
+                });
+                
+                if(timeline.$("a").data("x")==timeline.$("a").data("x1")&&timeline.$("b").data("x")==timeline.$("b").data("x1")&&timeline.$("c").data("x")==timeline.$("c").data("x1")){
+                    timeline.play();
+                }
+            }
+        });
+    }
+</script>
+</head>
+<body style="margin:0;padding:0;">
+	<div id="Stage" class="EDGE-1646797">
+	</div>
+</body>
+</html>

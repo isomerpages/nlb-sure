@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>Untitled</title>
+<!--Adobe Edge Runtime-->
+    <script type="text/javascript" charset="utf-8" src="edge_includes/edge.6.0.0.min.js"></script>
+    <style>
+        .edgeLoad-EDGE-601893278 { visibility:hidden; }
+    </style>
+<script>
+   AdobeEdge.loadComposition('5', 'EDGE-601893278', {
+    scaleToFit: "both",
+    centerStage: "horizontal",
+    minW: "0px",
+    maxW: "undefined",
+    width: "1024px",
+    height: "576px"
+}, {dom: [ ]}, {dom: [ ]});
+</script>
+<!--Adobe Edge Runtime End-->
+<style>
+    .highlighted{
+        border:2px solid red;
+    }
+</style>
+<script type="text/javascript">
+    soundLibrary=[
+        {url:"5",offset:2.601,duration:56}
+    ];
+    
+    bgSoundLibrary=[
+        {url:"music1",offset:0}
+    ];
+    
+    var selectedMC;
+    function initGames(){
+        for(var i=0;i<$(".dragIcons").length;i++){
+            var xPos1 = $($(".dragIcons")[i]).data("x");
+            var rnd = Math.floor(Math.random()*$(".dragIcons").length);
+            var xPos2 = $($(".dragIcons")[rnd]).data("x");
+            
+            $($(".dragIcons")[i]).data("x",xPos2);
+            $($(".dragIcons")[i]).css({
+                left:xPos2
+            });
+            $($(".dragIcons")[rnd]).data("x",xPos1);
+            $($(".dragIcons")[rnd]).css({
+                left:xPos1
+            });
+        }
+        $(".dragIcons").click(function(){
+            if(!selectedMC){
+                selectedMC=this;
+                $(this).addClass("highlighted");
+            }
+            else{
+                var x1 = $(selectedMC).data("x");
+                var x2 = $(this).data("x");
+                $(selectedMC).stop().animate({
+                    left:x2
+                });
+                $(this).stop().animate({
+                    left:x1
+                });
+                $(selectedMC).data("x",x2);
+                $(this).data("x",x1);
+                $(selectedMC).removeClass("highlighted");
+                selectedMC=null;
+            }
+        });
+    }
+</script>
+</head>
+<body style="margin:0;padding:0;">
+	<div id="Stage" class="EDGE-601893278">
+	</div>
+</body>
+</html>

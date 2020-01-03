@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/tabs.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<style>
+.tab-panel {
+	width:98% !important;
+	overflow:auto;
+	color:#fff;
+}
+</style>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+<script>
+
+
+function radSel1(){
+	document.getElementById("b1").disabled = false;
+}
+
+function disableAct1(){
+	document.getElementById("b1").disabled = true;
+	for(var i=1;i<=3;i++){
+			document.getElementById("r"+i).disabled = true;	
+	}
+}
+
+
+function checkAnswer1()
+{
+	var correctFlag=false;
+	if(document.getElementById("r1").checked){
+		correctFlag=true;
+	}else{
+		correctFlag=false;
+	}
+	
+	if(correctFlag){
+		$("#hidden_div").show("slow");
+		
+	}else{
+				$("#hidden_div2").show("slow");
+		}
+		
+	disableAct1()
+  return false;
+}
+
+
+function radSel2(){
+	document.getElementById("b2").disabled = false;
+}
+
+function disableAct2(){
+	document.getElementById("b2").disabled = true;
+	for(var i=1;i<=3;i++){
+			document.getElementById("s"+i).disabled = true;	
+	}
+}
+
+
+function checkAnswer2()
+{
+	var correctFlag=false;
+	if(document.getElementById("s3").checked){
+		correctFlag=true;
+	}else{
+		correctFlag=false;
+	}
+	
+	if(correctFlag){
+		$("#hidden-div").show("slow");
+		
+	}else{
+				$("#hidden-div2").show("slow");
+		}
+		
+	disableAct2()
+  return false;
+}
+
+function radSel3(){
+	document.getElementById("b3").disabled = false;
+}
+
+function disableAct3(){
+	document.getElementById("b3").disabled = true;
+	for(var i=1;i<=3;i++){
+			document.getElementById("t"+i).disabled = true;	
+	}
+}
+
+
+function checkAnswer3()
+{
+	var correctFlag=false;
+	if(document.getElementById("t1").checked){
+		correctFlag=true;
+	}else{
+		correctFlag=false;
+	}
+	
+	if(correctFlag){
+		$("#hidden-div3").show("slow");
+		
+	}else{
+				$("#hidden-div4").show("slow");
+		}
+		
+	disableAct3()
+  return false;
+}
+
+</script>
+</head>
+<body>
+<div class="container pg06">
+  <section class="cn-container">
+    <div class="cn-slide">
+      <div class="rw-words rw-words-2">
+        <h3>Which Source Would You Refer to First? - Question 1</h3>
+        <h5 style="margin-bottom:0">For the given topic, select the source that you would most likely refer to first. Choose the correct option and click Submit.</h5>
+        <div class="leftcontent">
+          <p> Impact of Japanese occupation of Singapore</p>
+          <FORM method="POST" onSubmit="return checkAnswer1();"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel1()">
+              History books</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel1()">
+              Internet</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r3" onClick="radSel1()">
+              TV programmes</p>
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none; color:#000;">That is correct.
+            <p class="red mrT10">Click Next to continue.</p>
+          </div>
+          <div id="hidden_div2" class="anstxt" style="display:none;  color:#000;"> That is incorrect. The correct answer is 'History books'.
+            <p class="red mrT10">Click Next to continue.</p>
+          </div>
+          <div class="playerwrapper">
+            <audio id="player" preload="auto"  controls="controls"  >
+              <source src="../audio/M3_6_a.mp3">
+              <source src="../audio/M3_6_a.ogg">
+            </audio>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>building</title>
+<!--Adobe Edge Runtime-->
+    <script type="text/javascript" charset="utf-8" src="edge_includes/edge.6.0.0.min.js"></script>
+    <style>
+        .edgeLoad-EDGE-1646797 { visibility:hidden; }
+    </style>
+<script>
+   AdobeEdge.loadComposition('3', 'EDGE-1646797', {
+    scaleToFit: "both",
+    centerStage: "horizontal",
+    minW: "0px",
+    maxW: "undefined",
+    width: "1024px",
+    height: "576px"
+}, {"dom":[]}, {"dom":[]});
+</script>
+<!--Adobe Edge Runtime End-->
+<script type="text/javascript">
+    soundLibrary=[
+        {url:"3",offset:3.876,duration:26}
+    ];
+    
+    bgSoundLibrary=[
+        {url:"music1",offset:0}
+    ];
+    
+    var xpos=425;
+    var ypos=90;
+    var drag=false;
+    var dropCorrect=false;
+    function initGame(){
+        var scale;
+        var ctr=1;
+        var mc;
+        $(".envelopes").draggable({
+            start:function(event, ui){
+                    mc=this;
+                    $(this).css({
+                        zIndex:999
+                    });
+                    scale=utils.getScale();
+                    ui.position.left = 0;
+                    ui.position.top = 0; 
+                    dropCorrect=false;
+            },
+            drag: function(event, ui) {
+                drag=true; 
+                    var changeLeft = ui.position.left - ui.originalPosition.left; // find change in left
+                    var newLeft = ui.originalPosition.left + changeLeft / (( scale)); // adjust new left by our zoomScale
+
+                    var changeTop = ui.position.top - ui.originalPosition.top; // find change in top
+                    var newTop = ui.originalPosition.top + changeTop / scale // adjust new top by our zoomScale
+
+                    ui.position.left = newLeft;
+                    ui.position.top = newTop;
+
+            },
+            stop:function(event,ui){
+                if(!dropCorrect){
+                    playSFX("wrong1");
+                    $(this).stop().animate({
+                        left:xpos,
+                        top:ypos
+                    })
+                }
+            }
+        });
+        
+        
+        $(".groups").droppable({
+            drop:function(){
+                if($(this).data("partner")==$(mc).data("partner")){
+                    dropCorrect=true;
+                    playSFX("correct1");
+                    if(ctr<3){
+                        ctr++;
+                        timeline.$("invitation"+ctr).show();
+                        timeline.getSymbol("invitation"+ctr).play(0);
+                        timeline.$("invitation"+ctr).css({
+                            zIndex:9999
+                        });
+                    }
+                    else{
+                        // Show an element 
+                        timeline.$("mainmenu").show();
+                        timeline.$("mainmenu").css({
+                            zIndex:10000
+                        });
+                        timeline.$("game-resultCorrect").show();
+                        timeline.$("game-resultCorrect").css({
+                            zIndex:9999
+                        });
+                        timeline.getSymbol("game-resultCorrect").play(0);
+                    }
+                }
+            }
+        });
+    }
+</script>
+</head>
+<body style="margin:0;padding:0;">
+	<div id="Stage" class="EDGE-1646797">
+	</div>
+</body>
+</html>

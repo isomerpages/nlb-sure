@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>Untitled</title>
+<!--Adobe Edge Runtime-->
+    <script type="text/javascript" charset="utf-8" src="edge_includes/edge.6.0.0.min.js"></script>
+    <style>
+        .edgeLoad-EDGE-186649922 { visibility:hidden; }
+    </style>
+<script>
+   AdobeEdge.loadComposition('1b', 'EDGE-186649922', {
+    scaleToFit: "both",
+    centerStage: "horizontal",
+    minW: "0px",
+    maxW: "undefined",
+    width: "1024px",
+    height: "576px"
+}, {dom: [ ]}, {dom: [ ]});
+</script>
+<!--Adobe Edge Runtime End-->
+<style>
+    .cardsback{
+        background-image: url(images/card-back.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100% !important;
+        -moz-background-size: 100% 100% !important;
+        -webkit-background-size: 100% 100% !important;
+        background-position: center;
+    }
+    .cardsfront{
+        background-repeat: no-repeat;
+        background-size: 100% 100% !important;
+        -moz-background-size: 100% 100% !important;
+        -webkit-background-size: 100% 100% !important;
+        background-position: center;
+    }
+        
+</style>
+<script type="text/javascript">
+    soundLibrary=[
+        {url:"1b",offset:1.5,duration:14}
+    ];
+    
+    bgSoundLibrary=[
+        {url:"music1",offset:0}
+    ]
+    
+    var selected=false;
+    var card1=null;
+    var card2=null;
+    var pair1="";
+    var pair2="";
+    var showfeedback;
+    var data=[
+                {pair:1,icon:"card-creator1.png"},
+                {pair:1,icon:"card-receiver1.png"},
+                {pair:2,icon:"card-creator2.png"},
+                {pair:2,icon:"card-receiver2.png"},
+                {pair:3,icon:"card-creator3.png"},
+                {pair:3,icon:"card-receiver3.png"},
+                {pair:4,icon:"card-creator4.png"},
+                {pair:4,icon:"card-receiver4.png"},
+                {pair:5,icon:"card-creator5.png"},
+                {pair:5,icon:"card-receiver5.png"},
+                {pair:6,icon:"card-creator6.png"},
+                {pair:6,icon:"card-receiver6.png"}
+             ];
+    
+    var rndNum = [0,1,2,3,4,5,6,7,8,9,10,11];
+    function initGame(cb){
+        showfeedback=cb;
+        rndNum = utils.arrayRandomize(rndNum);
+        
+        for(var i=0;i<$(".cards").length;i++){
+            //$("#Stage_card"+(i+1)+"_front").text(data[rndNum[i]].pair);
+            $("#Stage_card"+(i+1)+"_front").css({
+               backgroundImage:"url(images/"+data[rndNum[i]].icon+")" 
+            });
+            $($(".cards")[i]).data("pair",data[rndNum[i]].pair);
+        }
+    }
+    
+    function verifyAnswer(){
+        if(card1&&card2){
+            console.log(pair1+"=="+pair2);
+            if(pair1==pair2&&pair1!=""&&pair2!=""){
+                
+                //alert(card1==card2);
+                //alert(card1+":"+card2);
+                var ctr=0;
+                for(var i=0;i<$(".cardsback").length;i++){
+                    if($($(".cardsback")[i]).css("display")!="none")ctr++;
+                }
+                console.log("ctr:"+ctr)
+                if(ctr==0){
+                    showfeedback();
+                    $("#Stage_mainmenu").fadeIn();
+                }
+                //$("#Stage_card"+pair1).unbind("click");
+                //$("#Stage_card"+pair2).unbind("click");
+                
+                setTimeout(function(){
+                    card1.play("end");
+                    card2.play("end");
+                    card1=card2=null;
+                    pair1=pair2="";
+                },500);
+                
+            }
+            else{
+                setTimeout(function(){
+                    card1.play("back");
+                    card2.play("back");
+                    card1=card2=null;
+                    pair1=pair2="";
+                },1000);
+                
+            }
+        }
+    }
+</script>
+</head>
+<body style="margin:0;padding:0;">
+	<div id="Stage" class="EDGE-186649922">
+	</div>
+</body>
+</html>
