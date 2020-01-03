@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<style>
+
+.leftcontent
+{
+width:65%;
+}
+body 
+{ min-height:600px !important;}
+
+</style>
+
+<script type="text/javascript">
+    if((navigator.userAgent.match(/iPad/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"../css/ipad.css\" charset=\"utf-8\" \/>");
+    }
+    /*else if((navigator.userAgent.match(/iPhone/i))||(navigator.userAgent.match(/iPod/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"iphone.css\" charset=\"utf-8\" \/>");
+    }
+    else {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"iphone.css\" \/>");*/
+
+</script>
+<script>
+
+
+var total=3;
+var userAns=new Array();
+var storedAns=[0,1,0];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("r3").checked = false;
+	
+	
+	
+	
+	
+	
+	
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div2").show("slow");
+		
+		
+	}else{
+			disableAll();
+			//showCorrect();
+			
+			if(document.getElementById("r1").checked){
+				$("#hidden_div1").show("slow");
+			}else if(document.getElementById("r3").checked){
+				$("#hidden_div3").show("slow");
+			}
+	  		
+		
+		}
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container hgt3">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words ">
+        <h3>Using Citation Machine (Cont'd)<span> There is no audio on this page. </span></h3>
+        <div class="leftcontent floatL">
+     
+         
+          
+          <h5>What are the basic must-have details that you need to cite a source? Choose the correct option and click Submit.
+</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+          
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+         Author, Date, URL
+           </p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r2" onClick="radSel()">
+         Author, Date, Title, URL
+           </p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r3" onClick="radSel()">
+        Author, Date, Title, Journal name, URL
+           </p>
+          
+           
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+          </form>
+          <div id="hidden_div1" class="anstxt" style="display:none; margin-bottom:1%;"><p>That is incorrect. The correct answer is: Author, Date, Title, URL. It would be better if you had the Title as well, then your teacher would not have to look up the source herself.</p><p class="red mrT10">Click Next to continue. </p> 
+
+</div>
+          <div id="hidden_div2" class="anstxt" style="display:none; margin-bottom:1%;"><p>That is correct. This has all the information that your teacher may need to check up on the source.</p><p class="red mrT10">Click Next to continue. </p>
+          
+
+ </div><div id="hidden_div3" class="anstxt" style="display:none; margin-bottom:1%;"><p> That is incorrect. The correct answer is: Author, Date, Title, URL. It would be nice if you had all these details. Your teacher would be proud. 
+          </p><p class="red mrT10">Click Next to continue. </p>
+          
+
+ </div>
+ <!-- <citation>
+        <br/>
+        <p><strong>Citation:</strong></p>
+        <p>Obama, B. (2006). The Coming Storm: Energy Independence and the Safety of Our Planet. Think Progress, Retrieved from http://thinkprogress.org/obama-oil-speech/</p>
+           <p>Warlick, D. (2000, October 29). Son of citation machine. Retrieved from http://www.citationmachine.net</p>  
+        </citation>-->
+
+        </div>
+         
+        <div class="grid300 floatR" style="margin:0;">
+          <div class="ch-item ch-img-m2p4a">
+            <div class="ch-info"> </div>
+          </div>
+        
+                 
+        </div> 
+       
+       
+      </div>
+     
+     
+    </div>
+  </section>
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+
+</html>
