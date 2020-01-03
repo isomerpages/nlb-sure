@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+ 
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/tab.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<style>
+.listings li {
+	width:100%;
+	display:block !important;
+	left:10px;
+}
+.listing2 tr {
+	color:red;
+}
+
+table tr td{
+padding:10px;	
+}
+
+
+</style>
+</head>
+<body>
+<div class="container pg09">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words rw-words-2">
+     <!--
+        <h3>Stage 2: Select Information</h3>
+        <div class="leftcontent" style="width:65%; height:650px;">
+            
+        <p>This stage involves locating appropriate resources as well as selecting the most useful and relevant sources. It also includes conducting primary research to obtain more information.</p>
+        <br/>
+        <p>
+            <b>Second aspect of conducting research: Understand the information</b>
+            <br><br>
+     -->
+        <h3>Second component of S.U.R.E.: Understand the information.</h3>
+        <div class="leftcontent">
+        <p>
+            The second component of S.U.R.E. is to understand
+ the information that you are reading. 
+             <br><br>
+            Seek clarity in the information you have found. 
+            Ask yourself if the information presented is a fact or opinion. 
+            A blog is opinion-based while newspapers present facts about an event.
+
+        </p>
+        <!--
+        <p class="red topmargin10">Click on the 'Help By' and 'Facilitate By' to learn about how you can help and facilitate in this stage.</p>
+        
+          <ul id="nav" class="nav1">
+            <li><a href="javascript: void(0);">Help By</a>
+              <section id="seven" style=" width:92%;">
+                <p>Informing students that information can be found in different formats and in different locations. Both the educator and librarian can do this. </p>
+                <p class="red pdngTB1">Example</p>
+                <ul class="listingsmpl" style="margin-left:15px;">
+                <li>Public and School Library</li>
+                <li>Museums and Archives</li>
+                <li>Parents, Librarians, Friends, Specialists, Experts</li>
+                <li>Internet, Online databases, Printed Books</li>
+                </ul>
+                </section>
+            </li>
+            
+            <li><a href="javascript: void(0);">Facilitate By</a>
+              <section>
+                <p class="pdngB1">Sharing with students some search tips, information formats and sources available in the library.</p>
+                
+                <table border="1px;" bordercolor="#FFFFFF" bgcolor="#e8e3d2">   
+                            
+                  <tr>
+                    <td valign="top" class="red">Searching Tips</td>
+                    <td valign="top" class="red">Types of information formats</td>
+                    <td valign="top" class="red">Types of resources in the library</td>
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                    <ul class="listingsmpl" style="margin-left:15px;">
+                       <li>From the research topic, identify the main concepts or keywords.</li>
+                       <li>For each main concept or keyword, list as many synonyms within the context of use.</li>
+                       <li>When searching the Internet, formulate effective search strategies using Boolean and phrase techniques.</li>
+                       </ul>
+                      </td>
+                      
+                    <td valign="top">
+                    <ul class="listingsmpl">
+                        <li>Print</li>
+                        <li>Electronic</li>
+                        <li>Multimedia</li>
+                        </ul>
+                      </td>
+                    <td>
+                    <ul class="listingsmpl">
+                        <li>Newspapers</li>
+                        <li>Fiction books and non-fiction books</li>
+                        <li>Magazines</li>
+                        <li>Journals</li>
+                        <li>Websites</li>
+                        <li>Pamphlets</li>
+                        <li>Brochures</li>
+                        <li>Flyers/handouts</li>
+                        <li>Audio and audio-visual compact discs</li>
+                        </ul>
+                        </td>
+                  		</tr>
+                </table>
+              </section>
+            </li>
+          </ul>
+        -->
+          <div class="clearfix"></div>
+<p class="red pdngTB1">Click Next to continue.</p>
+        </div>
+        
+          <!--<div class="ch-img-1 floatR"></div>-->
+           <img src="../images/circle_2.png" class="rightimage" alt="">
+                
+                
+
+        </div>
+   
+        
+      </div>
+    
+  
+    <div class="playerwrapper">
+      <audio id="player" preload="auto" autoplay="true"  controls="controls" >
+        <source src="../audio/M2_8_a.mp3">
+        <source src="../audio/M2_8_a.ogg">
+      </audio>
+    </div>
+    
+  </section>
+  
+        
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+
+<script>
+
+$(document).ready(function () {
+    
+    $('#nav').children('li').first().children('a').addClass('active')
+        .next().addClass('is-open').show();
+        
+    $('#nav').on('click', 'li > a', function() {
+        
+      if (!$(this).hasClass('active')) {
+
+        $('#nav .is-open').removeClass('is-open').hide();
+        $(this).next().toggleClass('is-open').toggle();
+          
+        $('#nav').find('.active').removeClass('active');
+        $(this).addClass('active');
+      } else {
+        $('#nav .is-open').removeClass('is-open').hide();
+        $(this).removeClass('active');
+      }
+   });
+});
+
+</script>
+</html>

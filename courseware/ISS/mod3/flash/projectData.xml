@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+<!-- IMPORTANT: id for every tag must be unique, must always start with content tag and it must always start with id 0, type is a must to specified -->
+<Content id="0" title="S.U.R.E Campaign" scormEnabled="true" scormVersion="2004" bookmarkEnabled="true" glossaryEnabled="true" fileLocation="menu.swf" controlMode="false" volume="1" downloadFile="" quizNum="0" passingScore="0" type="folder" introPage="">
+	<Topic id="1" title="Internet Searching Skills " type="folder">
+		<Section id="1.1" title="Employing the most effective search strategies " type="folder">
+			<Page id="1.1.1" file="pages/Topic3/sec3_1.swf" title = "Using Appropriate Search Strategies for Different Search Tools" type="page" urlResource="pages/Topic3/sec3_1.flv" />
+			<Page id="1.1.2" file="pages/Topic3/sec3_2.swf" title = "Strategies for Search Engines"  type="page" urlResource="pages/Topic3/sec3_2.flv" />
+			<Page id="1.1.3" file="pages/Topic3/sec3_3.swf" title = "Searching Records on NLB Catalogue" type="page" urlResource="pages/Topic3/sec3_3.flv"/>
+			<Page id="1.1.4" file="pages/Topic3/sec3_4.swf" title = "NLB Library Catalogue" type="page" urlResource="pages/Topic3/sec3_4.flv" />
+			<Page id="1.1.5" file="pages/Topic3/sec3_4_static1.swf" title = "NLB Library Catalogue (Cont'd)" type="page" urlResource="http://catalogue.nlb.gov.sg" />			
+			<Page id="1.1.6" file="pages/Topic3/sec3_5.swf" title = "NLB OneSearch" type="page" urlResource="pages/Topic3/sec3_5.flv"/>
+			<Page id="1.1.7" file="pages/Topic3/sec3_5_static1.swf" title = "NLB OneSearch (Cont'd)" type="page" urlResource="http://search.nlb.gov.sg/" />	
+			
+			
+			<Page id="1.1.8" file="pages/Topic3/sec3_6.swf" title = "Archives Online" type="page" urlResource="pages/Topic3/sec3_6.flv" />
+			<Page id="1.1.9" file="pages/Topic3/sec3_6_static1.swf" title = "Archives Online (Cont'd)" type="page" urlResource="http://www.nas.gov.sg/archivesonline/search" />
+			<Page id="1.1.10" file="pages/Topic3/sec3_7.swf" title = "NewspaperSG" type="page" urlResource="pages/Topic3/sec3_7_video1.flv" />
+			<Page id="1.1.11" file="pages/Topic3/sec3_7_static1.swf" title = "NewspaperSG (Cont'd)" type="page" urlResource="http://eresources.nlb.gov.sg/newspapers/" />			
+			<Page id="1.1.12" file="pages/Topic3/sec3_7.swf" title = "eLearn Centre" type="page" urlResource="pages/Topic3/sec3_7_video2.flv" />
+			<Page id="1.1.13" file="pages/Topic3/sec3_7_static2.swf" title = "eLearn Centre(Cont'd)" type="page" urlResource="http://www.nlb.gov.sg/sure/elearn-centre/" />			
+			<Page id="1.1.14" file="pages/Topic3/sec3_8.swf" title = "Conclusion" type="page" urlResource="pages/Topic3/sec3_8.flv" />
+			<Page id="1.1.15" file="pages/Topic3/quiz.swf" title = "Activity" type="page" urlResource=""/>
+		</Section>
+	</Topic>
+</Content>
+</Project>

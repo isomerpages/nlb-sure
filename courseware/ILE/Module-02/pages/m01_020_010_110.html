@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+ 
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/tab.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<style>
+.listings li {
+	width:100%;
+	display:block !important;
+	left:10px;
+}
+
+
+table tr td{
+padding:5px;	
+}
+</style>
+
+
+<script type="text/javascript">
+    if((navigator.userAgent.match(/iPad/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"../css/ipad.css\" charset=\"utf-8\" \/>");
+    }
+    /*else if((navigator.userAgent.match(/iPhone/i))||(navigator.userAgent.match(/iPod/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"iphone.css\" charset=\"utf-8\" \/>");
+    }
+    else {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"iphone.css\" \/>");*/
+
+</script>
+
+
+</head>
+<body>
+<div class="container pg11">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words rw-words-2">
+        <!--<h3>Stage 4: Use Information</h3>
+        <div class="leftcontent">
+        <p> This stage involves formulating an answer, based on facts, to the problem. New knowledge is presented and communicated using an appropriate medium.</p>
+        <p>
+            <br>
+            <b>Fourth aspect of conducting research: Research</b>
+            <br><br>-->
+         <h3>Fourth component of S.U.R.E.: Evaluate</h3>
+         <div class="leftcontent">
+         <p>
+            The fourth component of S.U.R.E. is to evaluate the information found. Find the 
+            balance and exercise fair judgement. Use the 5-finger test 
+            to evaluate the credibility of online information. 
+            <br><br>
+            Watch the video: The case of the antique chairs
+            <br><br>
+            URL: <a style="text-decoration: none;" href="http://www.nlb.gov.sg/sure/video-case-of-the-antique-chairs/" onclick="window.open(this.href, 'URL','left=20,top=20,width=\'70%\',height=\'70%\',toolbar=1,resizable=0'); return false;">http://www.nlb.gov.sg/sure/video-case-of-the-antique-chairs/</a>
+
+         </p>
+          <!--
+          <p class="red topmargin10">Click on the 'Help By' and 'Facilitate By' to learn about how you can help and facilitate in this stage.</p>
+          
+          <ul id="nav" class="nav1">
+            <li><a href="javascript: void(0);">Help By</a>
+              <section style=" width:92%;">
+              <p> Guiding students how to paraphrase, take notes and cite the information gathered from different sources to compile a bibliography or reference list. </p><br/>
+              <img src="../images/girl_boy.png"> </section>
+            </li>
+            
+            <li><a href="javascript: void(0);">Facilitate By</a>
+              <section>
+                <p class="pdngB1">Explaining and making students aware of these concepts:</p>
+                
+                <table border="1px;" bordercolor="#FFFFFF" bgcolor="#e8e3d2">               
+                  <tr>
+                    <td valign="top" class="red">Plagiarism</td>
+                    <td valign="top" class="red">Citation</td>
+                    
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                       <p>This refers to passing off someone else’s work as your own. To avoid plagiarism, paraphrase and acknowledge the original author using citations.</p>
+                       
+                      </td>
+                    <td valign="top">
+                        <p>Citation is the act of making a reference to the source from which the information is quoted or taken from.</p>
+                        
+                      </td>
+                 </tr>
+                 
+                 <tr>
+                    <td valign="top" class="red">Paraphrasing</td>
+                    <td valign="top" class="red">Bibliography or Reference List</td>
+                    
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                       <p>Paraphrasing involves re-wording a statement or statements made by the original author.</p>
+                       
+                      </td>
+                    <td valign="top">
+                        <p>A bibliography contains a list of the resources that the student has referred to. It is usually placed at the end of the project report. The titles and authors of the source are listed, in alphabetical order.</p>
+                        
+                      </td>
+                 </tr>
+                </table>
+              </section>
+            </li>
+          </ul>
+          -->
+          <div class="clearfix"></div>
+            <p class="red pdngTB1">Click Next to continue.</p>
+          </div>
+          
+     <!--     <div class="grid floatR">-->
+            <img src="../images/circle_4.png" class="rightimage" alt="">
+           
+            
+            
+            
+           
+           
+          </div>
+        </div>
+        
+        <div class="playerwrapper">
+          <audio id="player" preload="auto" autoplay="true"  controls="controls" >
+            <source src="../audio/M2_10_a.mp3">
+            <source src="../audio/M2_10_a.ogg">
+          </audio>
+        </div>
+      
+      
+      
+      
+    
+  </section>
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+
+
+<script>
+
+$(document).ready(function () {
+    
+    $('#nav').children('li').first().children('a').addClass('active')
+        .next().addClass('is-open').show();
+        
+    $('#nav').on('click', 'li > a', function() {
+        
+      if (!$(this).hasClass('active')) {
+
+        $('#nav .is-open').removeClass('is-open').hide();
+        $(this).next().toggleClass('is-open').toggle();
+          
+        $('#nav').find('.active').removeClass('active');
+        $(this).addClass('active');
+      } else {
+        $('#nav .is-open').removeClass('is-open').hide();
+        $(this).removeClass('active');
+      }
+   });
+});
+
+</script>
+</html>

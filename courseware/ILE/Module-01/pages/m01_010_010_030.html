@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+ 
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/tab.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script type="text/javascript">
+    if((navigator.userAgent.match(/iPad/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"../css/ipad.css\" charset=\"utf-8\" \/>");
+    }
+    /*else if((navigator.userAgent.match(/iPhone/i))||(navigator.userAgent.match(/iPod/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"iphone.css\" charset=\"utf-8\" \/>");
+    }
+    else {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"iphone.css\" \/>");*/
+
+</script>
+
+
+
+
+</head>
+<body>
+<div class="container ">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words rw-words-2">
+        <h3>Types of Literacy</h3>
+        <div class="leftcontent" style="width:65%;">
+          <p>In the past, literacy implied <strong class="red">the ability to read and comprehend what one reads</strong>. Today, literacy has many more dimensions. Before defining the concept of IL, let us look at the various types of literacy in today's world using the personas that we introduced earlier.</p>
+          <p class="red topmargin10">Click on each persona to learn about the literacy types.</p>
+          
+          
+          <ul id="nav">
+            <li><a href="javascript: void(0);">Rahul</a>
+              <section id="one">
+                <p><strong>Digital and Network Literacy</strong></p>
+                <p>The Internet is a one-stop place to find a lot of information on almost every subject. However, there are many irrelevant and inaccurate content published on the Internet. </p>
+                <br>
+                <p><strong>Analysis of Persona</strong></p>
+                <p>Rahul displays the ability to access different types of web content on the <strong class="red">Internet</strong>.</p>
+                <br>
+                <p>Is he able to evaluate the content effectively?</p>
+              </section>
+            </li>
+            
+            <li><a href="javascript: void(0);">Paul</a>
+              <section id="two">
+                <p><strong>Media or Communications Literacy</strong></p>
+                <p>Television, movies and radio play an important role in influencing and informing students. </p>
+                <br>
+                <p><strong>Analysis of Persona</strong></p>
+                <p>Paul displays the ability to learn from the <strong class="red">media</strong>.</p>
+                <br>
+                <p>Does he take this information at face value? </p>
+                <p>Does he have the ability to <strong class="red">use</strong> this information effectively?</p>
+                
+              </section>
+            </li>
+          
+            <li><a onClick="marc.playclip()"  href="javascript: void(0);">Zubi</a>
+              <section id="three">
+                <p><strong>Technology or Computer Literacy</strong></p>
+                <p>Our technological devices have become everyday tools.</p>
+                <br>
+                <p><strong>Analysis of Persona</strong></p>
+                <p>Zubi has the skill to use <strong class="red">computer applications</strong>.</p>
+                <br>
+                <p>Does she have the ability to <strong class="red">use these tools fully and understand their limitations</strong>?</p>
+              </section>
+            </li>
+            <li><a href="javascript: void(0);">Irene</a>
+              <section id="four">
+                <p><strong>Visual Literacy</strong></p>
+                <p>Many people are "visual learners" and seeing is understanding for them. </p>
+                <br>
+                <p><strong>Analysis of Persona </strong></p>
+                <p>Irene has the ability to learn through <strong class="red">visuals</strong>.</p>
+                <br>
+                <p>Does she have the ability to <strong class="red">appreciate</strong> the positive aspects, such as aesthetics? </p>
+                <p>Can she <strong class="red">critically analyse</strong> the negative aspects, such as cultural biases and design flaws?</p>
+               
+                
+              </section>
+            </li>
+            
+          </ul>
+          
+          
+          <p class="learningobject-grey">To be information literate, you must possess other skills over and above these literacy types. Find out who can be considered information literate via a true story.</p>
+          
+
+        </div>
+        
+        
+         <img src="../images/mod1/m1_p3.png" class="rightimage" alt="">
+      
+        
+      </div>
+    <div class="clearfix"></div><p class="red pdngTB1">Click Next to continue.</p>
+    
+    <div class="playerwrapper">
+      <audio id="player" preload="auto" autoplay="true"  controls="controls">
+        <source src="../audio/M1_3_a.mp3">
+        <source src="../audio/M1_3_a.ogg">
+      </audio>
+    </div></div>
+  </section>
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+<script>
+ $("#myElem").hide();
+setTimeout(function() { $("#myElem").show(); }, 12000);   
+ </script>
+<script>
+
+$(document).ready(function () {
+    
+    $('#nav').children('li').first().children('a').addClass('active')
+        .next().addClass('is-open').show();
+        
+    $('#nav').on('click', 'li > a', function() {
+        
+      if (!$(this).hasClass('active')) {
+
+        $('#nav .is-open').removeClass('is-open').hide();
+        $(this).next().toggleClass('is-open').toggle();
+          
+        $('#nav').find('.active').removeClass('active');
+        $(this).addClass('active');
+      } else {
+        $('#nav .is-open').removeClass('is-open').hide();
+        $(this).removeClass('active');
+      }
+   });
+});
+</script>
+</html>

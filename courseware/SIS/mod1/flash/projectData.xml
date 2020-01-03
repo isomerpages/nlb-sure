@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+<!-- IMPORTANT: id for every tag must be unique, must always start with content tag and it must always start with id 0, type is a must to specified -->
+<Content id="0" title="S.U.R.E Campaign" scormEnabled="true" scormVersion="2004" bookmarkEnabled="true" glossaryEnabled="true" fileLocation="menu.swf" controlMode="false" volume="1" downloadFile="" quizNum="0" passingScore="0" type="folder" introPage="">
+	<Topic id="1" title="Savvy Internet Searchers " type="folder">
+		<Section id="1.1" title="Identify information needs and resource types" type="folder" urlResource="">
+			<Page id="1.1.1" file="pages/Topic1/adult1_1.swf" title = "Introduction" type="page" urlResource="pages/Topic1/adult1_1.flv"/>
+			<Page id="1.1.2" file="pages/Topic1/adult1_2.swf" title = "Resource Types"  type="page" urlResource="pages/Topic1/adult1_2.flv"/>
+			<Page id="1.1.3" file="pages/Topic1/adult1_3.swf" title = "Academic Research" type="page" urlResource="pages/Topic1/adult1_3_video1.flv"/>
+			<Page id="1.1.4" file="pages/Topic1/adult1_3_static1.swf" title = "Academic Research (Cont'd)" type="page" urlResource="https://eresources.nlb.gov.sg/index.aspx"/>
+			
+			<Page id="1.1.5" file="pages/Topic1/adult1_4.swf" title = "News Articles" type="page" urlResource="pages/Topic1/adult1_4.flv"/>
+			<Page id="1.1.6" file="pages/Topic1/adult1_5.swf" title = "Portal" type="page" urlResource="pages/Topic1/adult1_5_video1.flv"/>
+			<Page id="1.1.7" file="pages/Topic1/adult1_5_static1.swf" title = "Portal(Cont'd)" type="page" urlResource="http://www.data.gov.sg;http://www.singaporememory.sg;http://www.ecitizen.gov.sg/Pages/default.aspx;http://www.wda.gov.sg/content/wdawebsite/L101-ForIndividuals/
+L206-005A-JobProfilerForIndividuals.html"/>
+			<Page id="1.1.8" file="pages/Topic1/adult1_5.swf" title = "Deep Web" type="page" urlResource="pages/Topic1/adult1_5_video2.flv"/>			
+			
+			<Page id="1.1.9" file="pages/Topic1/adult1_6.swf" title = "Images" type="page" urlResource="pages/Topic1/adult1_6_video1.flv"/>
+			<Page id="1.1.10" file="pages/Topic1/adult1_6_static1.swf" title = "Images (Cont'd)" type="page" urlResource="http://eresources.nlb.gov.sg/pictures/;http://www.nas.gov.sg/archivesonline/search"/>
+			
+			<Page id="1.1.11" file="pages/Topic1/adult1_7.swf" title = "Singapore-related Content" type="page" urlResource="pages/Topic1/adult1_7_video1.flv"/>
+			<Page id="1.1.12" file="pages/Topic1/adult1_7_static1.swf" title = "Singapore-related Content (Cont'd)" type="page" urlResource="http://eresources.nlb.gov.sg/infopedia/;http://www.nas.gov.sg/archivesonline/search"/>
+			
+			<Page id="1.1.13" file="pages/Topic1/adult1_8.swf" title = "Publishing Sites" type="page" urlResource="pages/Topic1/adult1_8.flv"/>
+			<Page id="1.1.14" file="pages/Topic1/adult1_8_static1.swf" title = "Publishing Sites (Cont'd)" type="page" urlResource="http://www.ntu.edu.sg/Library/collections/Pages/DRNTU.aspx;http://www.opendoar.org/;http://sparceurope.org/repositories/;http://arizona.openrepository.com"/>
+			<Page id="1.1.15" file="pages/Topic1/quiz.swf" title = "Activity" type="page" urlResource=""/>
+		</Section>
+	</Topic>
+</Content>
+</Project>

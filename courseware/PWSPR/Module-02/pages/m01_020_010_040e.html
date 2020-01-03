@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script>
+<!-- -----CYU Function ----------->
+var total=2;
+
+
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	
+}
+
+
+
+
+var ctr=0;
+var correctFlag=false;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=false;
+	
+			if(document.getElementById("r1").checked){
+					correctFlag=true;
+			}
+		
+	
+	if(correctFlag){
+		$("#hidden_div").show("slow");
+	}else{
+		$("#hidden_div2").show("slow");
+	}
+		
+	disableAll();
+  return false;
+}
+//-->
+<!------- End CYU Function ----------->
+
+</script>
+</head>
+<body>
+<div class="container">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words rw-words-2">
+         <h3>Designing the Attention Grabber and Conclusion - Question 5 </h3>
+       
+        <div class="leftcontent ">
+          <h5 style="margin-top:0;">Judge the shown attention grabber. Choose the feedback you would give and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Good</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel()">
+              Poor</p>
+            <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none">
+            <p>That is correct!</p>
+            <p>This is a good attention grabber.</p>
+            <p>Tip - <strong>Make a shocking statement or share your findings.</strong></p>
+            <p>
+            <ul class="simplelisting">
+              <li>A shocking statement or interesting findings will capture the interest of the audience.</li>
+            </ul>
+            </p>
+             <p class="red pdngTB1">Click Next to continue.</p>
+          </div>
+          <div id="hidden_div2" class="anstxt" style="display:none">
+            <p>This is incorrect!</p>
+            <p>This is a good attention grabber.</p>
+            <p>Tip - <strong>Make a shocking statement or share your findings.</strong></p>
+            <p>
+            <ul class="simplelisting">
+              <li>A shocking statement or interesting findings will capture the interest of the audience.</li>
+            </ul>
+            </p>
+             <p class="red pdngTB1">Click Next to continue.</p>
+          </div>
+        </div>
+        <div class="floatR" id="smalvedio">
+      
+      <video preload="metadata" controls autoplay  width="296" height="212" class="pdngT1"  onclick="if(/Android/.test(navigator.userAgent))this.play();">
+          <source src="../video/m2_p11_new.mp4" type="video/mp4" />
+          <source src="../video/m2_p11_new.webm" type="video/webm" />
+        </video>
+      
+       </div>
+  </section>
+</div>
+</body>
+</html>
