@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<script>
+
+
+var total=3;
+var userAns=new Array();
+var storedAns=[1,0,0];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+	
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("r3").checked = false;
+	
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div").show("slow");
+		
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		
+		}
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container pg15">
+  <section class="cn-container">
+    <div class="cn-slide">
+      <div class="rw-words rw-words-2">
+        <h3>Activity 1 <span>There is no audio on this page.</span></h3>
+        <div class="leftcontent width50">
+        <p>Let us return to Brad and his project group. They are having the following needs with regard to their primary data collection:</p>
+        <p>1. They have 2 terms to complete their project</p>
+        <p>2. They want to survey a large group of people (500) </p>
+        <p>3. They want to target students and working adults </p>
+        <p>4. They will be collecting more quantitative data and less qualitative data</p>
+        <h5>Which of the following survey methods should they use? Choose the correct option and click Submit.</h5>
+         
+    
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Mail and email surveys</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r2" onClick="radSel()">
+             Face-to-face interviews and telephone interviews</p>
+               <p> <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r3" onClick="radSel()">
+              Web surveys</p>
+           
+            
+            <p>
+             <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+             </p>
+          </form>
+          
+          <div id="hidden_div" class="anstxt" style="display:none">That is correct. Mail and email surveys may be better as they will allow them to survey <strong>more people</strong>. Unlike Web surveys, these survey methods allow the students to target their survey group. <p class="red topmargin10">Click Next to continue.</p></div>
+          <div id="hidden_div2" class="anstxt" style="display:none">That is incorrect. The correct answer is 'Mail and email surveys'.<br>
+          <strong>  Web surveys: </strong>This survey method may not be suitable as it is difficult to control who participates in the survey and how many times he or she participates in the survey. This may affect the accuracy of the data collected.<p>
+          <strong> Face-to-face interviews and telephone interviews:</strong> These survey methods may not be suitable for their survey needs as they are time consuming and are more suitable for <strong>a smaller sample size</strong>. Brad and his group want to survey <strong>500 people</strong>, which is a large sample size.</p> <p class="red topmargin10">Click Next to continue.</p></div>
+          
+         
+          
+        </div>
+        
+
+          <div class="ch-img-m3p9 floatR"> </div>
+
+         
+      </div>
+    
+      
+    </div>
+  </section>
+  <div style="width:5px; height:50px;"></div>
+</div>
+</body>
+</html>

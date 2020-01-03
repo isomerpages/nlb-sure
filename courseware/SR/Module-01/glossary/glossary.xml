@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="MEDIUM">
+<totalResultsCount>1</totalResultsCount>
+
+<glossary>
+<glossaryName>Close-ended questions</glossaryName>
+<Description>Close-ended questions are questions that can be answered with 'yes' or 'no'.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Double-barrelled questions</glossaryName>
+<Description>Double-barrelled questions are questions that ask more than one issue.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Email surveys</glossaryName>
+<Description>This is a survey method. Email surveys are very similar to mail surveys except that the questionnaire is sent out by email instead of by post.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Face-to-face Interviews</glossaryName>
+<Description>This is a survey method. The interviewer prepares a set of questions. He or she will personally seek the answers from the respondents.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Focus groups</glossaryName>
+<Description>This is a primary data gathering method. A focus group is a discussion of about 8 to 10 participants that you have selected based on various criteria.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Leading question</glossaryName>
+<Description>A leading question is phrased to influence the respondent to say 'yes'.</Description>
+</glossary>
+
+
+<glossary>
+<glossaryName>Loaded question</glossaryName>
+<Description>A loaded question contains words that may have negative connotations.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Mail surveys</glossaryName>
+<Description>This is a survey method. With a mail survey, the researcher will prepare a questionnaire. Copies of this questionnaire will then be sent out to a target group that has been randomly selected by post.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Observations</glossaryName>
+<Description>This is a primary data gathering method. Data is collected by observing the behaviour of a target group.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Open-ended questions</glossaryName>
+<Description>Open-ended questions are questions that cannot be answered with a simple 'Yes' or 'No'. They usually start with 'What', 'Why' and 'How'.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Primary data</glossaryName>
+<Description>Data that you personally collects for your research.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Problem statement</glossaryName>
+<Description>A problem statement can be a question that your research wants to find out about or a hypothesis (assumption) that your research wants to prove or test.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Qualitative approach</glossaryName>
+<Description>Refers to opinion-based research that is interested in collecting opinions.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Quantitative approach</glossaryName>
+<Description>Refers to fact-based research that is interested in collecting numerical data.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Response rates</glossaryName>
+<Description>This is the number of the people you send questionnaires to who actually respond expressed as percentage of the sample size.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Sample</glossaryName>
+<Description>A sample is the subset of a population. It is randomly picked from the population.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Secondary data</glossaryName>
+<Description>Research data that is collected by other researchers.</Description>
+</glossary>
+
+
+<glossary>
+<glossaryName>Social desirability bias</glossaryName>
+<Description>The tendency of the interviewee to avoid telling the truth because he or she desires to be socially accepted by others.</Description>
+</glossary>
+
+<glossary>
+<glossaryName>Telephone interviews</glossaryName>
+<Description>This is a survey method. In telephone interviews, the interview is carried out through the telephone.</Description>
+</glossary>
+
+
+<glossary>
+<glossaryName>Web surveys</glossaryName>
+<Description>This is a survey method. With web surveys, the questions for the survey are placed on a website and the URL (website address) is sent to the respondents. The respondents will then access the website to answer the questions.</Description>
+</glossary>
+
+
+
+
+
+</geonames>

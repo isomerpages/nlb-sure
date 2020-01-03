@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<script>
+
+
+var total=2;
+var userAns=new Array();
+var storedAns=[1,0];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	
+	
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	
+	
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div").show("slow");
+		
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		
+		}
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container pg19">
+  <section class="cn-container">
+    <div class="cn-slide">
+      <div class="rw-words rw-words-2">
+        <h3>Consolidating the Data </h3>
+        <div class="leftcontent width50">
+          <p>We will now look at the first sub-step - consolidating the data - in greater detail. 
+          <br>Let us now return to Brad and his group. They have collected the questionnaires from their email survey and are now consolidating their data for analysis. </p>
+          <h5>The group has collected their data. What should they do now? Choose the correct option and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Check the data for accuracy.</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel()">
+              Enter the data into the computer.</p>
+            </p>
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none"><p>That is correct! The data from the questionnaires may have errors. </p><br /> 
+          <p>Example: One of the respondents is a Malaysian and not a Singaporean. These errors will cause inaccuracies in the analysis. <p class="red topmargin10">Click Next to continue.</p></p>
+ </div>
+          
+          <div id="hidden_div2" class="anstxt" style="display:none"><p>That is incorrect. The data may have errors, therefore the group should check them for errors first. </p> <br />
+<p>Example: One of the respondents is a Malaysian and not a Singaporean. These errors will cause inaccuracies in the analysis.</p> <p class="red topmargin10">Click Next to continue.</p>
+ </div>
+        </div>
+        
+
+          <div class="ch-img-m3p13 floatR">  </div>
+
+      </div>
+     <div class="playerwrapper">
+      <audio id="player" preload="auto"  controls="controls" >
+        <source src="../audio/M3_8_a.mp3">
+        <source src="../audio/M3_8_a.ogg">
+      </audio>
+    </div>
+    </div>
+  </section>
+</div>
+</body>
+
+</html>

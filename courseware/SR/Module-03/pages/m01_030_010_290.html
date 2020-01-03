@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<script>
+
+
+var total=3;
+var userAns=new Array();
+var storedAns=[0,0,1];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+	
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("r3").checked = false;
+	
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div").show("slow");
+		$("#hidden_div4").hide("slow");
+		$("#hidden_div3").show("slow");
+		
+		
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		
+		}
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container pg29">
+  <section class="cn-container">
+    <div class="cn-slide">
+      <div class="rw-words rw-words-2">
+        <h3>Activity 3 <span>There is no audio on this page.</span></h3>
+        <div class="leftcontent width50">
+          <p>Let us now look at Brenda’s data. Read the question below carefully and decide how it should be represented graphically.</p>
+          <table width="100%" border="" cellspacing="1" cellpadding="0">
+            <tr>
+              <th scope="col" align="center">Questions asked:</th>
+              <th colspan="2" align="center">Data:</th>
+            </tr>
+            <tr>
+              <th scope="row">&nbsp;</th>
+              <td align="center">Yes</td>
+              <td align="center">No</td>
+            </tr>
+            <tr>
+              <td scope="row">Do you drink milk?</td>
+              <td align="center">80</td>
+              <td align="center">40</td>
+            </tr>
+          </table>
+          <br/>
+          <table width="100%" border="" cellspacing="0" cellpadding="0">
+            <tr>
+              <th  scope="col" align="center">Questions asked:</th>
+              <th colspan="4"  align="center" scope="col">Data:</th>
+            </tr>
+            <tr>
+              <td  scope="col">&nbsp;
+                </th>
+              <td  align="center" scope="col">Chocolate</td>
+              <td  align="center" scope="col">Strawberry</td>
+              <td  align="center" scope="col">Banana</td>
+              <td  align="center" scope="col">Plain</td>
+            </tr>
+            <tr>
+              <td scope="row">Q3. Which flavour do you like most?</td>
+              <td align="center">30</td>
+              <td align="center">20</td>
+              <td align="center">10</td>
+              <td align="center">20</td>
+            </tr>
+          </table>
+          <h5>Brenda wants to show that out of a population of 120, 80 people drink milk, and that out of these 80 people, the distribution of preferences among the 4 flavours are as shown above. Which chart would be most suitable for this need? Choose the correct option and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Bar chart</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r2" onClick="radSel()">
+              Line graph</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r3" onClick="radSel()">
+              Pie chart </p>
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none; margin-bottom:1%;">That is correct. We can use a pie chart to show the percentage of the sample that drinks milk. We can then use a second pie chart to show the preference of this group of people.
+            <p class="red topmargin10">Click Next to continue.</p>
+          </div>
+          <div id="hidden_div2" class="anstxt" style="display:none; margin-bottom:1%;">That is incorrect. The correct answer is 'Pie chart'.<br>
+            <strong> Bar charts: </strong>Bar charts can be used but it is not ideal in this case as Brenda is interested in the numbers as a percentage of the sample.
+            <p> <strong>Line graphs:</strong> Line graphs would not be useful in this situation.</p>
+            <p class="red topmargin10">Click Next to continue.</p>
+          </div>
+        </div>
+        <div id="hidden_div4" class="ch-img-m3p22 floatR"> </div>
+        <div id="hidden_div3" style="display:none;" class="ch-img-m3p22b floatR"> </div>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+</html>

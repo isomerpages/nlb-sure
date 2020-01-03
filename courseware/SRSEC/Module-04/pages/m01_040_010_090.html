@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<script>
+var total=6;
+var userAns=new Array();
+var storedAns=[1,1,0,1,1,1];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+			document.getElementById("r"+i).disabled = true;	
+	}
+}
+
+function resetAll(){
+for(var i=1;i<=total;i++){
+			document.getElementById("r"+i).checked = false;	
+	}
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		$("#hidden_div").show("slow");
+		
+	}else{
+			
+				$("#hidden_div2").show("slow");
+
+		}
+		
+disableAll();
+  return false;
+}
+</script>
+</head>
+<body>
+<div class="container pg09">
+  <section class="cn-container">
+    <div class="cn-slide"  >
+      <div class="rw-words rw-words-2">
+        <h3> Activity 2</h3>
+        <div>
+          <h5 style="margin-top:0;">The Abstract section provides the reader with a brief summary of the report. Which of the following items should be included briefly in the Abstract? Choose the correct option(s) and click Submit.</h5>
+         
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="checkbox" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+            The purpose of the report</p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="B" NAME="cc" id="r2" onClick="radSel()">
+              The findings</p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="A" NAME="cc" id="r3" onClick="radSel()">
+              The literature review</p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="B" NAME="cc" id="r4" onClick="radSel()">
+              The conclusion</p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="B" NAME="cc" id="r5" onClick="radSel()">
+              The recommendations</p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="B" NAME="cc" id="r6" onClick="radSel()">
+              The research methods</p>
+            <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none; width:720px;"><p>That is correct. The Abstract section provides an overview of the report. It does not include the literature review.</p><p class="red pdngTB1">Click Next to continue.</p></div>
+          <div id="hidden_div2" class="anstxt" style="display:none; width:700px;"><p>That is incorrect. The correct answers are 'The purpose of the report', 'The findings', 'The conclusion', 'The recommendations' and 'The research methods'. The Abstract section provides an overview of the report. It does not include the literature review.</p><p class="red pdngTB1">Click Next to continue.</p></div>
+        </div>
+      </div>
+      
+      <div class="playerwrapper">
+          <audio id="player" preload="auto"  autoplay="true"  controls="controls">
+            <source src="../audio/cyu.mp3">
+            <source src="../audio/cyu.ogg">
+          </audio>
+        </div>
+      
+      
+    </div>
+    
+  </section>
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+
+</html>

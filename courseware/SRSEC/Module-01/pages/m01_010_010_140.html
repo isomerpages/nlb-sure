@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+ 
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/tabs.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<style>
+.tab-panel {
+	width:98% !important;
+	overflow:auto;
+	color:#fff;
+}
+</style>
+</head>
+<body>
+<div class="container pg14">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words rw-words-2">
+        <h3>Stages of Project Work Reporting </h3>
+        <div class="fullwidth">
+          <p>We are now ready to learn how to write a research report. There are 3 stages to project work reporting. Do you know what they are? </p>
+          <p><span class="red">Click each stage below to learn more.</span></p>
+          
+          <div class="tabs">
+            <h2>Planning</h2>
+            <div>
+              <div class="leftcontentT">
+                <h5>Stage 1: Planning</h5>
+                <ul class="listing">
+                  <li>
+                    <p>Draft the outline of the report according to the 8 sections you learnt earlier</p>
+                  </li>
+                  <li>
+                    <p>Gather all the information you have</p>
+                  </li>
+                  <li>
+                    <p>Decide what needs to go into the  report</p>
+                  </li>
+                </ul>
+                <p class="topmargin10">Note: We will learn more about this stage in Modules 2 and 3 of this course.</p>
+              </div>
+              <img src="../images/step1-img.png" class="floatR" alt="">
+             </div>
+            <h2>Writing</h2>
+            <div>
+              <div class="leftcontentT">
+                <h5>Stage 2: Writing </h5>
+                <ul class="listing">
+                  <li>
+                    <p>Use appropriate report writing style</p>
+                  </li>
+                  <li>
+                    <p>Your research report should be <strong>clear</strong>, <strong>structured</strong>, and <strong>factual</strong>. <span class="red">(Click <a href="../resources/Qualities-of-CLASS.pdf" target="_blank">here</a> for CLASS guidelines).</span></p>
+                  </li>
+                </ul>
+                <p class="topmargin10">Note: We will learn more about this stage in Module 4 of this course.</p>
+              </div>
+               <img src="../images/step2-img.png" class="floatR" alt="">
+              </div>
+            <h2>Presenting</h2>
+            <div>
+              <div class="leftcontentT">
+                <h5>Stage 3: Presenting </h5>
+                <ul class="listing">
+                <li>
+                    <p>Prepare to present your project work to your teacher and classmates</p>
+                  </li>
+                
+                  <li>
+                    <p>Create presentation materials to communicate your project</p>
+                  </li>
+                  <li>
+                    <p>Present effectively and with impact.</p>
+                  </li>
+                </ul>
+                <!--
+                comment by myat
+                <p class="topmargin10">Note: Tips for effective persentations are covered in another courseware by NLBA.</p>
+                -->
+              </div>
+               <img src="../images/step3-img.png" class="floatR" alt="">
+              </div>
+          </div>
+          
+          
+        </div>
+        <p class="red topmargin10">Click Next to continue.</p>
+      </div>
+      <div class="playerwrapper">
+        <audio id="player" preload="auto"  autoplay="true"  controls="controls" >
+          <source src="../audio/M1_11_a.mp3">
+          <source src="../audio/M1_11_a.ogg">
+        </audio>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+<script type="text/javascript" src="../js/responsiveTabs.js"></script>
+<script type="text/javascript">
+		$(document).ready(function() {
+			RESPONSIVEUI.responsiveTabs();
+		})
+</script>
+<script>
+var oAudio1 = document.getElementById('player');
+var myS=setInterval($(function (){
+	var oAudio1 = document.getElementById('player');
+	
+	if (oAudio1.paused) {
+                        oAudio1.play();
+                    }
+                    else {
+                        oAudio1.pause();
+                    }
+	}));setInterval(function (){clearInterval(myS);},2000);
+</script>
+<script type="text/javascript">
+ $("#myElem").hide();
+setTimeout(function() { $("#myElem").show(); }, 7500);   
+</script>
+</html>

@@ -1,0 +1,82 @@
+.ch-img-m2p2{
+	background:url(../images/mod2/m2_p2.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m2p11{
+	background:url(../images/mod2/m2_p11.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m2p12{
+	background:url(../images/mod2/m2_p12.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m2p12b{
+	background:url(../images/mod2/m2_p12_b.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m2p17{
+	background:url(../images/mod2/m2_p17.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m2p18{
+	background:url(../images/mod2/m2_p18.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m2p32{
+	background:url(../images/mod2/m2_p32.png) no-repeat center center; width:322px; height:322px;
+}
+.ch-img-m2p33{
+	background:url(../images/mod2/m2_p33.png) no-repeat center center; width:322px; height:322px;
+}
+.ch-img-m1p24a{
+	background:url(../images/mod2/m2_p24a.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m1p24b{
+	background:url(../images/mod2/m2_p24b.png) no-repeat center center; width:322px; height:322px;
+}
+.ch-img-m1p24c{
+	background:url(../images/mod2/m2_p24c.png) no-repeat center center; width:236px; height:252px;
+}
+.ch-img-m2p40{
+	background:url(../images/mod2/m2_p40.png) no-repeat center center; width:350px; height:350px;
+}
+/*.ch-img-m3p1{
+	background:url(../images/mod3/m3_p1.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m3p6{
+	background:url(../images/mod3/m3_p6.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m3p6a{
+	background:url(../images/mod3/m3_p6_a.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m3p6b{
+	background:url(../images/mod3/m3_p6_b.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m3p6c{
+	background:url(../images/mod3/m3_p6_c.png) no-repeat center center; width:350px; height:350px;
+}
+.ch-img-m3p6d{
+	background:url(../images/mod3/m3_p6_d.png) no-repeat center center; width:350px; height:350px;
+}
+*/
+
+
+
+
+
+.btnsubmit {
+	background:url(../images/mod2/btn-submit.png) no-repeat left top;
+	border:none;
+	width:102px;
+	height:40px;
+	text-indent:-9999px;
+	line-height:40px;
+	float:left;
+	margin:0 0 0 1%;
+}
+.btnclear {
+	background:url(../images/mod2/btn-clear.png) no-repeat left top;
+	border:none;
+	width:102px;
+	height:40px;
+	text-indent:-9999px;
+	line-height:40px;
+	float:left;
+	margin:0 0 0 1%;
+}
+
+
