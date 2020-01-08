@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<script>
+
+var total=3;
+var userAns=new Array();
+var storedAns=[1,0,0];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+
+
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("r3").checked = false;
+
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div").show("slow");
+		
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		
+		}
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container">
+  <section class="cn-container">
+    <div class="cn-slide">
+      <div class="rw-words rw-words-2">
+        <h3>Activity - Writing the Findings Section</h3>
+        <div class="width80" style="height:500px; width:85%;">
+          <p class="red topmargin10">Click the following links to view them before selecting the correct option.</p>
+          <p > &bull; <a href="../resources/page7_a.pdf" target="_blank"  >Findings A</a> &bull; <a href="../resources/page7_b.pdf" target="_blank"  >Findings B</a> &bull; <a href="../resources/page7_c.pdf" target="_blank"  >Findings C</a> </p>
+          <br>
+          <h5>Which of the following is a good example of how to integrate the data collected into your Findings section?<br>
+            Choose the correct option and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Findings A</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel()">
+              Findings B</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r3" onClick="radSel()">
+              Findings C</p>
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none">That is correct.<br>
+            In Findings A: Tables and figures are well-integrated into the report. Explanations are given for each table or figure.<br>
+            In Findings B: Figures are not accompanied by explanatory text. This is a common mistake made by students. <br>
+            In Findings C: Findings are presented without any supporting diagrams, making it hard to understand. All diagrams are placed in the Appendix section. This is a common mistake made by students.
+            <p>After presenting data in the Findings section, we can move on to analyse and interpret them in the Discussion section.</p>
+            <p class="red topmargin10">Click Next to continue.</p>
+            <br>
+          </div>
+          <div id="hidden_div2" class="anstxt" style="display:none">That is incorrect. The diagrams were not well-integrated into the report. The correct answer is Findings A. <br>
+            In Findings A: Tables and figures are well-integrated into the report. Explanations are given for each table or figure.<br>
+            In Findings B: Figures are not accompanied by explanatory text. This is a common mistake made by students. <br>
+            In Findings C: Findings are presented without any supporting diagrams, making it hard to understand. All diagrams are placed in the Appendix section. This is a common mistake made by students.
+            <p>After presenting data in the Findings section, we can move on to analyse and interpret them in the Discussion section.</p>
+            <p class="red topmargin10">Click Next to continue.</p>
+            <br>
+          </div>
+        </div>
+        <p style="width:100%; clear:both; visibility:hidden">&nbsp; </p>
+        <p style="width:100%; clear:both; visibility:hidden">&nbsp; </p>
+        <p style="width:100%; clear:both; visibility:hidden">&nbsp; </p>
+      </div>
+      <div class="playerwrapper">
+        <audio id="player" preload="auto" controls="controls" autoplay="true">
+          <source src="../audio/M3_5_a.mp3">
+          <source src="../audio/M3_5_a.ogg">
+        </audio>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+</html>

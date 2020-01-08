@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<script>
+
+var total=4;
+var userAns=new Array();
+var storedAns=[0,0,0,1];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+	document.getElementById("r4").disabled = true;
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("r3").checked = false;
+	document.getElementById("r4").checked = false;
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div").show("slow");
+		
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		
+		}
+  return false;
+}
+
+
+</script>
+
+
+<script type="text/javascript">
+    if((navigator.userAgent.match(/iPad/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"../css/ipad.css\" charset=\"utf-8\" \/>");
+    }
+    /*else if((navigator.userAgent.match(/iPhone/i))||(navigator.userAgent.match(/iPod/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"iphone.css\" charset=\"utf-8\" \/>");
+    }
+    else {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"iphone.css\" \/>");*/
+
+</script>
+<style>
+body{
+	height:800px;
+}
+	
+</style>
+
+
+
+
+
+</head>
+<body>
+<div class="container" style=" height:550px">
+  <section class="cn-container">
+    <div class="cn-slide"  >
+      <div class="rw-words">
+        <h3>How to Structure Your Research Report?</h3>
+        <div class="leftcontent" style="width:90%;">
+          <p>These are 7 recommended sections that you can use to organise your research report.</p>
+          <h5>Can you order the section headings in the correct sequence? Choose the correct option and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Introduction, Findings, Discussion, Research Method, Bibliography, Appendix, Conclusion </p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r2" onClick="radSel()">
+              Research Methods, Discussion, Introduction,  Findings, Appendix, Bibliography, Conclusion</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r3" onClick="radSel()">
+              Appendix, Findings, Research Methods, Bibliography,  Discussion, Introduction,  Conclusion</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r4" onClick="radSel()">
+              Introduction, Research Methods, Findings, Discussion, Conclusion, Bibliography, Appendix</p>
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+            
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none">That is correct. However, do note that there may be slight variations in structure for different types of reports e.g. scientific research report, technical report, etc. <p class="red topmargin10">Click Next to continue.</p>
+            </p>
+          </div>
+          <div id="hidden_div2" class="anstxt" style="display:none"><p>That is incorrect. The recommended structure is: Introduction, Research Methods, Findings, Discussion, Conclusion, Bibliography, Appendix. However, do note that there may be slight variations in structure for different types of reports e.g. scientific research report, technical report, etc.<p class="red topmargin10">Click Next to continue.</p>
+            </p>
+          </div>
+          
+          
+          <h5>Tip</h5>
+        <p class="mrT10">Remember to include a cover page for your report.</p>
+        <ul class="simplelisting">
+          <li>The title on the cover page should reflect your problem statement and be eye-catching.</li>
+          <li>Include your group member's names, your teacher's name, class and date of submission.</li>
+        </ul>
+        <h5>Note</h5> 
+        
+        <p class="mrT10">You do not need to number the cover page.</p>
+          
+          
+        </div>
+      </div>
+     
+     <div class="playerwrapper">
+        <audio id="player" preload="auto" controls="controls" autoplay="true">
+          <source src="../audio/M1_4_a.mp3">
+          <source src="../audio/M1_4_a.ogg">
+        </audio>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+<!-- IMPORTANT: id for every tag must be unique, must always start with content tag and it must always start with id 0, type is a must to specified -->
+<Content id="0" title="S.U.R.E Campaign" scormEnabled="true" scormVersion="2004" bookmarkEnabled="true" glossaryEnabled="true" fileLocation="menu.swf" controlMode="false" volume="1" downloadFile="" quizNum="0" passingScore="0" type="folder" introPage="">
+	<Topic id="1" title="Internet Searching Skills " type="folder">
+		<Section id="1.1" title="Identifying and choosing suitable online resources" type="folder">
+			<Page id="1.1.1" file="pages/Topic1/sec1_1.swf" title = "Introduction" type="page" urlResource="pages/Topic1/sec1_1.flv" />
+			<Page id="1.1.2" file="pages/Topic1/sec1_2.swf" title = "Types of Online Resources"  type="page" urlResource="pages/Topic1/sec1_2.flv"/>
+			<Page id="1.1.3" file="pages/Topic1/sec1_3.swf" title = "Resource Types - Infopedia" type="page" urlResource="pages/Topic1/sec1_3_video1.flv"/>
+			<Page id="1.1.4" file="pages/Topic1/sec1_3_static1.swf" title = "Resource Types - Infopedia (Cont'd)" type="page" urlResource="http://eresources.nlb.gov.sg/infopedia/"/>
+			
+			<Page id="1.1.5" file="pages/Topic1/sec1_3.swf" title = "Resource Types - History SG" type="page" urlResource="pages/Topic1/sec1_3_video2.flv" />
+			<Page id="1.1.6" file="pages/Topic1/sec1_3_static2.swf" title = "Resource Types - History SG (Cont'd)" type="page" urlResource="http://eresources.nlb.gov.sg/history" />
+			
+			<Page id="1.1.7" file="pages/Topic1/sec1_3.swf" title = "Resource Types - Picture SG" type="page" urlResource="pages/Topic1/sec1_3_video3a.flv"/>
+			<Page id="1.1.8" file="pages/Topic1/sec1_3_static3.swf" title = "Resource Types - Picture SG (Cont'd)" type="page" urlResource="http://eresources.nlb.gov.sg/pictures"/>
+			
+			<Page id="1.1.9" file="pages/Topic1/sec1_3.swf" title = "Resource Types - NewspaperSG" type="page" urlResource="pages/Topic1/sec1_3_video4a.flv"/>
+			<Page id="1.1.10" file="pages/Topic1/sec1_3_static4.swf" title = "Resource Types - NewspaperSG (Cont'd)" type="page" urlResource="http://eresources.nlb.gov.sg/newspapers/"/>
+			
+			<Page id="1.1.11" file="pages/Topic1/sec1_3.swf" title = "Resource Types - Archives Online" type="page" urlResource="pages/Topic1/sec1_3_video5.flv" />
+			<Page id="1.1.12" file="pages/Topic1/sec1_3_static5.swf" title = "Resource Types - Archives Online (Cont'd)" type="page" urlResource="http://www.nas.gov.sg/archivesonline/" />
+			
+			
+			<Page id="1.1.13" file="pages/Topic1/sec1_4.swf" title = "Online Resources – Official Sources" type="page" urlResource="pages/Topic1/sec1_4.flv" />
+			<Page id="1.1.14" file="pages/Topic1/sec1_5.swf" title = "Online Resources – Websites by Domain Extensions" type="page" urlResource="pages/Topic1/sec1_5.flv"/>
+			<Page id="1.1.15" file="pages/Topic1/sec1_6.swf" title = "Online Resources – Conclusion" type="page" urlResource="pages/Topic1/sec1_6.flv"/>
+			<Page id="1.1.16" file="pages/Topic1/quiz.swf" title = "Activity" type="page" urlResource="" />
+		</Section>
+	</Topic>
+</Content>
+</Project>

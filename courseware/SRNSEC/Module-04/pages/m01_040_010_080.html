@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script>
+var total=4;
+var userAns=new Array();
+var storedAns=[0,0,1,0];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+	document.getElementById("r4").disabled = true;
+	
+
+}
+
+function resetAll(){
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r3").checked = false;
+	document.getElementById("r4").checked = false;
+	
+	
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();
+		
+		$("#hidden_div").show("slow");
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		}
+  return false;
+}
+</script>
+
+<style>
+body
+{
+min-height:750px;
+}
+
+
+</style>
+
+</head>
+<body>
+<div class="container hgt3">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words ">
+        <h3>Scanning Exercise<span>There is no audio on this page.</span></h3>
+        <div class="leftcontent" style="width:80%;">
+        <p> Click <a href="../../Module-04/resources/m4_p6.pdf" target="_blank">here</a> to scan the article and answer the following question.</p>
+        
+        
+      
+          <h5>What was the percentage increase in enrolment at Schofield Language School compared to 2 years ago? Choose the correct option and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              10%</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel()">
+              20%</p>
+              <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r3" onClick="radSel()">
+              50%</p>
+               <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r4" onClick="radSel()">
+              70%</p>
+           
+
+            <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+           
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none; margin-bottom:1%;"> That is correct! You have used the tips on scanning effectively to find the right answer.
+          
+          
+           <p class="mrT10">We have covered the techniques of skimming and scanning to extract information. Go to the next page to discover how to use this information in your report. </p> <p class="red mrT10">Click Next to continue.</p></div>
+          <div id="hidden_div2" class="anstxt" style="display:none; margin-bottom:1%;">That is incorrect! The correct answer is '50%'. You should have kept in mind keywords such as "percentage", "increase" and "2 years", and looked for numerical figures when scanning the article.
+          
+          
+           <p class="mrT10">We have covered the techniques of skimming and scanning to extract information. Go to the next page to discover how to use this information in your report.</p>  <p class="red mrT10">Click Next to continue.</p></div>
+          
+        </div>
+      </div>
+     
+    </div>
+   
+  </section>
+</div>
+</body>
+
+</html>

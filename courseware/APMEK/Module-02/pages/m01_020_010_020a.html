@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<style>
+body 
+{ min-height:650px !important;}
+.leftcontent
+{
+width:80%;
+}
+
+</style>
+
+<script type="text/javascript">
+    if((navigator.userAgent.match(/iPad/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"../css/ipad.css\" charset=\"utf-8\" \/>");
+    }
+    /*else if((navigator.userAgent.match(/iPhone/i))||(navigator.userAgent.match(/iPod/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"iphone.css\" charset=\"utf-8\" \/>");
+    }
+    else {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"iphone.css\" \/>");*/
+
+</script>
+<script>
+
+
+var total=2;
+var userAns=new Array();
+var storedAns=[0,1];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	
+	
+	
+	
+	
+	
+	
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div").show("slow");
+		$("#divcorrect").show("slow");
+		$("#divincorrect").hide();
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+			$("#divcorrect").show("slow");
+		    $("#divincorrect").hide();
+		
+		}
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words ">
+        <h3>How to Quote (Cont'd)<span> There is no audio on this page. </span></h3>
+        <div class="leftcontent" style="width:70%;">
+     
+         
+          
+          <h5><p>"All across the world, in every kind of environment and region known to man, increasingly dangerous weather patterns and devastating storms are abruptly putting an end to the long-running debate over whether or not climate change is real.
+          
+          Not only is it real, "it's here, and its effects are giving rise to a frighteningly new global phenomenon: The man-made natural disaster " (Obama, 2006).</p><p>How would you quote? Choose the correct option and click Submit.<p>
+</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+           Even the weather in Singapore has not stayed the same over the years. I feel that we are experiencing more severe weather fluctuations these days than a few years ago. Climate change is here, and its effects are giving rise to a frighteningly new global phenomenon: The man-made natural disaster.
+           </p>
+            <p>
+              <INPUT TYPE="radio" VALUE="C" NAME="cc" id="r2" onClick="radSel()">
+          Even the weather in Singapore has not stayed the same over the years. I feel that we are experiencing more severe weather fluctuations these days than a few years ago. Climate change is here, and "its effects are giving rise to a frighteningly new global phenomenon: The man-made natural disaster" (Obama, 2006).
+           </p>
+           
+          
+           
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none; margin-bottom:1%;"><p>That is correct. You've mentioned that the quote is from Obama and you've even used the right method to cite it.</p>
+          
+          <p>Look at the correctly quoted version. Here the copied Obama quote is put in quotation marks. Then in brackets, you’ve written the name of the author, in this case, Obama, and you’ve also indicated when this quote was made. The information in brackets is called citation.</p>
+          
+          <p class="red mrT10">Click Next to continue. </p>
+
+</div>
+          <div id="hidden_div2" class="anstxt" style="display:none; margin-bottom:1%;"><p>That is not correct. You've used Obama's exact words and passed them off as yours. You're plagiarising. The correct way to do it is using Option 2. Here you've mentioned that the quote is from Obama and you've even used the right method to cite it.</p> 
+          
+          
+          <p>Look at the correctly quoted version. Here the copied Obama quote is put in quotation marks. Then in brackets, you’ve written the name of the author, in this case, Obama, and you’ve also indicated when this quote was made. The information in brackets is called citation.</p>
+          <p class="red mrT10">Click Next to continue. </p>
+
+ </div>
+  <citation>
+        <br/>
+        <p><strong>Citation:</strong></p>
+        <p>Obama, B. (2006). The Coming Storm: Energy Independence and the Safety of Our Planet. Think Progress, Retrieved from http://thinkprogress.org/obama-oil-speech/</p>
+             
+        </citation><br/>
+
+        </div>
+         <div class="grid300 floatR" style="margin:0;" id="divincorrect">
+          <div class="ch-item ch-img-m2p4ase">
+            <div class="ch-info"> </div>
+          </div>
+        
+                 
+        </div> 
+       <div class="grid300 floatR" style="margin:0; display:none;" id="divcorrect">
+          <div class="ch-item ch-img-m2p4ased">
+            <div class="ch-info"> </div>
+          </div>
+        
+                 
+        </div>
+      </div>
+     
+     
+    </div>
+  </section>
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+
+</html>

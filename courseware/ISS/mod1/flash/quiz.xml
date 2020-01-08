@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sets>
+  <set id="1">
+    <questions>
+      <question id="1">
+        <text></text>
+        <options>
+          <option id="1" ans="false">Contains <![CDATA[ <u>primary resources</u> ]]> of Singapore’s cultural heritage such as speeches, interviews and photographs.</option>
+          <option id="2" ans="true">An <![CDATA[ <u>online encyclopedia</u> ]]> on modern Singapore containing a collection of articles.</option>
+          <option id="3" ans="false">An archive database on <![CDATA[ <u>happenings</u> ]]> and <![CDATA[ <u>major breakthroughs that happened daily</u>]]>.</option>
+          <option id="4" ans="false">An online resource guide containing quick facts on important <![CDATA[ <u>social historical events</u>]]>.</option>
+          <option id="5" ans="false">A collection of digital images, including photographs and artworks.</option>
+        </options>
+		<image>images/sgInfopedia.png</image>
+      </question>
+	  <question id="2">
+        <text></text>
+        <options>
+          <option id="1" ans="false">Contains <![CDATA[ <u>primary resources</u> ]]> of Singapore’s cultural heritage such as speeches, interviews and photographs.</option>
+          <option id="2" ans="false">An <![CDATA[ <u>online encyclopedia</u> ]]> on modern Singapore containing a collection of articles.</option>
+          <option id="3" ans="false">An archive database on <![CDATA[ <u>happenings</u> ]]> and <![CDATA[ <u>major breakthroughs that happened daily</u>]]>.</option>
+          <option id="4" ans="true">An online resource guide containing quick facts on important <![CDATA[ <u>social historical events</u>]]>.</option>
+          <option id="5" ans="false">A collection of digital images, including photographs and artworks.</option>
+        </options>
+		<image>images/historySG.png</image>
+      </question>
+	  <question id="3">
+        <text></text>
+        <options>
+          <option id="1" ans="false">Contains <![CDATA[ <u>primary resources</u> ]]> of Singapore’s cultural heritage such as speeches, interviews and photographs.</option>
+          <option id="2" ans="false">An <![CDATA[ <u>online encyclopedia</u> ]]> on modern Singapore containing a collection of articles.</option>
+          <option id="3" ans="false">An archive database on <![CDATA[ <u>happenings</u> ]]> and <![CDATA[ <u>major breakthroughs that happened daily</u>]]>.</option>
+          <option id="4" ans="false">An online resource guide containing quick facts on important <![CDATA[ <u>social historical events</u>]]>.</option>
+          <option id="5" ans="true">A collection of digital images, including photographs and artworks.</option>
+        </options>
+		<image>images/PictureSG.png</image>
+      </question>
+	  <question id="4">
+        <text></text>
+        <options>
+          <option id="1" ans="false">Contains <![CDATA[ <u>primary resources</u> ]]> of Singapore’s cultural heritage such as speeches, interviews and photographs.</option>
+          <option id="2" ans="false">An <![CDATA[ <u>online encyclopedia</u> ]]> on modern Singapore containing a collection of articles.</option>
+          <option id="3" ans="true">An archive database on <![CDATA[ <u>happenings</u> ]]> and <![CDATA[ <u>major breakthroughs that happened daily</u>]]>.</option>
+          <option id="4" ans="false">An online resource guide containing quick facts on important <![CDATA[ <u>social historical events</u>]]>.</option>
+          <option id="5" ans="false">A collection of digital images, including photographs and artworks.</option>
+        </options>
+		<image>images/newspapersg.png</image>
+      </question>
+	  <question id="5">
+        <text></text>
+        <options>
+          <option id="1" ans="true">Contains <![CDATA[ <u>primary resources</u> ]]> of Singapore’s cultural heritage such as speeches, interviews and photographs.</option>
+          <option id="2" ans="false">An <![CDATA[ <u>online encyclopedia</u> ]]> on modern Singapore containing a collection of articles.</option>
+          <option id="3" ans="false">An archive database on <![CDATA[ <u>happenings</u> ]]> and <![CDATA[ <u>major breakthroughs that happened daily</u>]]>.</option>
+          <option id="4" ans="false">An online resource guide containing quick facts on important <![CDATA[ <u>social historical events</u>]]>.</option>
+          <option id="5" ans="false">A collection of digital images, including photographs and artworks.</option>
+        </options>
+		<image>images/nationalarchivesofsg.png</image>
+      </question>
+    </questions>
+  </set>
+</sets>

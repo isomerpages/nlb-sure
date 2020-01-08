@@ -1,0 +1,247 @@
+@media only screen 
+and (min-device-width : 420px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+
+h5 { font-size:20px; width:100%;}
+h3 { font-size:25px; width:100%;}
+
+#hgtt { height:520px;}
+
+
+ul.listingsmpl{ margin-left:15px!important;}
+
+
+
+.gridSml {width: 290px; height:auto;}
+.ch-item {width:270px !important; height: 270px;}
+
+.gridSml_b {width: 330px; height:auto;}
+.ch-item_b {width:330px !important; height: 330px;}
+
+.ch-img-m1p10 { background-size:80%;}
+
+
+.ch-img-m1p1_a, .ch-img-m1p1_b, .ch-img-m1p1_c, .ch-img-m1p1_d, .ch-img-m1p1_e, .ch-img-cyu, .ch-img-m1p2, .ch-img-m1p7a, .ch-img-m1p7b, .ch-img-m1p7c {background-size:100%;}
+
+.ch-img-m1p7a0 { width:712px; background-color:transparent;}
+
+.ImgText { width:100% !important;}
+
+.nav1{ width:100% !important;}
+
+.pg01{height:10%;}
+.pg01a{height:400px;}
+.pg02{height:400px; }
+.pg03{height:550px;}
+.pg04{height:500px;}
+.pg05{height:500px;}
+.pg06{height:400px;}
+.pg07{height:430px;}
+.pg08{height:400px;}
+.pg09{height:400px;}
+.pg10{height:400px;}
+.pg11{height:430px;}
+.pg12{height:450px;}
+.pg13{height:600px;}
+.pg14{height:500px;}
+.pg15{height:500px;}
+.pg16{height:400px;}
+
+video { width:70%; height:350px;}
+
+}
+
+@media only screen 
+and (min-device-width : 420px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+
+video { width:70%; height:350px;}
+
+ul.listingsmpl{ margin-left:15px!important;}
+
+.ch-img-m1p10 { background-size:80%;}	
+h5 { font-size:25px; width:100%;}
+h3 { font-size:30px; width:100%;}
+
+.gridSml {width: 290px;	height:auto;}
+
+.grid {width: 290px;	height:290px;}
+
+
+
+.ch-item {width:280px !important; height: 280px;}
+
+.gridSml_b{width:400px;	height:auto;}
+.ch-item_b {width:400px !important; height: 800px;}
+
+.ch-img-m1p1_a, .ch-img-m1p1_b, .ch-img-m1p1_c, .ch-img-m1p1_d, .ch-img-m1p1_e, .ch-img-cyu, .ch-img-m1p2, .ch-img-m1p7a, .ch-img-m1p7b, .ch-img-m1p7a {background-size:100%;}
+.ch-img-m1p7a0 { width:712px;}
+
+.ImgText { width:100% !important;}
+.anstxt{font-size:21px;}
+
+.bodyTop{width:60%;}
+.learningobject-grey{font-size:20px; width:89%;}
+
+#nav {width: 80%; position: relative; border: none; float:left;}
+.nav1{ width:100% !important;}
+}
+ 
+ 
+ 
+ 
+ @media all and (max-width: 480px) {
+ .cn-container h2 {
+ font-size: 18px;
+ line-height: 95px;
+ text-align:center;
+}
+ nav {
+margin: 0 auto;
+width:277px;
+}
+ .cn-container h3 {
+font-size:16px;
+}
+ footer p.floatL {
+display: none;
+}
+ img {
+ width:80%;
+ height:auto;
+ width: auto\9; /* ie8 */
+ max-width:100%;
+ margin: 0 3%;
+}
+
+ .grid {
+display: inline-block;
+ height: 280px;
+ margin: 5px 0;
+ width: 280px;
+}
+ .gridBig {
+height: 300px;
+ width: 300px;
+}
+
+.gridSml {
+	
+	
+	margin: 2% 0;	
+	text-align: center;
+	
+}
+.mr
+{
+	margin: 18% 0% 0% 0%;
+}
+
+
+.mr2
+{
+	margin: 18% 0% 0% 0%;
+}
+
+
+
+ .width30 {
+width:100%;
+float:left;
+text-align:left;
+}
+
+.leftcontent, .learningobject, .rw-words p, .anstxt { font-size:12px;}
+
+h5 { font-size:30px;}
+
+.mrgnL { margin-left:27%;}
+
+.ch-img-10 {
+	background: #eee url(../images/girl.jpg) no-repeat center center;
+	background-size:54%;
+}
+
+.ch-img-2 {
+	background: #eee url(../images/media-influence-1.jpg) no-repeat center center;
+	background-size:58%;
+}
+
+.ch-img-3 {
+	background: #eee url(../images/media-influence-2.jpg) no-repeat center center;
+	background-size:58%;
+}
+
+.ch-img-4 {
+	background: #eee url(../images/media-influence-3.jpg) no-repeat center center;
+	background-size:58%;
+}
+
+.ch-img-11 {
+	background: #eee url(../images/billboard_ad.jpg) no-repeat center center;
+	background-size:55%;
+}
+
+.ch-img-12 {
+	background: #eee url(../images/blog_post.jpg) no-repeat center center;
+	background-size:71%;
+}
+
+.ch-img-13 {
+	background: #eee url(../images/magzine.jpg) no-repeat center center;
+	background-size:58%;
+}
+
+.ch-img-14 {
+	background: #eee url(../images/movie_poster.jpg) no-repeat center center;
+	background-size:58%;
+}
+.ch-img-15 {
+	background: #eee url(../images/website-article.jpg) no-repeat center center;
+	background-size:75%;
+}
+
+.ch-img-16 {
+	background: #eee url(../images/message-layers.jpg) no-repeat center center;
+	background-size:59%;
+}
+
+
+.gridBig1 {
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	text-align:center;
+	color:#000;
+	font-size:20px;
+	margin: 0% 0%;
+}
+
+#nav section {
+    background-color: #FFFFFF;
+    border: 1px solid #999999;
+    overflow: hidden;
+	float:none;
+   
+}
+
+
+}
+
+
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) { 
+
+
+body { min-height:650px !important;}
+video { width:74%; height:350px; }
+
+}
+
+
+
+

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<style>
+body
+{
+min-height:450px;
+}
+
+</style>
+<script>
+
+var total=3;
+var userAns=new Array();
+var storedAns=[0,1,0];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+
+
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("r3").checked = false;
+
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div").show("slow");
+		
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		
+		}
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container hgt3">
+  <section class="cn-container">
+    <div class="cn-slide"  >
+      <div class="rw-words rw-words-2">
+        <h3>Activity: How to Write the Bibliography Section? - Question 1</h3>
+        <div class="width80">
+          <h5>Which is the correct citation for a book? Choose the correct option and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+          
+            <p><INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Yeo, E.H. (2007). The Volunteering Spirit. Singapore: Oxford University.</p>
+              
+            <p><INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel()">
+              Yeo, E.H. (2007). <em>The Volunteering Spirit</em>. Singapore: Oxford University.</p>
+              
+            <p><INPUT TYPE="radio" VALUE="C" NAME="cc" id="r3" onClick="radSel()">
+               Yeo, E.H. (2007). <em>The Volunteering Spirit</em>. <em>Singapore: Oxford University.</em></p>
+              
+           
+            
+            <p>
+             <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+             </p>
+             
+          </form>
+          
+          <div id="hidden_div" class="anstxt" style="display:none">That is correct. <p class="red topmargin10">Click Next to continue.</p> </div>
+          <div id="hidden_div2" class="anstxt" style="display:none">That is incorrect. The correct format is: <br>Yeo, E.H. (2007).<em> The Volunteering Spirit</em>. Singapore: Oxford University. <p class="red topmargin10">Click Next to continue.</p></div>
+          
+         <p>&nbsp;</p>
+          
+        </div>
+      
+        
+      </div>
+    
+     <div class="playerwrapper">
+        <audio id="player" preload="auto" controls="controls" autoplay="true">
+          <source src="../audio/M4_4_a.mp3">
+          <source src="../audio/M4_4_a.ogg">
+        </audio>
+      </div>
+    
+    </div>
+  </section>
+</div>
+</body>
+
+</html>

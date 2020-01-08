@@ -1,0 +1,59 @@
+{
+	"questions" : [{
+			"qnsTxt" :"What is the author’s academic qualification? Where did he obtain his education from? Has he written/published any other publications?",
+			"options" : [
+				"Authority",
+				"Accuracy",
+				"Coverage",
+				"Currency",
+				"Objectivity"
+			],
+			"ans" : 1,
+			"feedback" :""
+		}, {
+			"qnsTxt" :"How accurate are the data? Do they support the facts from other sources of information? Is the data based on credible research findings? Can I separate the information presented according to opinion, personal experience and facts?",
+			"options" : [
+				"Authority",
+				"Accuracy",
+				"Coverage",
+				"Currency",
+				"Objectivity"
+			],
+			"ans" : 2,
+			"feedback" :""
+		}, {
+			"qnsTxt" :"Who is the target audience? What is the research scope all about?",
+			"options" : [
+				"Authority",
+				"Accuracy",
+				"Coverage",
+				"Currency",
+				"Objectivity"
+			],
+			"ans" : 3,
+			"feedback" :""
+		}, {
+			"qnsTxt" :"When was this information posted? How often is the website updated? ",
+			"options" : [
+				"Authority",
+				"Accuracy",
+				"Coverage",
+				"Currency",
+				"Objectivity"
+			],
+			"ans" : 4,
+			"feedback" :""
+		}, {
+			"qnsTxt" :"What are the author’s possible intentions and purpose? What does he hope to achieve and why did he write this way?",
+			"options" : [
+				"Authority",
+				"Accuracy",
+				"Coverage",
+				"Currency",
+				"Objectivity"
+			],
+			"ans" : 5,
+			"feedback" :""
+		}
+	]
+}

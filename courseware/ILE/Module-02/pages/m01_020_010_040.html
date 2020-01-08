@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/tab.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+
+
+
+</head>
+<body>
+<div class="container pg04">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words rw-words-2">
+        <div>
+          <h3>IL Models</h3>
+          <p>Two examples of IL models are the Big6&trade; and Empowering 8.</p>
+          <p class="red topmargin10">Click on the aspects for more details about the two models.</p>
+          <ul id="nav" class="nav1">
+            <li><a href="javascript: void(0);">
+              <p class="p1">Big6&trade; Description</p>
+              </a>
+              <section id="two">
+                <div class="width60">
+                  <h3>Big6&trade; Description:</h3>
+                  <p>The model was developed by educators to teach information and technology skills. Students from kindergarten to higher education have found this information problem-solving model useful. Today, many educational institutions around the world have adopted this model as part of their curriculum.</p>
+                </div>
+              </section>
+            </li>
+            <li><a href="javascript: void(0);">
+              <p class="p1">Big6&trade; Stages</p>
+              </a>
+              <section id="three">
+                <h3>Stages in Big6&trade; model:</h3>
+                <div class="width60">
+                  <p style="margin-left:14px;">1. Task definition</p>
+                  <p style="margin-left:14px;">2. Information seeking strategies</p>
+                  <p style="margin-left:14px;">3. Location and access</p>
+                  <p style="margin-left:14px;">4. Use of information</p>
+                  <p style="margin-left:14px;">5. Synthesis </p>
+                  <p style="margin-left:14px;">6. Evaluation</p>
+                  <div class="pdngTB1" style="font-size:12px;">Graphic source: http://www.d91.net/LRC/KG%20LRC/infoliteracy.htm</div>
+                </div>
+              </section>
+            </li>
+            <li><a onClick="marc.playclip()"  href="javascript: void(0);">
+              <p class="p1">Learn more about Big6&trade;</p>
+              </a>
+              <section id="two">
+                <div class="width60">
+                  <h3>Learn more about Big6&trade; model:</h3>
+                  <p>Big6&trade;: An Information Problem-Solving Process </p>
+                  <p>http://www.big6.com/ </p>
+                  <p class="pdngTB1">This website provides more information about this model, its uses and applications. The Lesson Ideas and Resource sections on the website are useful to educators wanting to teach the 6 stages.</p>
+                </div>
+              </section>
+            </li>
+            <li><a href="javascript: void(0);">
+              <p class="p1">E8 Description</p>
+              </a>
+              <section id="five">
+                <div class="width60">
+                  <h3>E8 Description:</h3>
+                  <p>Developed by the National Institute of Library and Information Sciences (NILIS) of Sri Lanka, this model highlighted the need for librarians and educators to work together as partners in learning. It is used in South and Southeast Asia. </p>
+                </div>
+              </section>
+            </li>
+            <li><a href="javascript: void(0);">
+              <p class="p1">E8 Stages</p>
+              </a>
+              <section id="six">
+                <div >
+                  <h3>Stages in Empowering 8 model:</h3>
+                  <p style="margin-left:14px;">1. Identify</p>
+                  <p style="margin-left:14px;">2. Explore</p>
+                  <p style="margin-left:14px;">3. Select</p>
+                  <p style="margin-left:14px;">4. Organise</p>
+                  <p style="margin-left:14px;">5. Create</p>
+                  <p style="margin-left:14px;">6. Present</p>
+                  <p style="margin-left:14px;">7. Assess</p>
+                  <p style="margin-left:14px;">8. Apply</p>
+                  <div class="pdngTB1" style="font-size:12px;">Graphic Source: http://www.cmb.ac.lk/academic/institutes/nilis/reports/InformationLiteracy.pdf</div>
+                </div>
+              </section>
+            </li>
+            <li><a href="javascript: void(0);">
+              <p class="p1">Learn more about E8</p>
+              </a>
+              <section id="five">
+                <div class="width60">
+                  <h3>Learn more about Empowering 8 model:</h3>
+                  <p>The IL model was developed in Sri Lanka to underpin changing education paradigms of Sri Lanka. By Pradeepa Wijetunge and U.P. Alahakoon.</p>
+                  <p>http://www.cmb.ac.lk/academic/institutes/nilis/reports/InformationLiteracy.pdf </p>
+                  <p class="pdngTB1"> This is a useful paper which describes how the Empowering 8 model was developed. It also highlights the potentials for implementation in schools in Sri Lanka given the educational changes.</p>
+                </div>
+              </section>
+            </li>
+          </ul>
+        </div>
+        <div class="clearfix"></div>
+        <p class="red topmargin10">Click Next to continue.</p>
+        <div class="playerwrapper">
+          <audio id="player" preload="auto" autoplay="true"  controls="controls">
+            <source src="../audio/M2_3_a.mp3">
+            <source src="../audio/M2_3_a.ogg">
+          </audio>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+<script>
+$(document).ready(function () {
+    
+    $('#nav').children('li').first().children('a').addClass('active')
+        .next().addClass('is-open').show();
+        
+    $('#nav').on('click', 'li > a', function() {
+        
+      if (!$(this).hasClass('active')) {
+
+        $('#nav .is-open').removeClass('is-open').hide();
+        $(this).next().toggleClass('is-open').toggle();
+          
+        $('#nav').find('.active').removeClass('active');
+        $(this).addClass('active');
+      } else {
+        $('#nav .is-open').removeClass('is-open').hide();
+        $(this).removeClass('active');
+      }
+   });
+});
+</script>
+</html>

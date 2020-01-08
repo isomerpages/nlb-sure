@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="pipwerksWrapperSCORM12" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <organizations default="NLB">
+    <organization identifier="NLB" structure="hierarchical">
+      <title>NLB_Academy</title>
+      <item identifier="NLB_1" isvisible="true" identifierref="NLBfiles">
+        <title>Tricks_of_the_Media</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+     <resource identifier="NLBfiles" type="webcontent"  href="index.html"  adlcp:scormtype="sco">
+	  <file href="index.html"/>
+      <file href="Shell.html"/>
+	  <file href="js/sco.js"/>
+      <file href="js/scoapiwrapper.js"/>  
+    </resource>
+  </resources>
+</manifest>
+

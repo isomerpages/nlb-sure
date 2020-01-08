@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<script>
+
+
+var total=5;
+var userAns=new Array();
+var storedAns=[0,1,0,1,0];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+	document.getElementById("r4").disabled = true;
+	document.getElementById("r5").disabled = true;
+	
+	
+
+
+}
+
+function resetAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("r3").checked = false;
+	document.getElementById("r4").checked = false;
+	document.getElementById("r5").checked = false;
+	
+
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();		
+		$("#hidden_div").show("slow");
+		
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		
+		}
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container pg06">
+  <section class="cn-container">
+    <div class="cn-slide">
+      <div class="rw-words rw-words-2">
+        <h3>Advantages and Disadvantages of Each Survey Method - Question 1</h3>
+        <div class="leftcontent">
+          <p>Now that you know what the 5 survey methods are, let us discuss their advantages and disadvantages. For each advantage or disadvantage that appears, match the correct survey method (or methods).</p>
+
+          <h5><span class="red"><strong>Disadvantage</strong></span></h5>
+          <h5>It is time-consuming and you can only survey a small group of people. Choose the correct option(s) and click Submit.</h5>
+ 
+          <h5 style="margin-top:10px;"><strong>Survey Methods</strong></h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="checkbox" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Email Survey</p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="C" NAME="cc" id="r2" onClick="radSel()">
+              Face-to-face Interview</p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="C" NAME="cc" id="r3" onClick="radSel()">
+              Mail Survey</p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="C" NAME="cc" id="r4" onClick="radSel()">
+              Telephone Interview </p>
+            <p>
+              <INPUT TYPE="checkbox" VALUE="C" NAME="cc" id="r5" onClick="radSel()">
+              Web Survey </p>
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none">
+          <p>That is correct. Face-to-face and telephone interviews can only be used to survey a small group of people as it is a time-consuming activity.</p>
+          <p>The other 3 survey methods can reach a larger population.</p>
+          <p class="red topmargin10">Click Next to continue.</p></div>
+          
+          
+          <div id="hidden_div2" class="anstxt" style="display:none">
+          <p>That is incorrect. The correct answers are 'Face-to-face Interview' and 'Telephone Interview'. Face-to-face and telephone interviews can only be used to survey a small group of people as it is a time-consuming activity.</p>
+            <p>The other 3 survey methods can reach a larger population.</p>
+            <p class="red topmargin10">Click Next to continue.</p></div>
+          
+        </div>
+      </div>
+       <div class="playerwrapper">
+      <audio id="player" preload="auto"  controls="controls">
+        <source src="../audio/cyu.mp3">
+        <source src="../audio/cyu.ogg">
+      </audio>
+    </div>
+    </div>
+  </section>
+</div>
+</body>
+</html>

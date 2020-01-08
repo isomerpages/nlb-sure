@@ -1,0 +1,32 @@
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:normal;
+}
+.wrapper {
+	width:661px;
+	margin: 2% auto;
+	border:20px solid #0064a2;	
+	text-align:center;
+	padding:15px 0;
+	
+}
+.wrapper h3 {
+	font-weight:normal;
+	color:#0064a2;
+	font-size:22px;
+}
+#reload {
+	background: none repeat scroll 0 0 rgba(0, 100, 162, 1);
+	border-radius: 2px;
+	box-shadow: 0 0 0 2px rgba(0, 91, 146, 1);
+	display: inline-block;
+	font-size: 16px;	
+	padding: 9px 15px;
+}
+
+#reload:hover{	background: none repeat scroll 0 0 rgba(0, 100, 162, 0.9);}
+
+a {
+	color: white;
+	text-decoration: none;
+}

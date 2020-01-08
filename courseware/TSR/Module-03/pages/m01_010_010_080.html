@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+
+<style>
+body {
+	min-height:600px;
+}
+</style>
+<script>
+
+
+function radSel1(){
+	document.getElementById("b1").disabled = false;
+}
+
+function disableAct1(){
+	document.getElementById("b1").disabled = true;
+	for(var i=1;i<=3;i++){
+			document.getElementById("r"+i).disabled = true;	
+	}
+}
+
+
+function checkAnswer1()
+{
+	var correctFlag=false;
+	if(document.getElementById("r2").checked){
+		correctFlag=true;
+	}else{
+		correctFlag=false;
+	}
+	
+	if(correctFlag){
+		$("#hidden_div").show("slow");
+		
+	}else{
+				$("#hidden_div2").show("slow");
+		}
+		
+	disableAct1()
+  return false;
+}
+
+
+</script>
+</head>
+<body>
+<div class="container pg08">
+  <section class="cn-container">
+    <div class="cn-slide">
+      <div class="rw-words rw-words-2">
+        <h3>Spot The Best Source</h3>
+        <div class="leftcontent" style="padding-top:0;">
+        <h5>Choose the correct option and click Submit.</h5>
+        
+          <FORM method="POST" onSubmit="return checkAnswer1();"  style="margin-left:5px;" class="PageText">
+            <h5 style="margin-top:0;">
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel1()">
+              Source 1: A student blogger</h5>
+            <p class="pdngL15"> "I think the rampant cutting of forests in Kalimantan was the primary cause of the  2006 haze in Singapore."</p>
+            <h5 style="margin-top:0;">
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel1()">
+              Source 2: National Environment Agency of Singapore</h5>
+            <p class="pdngL15"> "The main pollutant of concern to health during a smoke haze is the fine particulate matter, or PM10 (particulate of size 10 microns and below)."</p>
+            <h5 style="margin-top:0;">
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r3" onClick="radSel1()">
+              Source 3: Wikipedia</h5>
+            <p class="pdngL15"> "The 2006 Southeast Asian haze event...was made worse than during previous occurrences by the  El Niño-Southern Oscillation, which delayed the year's monsoon season."</p>
+            <p>
+              <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+            </p>
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none; color:#000;">That is correct.
+            <p class="red mrT10">Click Next to continue.</p>
+          </div>
+          <div id="hidden_div2" class="anstxt" style="display:none;  color:#000;"> That is incorrect. The correct answer is 'Source 2 - the National Environment Agency of Singapore'.
+            <p class="red mrT10">Click Next to continue.</p>
+          </div>
+          <citation><strong>Citation:</strong><br>
+            <p>Effect of Smoke Haze.</p>
+            <p>National Environment Agency. Retrieved 23 January, 2009, from</p>
+            <p>http://app.nea.gov.sg/cms/htdocs/article.asp?pid=1254</p>
+            <p class="mrT10">2006 Southeast Asian haze. (2008, December 28).</p>
+            <p> In Wikipedia, The Free Encyclopedia. Retrieved 03:49, January 25, 2009, from </p>
+            <p>http://en.wikipedia.org/w/index.php?title=2006_Southeast_Asian_haze&oldid=260565370 </p>
+          </citation>
+        </div>
+        <div class="playerwrapper">
+          <audio id="player" preload="auto"  controls="controls">
+            <source src="../audio/M3_10_a.mp3">
+            <source src="../audio/M3_10_a.ogg">
+          </audio>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+<script type="text/javascript" src="../js/jquery.min.1.8.js"></script>
+</html>

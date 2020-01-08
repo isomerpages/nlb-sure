@@ -1,0 +1,54 @@
+{
+	"questions" : [{
+			"qnsTxt" :"<p>Resource types and search tools are important in information searching. By knowing the specific resource types and using the right search tools, you will be able to find information more effectively.</p><p>When you are searching on an Internet search engine, for example, on Singapore water resources, what function does the ‘spider’ in the search engine perform?</p>",
+			"options" : [
+				"Match your keywords and specific operators with the relevant words that appear on the websites",
+				"Provide you with information resources from the ‘spider’ itself",
+				"‘Talk’ to you to clarify what information you really want, and then get it for you",
+				"None of the above"
+			],
+			"ans" : 1,
+			"feedback" :""
+		}, {
+			"qnsTxt" :"<p><p>Which search tool would be the most appropriate to search for print books on Singapore landscape before 1965?</p>",
+			"options" : [
+				"Library catalogue",
+				"Search engine (internet)",
+				"Online personal blogs",
+				"Social media, such as Facebook"
+			],
+			"ans" : 1,
+			"feedback" :""
+		}, {
+			"qnsTxt" :"<p>Which of the following resources is a search tool that helps you find information across a variety of digital content such as eBooks, interviews and databases?</p>",
+			"options" : [
+				"Search engine (internet)",
+				"Archives online",
+				"Library catalogue",
+				"OneSearch"
+			],
+			"ans" : 4,
+			"feedback" :""
+		}, {
+			"qnsTxt" :"<p>Which of the following resources is more likely to contain photographs of car racing in Singapore (1960’s) as well as descriptions of the photographs?</p>",
+			"options" : [
+				"Library catalogue",
+				"Archives Online",
+				"Official websites of Formula 1",
+				"Singapore Tourism Board"
+			],
+			"ans" : 2,
+			"feedback" :""
+		}, {
+			"qnsTxt" :"<p>Which of the following would most probably provide the latest updates on Formula 1?</p>",
+			"options" : [
+				"Library catalogue",
+				"Archives online",
+				"Official websites of Formula 1",
+				"Newspapers (print)"
+			],
+			"ans" : 3,
+			"feedback" :""
+		}
+	]
+}

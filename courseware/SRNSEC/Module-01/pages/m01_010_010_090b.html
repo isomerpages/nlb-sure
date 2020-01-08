@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<script>
+var total=5;
+var userAns=new Array();
+var storedAns=[0,0,0,0,1];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	document.getElementById("r3").disabled = true;
+	document.getElementById("r4").disabled = true;
+	document.getElementById("r5").disabled = true;
+}
+
+function resetAll(){
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r3").checked = false;
+	document.getElementById("r4").checked = false;
+	document.getElementById("r5").checked = false;
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();
+		
+		$("#hidden_div").show("slow");
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		}
+  return false;
+}
+</script>
+<style type="text/css">
+body
+{
+min-height:600px !important;
+}
+</style>
+</head>
+<body>
+<div class="container hgt3">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words ">
+        <h3>Common Parts of a Newspaper - Question 2<span>There is no audio on this page.</span></h3>
+        <div class="leftcontent ">
+       
+        
+          <h5 style="margin-top:0;"><strong>2.</strong><span class="blnksp">________</span> is a second headline found below the main headline. Choose the correct option and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+              Masthead</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel()">
+              Byline</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r3" onClick="radSel()">
+              Secondary Lead </p>
+               <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r4" onClick="radSel()">
+              Headline</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r5" onClick="radSel()">
+              Strapline </p>
+            <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none; margin-bottom:1%;"> That is correct! The Strapline will give you more information about the headline. <p class="red mrT10">Click Next to continue.</p> </div>
+          <div id="hidden_div2" class="anstxt" style="display:none; margin-bottom:1%;">That is incorrect! The correct answer is: 'Strapline'. The Strapline will give you more information about the headline.  <p class="red mrT10">Click Next to continue.</p></div>
+           <p class="mrT10" style="font-size:12px;"> Adapted from: http://www.bfi.org.uk/education/teaching/schemesofwork/download/ newspaper_wksheets_parts_of_a_newspaper.rtf and http://www.east-buc.k12.ia.us/lns/00-01/7/st_news.htm</p>
+        </div>
+      </div>
+    <div class="gridsquare3 floatR">
+          <div class="square ch-img-m1p9b">
+            <div class="ch-info1"> </div>
+          </div>
+        </div>
+    </div>
+   
+  </section>
+</div>
+</body>
+
+</html>

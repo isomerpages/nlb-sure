@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+</head>
+<body>
+<div class="container hgt3">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words rw-words-2">
+        <h3>Research Objectives</h3>
+        <div class="leftcontent width30">
+          
+          <p>With the given problem statement, help the group identify their research objectives. <span class="red">Provide your opinion and click on Submit.</span></p>
+          <div class="nwmdia" style="width:90%;">
+          <label><span>Problem Statement:</span> Singaporeans’ awareness of SARS is low.</label>
+            <p><strong>Question 1: <span class="red">What is the main aim of this research?</span></strong></p>
+            <input name="textfield" type="text" id="textfield" value="&lt; Enter your opinion here &gt;" onFocus="hidetxt();">
+            <div id="hidden_div" style="display:none">
+              <p><strong>One possible answer is:</strong><br/>
+                The main aim of this research is to find out whether Singaporeans' awareness of SARS is low. </p>
+            </div>
+            <br/>
+            <p>
+              <button class="btnsubmit" id="submit"> </button>
+              <button class="btnclear" id="clear"> </button>
+            </p>
+            
+            <div class="clearfix"></div>
+            <p class="red topmargin10">Click Next to continue.</p>
+            <br>
+          </div>
+        </div>
+        <div class="gridsquare">
+          <div class="square ch-img-m2p12">
+            <div class="ch-info1"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!--<div class="playerwrapper">       
+        <audio id="player" preload="auto" autoplay="autoplay"   controls="controls">
+          <source src="../audio/M2_3_a.mp3">
+          <source src="../audio/M2_3_a.ogg">
+        </audio>
+      </div>--> 
+      
+    </div>
+  </section>
+</div>
+</body>
+<script src="../js/jquery-1.9.0.min.js"></script>
+<script>
+function hidetxt(){
+document.getElementById('textfield').value="";
+}
+
+$("#submit").click(function () {
+$("#hidden_div").show("slow");
+});
+
+$("#clear").click(function () {
+document.getElementById("textfield").value = '';
+
+});
+</script>
+</html>

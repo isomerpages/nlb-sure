@@ -1,0 +1,90 @@
+#tooltip
+{
+    text-align: left;
+    color: #000;
+    background: #cae08c;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+	margin-right:10px;
+}
+ 
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #cae08c;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+ 
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+ 
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+ 
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
+		
+		
+		
+#info
+		{
+			width: 40px;
+			height: 40px;
+			background-color: rgba( 0, 0, 0, .05 );
+			-webkit-border-radius: 50%;
+			-moz-border-radius: 50%;
+			border-radius: 50%;
+			padding: 5px;
+			position:absolute;
+			bottom:50px;
+			right:25px;
+
+			
+		}
+			#info:hover
+			{
+				background-color: rgba( 0, 0, 0, .1 );
+			}
+			#info abbr
+			{
+				height: 100%;
+				font-size: 2.188em;
+				font-weight: bold;
+				line-height: 1.4;
+				text-align: center;
+				text-shadow: 0 1px rgba( 0, 0, 0, .25 );
+				color: #fff;
+				background: #efc829;
+				-webkit-border-radius: 50%;
+				-moz-border-radius: 50%;
+				border-radius: 50%;
+				border: none;
+				cursor: help;
+				display: block;
+				
+			}
+			#info
+			{
+				text-decoration: none;
+			}
+		

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/font.css" />
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+
+<script type="text/javascript">
+    if((navigator.userAgent.match(/iPad/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"../css/ipad.css\" charset=\"utf-8\" \/>");
+    }
+    /*else if((navigator.userAgent.match(/iPhone/i))||(navigator.userAgent.match(/iPod/i))) {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"iphone.css\" charset=\"utf-8\" \/>");
+    }
+    else {
+        document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"iphone.css\" \/>");*/
+
+</script>
+
+<style>
+body 
+{ min-height:770px;}
+
+</style>
+</head>
+<body>
+<div class="container">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <h3>Try This Yourself - Question 2 <span>There is no audio on this page.</span></h3>
+       
+      <div class="leftcontent width30" >
+        <h5 style="margin-top:0;"><strong>Question:</strong> What are the <strong>main points</strong> of the passage below?</h5>
+        <p id="img1"><img src="../images/grab1.png" alt="" > </p>
+        <p id="img2" style="display:none;"><img src="../images/img81.png" alt="" > </p>
+        
+        <div class="nwmdia floatL">
+         <label><span class="red">Enter what you think are the main points in the space below, then click on Done.</span></label> 
+         
+          <input type="text" name="textfield" id="textfield">
+          <p class="mrgnT1">
+            <button class="btnsubmit" id="submit" onClick="showimage();"> <img src="../images/btn-submit.png" alt=""></button>
+            
+            <div class="clearfix"></div>
+            <div id="img3" style="display:none; margin-top:10px;" ><p>These are the two main points we spotted:</p>
+            <div class="simplelisting">
+            <li>Cost of labour, material and land increases with inflation and time</li>
+            <li>Therefore price of property will appreciate with time</li></div>
+            <p>How does it compare to yours? </p>
+            <p class="red mrT10">Click Next to continue.</p>
+             </div>
+          </p>
+          
+        </div><div class="clearfix"></div>
+      
+        
+        </div>
+        
+        
+ 		
+        
+      
+    
+    <div class="playerwrapper">
+        <audio id="player" preload="auto"  controls="controls" autoplay="autoplay">
+          <source src="../audio/M2_p10.mp3">
+          <source src="../audio/M2_p10.ogg">
+        </audio>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+<script src="../js/jquery-1.9.0.min.js"></script>
+<script>
+$("#submit").click(function () {
+$("#hidden_div").show("slow");
+});
+
+$("#clear").click(function () {
+document.getElementById("textfield").value = '';
+
+});
+
+function showimage(){
+	$('#img1').css('display','none');
+	$('#img2').css('display','block');
+	$('#img3').css('display','block');
+	$('#img3').show();
+	$('#img2').show();
+	$('#img1').hide();
+}
+
+</script>
+
+</html>

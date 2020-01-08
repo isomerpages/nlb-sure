@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>National Library Board</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="National Library Board" />
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/pagesOther.css" />
+<script src="../js/jquery.min.1.8.js"></script>
+<link rel="stylesheet" type="text/css" href="../css/media.css" />
+<script>
+var total=2;
+var userAns=new Array();
+var storedAns=[0,1];
+
+
+
+function radSel(){
+document.getElementById("b1").disabled = true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			document.getElementById("b1").disabled = false;
+			break;
+		}
+	}
+	
+}
+function disableAll(){
+	document.getElementById("b1").disabled = true;
+	document.getElementById("r1").disabled = true;
+	document.getElementById("r2").disabled = true;
+	
+}
+
+function resetAll(){
+	document.getElementById("r1").checked = false;
+	document.getElementById("r2").checked = false;
+	document.getElementById("b1").disabled = true;
+	
+}
+
+function showCorrect(){
+	//resetAll();
+	disableAll();
+	for(var j=1;j<=total;j++){
+		if(storedAns[j-1]==1){
+			//document.getElementById("r"+j).checked = true;
+			/*document.getElementById("tick"+j)["style"]["display"] = "block";*/
+		}
+	}
+}
+var ctr=0;
+var correctFlag=true;
+function checkAnswer()
+{
+	userAns=new Array();
+	correctFlag=true;
+	for(var i=1;i<=total;i++){
+		if(document.getElementById("r"+i).checked){
+			userAns[i-1]=1;
+		}else{
+			userAns[i-1]=0;
+		}
+	}
+	
+	for(var j=0;j<total;j++){
+		if(userAns[j]!=storedAns[j]){
+			correctFlag=false;
+			break;
+		}
+	}
+	
+	if(correctFlag){
+		showCorrect();
+		
+		$("#hidden_div").show("slow");
+		
+	}else{
+			disableAll();
+			showCorrect();
+	  		$("#hidden_div2").show("slow");
+		}
+  return false;
+}
+</script>
+</head>
+<body>
+<div class="container hgt3">
+  <section class="cn-container">
+    <div class="cn-slide" id="slide-1-1">
+      <div class="rw-words ">
+        <h3>Paraphrasing Exercise<span>There is no audio on this page.</span></h3>
+        <div class="leftcontent ">
+        <!--<p>The Schofield Language School at Brook Road has been coping with <strong>Overwhelming demand for their language classess</strong>,especially in the last few years. The demand stems mainly from anxious parents, eager to give their children a <strong>Head Start</strong> in an increasingly <strong>globalised economy</strong> and <strong>workforce</strong>.</p>-->
+        
+        <p>Click <a href="../../Module-04/resources/m4_p11.pdf" target="_blank">here</a> to read the passage and answer the question below.</p>
+          <h5>Which of the following is a more appropriate paraphrase of the highlighted passage? Choose the correct option and click Submit.</h5>
+          <FORM method="POST" onSubmit="return checkAnswer(this);"  style="margin-left:5px;" class="PageText">
+            <p>
+              <INPUT TYPE="radio" VALUE="A" NAME="cc" id="r1" onClick="radSel()">
+             Enrolment in the Schofield Language School will help local students get ahead in their careers in the global economy.</p>
+            <p>
+              <INPUT TYPE="radio" VALUE="B" NAME="cc" id="r2" onClick="radSel()">
+         Parents of local students are very keen to enrol their children in language schools so as to help them get better jobs in the global economy. This has led to increased demand for classes at Schofield Language School.</p>
+             
+            <button name="b1" id="b1" type="submit" value="Submit" disabled>Submit</button>
+           
+          </form>
+          <div id="hidden_div" class="anstxt" style="display:none; margin-bottom:1%;"> That is correct! It is important to identify the viewpoint of the passage and correctly represent that in your own words. The keywords to focus on are highlighted in the passage.<p class="mrT10">We have learnt how to extract information and paraphrase it. Let’s see what the group does next.  <p class="red mrT10">Click Next to continue.</p></p></div>
+          <div id="hidden_div2" class="anstxt" style="display:none; margin-bottom:1%;">That is incorrect! It is important to identify the viewpoint of the passage and correctly represent that in your own words. The keywords to focus on are highlighted in the passage.<p class="mrT10">We have learnt how to extract information and paraphrase it. Let’s see what the group does next.  <p class="red mrT10">Click Next to continue.</p></div>
+        </div>
+      </div>
+    
+    </div>
+   
+  </section>
+</div>
+</body>
+
+</html>

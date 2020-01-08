@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+<!-- IMPORTANT: id for every tag must be unique, must always start with content tag and it must always start with id 0, type is a must to specified -->
+<Content id="0" title="S.U.R.E Campaign" scormEnabled="true" scormVersion="2004" bookmarkEnabled="true" glossaryEnabled="true" fileLocation="menu.swf" controlMode="false" volume="1" downloadFile="" quizNum="0" passingScore="0" type="folder" introPage="">
+	<Topic id="1" title="Internet Searching Skills " type="folder">
+		<Section id="1.1" title="Differentiating functions of search tools " type="folder">
+			<Page id="1.1.1" file="pages/Topic2/sec2_1.swf" title = "What are search engines?" type="page" urlResource="pages/Topic2/sec2_1.flv"/>
+			<Page id="1.1.2" file="pages/Topic2/sec2_2.swf" title = "NLB Catalogue"  type="page" urlResource="pages/Topic2/sec2_2_video1.flv"/>
+			<Page id="1.1.3" file="pages/Topic2/sec2_2_static1.swf" title = "NLB Catalogue (Cont'd)"  type="page" urlResource="http://catalogue.nlb.gov.sg/"/>			
+			<Page id="1.1.4" file="pages/Topic2/sec2_2.swf" title = "One Search"  type="page" urlResource="pages/Topic2/sec2_2_video2.flv"/>	
+			<Page id="1.1.5" file="pages/Topic2/sec2_2_static2.swf" title = "One Search (Cont'd)"  type="page" urlResource="http://search.nlb.gov.sg/"/>				
+			<Page id="1.1.6" file="pages/Topic2/sec2_3.swf" title = "Archives" type="page" urlResource="pages/Topic2/sec2_3.flv"/>
+			<Page id="1.1.7" file="pages/Topic2/sec2_3_static1.swf" title = "Archives (Cont'd)" type="page" urlResource="http://www.nas.gov.sg/archivesonline/"/>
+			<Page id="1.1.8" file="pages/Topic2/sec2_4.swf" title = "Search Tools – Conclusion" type="page" urlResource="pages/Topic2/sec2_4.flv"/>
+			<Page id="1.1.9" file="pages/Topic2/quiz.swf" title = "Activity" type="page" urlResource=""/>
+		</Section>
+	</Topic>
+</Content>
+</Project>

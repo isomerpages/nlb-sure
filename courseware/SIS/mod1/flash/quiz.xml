@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sets>
+  <set id="1">
+    <questions>
+      <question id="1">
+        <text>In the Deep Web, images may not be easily accessible as they may lack sufficient text description to enable the search engine to locate them.</text>
+        <options>
+          <option id="1" ans="true">True</option>
+          <option id="2" ans="false">False</option>
+        </options>
+		<image></image>
+      </question>
+	  <question id="2">
+        <text>Creative Commons licence allows creative works to be shared.</text>
+        <options>
+          <option id="1" ans="true">True</option>
+          <option id="2" ans="false">False</option>
+        </options>
+		<image></image>
+      </question>
+	  <question id="3">
+        <text>Through Open Repositories, the public can use the resources for free. These resources include research papers and images for their information needs.</text>
+        <options>
+          <option id="1" ans="true">True</option>
+          <option id="2" ans="false">False</option>
+        </options>
+		<image></image>
+      </question>
+	  <question id="4">
+        <text>Specialised health reports are examples of invisible web. They are only accessible through membership login.</text>
+        <options>
+          <option id="1" ans="true">True</option>
+          <option id="2" ans="false">False</option>
+        </options>
+		<image></image>
+      </question>
+	  <question id="5">
+        <text>By identifying the types of resources that are accessible online, my search efforts will be more productive.</text>
+        <options>
+          <option id="1" ans="true">True</option>
+          <option id="2" ans="false">False</option>
+        </options>
+		<image></image>
+      </question>
+    </questions>
+  </set>
+</sets>
