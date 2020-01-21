@@ -8,7 +8,7 @@ collection_name: resources-by-audience
 
 We have categorised our resources according to audience categories:
 
-#### 		For Teachers & Students
+#### 			**For Teachers & Students**
 
 - [Primary Level](/resources/audience/teachers-and-students/primary-level)	
 
@@ -18,7 +18,7 @@ We have categorised our resources according to audience categories:
 
   
 
-  #### For Adults
+  **For Adults**
 
 - [Combating Fake News](/resources/audience/adults/combating-fake-news)
 
@@ -28,10 +28,21 @@ We have categorised our resources according to audience categories:
 
   
 
-  #### For Seniors
+  #### **For Seniors**
 
 - [Combating Fake News](/resources/audience/seniors/combating-fake-news)
 
 - [NLB eResources](/resources/audience/seniors/nlb-eresources)
 
 - [Time of Your Life articles](/resources/audience/seniors/time-of-your-life-articles)
+
+  
+
+  
+
+  **For everyone:** 
+
+- [S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)
+
+
+
