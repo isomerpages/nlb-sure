@@ -18,7 +18,7 @@ We have categorised our resources according to audience categories:
 
   
 
-  **For Adults**
+  #### **For Adults**
 
 - [Combating Fake News](/resources/audience/adults/combating-fake-news)
 
@@ -40,7 +40,7 @@ We have categorised our resources according to audience categories:
 
   
 
-  **For everyone:** 
+  #### **For everyone:** 
 
 - [S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)
 
