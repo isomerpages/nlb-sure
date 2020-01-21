@@ -42,7 +42,7 @@ We have categorised our resources according to *audience categories*:
 
   
 
-  #### **For everyone:** 
+  #### **For all ages:** 
 
 - [S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)
 
