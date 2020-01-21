@@ -6,7 +6,9 @@ breadcrumb: Audience
 collection_name: resources-by-audience
 ---
 
-We have categorised our resources according to audience categories:
+We have categorised our resources according to *audience categories*:
+
+
 
 #### 			**For Teachers & Students**
 
