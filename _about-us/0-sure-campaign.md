@@ -17,6 +17,16 @@ The  [National Library Board](http://www.nlb.gov.sg/) ’s (NLB) S.U.R.E program
 * **R**esearch: Dig deeper. Go beyond the initial source.
 * **E**valuate: Find the balance. Exercise fair judgement.
 
+
+
+#### How to be S.U.R.E. before you share
+
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNFnPqTTPIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 #### **Who we are and What we do**
 
 ![S.U.R.E. poster for brochure](/images/aboutsureheader-600x318.png)
