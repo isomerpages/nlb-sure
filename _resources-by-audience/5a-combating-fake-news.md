@@ -11,6 +11,12 @@ second_nav_title: "For Seniors"
 
 These sources will help you discern the reliability of the information that you’re reading. 
 
+#### How to be S.U.R.E. before you share
+
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNFnPqTTPIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)

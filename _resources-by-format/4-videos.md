@@ -6,6 +6,14 @@ breadcrumb: Videos
 collection_name: resources-by-format
 ---
 
+#### How to be S.U.R.E. before you share
+
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNFnPqTTPIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 #### The Four Ways of S.U.R.E.
 
 When it comes to online sources, be S.U.R.E. (Source, Understand, Research, Evaluate) before you share!
