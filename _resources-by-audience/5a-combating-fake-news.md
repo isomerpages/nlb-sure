@@ -15,8 +15,9 @@ These sources will help you discern the reliability of the information that youâ
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNFnPqTTPIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/JNFnPqTTPIc" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
 
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
