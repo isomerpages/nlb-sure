@@ -34,7 +34,7 @@ Level 10, Gallery
 <br>National Library Building
 <br>100 Victoria Street, S188064 
 
-Register at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg)  with the email subject 'On Paper Learning Journey for [school name]' .
+Register at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg?subject=On%20Paper%20Learning%20Journey%20for)  with the email subject 'On Paper Learning Journey for [school name]' .
 
 
 
