@@ -12,6 +12,12 @@ second_nav_title: "For Teachers & Students"
 
 Learn more about different cultures in the resources below. 
 
+[Know Your Festival: Hari Raya Puasa](/infographic/1_Hari Raya Infographic 2020.pdf)
+
+[Know Your Festival: Deepavali](/infographic/2_Deepavali Infographic 2020.pdf)
+
+[Know Your Festival: Christmas](/infographic/3_Christmas Infographic 2020.pdf)
+
 [Singapore Costumes](/infographic/UPDATED19 Singapore Costumes.pdf)
 
 [Harmony in Diversity: Interfaith Dialogue and Integration Efforts](/cheatsheet/NLB_Cheatsheet_Harmony_in_diversity_Jul2019.pdf) 
