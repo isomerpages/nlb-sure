@@ -9,7 +9,7 @@ second_nav_title: "eLearn"
 
 **NLB eResouces**
 
-[Academic Research with NLB eResources](http://www.nlb.gov.sg/sure/elearn/academic_research/content/inde.html){:target="_blank"} 
+[Academic Research with NLB eResources](http://www.nlb.gov.sg/sure/elearn/academic_research/content/index.html){:target="_blank"} 
 
 
 
