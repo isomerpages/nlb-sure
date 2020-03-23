@@ -7,7 +7,13 @@ collection_name: resources-by-format
 second_nav_title: "eLearn"
 ---
 
-**Understanding and Using Newspapers for Research**
+**NLB eResouces**
+
+[Academic Research with NLB eResources](http://www.nlb.gov.sg/sure/elearn/academic_research/content/inde.html){:target="_blank"} 
+
+
+
+Understanding and Using Newspapers for Research**
 
 *Advanced*
 
