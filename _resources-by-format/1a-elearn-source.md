@@ -14,9 +14,9 @@ second_nav_title: "eLearn"
 
 Learn how to craft search statements using methods such as Boolean searching and phrase searching to find appropriate Internet sources. From this fun and interactive course, you will also gain tips on evaluating and selecting relevant websites for your project work.
 
-- [Identifying and choosing suitable online resources](http://www.nlb.gov.sg/sure/coursewares/ISS/mod1/index.html){:target="_blank"} – Singapore Infopedia, HistorySG, PictureSG, NewspaperSG, Archives Online
-- [Differentiating functions of search tools](http://www.nlb.gov.sg/sure/coursewares/ISS/mod2/index.html){:target="_blank"} – NLB Catalogue, OneSearch and more
-- [Employing the most effective search strategies](http://www.nlb.gov.sg/sure/coursewares/ISS/mod3/index.html){:target="_blank"} – Keywords, free text searches, specific subject headings
+- [Identifying and choosing suitable online resources](https://eresources.nlb.gov.sg/webarchives/wayback/20200109035353/http://www.nlb.gov.sg/sure/coursewares/ISS/mod1/mobile/index.html){:target="_blank"} – Singapore Infopedia, HistorySG, PictureSG, NewspaperSG, Archives Online
+- [Differentiating functions of search tools](https://eresources.nlb.gov.sg/webarchives/wayback/20200109035355/http://www.nlb.gov.sg/sure/coursewares/ISS/mod2/index.html){:target="_blank"} – NLB Catalogue, OneSearch and more
+- [Employing the most effective search strategies](https://eresources.nlb.gov.sg/webarchives/wayback/20200109035359/http://www.nlb.gov.sg/sure/coursewares/ISS/mod3/index.html){:target="_blank"} – Keywords, free text searches, specific subject headings
 
 ### **Visual Text Awareness Essentials** 
 
