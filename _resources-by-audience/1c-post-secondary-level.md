@@ -20,7 +20,7 @@ The content is suitable for secondary and post-secondary students conducting res
 In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)** above to complement your learning.
 
 <div class="resp-container">
-        <iframe src="https://player.vimeo.com/video/399032406" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/399032406" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
 <HR>
