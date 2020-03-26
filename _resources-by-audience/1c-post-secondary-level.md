@@ -13,6 +13,8 @@ The S.U.R.E. Research Guide has been developed based on the four steps of S.U.R.
 
 The content is suitable for secondary and post-secondary students conducting research for their projects and school assignments. Working professionals can also use this guide for their academic and general research needs.
 
+<hr>
+
 **Academic Research with NLB eResources**
 
 In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)** to complement your learning.
