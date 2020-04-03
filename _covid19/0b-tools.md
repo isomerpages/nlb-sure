@@ -17,7 +17,7 @@ Here are some useful online resources you can use to conduct basic fact-checks o
 
 If the dubious information you received mentioned something specific to Singapore, you can refer to the following websites first:
 
-[MOH > Clarifications on Misinformation regarding COVID-19](https://www.moh.gov.sg/covid-19/clarifications)
+[MOH > Clarifications on Misinformation regarding COVID-19](https://www.moh.gov.sg/covid-19/clarifications) provides succinct clarifications regarding to COVID-19 rumours and fake news in Singapore, with links to relevant sources in some cases.  
 
 [Factually > Clarifications on misinformation regarding the Coronavirus disease 2019](https://www.gov.sg/article/covid-19-clarifications) -   this is useful for tracking COVID-19 misinformation debunked by Ministries and government agencies.  Do check the [in-depth articles](https://www.gov.sg/factually) and [POFMA cases](https://www.gov.sg/factually?topic=POFMA) listed in the main Factually page.
 
@@ -28,6 +28,16 @@ Local media websites also debunk fake news, though not all of them are exclusive
 - [STOMP](https://stomp.straitstimes.com/tag/stomp-fights-fake-news)
 - [Channel NewsAsia](https://www.channelnewsasia.com/news/topic/fake-news)
 - [Mothership](https://mothership.sg/category/fake-news/)
+
+
+
+Local fact-checking groups have also risen to the occasion:
+
+[Black Dot Research FactCheck](https://blackdotresearch.sg/covid-watch/) aims to "*verify claims made from any source that could potentially cause a seismic shift in public perception on topics of general importance in Singapore*". You can read their COVIDWatch articles which debunk fake news such as [*Did someone get fined $300 for sitting on a demarcated seat at Ya Kun?*](https://blackdotresearch.sg/covidwatch-did-someone-get-fined-300-for-sitting-on-a-demarcated-seat-at-ya-kun/) and [*Is Singapore ceasing imports of supplies and heading for a lockdown?*](https://blackdotresearch.sg/covidwatch-is-singapore-ceasing-imports-of-supplies-and-heading-for-a-lockdown/)
+
+
+
+[Sure Anot](https://www.facebook.com/SureAnotSG/) - is a ground-up campaign started by a group of NTU students that hopes to educate Singaporeans on fake news. You can sign up for their WhatsApp chat group [HERE](https://chat.whatsapp.com/ETW4jTdfiJP5XibO6ctZ6V).
 
 <hr> 
 

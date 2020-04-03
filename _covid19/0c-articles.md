@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: COVID-19 Articles
 permalink: /covid19/articles/
-breadcrumb: COVID-19 Aticles
+breadcrumb: COVID-19 Articles
 collection_name: covid19
 second_nav_title: "COVID-19 Articles"
 ---
