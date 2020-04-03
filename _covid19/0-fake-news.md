@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: COVID-19 Fake News
-permalink: /covid-19/home/
+permalink: /covid19/home/
 breadcrumb: COVID-19 Fake News
-collection_name: covid-19
+collection_name: covid19
 ---
 
 ### **Fake News concerning COVID-19 **
