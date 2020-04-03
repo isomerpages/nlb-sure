@@ -33,11 +33,15 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   about-us:
     output: true
+  covid-19:
+    output: true
   resources:
     output: true
   resources-by-audience:
     output: true
   resources-by-format:
+    output: true
+resources-by-topics:
     output: true
   ongoing-events:
     output: true
