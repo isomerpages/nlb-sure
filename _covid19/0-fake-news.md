@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: COVID-19 Fake News
-permalink: /covid19/home/
+permalink: /covid19/fake-news/
 breadcrumb: COVID-19 Fake News
 collection_name: covid19
 ---
