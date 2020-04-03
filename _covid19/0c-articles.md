@@ -15,21 +15,19 @@ However, with the bombardment of such information on all fronts from the news to
 
 For example, there were Facebook posts which claimed that Woodlands MRT station had been closed for disinfection on 28 January 2020 because a suspected case had been found there. you can apply the **S.U.R.E steps – Source, Understand, Research and Evaluate** to make a judgement. 
 
-![ Woodlands MRT Station ](https://commons.wikimedia.org/wiki/File:Woodlands_MRT_Station_(NSL)_-_C151_at_Platform_B.jpg) 
-
-
+![](../images/woodlandsmrt1.png.jpg) 
 
    
 
-Image of the Facebook Post on Woodlands MRT Closing 
+![](../images/woodlandsmrt.png)
 
-https://thesmartlocal.com/read/fake-news-covid-19/
+
 
 Firstly, what was the **s**ource of the information? This news originated from several Facebook posts shared. In this case, I felt that it was difficult to determine if it was accurate, as there was no clear origins as to how it started, much less, whether it came from a credible authority. Therefore, I thought that I had to treat this information with suspicion.
 
 Next was to **u**nderstand what I was reading. The Facebook post appeared to be opinion rather than facts. With that, I again found it difficult to confirm if it was real.  
 
-After that, I applied the next step of S.U.R.E, which was **r**esearch. I went online to find out more about the closure of Woodlands MRT station from different websites, and I found that Factually, which is part of the gov.sg website, had actually addressed this. One of its articles stated that the news on Woodlands MRT was false, and that it was actually fully operational on 28 January 2020 (https://www.gov.sg/article/factually-clarifications-on-falsehoods-on-woodlands-mrt-closure). This was the same when I went to the Ministry of Transport’s official Facebook page that stated that the news was false. 
+After that, I applied the next step of S.U.R.E, which was **r**esearch. I went online to find out more about the closure of Woodlands MRT station from different websites, and I found that Factually, which is part of the gov.sg website, had actually addressed this. [One of its articles](https://www.gov.sg/article/factually-clarifications-on-falsehoods-on-woodlands-mrt-closure) stated that the news on Woodlands MRT was false, and that it was actually fully operational on 28 January 2020. This was the same when I went to the Ministry of Transport’s official Facebook page that stated that the news was false. 
 
 Since this case was highlighted and debunked in official sources, I could **e**valuate that these are more credible than the Facebook posts shared.
 
