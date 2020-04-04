@@ -4,7 +4,7 @@ title: COVID-19 Articles
 permalink: /covid19/articles/
 breadcrumb: COVID-19 Articles
 collection_name: covid19
-second_nav_title: "COVID-19 Articles"
+second_nav_title: "Articles"
 ---
 
 **Applying the S.U.R.E Steps to COVID-19**  
