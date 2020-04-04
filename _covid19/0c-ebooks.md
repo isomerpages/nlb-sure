@@ -7,4 +7,6 @@ collection_name: covid19
 second_nav_title: 
 ---
 
-https://nlb.overdrive.com/media/2306524
+[Pandemic](https://nlb.overdrive.com/media/2306524) 
+Tracking Contagions, from Cholera to Ebola and Beyond
+by Sonia Shah 
