@@ -7,6 +7,8 @@ collection_name: covid19
 second_nav_title: 
 ---
 
-[Pandemic](https://nlb.overdrive.com/media/2306524) 
-Tracking Contagions, from Cholera to Ebola and Beyond
+[Pandemic: Tracking Contagions, from Cholera to Ebola and Beyond](https://nlb.overdrive.com/media/2306524) 
+
 by Sonia Shah 
+
+![[](https://nlb.overdrive.com/media/2306524)](../images/Pandemic.jpg)
