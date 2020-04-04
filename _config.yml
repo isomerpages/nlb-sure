@@ -40,7 +40,7 @@ collections:
     output: true
   resources-by-format:
     output: true
-resources-by-topics:
+  resources-by-topics:
     output: true
   ongoing-events:
     output: true
