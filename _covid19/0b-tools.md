@@ -4,7 +4,7 @@ title: Fact-checking Tools
 permalink: /covid19/tools/
 breadcrumb: Fact-checking Tools
 collection_name: covid19
-second_nav_title: covid19
+second_nav_title: 
 ---
 
 **Fact-checking Tools** 
