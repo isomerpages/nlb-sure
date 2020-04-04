@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 title: Fact-checking Tools
 permalink: /covid19/tools/
-breadcrumb: Fac-checking Tools
+breadcrumb: Fact-checking Tools
 collection_name: covid19
-second_nav_title: "COVID-19"
+second_nav_title: "Fact-checking Tools"
 ---
 
 **Fact-checking Tools** 
