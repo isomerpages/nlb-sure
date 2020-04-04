@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Trusted Sourcces
+title: Trusted Sources
 permalink: /covid19/resources/
 breadcrumb: Resource Guide
 collection_name: covid19
