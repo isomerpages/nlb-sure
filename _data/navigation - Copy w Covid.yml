@@ -18,6 +18,15 @@
     url: /resources/audience/
   - title: Formats
     url: /resources/format/
+- title: COVID-19
+  url: /covid19/fake-news/
+  sub-links:
+  - title: Fake News Archives
+    url: /covid19/cases/
+  - title: Fact-checking Tools
+    url: /covid19/tools/
+  - title: Articles
+    url: /covid19/articles/
 - title: Contact Us
   url: /contact-us/
 - title: FAQ
