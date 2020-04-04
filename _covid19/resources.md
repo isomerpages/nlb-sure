@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: eBooks
+title: Trusted Sourcces
 permalink: /covid19/resources/
 breadcrumb: Resource Guide
 collection_name: covid19
-second_nav_title: Trusted Sources
+second_nav_title: 
 ---
 
 ## CREDIBLE & TRUSTED SOURCES OF COVID-19 INFORMATION

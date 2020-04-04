@@ -11,4 +11,5 @@ collection_name: covid19
 Welcome to the SURE resource page on fake news and online falsehoods pertaining to the COVID-19 outbreak. 
 
 - [Fact-checking tools](/covid19/tools/)
-- [eBooks](/covid19/ebooks/)
+- [Trusted Sources](/covid19/resources/)
+
