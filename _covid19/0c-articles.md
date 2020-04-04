@@ -7,7 +7,7 @@ collection_name: covid19
 second_nav_title: "COVID-19 Articles"
 ---
 
-Applying the S.U.R.E Steps to COVID-19**  
+**Applying the S.U.R.E Steps to COVID-19**  
 
 With constant news reports on COVID-19 in Singapore, it is very likely that you have also received forwarded WhatsApp messages regarding this from your friends and family on how to protect yourself against it. Perhaps, you may even have received information on where the latest stock of surgical masks can be found.
 
