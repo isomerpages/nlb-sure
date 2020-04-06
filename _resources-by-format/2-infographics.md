@@ -8,6 +8,16 @@ collection_name: resources-by-format
 
 
 
+[**How to be S.U.R.E. before you share**](/infographic/4-Ways-of-SURE.pdf)
+
+![How to b SURE before you share](../images/4-Ways-of-SURE-thumbnail.JPG)
+
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board’s S.U.R.E. steps. Watch the video version [HERE](/resources/format/videos).
+
+<hr>
+
+
+
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 

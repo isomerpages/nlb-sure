@@ -17,12 +17,12 @@ hero-banner: /images/sure-animated-banner.gif
     
 # I want to dropdown
 i-want-to:
+  - title: find out more about COVID-19 fake news
+    url: /covid19/fake-news/
   - title: find out more about S.U.R.E. (Information Literacy)
     url: /about-us/sure-campaign/
   - title: find resources for schools
     url: /resources/audience/teachers-and-students/primary-level
-  - title: find out more about COVID-19 fake news
-    url: /covid19/fake-news/
     
 resources-title: Resources
 resources-subtitle: Combat Fake News
