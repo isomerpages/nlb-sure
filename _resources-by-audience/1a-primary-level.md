@@ -7,7 +7,18 @@ collection_name: resources-by-audience
 second_nav_title: "For Teachers & Students"
 ---
 
-### **SOCIAL STUDIES**
+**ACE YOUR PROJECT WORK**
+
+Ace Your Project Work is a resource for primary school teachers to help their students improve on project work skills. Lesson plans and worksheets based on the S.U.R.E (Source, Understand, Research and Evaluate) steps are enclosed within the resource for teachers to refer to.
+
+[![](../images/ace-yr-pjt-wk-thmb-1586159550044.JPG)](/cheatsheet/Ace Your Project Work.pdf)
+
+
+
+
+
+### SOCIAL STUDIES**
+
 #### **Cultural Diversity** 
 
 Learn more about different cultures in the resources below. 
