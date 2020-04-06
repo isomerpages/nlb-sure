@@ -8,11 +8,11 @@ collection_name: resources-by-format
 
 
 
-[**The Four Ways of SURE**](/infographic/4-Ways-of-SURE.pdf)
+[**How to be S.U.R.E. before you share**](/infographic/4-Ways-of-SURE.pdf)
 
-![The Four Ways of SURE 2020](/images/4-Ways-of-SURE-thumbnail.jpg)
+![How to be S.U.R.E. before you share](/images/4-Ways-of-SURE-thumbnail.jpg)
 
-If you receive any dubious information, you can check the facts using credible sources before you share.
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board’s S.U.R.E. steps. Watch the video version [HERE](/resources/format/videos).
 
 <hr>
 
