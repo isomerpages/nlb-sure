@@ -10,7 +10,7 @@ collection_name: resources-by-format
 
 [**The Four Ways of SURE**](/infographic/4-Ways-of-SURE.pdf)
 
-![The Four Ways of SURE 2020](images/4-Ways-of-SURE-thumbnail.jpg)
+![The Four Ways of SURE 2020](/images/4-Ways-of-SURE-thumbnail.jpg)
 
 If you receive any dubious information, you can check the facts using credible sources before you share.
 
