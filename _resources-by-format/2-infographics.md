@@ -8,6 +8,16 @@ collection_name: resources-by-format
 
 
 
+[**The Four Ways of SURE**](/infographic/Infographic 2020 - 4 Ways of SURE)
+
+![The Four Ways of SURE 2020](images/Infographic 2020 - 4 Ways of SURE thumbnail.jpg)
+
+If you receive any dubious information, you can check the facts using credible sources before you share.
+
+<hr>
+
+
+
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
