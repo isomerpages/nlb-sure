@@ -9,9 +9,9 @@ second_nav_title: "For Teachers & Students"
 
 **ACE YOUR PROJECT WORK**
 
-Ace Your Project Work is a resource for primary school teachers to help their students improve on project work skills. Lesson plans and worksheets based on the S.U.R.E (Source, Understand, Research and Evaluate) steps are enclosed within the resource for teachers to refer to.
+**[Ace Your Project Work](/cheatsheet/Ace%20Your%20Project%20Work.pdf)** is a resource for primary school teachers to help their students improve on project work skills. Lesson plans and worksheets based on the S.U.R.E (Source, Understand, Research and Evaluate) steps are enclosed within the resource for teachers to refer to.
 
-[![](../images/ace-yr-pjt-wk-thmb-1586159550044.JPG)](/cheatsheet/Ace Your Project Work.pdf)
+[![](../images/ace-yr-pjt-wk-thmb-1586159550044.JPG width=40%)](/cheatsheet/Ace Your Project Work.pdf)
 
 
 
