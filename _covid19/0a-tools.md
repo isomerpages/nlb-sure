@@ -15,7 +15,7 @@ Here are some useful online resources you can use to conduct basic fact-checks o
 
 ## (A) FACT-CHECKERS
 
-### LOCAL
+### SINGAPORE
 
 If the dubious information you received mentioned something specific to Singapore, you can refer to the following websites first:
 
