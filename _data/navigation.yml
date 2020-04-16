@@ -20,13 +20,6 @@
     url: /resources/format/
 - title: Blog
   url: /blog/
-- title: Seniors
-  url: /seniors/
-  sub-links:
-  - title: Fake News
-    url: /seniors/fake-news/
-  - title: eResources
-    url: /seniors/eresources/
 - title: Contact Us
   url: /contact-us/
 - title: FAQ
