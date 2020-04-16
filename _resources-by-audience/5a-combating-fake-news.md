@@ -1,5 +1,5 @@
 ---
-elayout: leftnav-page-content
+layout: leftnav-page-content
 title: Combating Fake News
 permalink: /resources/audience/seniors/combating-fake-news
 breadcrumb: Combating Fake News
