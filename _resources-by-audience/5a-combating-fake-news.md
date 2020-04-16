@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+elayout: leftnav-page-content
 title: Combating Fake News
 permalink: /resources/audience/seniors/combating-fake-news
 breadcrumb: Combating Fake News
@@ -19,7 +19,6 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 	<iframe class="resp-iframe" src="https://www.youtube.com/embed/JNFnPqTTPIc" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
-
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
 ![Fact checking using multiple sources](/images/Multiple-Sources-Header.png)
@@ -31,6 +30,7 @@ If you receive any dubious information, you can check the facts using credible s
 
 
 <hr>
+
 ![How to deal with dubious messages](/images/dubious-messages-English.png)
 
 **[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
