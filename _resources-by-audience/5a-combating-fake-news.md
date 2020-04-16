@@ -19,6 +19,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 	<iframe class="resp-iframe" src="https://www.youtube.com/embed/JNFnPqTTPIc" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
+
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
 ![Fact checking using multiple sources](/images/Multiple-Sources-Header.png)
@@ -30,7 +31,6 @@ If you receive any dubious information, you can check the facts using credible s
 
 
 <hr>
-
 ![How to deal with dubious messages](/images/dubious-messages-English.png)
 
 **[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
@@ -106,7 +106,11 @@ Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak
 
 With cameras in our smartphones, it is easy to snap away and take pictures of anything at anytime. However, we can also find image editing apps in our phones to enhance and beautify the image. These edited images may not seem to harm anyone. But unknowingly, doctored images can influence our behaviour and alter our past memories. Download the full infographic to learn how to detect doctored images.
 
-<hr>
 
-[[Infographic] How to deal with dubious information (English)](https://staging-nlb-sure.netlify.app/seniors/fake-news/fn0003)
+
+**[How Do You Identify a Hoax Website](/infographic/Infographics5_FA-Low-Res.pdf)**
+
+![](/images/hoaxwebsite-infoheader-e1450163706109-1050x700.png)
+
+​	In the world on vast information on the Internet, it is important to be sure that the website you are reading is not harbouring any false information. Download the full infographic to learn how the 4 ways of S.U.R.E. is applied to identify if a website is a hoax or not.
 
