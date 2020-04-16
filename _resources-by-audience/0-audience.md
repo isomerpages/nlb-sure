@@ -32,7 +32,7 @@ We have categorised our resources according to *audience categories*:
 
 #### **For Seniors**
 
-- [**Multilingual Resources (Videos & Infographics)**](/resources/audience/seniors/multilingual)
+- [Multilingual Resources (Videos & Infographics)](/resources/audience/seniors/multilingual)
 
 - [Combating Fake News](/resources/audience/seniors/combating-fake-news)
 
