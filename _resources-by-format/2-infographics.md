@@ -6,7 +6,7 @@ breadcrumb: Infographics
 collection_name: resources-by-format
 ---
 
-**[Identifying Credible Health Information**](/blog/information-literacy/il00001) 
+[**Identifying Credible Health Information**](/blog/information-literacy/il00001) 
 
 ![](../images/infographic-Identifying-Credible-Health-Information-thmb.JPG)
 
