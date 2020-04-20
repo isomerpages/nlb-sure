@@ -1,26 +1,23 @@
 ---
 layout: leftnav-page-content
-title: Infographics
-permalink: /resources/format/infographics
-breadcrumb: Infographics
-collection_name: resources-by-format
+title: Combating Fake News
+permalink: /resources/audience/seniors/combating-fake-news
+breadcrumb: Combating Fake News
+collection_name: resources-by-audience
+second_nav_title: "For Seniors"
 ---
 
-[**Identifying Credible Health Information**](/blog/information-literacy/il00001) 
+## **Combating Fake News**
 
-![](../images/infographic-Identifying-Credible-Health-Information-thmb.JPG)
+These sources will help you discern the reliability of the information that you’re reading. 
 
+#### How to be S.U.R.E. before you share
 
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
-[**How to be S.U.R.E. before you share**](/infographic/4-Ways-of-SURE.pdf)
-
-![How to b SURE before you share](../images/4-Ways-of-SURE-thumbnail.JPG)
-
-Learn how to safeguard yourself and others against online falsehoods by using the National Library Board’s S.U.R.E. steps. Watch the video version [HERE](/resources/format/videos).
-
-<hr>
-
-
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/JNFnPqTTPIc" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
 
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
@@ -28,6 +25,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 ![Fact checking using multiple sources](/images/Multiple-Sources-Header.png)
 
 If you receive any dubious information, you can check the facts using credible sources before you share.
+
 
 
 
@@ -66,10 +64,10 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 
 <hr>
-
 ![How seniors can fight fake news](/images/seniors-fake-news.JPG)
 
-**[How seniors can fight fake news](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
+
+**[How seniors can fight fake news](/infographic/Infog-1-Marcus-Chin-English-FINAL-002.pdf)**
 
 Don’t believe everything you read online. Find out how you can verify dubious information in this tip sheet.    
 
@@ -95,25 +93,24 @@ Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak
 
 [**மூத்தவர்கள் பொய்யான செய்திகளை எப்படி எதிர்க்கலாம்?**](/infographic/Infographic1_Dont-trust-everything-you-read-online_Tamil_FA.pdf)
 
-இணையத்தில் வாசிக்கும் அனைத்தையும் நம்பிவிடாதீர்கள்.   சந்தேகமான தகவல்களை எப்படிச் சரி பார்க்கலாம் என இந்த குறிப்புத்தாளில் இருந்து தெரிந்து கொள்ளுங்கள்.  
+இணையத்தில் வாசிக்கும் அனைத்தையும் நம்பிவிடாதீர்கள்.   சந்தேகமான தகவல்களை எப்படிச் சரி பார்க்கலாம் என இந்த குறிப்புத்தாளில் இருந்து தெரிந்து கொள்ளுங்கள். 
 
 
 
 <hr>
-**[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
-
-![NewspaperSG](/images/NewspaperSG-masthead-1050x536.png)
-
-Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore and Malaya and how to think critically when reading news articles.  
 
 
+[**How to Spot Doctored Photographs**](/infographic/Infographics7_FA-Low-Res.pdf)
 
-<hr>
-**[Be S.U.R.E . about your research](/infographic/Be-SURE_Infographic_Hires.pdf)**
+![](/images/doctoredphoto-infoheader-e1450163501324-1050x700.png)
 
-![](/images/besure-infographicheader-e1450169907842-1050x700.png)
-
-How well do you know about the information you receive? Are you sure about the information your friend shared or the information you read online? Learn how to apply the 4 ways of S.U.R.E. to discern information in our daily activities, such as shopping and eating.
+With cameras in our smartphones, it is easy to snap away and take pictures of anything at anytime. However, we can also find image editing apps in our phones to enhance and beautify the image. These edited images may not seem to harm anyone. But unknowingly, doctored images can influence our behaviour and alter our past memories. Download the full infographic to learn how to detect doctored images.
 
 
+
+**[How Do You Identify a Hoax Website](/infographic/Infographics5_FA-Low-Res.pdf)**
+
+![](/images/hoaxwebsite-infoheader-e1450163706109-1050x700.png)
+
+​	In the world on vast information on the Internet, it is important to be sure that the website you are reading is not harbouring any false information. Download the full infographic to learn how the 4 ways of S.U.R.E. is applied to identify if a website is a hoax or not.
 
