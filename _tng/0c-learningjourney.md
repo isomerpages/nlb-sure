@@ -8,8 +8,6 @@ second_nav_title:
 
 ---
 
-**Learning Journey** 
-
 Due to the extension of the COVID-19 Circuit Breaker to 1 Jun 2020, all Learning Journeys are suspended due to the temporary closure of all NLB libraries. 
 
 We look forward to your visit when our libraries reopen. 

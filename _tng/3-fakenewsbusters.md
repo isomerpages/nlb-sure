@@ -7,8 +7,6 @@ collection_name: tng
 second_nav_title: 
 ---
 
-**Meet the Fake News Busters**
-
 Introducing the Fake News Busters, Source-Finding Sarah, Understanding Upin, Researching Raju and Evaluating Emma! Together, they teach students how to be S.U.R.E. and discern false information.
 
 ![](../images/fakenewsbusters-lowres.jpg)

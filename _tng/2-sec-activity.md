@@ -7,6 +7,4 @@ collection_name: tng
 second_nav_title: 
 ---
 
-**Secondar School Activity 1**
-
 Coming soon.
