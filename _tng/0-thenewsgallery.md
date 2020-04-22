@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: The News Gallery
-permalink: /tng/home/
+permalink: /tng/thenewsgallery/
 breadcrumb: The News Gallery
 collection_name: tng
 ---
