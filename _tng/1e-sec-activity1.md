@@ -8,3 +8,5 @@ second_nav_title:
 ---
 
 **Secondar School Activity 1**
+
+Coming soon.

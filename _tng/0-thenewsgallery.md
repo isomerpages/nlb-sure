@@ -1,12 +1,3 @@
----
-layout: leftnav-page-content
-title: The News Gallery
-permalink: /tng/thenewsgallery/
-breadcrumb: The News Gallery
-collection_name: tng
----
-
-### *The News Gallery*  Educational Resources  
 
 Welcome to the educational resources page for *The News Gallery* permanent exhibition. 
 
