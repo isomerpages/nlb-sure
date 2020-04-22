@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Fake News Busters Activity 1
-permalink: /tng/fnb-activity1/
-breadcrumb: Fake News Busters Activity 1
+title: Fake News Busters Activities
+permalink: /tng/fnb-activity/
+breadcrumb: Fake News Busters Activities
 collection_name: tng
 second_nav_title: 
 ---
