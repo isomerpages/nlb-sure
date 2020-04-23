@@ -7,7 +7,7 @@ collection_name: tng
 second_nav_title: 
 ---
 
-Introducing the **SUREvivors**: Source-Finding Sarah, Understanding Upin, Researching Raju and Evaluating Emma! Together, they teach students how to be S.U.R.E. and discern false information.
+Introducing the **SUREvivors**:  Source-Finding Sarah, Understanding Upin, Researching Raju and Evaluating Emma! Together, they teach students how to be S.U.R.E. and discern false information.
 
 ![](../images/SUREvivors-team.JPG)
 
