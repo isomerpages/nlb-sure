@@ -34,8 +34,6 @@ collections:
     output: true
   covid19:
     output: true
-  tng:
-    output: true
   resources:
     output: true
   resources-by-audience:
