@@ -17,6 +17,8 @@ hero-banner: /images/sure-animated-banner.gif
     
 # I want to dropdown
 i-want-to:
+  - title: explore "The News Gallery" 
+    url: /tng/thenewsgallery/
   - title: find home-based learning resources
     url: /blog/home-based-learning/
   - title: find out more about S.U.R.E. (Information Literacy)

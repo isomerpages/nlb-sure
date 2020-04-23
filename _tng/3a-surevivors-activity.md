@@ -1,0 +1,21 @@
+---
+layout: leftnav-page-content
+title: SUREvivors Activities
+permalink: /tng/surevivors-activity/
+breadcrumb: SUREvivors Activities
+collection_name: tng
+second_nav_title: 
+---
+
+**SUREvivors Activity 1**
+
+Hi everyone, let’s create a collaborative story about their adventures! You can draw or use any digital tool or app to tell YOUR story or stories! Please refer to [this page](/tng/fakenewsbusters/) for the character descriptions.
+
+When you are done, you can post it in your social media account (e.g. Instagram or Facebook) and tag us **@nationallibrarySG**  with these hashtags:  **#SUREvivors  #beSURE  #NLBnewsgallery**. We will highlight the best entries here.
+
+In this example below, we used “Gacha Life” to create this cartoon panel.  As you can see, the SUREvivors are also masking up and maintaining their social distance in cyberspace.
+
+![](../images/surevivors-team-01.jpg)
+
+
+
