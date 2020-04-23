@@ -9,6 +9,20 @@ second_nav_title:
 
 **SUREvivors Activity 1**
 
+The SUREvivors need your help!  Defeat the Fake News Monsters by answering the quiz questions correctly!
+
+[Before your child attempts this quiz, you may wish to check out our resources on combating fake news **[HERE](https://sure.nlb.gov.sg/resources/audience/adults/combating-fake-news)**.]
+
+**[START THE QUIZ](https://tinyurl.com/tng-surevivor-quiz)**
+
+![](../images/SUREvivors quiz thmb.JPG)
+
+<hr>
+
+
+
+**SUREvivors Activity 2**
+
 Hi everyone, let’s create a collaborative story about their adventures! You can draw or use any digital tool or app to tell YOUR story or stories! Please refer to [this page](/tng/surevivors/) for the character descriptions.
 
 When you are done, you can post it in your social media account (e.g. Instagram or Facebook) and tag us **@nationallibrarySG**  with these hashtags:  **#SUREvivors  #beSURE  #NLBnewsgallery**. We will highlight the best entries here.
