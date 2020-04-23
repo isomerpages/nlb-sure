@@ -15,9 +15,10 @@ The SUREvivors need your help!  Defeat the Fake News Monsters by answering the q
 
 **[START THE QUIZ](https://tinyurl.com/tng-surevivor-quiz)**
 
-![](../images/SUREvivors quiz thmb.JPG)
+![](../images/SUREvivors-quiz-thmb.JPG)
 
 <hr>
+
 
 
 
@@ -29,7 +30,7 @@ When you are done, you can post it in your social media account (e.g. Instagram 
 
 In this example below, we used “Gacha Life” to create this cartoon panel.  As you can see, the SUREvivors are also masking up and maintaining their social distance in cyberspace.
 
-![](../images/surevivors-team-01.jpg)
+![](../images/surevivor-gacha.jpg)
 
 
 
