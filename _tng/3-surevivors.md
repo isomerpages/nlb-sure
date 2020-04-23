@@ -1,5 +1,5 @@
 ---
-![]()layout: leftnav-page-content
+layout: leftnav-page-content
 title: Meet the SUREvivors
 permalink: /tng/surevivors/
 breadcrumb: Meet the SUREvivors
