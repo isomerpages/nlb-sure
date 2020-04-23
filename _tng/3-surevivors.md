@@ -12,7 +12,7 @@ Introducing the **SUREvivors**: Source-Finding Sarah, Understanding Upin, Resear
 ![](../images/SUREvivors-team.JPG)
 
 ```HTML
-<img align=left src='/images/SUREvivor_Sarah.jpg' width=200 alt='Sarah' referrerPolicy='no-referrer' />**Source-Finding Sarah** looks at the origin of her sources to see if they are trustworthy. She believes strongly in checking the credibility and reliability of a source of information. Armed with her tablet computers, books and maps, she examines her various sources first before believing them.
+<img src='/images/SUREvivor_Sarah.jpg' width=200 alt='Sarah' align=left valign=top referrerPolicy='no-referrer' />**Source-Finding Sarah** looks at the origin of her sources to see if they are trustworthy. She believes strongly in checking the credibility and reliability of a source of information. Armed with her tablet computers, books and maps, she examines her various sources first before believing them.
 ```
 
 **Source-Finding Sarah** looks at the origin of her sources to see if they are trustworthy. She believes strongly in checking the credibility and reliability of a source of information. Armed with her tablet computers, books and maps, she examines her various sources first before believing them.
