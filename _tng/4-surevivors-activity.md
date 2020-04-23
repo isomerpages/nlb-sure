@@ -15,9 +15,7 @@ The SUREvivors need your help!  Defeat the Fake News Monsters by answering the q
 
 **[START THE QUIZ](https://tinyurl.com/tng-surevivor-quiz)**
 
-![](../images/SUREvivors%20quiz%20thmb.JPG)
-
-
+![](../images/SUREvivors quiz thmb.JPG)
 
 <hr>
 
