@@ -11,66 +11,16 @@ second_nav_title: "For Seniors"
 
 ## Videos
 
+- [Marine Fishes (English)](/blog/seniors/sn0006)
+- [Cheongsam (English)](/blog/seniors/sn0007)
+- [Marine Fishes (Mandarin)](/blog/seniors/sn0008)
+- [Cheongsam (Mandarin)](/blog/seniors/sn0009)
+- [Marine Fishes (Malay)](/blog/seniors/sn0010)
+- [Baju Kurung (Malay)](/blog/seniors/sn0011)
+- [Marine Fishes (Tamil)](/blog/seniors/sn0012)
+- [Sari (Tamil)](/blog/seniors/sn0013)
 
 
-### S.U.R.E.: Marine Fishes & Cheongsam (Part 1) - English
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YML5AOlGLH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-**S.U.R.E.: Marine Fishes & Cheongsam (Part 2)** - English****
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ADhtSDhMsAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-<hr>
-
-**S.U.R.E.: Marine Fishes & Cheongsam (Part 1) - Chinese**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/axOkzGipo-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-**S.U.R.E.: Marine Fishes & Cheongsam (Part 2) - Chinese**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NGz3NVhSXxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-<hr>
-
-
-
-**S.U.R.E.: Marine Fishes & Baju Kurung (Part 1) - Malay**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ufVQ-P-Lgqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-**S.U.R.E.:Marine Fishes & Baju Kurung (Part 2) - Malay**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5xrl6L2j7JY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-<hr>
-
-
-
-**S.U.R.E.: Marine Fishes & Sari (Part 1) - Tamil**  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k_RiniO_3VY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-**S.U.R.E.: Marine Fishes & Sari (Part 2) - Tamil**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oix3fQBSqrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
