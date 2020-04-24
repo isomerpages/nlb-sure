@@ -7,17 +7,20 @@ collection_name: resources-by-audience
 second_nav_title: "For Adults"
 ---
 
-## **Combating Fake News**
-
 These sources will help you discern the reliability of the information that you’re reading. 
 
-#### How to be S.U.R.E. before you share
+
+
+## Videos
+
+#### [**How to be S.U.R.E. before you share**](/blog/fake-news/FN0004)
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/JNFnPqTTPIc" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+<hr>
+
+## Infographics
+
 
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
