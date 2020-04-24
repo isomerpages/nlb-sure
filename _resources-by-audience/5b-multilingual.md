@@ -9,13 +9,26 @@ second_nav_title: "For Seniors"
 
 ## Videos
 
-- [Marine Fishes (English)](/blog/seniors/sn0006)
+- [Marine Fishes (English)](/blog/seniors/sn0006) 
+
 - [Cheongsam (English)](/blog/seniors/sn0007)
+
+  
+
 - [Marine Fishes (Mandarin)](/blog/seniors/sn0008)
+
 - [Cheongsam (Mandarin)](/blog/seniors/sn0009)
+
+  
+
 - [Marine Fishes (Malay)](/blog/seniors/sn0010)
+
 - [Baju Kurung (Malay)](/blog/seniors/sn0011)
+
+  
+
 - [Marine Fishes (Tamil)](/blog/seniors/sn0012)
+
 - [Sari (Tamil)](/blog/seniors/sn0013)
 
 
@@ -25,7 +38,7 @@ second_nav_title: "For Seniors"
 
 ![How to deal with dubious messages](/images/dubious-messages-English.png)
 
-**[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
+[**How To Deal With Dubious Messages**](/blog/seniors/sn0005)
 
 Bogus stories can be easily spread through SMS and social messaging tools and apps. Before you share, verify the information using the steps in this tip sheet. 
 
