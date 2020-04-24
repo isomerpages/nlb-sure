@@ -13,19 +13,19 @@ second_nav_title: "For Seniors"
 
 - [Cheongsam (English)](/blog/seniors/sn0007)
 
-  
+  <br>
 
 - [Marine Fishes (Mandarin)](/blog/seniors/sn0008)
 
 - [Cheongsam (Mandarin)](/blog/seniors/sn0009)
 
-  
+  <br>
 
 - [Marine Fishes (Malay)](/blog/seniors/sn0010)
 
 - [Baju Kurung (Malay)](/blog/seniors/sn0011)
 
-  
+  <br>
 
 - [Marine Fishes (Tamil)](/blog/seniors/sn0012)
 
@@ -34,7 +34,7 @@ second_nav_title: "For Seniors"
 
 <hr>
 
-## Infographics
+## Infographics	
 
 ![How to deal with dubious messages](/images/dubious-messages-English.png)
 
@@ -54,7 +54,7 @@ Bogus stories can be easily spread through SMS and social messaging tools and ap
 
 
 
-5**[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/blog/seniors/sn0016)**
+**[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/blog/seniors/sn0015)**
 
 Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan aplikasi sebaran mesej sosial. Pastikan anda menyemak informasi dengan menggunakan tip-tip  berikut.
 
