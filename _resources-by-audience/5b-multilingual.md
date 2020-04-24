@@ -46,7 +46,7 @@ Bogus stories can be easily spread through SMS and social messaging tools and ap
 
 
 
-**[如何查证可疑信息](/infographic/Dubious-Messages-Chinese.pdf)**
+**[如何查证可疑信息](/blog/seniors/sn0014)**
 
 虚假信息能够轻易地通过手机简讯、社交平台的私讯工具，以及应用软件散播开来。在点击“分享”之前，请先利用这张提示表里的步骤查证信息的可靠性。
 
@@ -54,7 +54,7 @@ Bogus stories can be easily spread through SMS and social messaging tools and ap
 
 
 
-**[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/infographic/DubiousMsg_Malay_FA.pdf)**
+5**[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/blog/seniors/sn0016)**
 
 Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan aplikasi sebaran mesej sosial. Pastikan anda menyemak informasi dengan menggunakan tip-tip  berikut.
 
@@ -62,15 +62,15 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 
 
-[**சந்தேகமான செய்திகளைக் கையாள்வது எப்படி**](/infographic/DubiousMsg_Tamil (1).pdf)
+[**சந்தேகமான செய்திகளைக் கையாள்வது எப்படி**](/blog/seniors/sn0016)
 
 குறுஞ்செய்தி, சமூக ஊடகச்செயலிகள் போன்றவற்றின்மூலம் பொய்யான கதைகள் எளிதில் பரப்பப்படலாம். பகிர்வதற்ககு முன், இந்த வழிகளின் மூலம் தகவல்களைச் சரி பாருங்கள்.
 
 
 
 <hr>
-![How seniors can fight fake news](/images/seniors-fake-news.JPG)
 
+![](../images/seniors-fake-news.JPG)
 
 **[How seniors can fight fake news](/infographic/Infog-1-Marcus-Chin-English-FINAL-002.pdf)**
 
