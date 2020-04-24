@@ -7,8 +7,6 @@ collection_name: resources-by-audience
 second_nav_title: "For Seniors"
 ---
 
-## **Multilingual Resources**
-
 ## Videos
 
 - [Marine Fishes (English)](/blog/seniors/sn0006)
@@ -19,7 +17,6 @@ second_nav_title: "For Seniors"
 - [Baju Kurung (Malay)](/blog/seniors/sn0011)
 - [Marine Fishes (Tamil)](/blog/seniors/sn0012)
 - [Sari (Tamil)](/blog/seniors/sn0013)
-
 
 
 <hr>
