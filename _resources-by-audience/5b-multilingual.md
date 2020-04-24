@@ -72,7 +72,7 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 ![](../images/seniors-fake-news.JPG)
 
-**[How seniors can fight fake news](/infographic/Infog-1-Marcus-Chin-English-FINAL-002.pdf)**
+**[How seniors can fight fake news](/blog/seniors/sn0017)**
 
 Don’t believe everything you read online. Find out how you can verify dubious information in this tip sheet.    
 
@@ -80,7 +80,7 @@ Don’t believe everything you read online. Find out how you can verify dubious 
 
 
 
-[**乐龄人士如何参与打击不实信息**](/infographic/Marcus-Chin-Chinese-R2.pdf)
+[**乐龄人士如何参与打击不实信息**](/blog/seniors/sn0018)
 
 不要盲目地相信你在网上接触到的信息，请利用这张提示表来了解如何验证可疑信息。  
 
@@ -88,7 +88,7 @@ Don’t believe everything you read online. Find out how you can verify dubious 
 
 
 
-**[Langkah-langkah untuk warga emas membasmi berita palsu](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
+**[Langkah-langkah untuk warga emas membasmi berita palsu](/blog/seniors/sn0019)**
 
 Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak informasi dengan menggunakan tip-tip berikut.
 
@@ -96,7 +96,7 @@ Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak
 
 
 
-[**மூத்தவர்கள் பொய்யான செய்திகளை எப்படி எதிர்க்கலாம்?**](/infographic/Infographic1_Dont-trust-everything-you-read-online_Tamil_FA.pdf)
+[**மூத்தவர்கள் பொய்யான செய்திகளை எப்படி எதிர்க்கலாம்?**](/blog/seniors/sn0020)
 
 இணையத்தில் வாசிக்கும் அனைத்தையும் நம்பிவிடாதீர்கள்.   சந்தேகமான தகவல்களை எப்படிச் சரி பார்க்கலாம் என இந்த குறிப்புத்தாளில் இருந்து தெரிந்து கொள்ளுங்கள். 
 
