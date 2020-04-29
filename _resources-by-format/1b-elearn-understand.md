@@ -13,9 +13,9 @@ second_nav_title: "eLearn"
 
 Designed for kids, this course will show them how to spot the critical elements and clues presented in visual images such as posters, brochures, websites and advertisements. Learn how to narrow down the different interpretations of a given scenario and write about them accordingly.
 
-- [Explaining the various ways visual messages are presented](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic1/index.html){:target="_blank"} – Scenarios: at the supermarket, shopping mall, school, home
-- [Unmasking the main ideas and meaning](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic2/index.html){:target="_blank"} – Including creation strategies
-- [Telling stories through visuals](http://www.nlb.gov.sg/sure/coursewares/AVTMEK_topic3/index.html){:target="_blank"} – Descriptive and picture stories, conflict and obstacle
+- [Explaining the various ways visual messages are presented](http://www.nlb.gov.sg/sure-elearn/AVTMEK_topic1/index.html){:target="_blank"} – Scenarios: at the supermarket, shopping mall, school, home
+- [Unmasking the main ideas and meaning](http://www.nlb.gov.sg/sure-elearn/AVTMEK_topic2/index.html){:target="_blank"} – Including creation strategies
+- [Telling stories through visuals](http://www.nlb.gov.sg/sure-elearn/AVTMEK_topic3/index.html){:target="_blank"} – Descriptive and picture stories, conflict and obstacle
 
 ### **Information Literacy for Educators**
 
@@ -25,6 +25,6 @@ As an educator, you need to build the skills to navigate the abundance of inform
 
 This course will cover Information Literacy models and how to integrate them into your curriculum.
 
-- [Why Information Literacy?](http://www.nlb.gov.sg/sure/coursewares/ILE/Module-01/Shell.html#){:target="_blank"} – What is Information Literacy and how educators can help students
-- [Information Literacy models](http://www.nlb.gov.sg/sure/coursewares/ILE/Module-02/Shell.html#){:target="_blank"} – Big6™, Empowering 8 and the 4 ways of S.U.R.E. (Source, Understand, Research and Evaluate)
-- [Practising Information Literacy](http://www.nlb.gov.sg/sure/coursewares/ILE/Module-03/Shell.html){:target="_blank"} – Case study detailing when and how educators can make the project work assigned to students an experience in Information Literacy
+- [Why Information Literacy?](http://www.nlb.gov.sg/sure-elearn/ILE/Module-01/Shell.html){:target="_blank"} – What is Information Literacy and how educators can help students
+- [Information Literacy models](http://www.nlb.gov.sg/sure-elearn/ILE/Module-02/Shell.html){:target="_blank"} – Big6™, Empowering 8 and the 4 ways of S.U.R.E. (Source, Understand, Research and Evaluate)
+- [Practising Information Literacy](http://www.nlb.gov.sg/sure-elearn/ILE/Module-03/Shell.html){:target="_blank"} – Case study detailing when and how educators can make the project work assigned to students an experience in Information Literacy
