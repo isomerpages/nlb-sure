@@ -13,7 +13,7 @@ second_nav_title: "eLearn"
 
 Writing project reports can be painless or even fun, but only if you’re prepared for it. This course will teach you the tips, tricks and how-tos you will need for writing effective project reports.
 
-- [Structure of a research report](http://www.nlb.gov.sg/sure-elearn-elearn/SRSEC/Module-01/Shell.html): Elements of a good research report, eight sections of a research report and three stages of project reporting
+- [Structure of a research report](http://www.nlb.gov.sg/sure-elearn/SRSEC/Module-01/Shell.html): Elements of a good research report, eight sections of a research report and three stages of project reporting
 - [Structure of a research report](http://www.nlb.gov.sg/sure-elearn/SRSEC/Module-02/Shell.html): Research methods and findings
 - [Structure of a research report](http://www.nlb.gov.sg/sure-elearn/SRSEC/Module-03/Shell.html): Discussion, conclusion and recommendations
 - [Planning and writing your research report](http://www.nlb.gov.sg/sure-elearn/SRSEC/Module-05/Shell.html) – Develop outline, gather information, know your audience
