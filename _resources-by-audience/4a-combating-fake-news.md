@@ -9,6 +9,10 @@ second_nav_title: "For Adults"
 
 These sources will help you discern the reliability of the information that you’re reading. 
 
+## Presentations
+
+[How to be S.U.R.E. of your COVID-19 Information](/blog/fake-news/FN0005)
+
 
 
 ## Videos

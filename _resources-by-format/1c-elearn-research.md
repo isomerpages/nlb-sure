@@ -45,13 +45,26 @@ The quality of research depends on the quality of resources found and how findin
 “Collecting primary data is a pain, a chore and very tedious!” These are some remarks that students make when doing research. Do you feel the same? Conducting research can actually be simple, fun and very fulfilling, especially when you get to acquire new knowledge. In this course, you’ll learn a 5-step process that will help maximise your research output.
 
 - [Strategising your research  – Using the 5-step research process](http://www.nlb.gov.sg/sure-elearn/SR/Module-01/Shell.html)
+
+  
+
 - [Establishing your research objectives](http://www.nlb.gov.sg/sure-elearn/SR/Module-02/Shell.html)
-  ** Step1: Define the project topic and problem statement
-  ** Step2: Identify the research objectives
-  ** Step3: Choose a research method
+  <br>
+  
+  - Step1: Define the project topic and problem statement
+  - Step2: Identify the research objectives
+  - Step3: Choose a research method
+  
+  
+  
 - [Planning your data collection](http://www.nlb.gov.sg/sure-elearn/SR/Module-03/Shell.html)
-  ** Step4: Collect the data
-  ** Step5: Analyse and interpret the data
+  
+  * Step4: Collect the data
+  
+  * Step5: Analyse and interpret the data
+  
+    
+  
 - [Designing your surveys](http://www.nlb.gov.sg/sure-elearn/SR/Module-04/Shell.html) – Population and sample, time and resources, questions and biases
 
 
@@ -65,3 +78,4 @@ This course is designed to help you become savvier when consuming the myriad of 
 - [Explaining the essentials of visual text analysis](http://www.nlb.gov.sg/sure-elearn/VTANE_topic1/index.html) 
 - [Uncovering the layers of visual and text messages](http://www.nlb.gov.sg/sure-elearn/VTANE_topic2/index.html) 
 - [Using the 5-Question techniques and AACCO criteria (Authority, Accuracy, Currency, Coverage and Objectivity)](http://www.nlb.gov.sg/sure-elearn/VTANE_topic3/index.html) 
+
