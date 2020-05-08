@@ -7,17 +7,16 @@ collection_name: resources-by-audience
 second_nav_title: "For Teachers & Students"
 ---
 
-**[S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)**
+**[S.U.R.E. Research Guide](/blog/home-based-learning/DD00006)**
 
-The S.U.R.E. Research Guide has been developed based on the four steps of S.U.R.E. and will teach students and adult learners about the principles of effective research, how to use NLB’s eResources (readily available online) and guidelines on combating online falsehoods.
+The S.U.R.E. [Research Guide](/blog/home-based-learning/DD00006) has been developed based on the four steps of S.U.R.E. and will teach students and adult learners about the principles of effective research, how to use NLB’s eResources (readily available online) and guidelines on combating online falsehoods.
 
 The content is suitable for secondary and post-secondary students conducting research for their projects and school assignments. Working professionals can also use this guide for their academic and general research needs.
 
 <hr>
-
 **Academic Research with NLB eResources**
 
-In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)** to complement your learning.
+In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/blog/home-based-learning/DD00006)** to complement your learning.
 
 <div class="resp-container">
         <iframe class="resp-iframe" src="https://player.vimeo.com/video/399032406" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
