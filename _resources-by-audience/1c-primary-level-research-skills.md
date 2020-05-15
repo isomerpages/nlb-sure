@@ -7,8 +7,6 @@ collection_name: resources-by-audience
 second_nav_title: "For Teachers & Students"
 ---
 
-### **RESEARCH SKILLS**
-
 #### **Information Resources** 
 
 If you’re not sure where to go to find sources to research for your homework, here is some information that you can refer to. 
