@@ -7,7 +7,7 @@ collection_name: tng
 second_nav_title: 
 ---
 
-**SUREvivors Activity 3**
+![](../images/SUREvivor-activity-3.png)
 
 |                                                              |                                    |
 | ------------------------------------------------------------ | ---------------------------------- |
