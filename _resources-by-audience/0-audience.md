@@ -12,28 +12,29 @@ We have categorised our resources according to *audience categories*:
 
 #### For Teachers & Students
 
-- [Primary Level](/resources/audience/teachers-and-students/primary-level)	
+[Primary Level](/resources/audience/teachers-and-students/primary-level)	
 
-  ​	[Social Studies](/resources/audience/teachers-and-students/primary-level-social-studies)
+​	[Social Studies](/resources/audience/teachers-and-students/primary-level-social-studies)
 
-  ​	[Research Skills](/resources/audience/teachers-and-students/primary-level-research-skills)
+​	[Research Skills](/resources/audience/teachers-and-students/primary-level-research-skills)
 
 
-- [Secondary Level](/resources/audience/teachers-and-students/secondary-level)
 
-  ​	[History](/resources/audience/teachers-and-students/secondary-level-history)
+[Secondary Level](/resources/audience/teachers-and-students/secondary-level)
 
-  ​	[Geography](/resources/audience/teachers-and-students/secondary-level-geography)
+​	[History](/resources/audience/teachers-and-students/secondary-level-history)
 
-  ​	[Social Studies](/resources/audience/teachers-and-students/secondary-level-social-studies)
+​	[Geography](/resources/audience/teachers-and-students/secondary-level-geography)
 
-  ​	[CCE  /  Cyberwellness  /  ICT](/resources/audience/teachers-and-students/secondary-level-cce)
+​	[Social Studies](/resources/audience/teachers-and-students/secondary-level-social-studies)
 
-  
-  
-- [Post-secondary Level](/resources/audience/teachers-and-students/post-secondary-level)
+​	[CCE  /  Cyberwellness  /  ICT](/resources/audience/teachers-and-students/secondary-level-cce)
 
-  
+
+
+[Post-secondary Level](/resources/audience/teachers-and-students/post-secondary-level)
+
+
 
 #### For Adults
 
