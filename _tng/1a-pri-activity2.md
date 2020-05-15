@@ -11,4 +11,4 @@ Do you know that there is a fun side to newspapers too? Some pages are filled wi
 
 Try out this [**ACTIVITY**](https://go.gov.sg/tng-primary-activity2) now!
 
-![](../images/spotthediff2.png)
+![](../images/spot-the-difference_before.jpg)

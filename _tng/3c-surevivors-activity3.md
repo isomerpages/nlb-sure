@@ -7,6 +7,8 @@ collection_name: tng
 second_nav_title: 
 ---
 
+<meta property="og:image" content="../images/SUREvivor-activity-3.png" />
+
 ![](../images/SUREvivor-activity-3.png)
 
 |                                                              |                                    |
