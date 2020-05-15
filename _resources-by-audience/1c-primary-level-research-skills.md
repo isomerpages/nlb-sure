@@ -111,8 +111,3 @@ Not everybody surfing the internet has good intentions. Look through the resourc
 
 [Street Smart on Social Media](/infographic/Infographic-8.pdf) 
 
-<HR>
-
-
-
-### 
