@@ -18,7 +18,7 @@ second_nav_title: "For Teachers & Students"
 
 [Social Studies](/resources/audience/teachers-and-students/primary-level-social-studies) 
 
-
+​	
 
 #### **Cultural Diversity** 
 

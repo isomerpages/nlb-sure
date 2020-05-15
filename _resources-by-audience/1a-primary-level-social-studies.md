@@ -4,7 +4,7 @@ title: Primary Level - Social Studies
 permalink: /resources/audience/teachers-and-students/primary-level-social-studies
 breadcrumb: Social Studies
 collection_name: resources-by-audience
-second_nav_title: "Social Studies"
+second_nav_title: "For Teachers & Students"
 ---
 
 #### **Cultural Diversity** 
