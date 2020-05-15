@@ -12,15 +12,29 @@ We have categorised our resources according to *audience categories*:
 
 #### **For Teachers & Students**
 
-- [Primary Level](/resources/audience/teachers-and-students/primary-level)	
+- **[Primary Level](/resources/audience/teachers-and-students/primary-level)**	
 
-- [Secondary Level](/resources/audience/teachers-and-students/secondary-level)
+  **[	Social Studies](/resources/audience/teachers-and-students/primary-level-social-studies)** 
 
-- [Post-secondary Level](/resources/audience/teachers-and-students/post-secondary-level)
+  ​	**[Research Skills](/resources/audience/teachers-and-students/primary-level-research-skills)**
+
+- **[Secondary Level](/resources/audience/teachers-and-students/secondary-level)**
+
+  ### 	**[History](/resources/audience/teachers-and-students/secondary-level-history)**
+
+  ### 	**[Geography](/resources/audience/teachers-and-students/secondary-level-geography)**
+
+  ### 	**[Social Studies](/resources/audience/teachers-and-students/secondary-level-social-studies)**
+
+  ​	**[CCE  /  Cyberwellness  /  ICT](/resources/audience/teachers-and-students/secondary-level-cce)**
 
   
 
-#### **For Adults**
+- **[Post-secondary Level](/resources/audience/teachers-and-students/post-secondary-level)**
+
+  
+
+#### For Adults
 
 - [Combating Fake News](/resources/audience/adults/combating-fake-news)
 
