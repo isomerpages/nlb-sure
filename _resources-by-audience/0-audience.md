@@ -10,17 +10,33 @@ We have categorised our resources according to *audience categories*:
 
 
 
-#### **For Teachers & Students**
+#### For Teachers & Students
 
-- [Primary Level](/resources/audience/teachers-and-students/primary-level)	
+[Primary Level](/resources/audience/teachers-and-students/primary-level)	
 
-- [Secondary Level](/resources/audience/teachers-and-students/secondary-level)
+​	[Social Studies](/resources/audience/teachers-and-students/primary-level-social-studies)
 
-- [Post-secondary Level](/resources/audience/teachers-and-students/post-secondary-level)
+​	[Research Skills](/resources/audience/teachers-and-students/primary-level-research-skills)
 
-  
 
-#### **For Adults**
+
+[Secondary Level](/resources/audience/teachers-and-students/secondary-level)
+
+​	[History](/resources/audience/teachers-and-students/secondary-level-history)
+
+​	[Geography](/resources/audience/teachers-and-students/secondary-level-geography)
+
+​	[Social Studies](/resources/audience/teachers-and-students/secondary-level-social-studies)
+
+​	[CCE  /  Cyberwellness  /  ICT](/resources/audience/teachers-and-students/secondary-level-cce)
+
+
+
+[Post-secondary Level](/resources/audience/teachers-and-students/post-secondary-level)
+
+
+
+#### For Adults
 
 - [Combating Fake News](/resources/audience/adults/combating-fake-news)
 
@@ -30,7 +46,7 @@ We have categorised our resources according to *audience categories*:
 
   
 
-#### **For Seniors**
+#### For Seniors
 
 - [Multilingual Resources (Videos & Infographics)](/resources/audience/seniors/multilingual)
 
@@ -44,7 +60,7 @@ We have categorised our resources according to *audience categories*:
 
   
 
-#### **For all ages:** 
+#### For all ages: 
 
 - [COVID-19 resources](/covid19/fake-news/)
 - [S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)

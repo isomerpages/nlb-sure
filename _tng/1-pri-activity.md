@@ -1,11 +1,17 @@
 ---
 layout: leftnav-page-content
-title: The News Gallery - Primary School Activities
+title: Primary School Activity 1
 permalink: /tng/pri-activity/
-breadcrumb: Primary School Activities
+breadcrumb: Primary School Activity 1
 collection_name: tng
 second_nav_title: 
 ---
+
+*Finding activities for your primary school kid?*
+
+*Put their media literacy skills to the test and uncover key historical events of the nation through the perspectives of news reports along the way. Hone their skills at discerning information and prevent the spread of fake news. See if they have what it takes to be a news journalist?*
+
+<hr>
 
 **Primary School Activity 1: Early Editions**
 
@@ -15,12 +21,10 @@ To cater to the needs of different communities in Singapore, newspapers in vario
 
 The National Library is home to a rich archive of over 200 Singapore newspaper titles published since 1827. You can explore these old editions and more on [Newspaper SG](https://eresources.nlb.gov.sg/newspapers).
 
-**[Try this activity now](https://tinyurl.com/TNG-pri-02)!**
-
-
+**[Try this activity now](https://go.gov.sg/tng-primary-activity1)!**
 
 <hr>
-
+[Activity 2 - Extra! Extra!](/tng/pri-activity2/)
 
 
 
