@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: SUREvivors Activities
+title: SUREvivors Activity 1
 permalink: /tng/surevivors-activity/
-breadcrumb: SUREvivors Activities
+breadcrumb: SUREvivors Activity 1
 collection_name: tng
 second_nav_title: 
 ---

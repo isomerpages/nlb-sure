@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: The News Gallery - Primary School Activities
+title: Primary School Activity 1
 permalink: /tng/pri-activity/
-breadcrumb: Primary School Activities
+breadcrumb: Primary School Activity 1
 collection_name: tng
 second_nav_title: 
 ---
