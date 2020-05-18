@@ -8,12 +8,11 @@ second_nav_title:
 ---
 
 <meta property="og:image" content="../images/SUREvivor-activity-3.png" />
-
 ![](../images/SUREvivor-activity-3.png)
 
 |                                                              |                                    |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Hi everyone! This is Source-Finding Sarah, part of the SUREvivors team. She will help you to learn more about what different sources of information are. After that, take her online quiz to test your knowledge! <p><br><p><br>There are many types of sources of information out there. Library books, magazines, encyclopaedias, newspapers, and websites are all examples of sources of information. You would definitely have used at least one of them! These sources of information can either be primary or secondary. What is the difference between the two, and how can you tell if what you are using is a primary or secondary source of information? Read on to find out more! | ![](../images/SUREvivor_Sarah.jpg) |
+| Hi everyone! This is Source-Finding Sarah, part of the SUREvivors team. She will help you to learn more about what different sources of information are. After that, take her online quiz to test your knowledge! <br><br>There are many types of sources of information out there. Library books, magazines, encyclopaedias, newspapers, and websites are all examples of sources of information. You would definitely have used at least one of them! These sources of information can either be primary or secondary. What is the difference between the two, and how can you tell if what you are using is a primary or secondary source of information? Read on to find out more! | ![](../images/SUREvivor_Sarah.jpg) |
 
 **Primary and Secondary Sources**
 
