@@ -12,7 +12,7 @@ We have prepared a series of online activities for you:
 
 [Primary school activities](https://sure.nlb.gov.sg/tng/pri-activity/)
 
-[SUREvivor activities](https://sure.nlb.gov.sg/tng/surevivors-activity/) 
+[SUREvivors activities](https://sure.nlb.gov.sg/tng/surevivors-activity/) 
 
 <hr>
 
