@@ -1,5 +1,6 @@
 categories:
 - category-name: blog # This is the Resources name: in this case, it is blog
+- category-name: news
 - category-name: home-based-learning
 - category-name: fake-news
 - category-name: information-literacy
