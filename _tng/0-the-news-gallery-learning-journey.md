@@ -32,7 +32,7 @@ Launched in March 2020, The News Gallery aims to provide a platform to explore i
 
 <hr>
 
-**Due to the extension of the COVID-19 Circuit Breaker to 1 Jun 2020, all Learning Journeys are suspended due to the temporary closure of all NLB libraries.** 
+**Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr until further notice.**
 
 We look forward to your visit when our libraries reopen. 
 
