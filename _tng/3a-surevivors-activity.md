@@ -17,11 +17,5 @@ The SUREvivors need your help!  Defeat the Fake News Monsters by answering the q
 
 ![](../images/SUREvivors-quiz-thmb.JPG)
 
-<hr>
-
-[**SUREvivors Activity 2**](/tng/surevivors-activity2/)
-
-[**SUREvivors Activity 3**](/tng/surevivors-activity3/)
-
 
 
