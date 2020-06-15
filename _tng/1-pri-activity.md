@@ -23,8 +23,8 @@ The National Library is home to a rich archive of over 200 Singapore newspaper t
 
 **[Try this activity now](https://go.gov.sg/tng-primary-activity1)!**
 
-<hr>
-[Activity 2 - Extra! Extra!](/tng/pri-activity2/)
+
+
 
 
 

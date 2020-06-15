@@ -13,6 +13,12 @@
     url: /about-us/national-library/
 - title: The News Gallery Learning Journey 
   url: /tng/the-news-gallery-learning-journey/
+  sub-links:
+  - title: Primary School Activities 
+    url: /tng/pri-activity/
+  - title: SUREvivors Activities
+    url: /tng/surevivors-activity/
+
 - title: Resources
   url: /resources/audience/
   sub-links:

@@ -10,9 +10,21 @@ Welcome to the educational resources page for [***The News Gallery: Beyond Headl
 
 We have prepared a series of online activities for you:
 
-[Primary school activities](https://sure.nlb.gov.sg/tng/pri-activity/)
+**Primary School Activities:**
 
-[SUREvivors activities](https://sure.nlb.gov.sg/tng/surevivors-activity/) 
+- [Primary school Activity 1](https://sure.nlb.gov.sg/tng/pri-activity/)
+- [Primary school Activity 2](https://sure.nlb.gov.sg/tng/pri-activity2/)
+- [Primary school Activity 3](https://sure.nlb.gov.sg/tng/pri-activity3/)
+
+
+
+**SUREvivors Activities:**
+
+- [SUREvivors Activity 1](https://sure.nlb.gov.sg/tng/surevivors-activity/) 
+- [SUREvivors Activity 2](/tng/surevivors-activity2/)
+- [SUREvivors Activity 3](/tng/surevivors-activity3/)
+- [SUREvivors Activity 4](/tng/surevivors-activity4/)
+- [SUREvivors Activity 5](/tng/surevivors-activity5/)
 
 <hr>
 
@@ -20,7 +32,7 @@ Launched in March 2020, The News Gallery aims to provide a platform to explore i
 
 <hr>
 
-**Due to the extension of the COVID-19 Circuit Breaker to 1 Jun 2020, all Learning Journeys are suspended due to the temporary closure of all NLB libraries.** 
+**Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr until further notice.**
 
 We look forward to your visit when our libraries reopen. 
 
