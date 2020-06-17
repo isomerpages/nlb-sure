@@ -25,32 +25,6 @@ i-want-to:
     url: /about-us/sure-campaign/
   - title: find resources for schools
     url: /resources/audience/teachers-and-students/primary-level
-
-
-#Call to Action Button
-button:
-
-  - text: The News Gallery Learning Activities
-    url: /tng/the-news-gallery-learning-journey/
-
-key-highlights:
-  - title: The News Gallery Learning Activities
-    description:  Educational resources page for The News Gallery: Beyond Headlines permanent exhibition
-    url: /tng/the-news-gallery-learning-journey/
-  - title: Blog
-    description: Check out our latest posts
-    url: /blog/
-  - title: Resources for students, adults and seniors
-    description: Check out our videos, infographics, quizzes and more!
-    url: /resources/audience
-
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title: 
-programmes-subtitle: Have you tried our latest learning activities for The News Gallery?
-programmes-description: For Primary and Secondary school students
-programmes-more-button: Check them out now!
-programmes-more-button-url: /tng/the-news-gallery-learning-journey/
     
 resources-title: Resources
 resources-subtitle: Combat Fake News

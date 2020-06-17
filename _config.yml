@@ -22,6 +22,9 @@ breadcrumbs:
 # Homepage sections
 homepage_hero_i_want_to: true
 homepage_resources: false
+homepage_programmes: true
+homepage_careers: false
+
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
