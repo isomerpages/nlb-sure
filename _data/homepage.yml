@@ -14,10 +14,15 @@ agency-logo: /images/nl-logo.jpg
 hero-title: S.U.R.E.
 hero-subtitle: Discover about the National Library's Learning & Information Literacy resources
 hero-banner: /images/sure-animated-banner.gif
-    
-# I want to dropdown
+  
+# Call to Action Button
+button:
+  - text: Learn More
+    url: /about-us/sure-campaign/
+
+# Call to Action Dropdown
 i-want-to:
-  - title: explore "The News Gallery" Learning Journey
+  - title: explore "The News Gallery" Learning Activities
     url: /tng/the-news-gallery-learning-journey/
   - title: find home-based learning resources
     url: /blog/home-based-learning/
@@ -25,8 +30,19 @@ i-want-to:
     url: /about-us/sure-campaign/
   - title: find resources for schools
     url: /resources/audience/teachers-and-students/primary-level
+
+# Key Highlights
+# Setting [external: true] will open the url in a new window
+key-highlights:
+  - title: HIGHLIGHT 1
+    url: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
+    external: true
+  - title: HIGHLIGHT 2
+    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    url: /digital-government-blueprint/
     
-resources-title: Resources
-resources-subtitle: Combat Fake News
-resources-more-button: More Resources
-resources-more-button-url: /school-resources/
+# Resources Section
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /media/

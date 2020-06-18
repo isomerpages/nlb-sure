@@ -7,7 +7,7 @@ collection_name: tng
 second_nav_title: 
 ---
 
-**SUREvivors Activity 1**
+## SUREvivors Quiz
 
 The SUREvivors need your help!  Defeat the Fake News Monsters by answering the quiz questions correctly!
 
