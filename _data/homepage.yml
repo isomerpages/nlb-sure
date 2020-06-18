@@ -45,6 +45,16 @@ i-want-to:
     url: /application-guidelines/change-of-hotel-name/
   - title: renew hotel licence
     url: /application-guidelines/renew-hotel-licence/
+
+# Key Highlights
+# Setting [external: true] will open the url in a new window
+key-highlights:
+  - title: STRATEGIC NATIONAL PROJECTS
+    url: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
+    external: true
+  - title: DIGITAL GOVERNMENT BLUEPRINT
+    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    url: /digital-government-blueprint/
     
 resources-title: Resources
 resources-subtitle: Combat Fake News
