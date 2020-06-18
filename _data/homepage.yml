@@ -14,8 +14,7 @@ agency-logo: /images/nl-logo.jpg
 hero-title: S.U.R.E.
 hero-subtitle: Discover about the National Library's Learning & Information Literacy resources
 hero-banner: /images/sure-animated-banner.gif
-    
-
+  
 # Call to Action Button
 button:
   - text: Learn More
@@ -31,7 +30,6 @@ i-want-to:
     url: /about-us/sure-campaign/
   - title: find resources for schools
     url: /resources/audience/teachers-and-students/primary-level
-
 
 # Key Highlights
 # Setting [external: true] will open the url in a new window
