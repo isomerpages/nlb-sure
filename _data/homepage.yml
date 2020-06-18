@@ -36,14 +36,15 @@ i-want-to:
 # Key Highlights
 # Setting [external: true] will open the url in a new window
 key-highlights:
-  - title: STRATEGIC NATIONAL PROJECTS
+  - title: HIGHLIGHT 1
     url: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
     external: true
-  - title: DIGITAL GOVERNMENT BLUEPRINT
+  - title: HIGHLIGHT 2
     description: To create a Government that is “Digital to the Core, and Serves with Heart
     url: /digital-government-blueprint/
     
-resources-title: Resources
-resources-subtitle: Combat Fake News
-resources-more-button: More Resources
-resources-more-button-url: /school-resources/
+# Resources Section
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /media/
