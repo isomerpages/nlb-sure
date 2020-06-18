@@ -7,7 +7,9 @@ collection_name: tng
 second_nav_title: 
 ---
 
-## ![](../images/SURE-Activity-5-feature-image-FB.png)How Do You Differentiate Between Fact and Opinion?
+## How Do You Differentiate Between Fact and Opinion?
+
+## ![](../images/SURE-Activity-5-feature-image-FB.png)
 
 
 

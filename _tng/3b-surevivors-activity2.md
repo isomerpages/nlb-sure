@@ -7,7 +7,7 @@ collection_name: tng
 second_nav_title: 
 ---
 
-**SUREvivors Activity 2**
+## Create Your SUREvivors Story
 
 Hi everyone, let’s create a collaborative story about their adventures! You can draw or use any digital tool or app to tell YOUR story or stories! Please refer to [this page](/tng/surevivors/) for the character descriptions.
 
