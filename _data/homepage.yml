@@ -15,7 +15,13 @@ hero-title: S.U.R.E.
 hero-subtitle: Discover about the National Library's Learning & Information Literacy resources
 hero-banner: /images/sure-animated-banner.gif
     
-# I want to dropdown
+
+# Call to Action Button
+button:
+  - text: Learn More
+    url: /about-us/sure-campaign/
+
+# Call to Action Dropdown
 i-want-to:
   - title: explore "The News Gallery" Learning Activities
     url: /tng/the-news-gallery-learning-journey/
@@ -26,25 +32,6 @@ i-want-to:
   - title: find resources for schools
     url: /resources/audience/teachers-and-students/primary-level
 
-# Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/our-role/
-
-# Call to Action Dropdown
-i-want-to:
-  - title: apply hotel licence
-    url: /application-guidelines/application-for-licence/
-  - title: apply for exemption
-    url: /application-guidelines/application_for_exemption/
-  - title: cancel hotel licence
-    url: /application-guidelines/cancellation-of-licence/
-  - title: change hotel-keeper
-    url: /application-guidelines/change-of-hotel-keeper/
-  - title: change hotel name
-    url: /application-guidelines/change-of-hotel-name/
-  - title: renew hotel licence
-    url: /application-guidelines/renew-hotel-licence/
 
 # Key Highlights
 # Setting [external: true] will open the url in a new window
