@@ -4,7 +4,7 @@ title: SUREvivors Activity 3
 permalink: /tng/surevivors-activity3/
 breadcrumb: SUREvivors Activity 3
 collection_name: tng
-second_nav_title: 
+second_nav_title: Meet the SUREvivors
 ---
 
 ## Primary and Secondary Sources
