@@ -9,7 +9,7 @@ second_nav_title:
 
 ## How Do You Differentiate Between Fact and Opinion?
 
-## ![](../images/SURE-Activity-5-feature-image-FB.png)
+![SUREvivors Understanding Upin](../images/SURE-Activity-5-feature-image-FB.png)
 
 
 
