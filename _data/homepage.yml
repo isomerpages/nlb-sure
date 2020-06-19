@@ -42,12 +42,12 @@ key-highlights:
     url: /digital-government-blueprint/
 
 info-sections:
-  - section-title: Have you tried our latest learning activities for The News Gallery?
-    section-subtitle: Highlight
+  - section-title: Highlight
+    section-subtitle: Have you tried our latest learning activities for The News Gallery?
     section-description: For Primary and Secondary school students
     section-more-button: Check them out now!
     section-more-button-url: /tng/the-news-gallery-learning-journey/
-    section-image-path: /images/event-images/newsgallery/tng_1200x355.jpg
+    section-image-path: /images/surevivor-gacha.jpg
 
 # Resources Section
 resources-title: Media
