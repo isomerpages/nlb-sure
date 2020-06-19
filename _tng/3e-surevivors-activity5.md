@@ -4,7 +4,7 @@ title: SUREvivors Activity 5
 permalink: /tng/surevivors-activity5/
 breadcrumb: SUREvivors Activity 5
 collection_name: tng
-second_nav_title: 
+second_nav_title: Meet the SUREvivors
 ---
 
 ## How Do You Differentiate Between Fact and Opinion?
