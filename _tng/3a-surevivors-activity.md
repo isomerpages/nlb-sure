@@ -4,7 +4,7 @@ title: SUREvivors Activity 1
 permalink: /tng/surevivors-activity/
 breadcrumb: SUREvivors Activity 1
 collection_name: tng
-second_nav_title: 
+second_nav_title: Meet the SUREvivors
 ---
 
 ## SUREvivors Quiz
