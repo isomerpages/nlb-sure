@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Introduction
+title: SUREvivors Introduction
 permalink: /tng/surevivors/
-breadcrumb: Introduction
 collection_name: tng
 second_nav_title: Meet the SUREvivors
 ---
