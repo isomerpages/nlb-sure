@@ -48,7 +48,13 @@ info-sections:
     section-more-button: Check them out now!
     section-more-button-url: /tng/surevivors/
     section-image-path: /images/surevivors-team.jpg
-
+  - section-title: For Primary and Secondary school students
+    section-subtitle: Meet the SUREvivors
+    section-description: Challenge yourself on our latest learning activities in The News Gallery
+    section-more-button: Check them out now!
+    section-more-button-url: /tng/surevivors/
+    section-image-path: /images/surevivors-team.jpg
+    
 # Resources Section
 resources-title: Media
 resources-subtitle: Be in the know
