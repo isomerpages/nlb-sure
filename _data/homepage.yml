@@ -38,8 +38,22 @@ key-highlights:
     url: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
     external: true
   - title: HIGHLIGHT 2
-    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    description: To create a Government that is â€œDigital to the Core, and Serves with Heart
     url: /digital-government-blueprint/
+
+info-sections:
+  - section-title: For Primary and Secondary school students
+    section-subtitle: Meet the SUREvivors
+    section-description: Challenge yourself on our latest learning activities in The News Gallery
+    section-more-button: Check them out now!
+    section-more-button-url: /tng/surevivors/
+    section-image-path: /images/surevivors-team.jpg
+  - section-title: For Primary and Secondary school students
+    section-subtitle: Meet the SUREvivors
+    section-description: Challenge yourself on our latest learning activities in The News Gallery
+    section-more-button: Check them out now!
+    section-more-button-url: /tng/surevivors/
+    section-image-path: /images/surevivors-team.jpg
     
 # Resources Section
 resources-title: Media

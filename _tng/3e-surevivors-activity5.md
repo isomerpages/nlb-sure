@@ -1,15 +1,15 @@
 ---
 layout: leftnav-page-content
-title: SUREvivors Activity 5
+title: Activity 5
 permalink: /tng/surevivors-activity5/
-breadcrumb: SUREvivors Activity 5
+breadcrumb: Activity 5
 collection_name: tng
-second_nav_title: 
+second_nav_title: Meet the SUREvivors
 ---
 
 ## How Do You Differentiate Between Fact and Opinion?
 
-## ![](../images/SURE-Activity-5-feature-image-FB.png)
+![SUREvivors Understanding Upin](../images/SURE-Activity-5-feature-image-FB.png)
 
 
 
@@ -39,7 +39,7 @@ Here are some tips on how to differentiate between fact and opinion. Firstly, as
 
 Facts will also be unbiased. They do not support only one perspective and present the information in an objective manner. For opinions, the author’s writing might be biased and written in a way to try to persuade the reader to believe in what he or she is saying. 
 
-I hope that you now know more about facts and opinions! When doing research, try to look for facts instead of opinions as they are supported by evidence. 
+I hope that you now know more about facts and opinions!   When doing research, try to look for facts instead of opinions as they are supported by evidence. 
 
 Now, test out what you have learnt in this quiz **[HERE](https://go.gov.sg/surevivor-activity5)**.
 
