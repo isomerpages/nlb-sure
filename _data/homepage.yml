@@ -1,4 +1,4 @@
-##################################
+﻿##################################
 #                                #
 # Feel free to edit this file :) #
 #                                #
@@ -42,18 +42,24 @@ key-highlights:
     url: /digital-government-blueprint/
 
 info-sections:
-  - section-title: For Primary and Secondary school students
+  - section-title: students
     section-subtitle: Meet the SUREvivors
     section-description: Challenge yourself on our latest learning activities in The News Gallery
     section-more-button: Check them out now!
     section-more-button-url: /tng/surevivors/
     section-image-path: /images/surevivors-team.jpg
-  - section-title: For Primary and Secondary school students
-    section-subtitle: Meet the SUREvivors
-    section-description: Challenge yourself on our latest learning activities in The News Gallery
+  - section-title: For primary school students
+    section-subtitle: SUREvivors Activity 5
+    section-description: How Do You Differentiate Between Fact and Opinion?
     section-more-button: Check them out now!
-    section-more-button-url: /tng/surevivors/
-    section-image-path: /images/surevivors-team.jpg
+    section-more-button-url: /tng/surevivors-activity5/
+    section-image-path: /images/sure-activity-5-feature-image-fb.png
+  - section-title: For primary school students
+    section-subtitle: The News Gallery - Primary School Activity 3
+    section-description: Behind Every Story
+    section-more-button: Check them out now!
+    section-more-button-url: /tng/pri-activity3/
+    section-image-path: /images/tng-pri-activity3.jpg
     
 # Resources Section
 resources-title: Media
