@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Activity 5
 permalink: /tng/surevivors-activity5/
-breadcrumb: Activity 5
+breadcrumb: How Do You Differentiate Between Fact and Opinion?
 collection_name: tng
 second_nav_title: Meet the SUREvivors
 ---

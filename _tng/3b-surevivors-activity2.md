@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Activity 2
 permalink: /tng/surevivors-activity2/
-breadcrumb: Activity 2
+breadcrumb: Create Your SUREvivors Story
 collection_name: tng
 second_nav_title: Meet the SUREvivors
 ---
