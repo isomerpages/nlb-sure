@@ -12,14 +12,12 @@ We have prepared a series of online activities for you:
 
 **PRIMARY SCHOOL ACTIVITIES:**
 
-
-
 <div class="row">
   <div class="column">
-     <p><a href=/tng/pri-activity/><img src="/images/tng-pri-activity3.jpg"><br>Early Editions</p>
+     <p><a href=/tng/pri-activity/><img src="/images/tng-pri-activity3.jpg"><br>Early Editions</a></p>
   </div>
   <div class="column">
-    <p><a href=/tng/pri-activity2/><img src="/images/tng-pri-activity3.jpg"><br>Extra! Extra!</p>
+    <p><a href=/tng/pri-activity2/><img src="/images/tng-pri-activity2.jpg"><br>Extra! Extra!</a></p>
   </div>
 </div>
 
