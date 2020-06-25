@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Primary School Activity 3
+title: Behind Every Story
 permalink: /tng/pri-activity3/
 breadcrumb: Behind Every Story
 collection_name: tng
