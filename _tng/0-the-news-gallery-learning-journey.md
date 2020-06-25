@@ -8,7 +8,7 @@ collection_name: tng
 
 Welcome to the educational resources page for [***The News Gallery: Beyond Headlines***](https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/newsgallery) permanent exhibition. 
 
-We have prepared a series of online activities for you:
+We have prepared a series of online activities for you:-
 
 <div>
 	<div class="row is-multiline">
