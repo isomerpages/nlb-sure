@@ -17,17 +17,17 @@ We have prepared a series of online activities for you:
 				<img src="/images/tng-pri-activity3.jpg" alt="Early Editions" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Early Editions</b></h5>
+				<b>Early Editions</b>
 				</div>
 			</div>
 			</a>
 		</div>
-		<div class="col is-half-tablet padding--bottom--lg">
+        <div class="col is-half-tablet padding--bottom--lg">
 			<a href="/tng/pri-activity2/" class="project-link">
 				<img src="/images/tng-pri-activity2.jpg" alt="Extra! Extra!" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Extra! Extra!</b></h5>
+				<b>Extra! Extra!</b>
 				</div>
 			</div>
 			</a>
