@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Activity 3
+title: Primary and Secondary Sources
 permalink: /tng/surevivors-activity3/
 breadcrumb: Primary and Secondary Sources
 collection_name: tng

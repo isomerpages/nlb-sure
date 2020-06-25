@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: The News Gallery Learning Journey
 permalink: /tng/the-news-gallery-learning-journey/
-breadcrumb: The News Gallery Learning Journe
+breadcrumb: The News Gallery Learning Journey
 collection_name: tng
 ---
 

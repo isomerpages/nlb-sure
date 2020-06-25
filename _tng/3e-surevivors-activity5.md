@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Activity 5
+title: How Do You Differentiate Between Fact and Opinion?
 permalink: /tng/surevivors-activity5/
 breadcrumb: How Do You Differentiate Between Fact and Opinion?
 collection_name: tng
