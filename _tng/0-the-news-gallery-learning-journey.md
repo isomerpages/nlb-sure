@@ -16,10 +16,10 @@ We have prepared a series of online activities for you:
 
 <div class="row">
   <div class="column">
-    <p><a href=/tng/pri-activity/>Early Editions</p>
+     <p><a href=/tng/pri-activity/><img src="/images/tng-pri-activity3.jpg"></p>
   </div>
   <div class="column">
-    <p><a href=/tng/pri-activity2/>Extra! Extra!</p>
+    <p><a href=/tng/pri-activity2/><img src="/images/tng-pri-activity3.jpg"><br>Extra! Extra!</p>
   </div>
 </div>
 
