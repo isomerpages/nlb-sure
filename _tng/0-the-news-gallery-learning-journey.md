@@ -10,20 +10,17 @@ Welcome to the educational resources page for [***The News Gallery: Beyond Headl
 
 We have prepared a series of online activities for you:
 
-**PRIMARY SCHOOL ACTIVITIES:**
+**Primary School Activities:**
 
-| <img src="/images/tng-pri-activity3.jpg">                    |      | <img src="/images/tng-pri-activity2.jpg">                   |
-| ------------------------------------------------------------ | ---- | ----------------------------------------------------------- |
-| [Early Editions](https://sure.nlb.gov.sg/tng/pri-activity/)  |      | [Extra! Extra!](https://sure.nlb.gov.sg/tng/pri-activity2/) |
-|                                                              |      |                                                             |
-| <img src="/images/tng-pri-activity2.jpg">                    |      |                                                             |
-| [Primary school Activity 3](https://sure.nlb.gov.sg/tng/pri-activity3/) |      |                                                             |
+- [Early Editions](https://sure.nlb.gov.sg/tng/pri-activity/)
+- [Extra! Extra!](https://sure.nlb.gov.sg/tng/pri-activity2/)
+- [Behind Every Story](https://sure.nlb.gov.sg/tng/pri-activity3/)
 
-- [SUREvivors Activity 1](https://sure.nlb.gov.sg/tng/surevivors-activity/) 
-- [SUREvivors Activity 2](/tng/surevivors-activity2/)
-- [SUREvivors Activity 3](/tng/surevivors-activity3/)
-- [SUREvivors Activity 4](/tng/surevivors-activity4/)
-- [SUREvivors Activity 5](/tng/surevivors-activity5/)
+- [SUREvivors Quiz](https://sure.nlb.gov.sg/tng/surevivors-activity/) 
+- [Create your SUREvivors story](/tng/surevivors-activity2/)
+- [Primary and Secondary Sources](/tng/surevivors-activity3/)
+- [How Do You Check the Reliability of Sources of Information?](/tng/surevivors-activity4/)
+- [How Do You Differentiate Between Fact and Opinion?](/tng/surevivors-activity5/)
 
 <hr>
 
