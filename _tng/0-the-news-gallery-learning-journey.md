@@ -12,19 +12,11 @@ We have prepared a series of online activities for you:
 
 **PRIMARY SCHOOL ACTIVITIES:**
 
-<div class="row">
-  <div class="column">
-     <p><a href=/tng/pri-activity/><img src="/images/tng-pri-activity3.jpg"><br>Early Editions</a></p>
-  </div>
-  <div class="column">
-    <p><a href=/tng/pri-activity2/><img src="/images/tng-pri-activity2.jpg"><br>Extra! Extra!</a></p>
-  </div>
-</div>
-
-|                                                              |      |                                                             |
+| <img src="/images/tng-pri-activity3.jpg">                    |      | <img src="/images/tng-pri-activity2.jpg">                   |
 | ------------------------------------------------------------ | ---- | ----------------------------------------------------------- |
 | [Early Editions](https://sure.nlb.gov.sg/tng/pri-activity/)  |      | [Extra! Extra!](https://sure.nlb.gov.sg/tng/pri-activity2/) |
 |                                                              |      |                                                             |
+| <img src="/images/tng-pri-activity2.jpg">                    |      |                                                             |
 | [Primary school Activity 3](https://sure.nlb.gov.sg/tng/pri-activity3/) |      |                                                             |
 
 - [SUREvivors Activity 1](https://sure.nlb.gov.sg/tng/surevivors-activity/) 
