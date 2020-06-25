@@ -42,12 +42,18 @@ key-highlights:
     url: /digital-government-blueprint/
 
 info-sections:
-  - section-title: students
-    section-subtitle: Meet the SUREvivors
-    section-description: Challenge yourself on our latest learning activities in The News Gallery
+  - section-title: For Adults
+    section-subtitle: How to be S.U.R.E. before you share
+    section-description: We have a new e-Presentation and new infographic on applying the four S.U.R.E. steps to verify dubious information. 
     section-more-button: Check them out now!
-    section-more-button-url: /tng/surevivors/
-    section-image-path: /images/surevivors-team.jpg
+    section-more-button-url: /blog/fake-news/fn0001
+    section-image-path: /images/4-ways-of-sure-thumbnail.jpg
+  - section-title: For Seniors
+    section-subtitle: Multilingual Resources
+    section-description: Videos and infographics available in Chinese, Malay and Tamil languages
+    section-more-button: Check them out now!
+    section-more-button-url: /resources/audience/seniors/multilingual
+    section-image-path: /images/seniors-fake-news.jpg
   - section-title: For primary school students
     section-subtitle: SUREvivors Activity 5
     section-description: How Do You Differentiate Between Fact and Opinion?
@@ -60,6 +66,7 @@ info-sections:
     section-more-button: Check them out now!
     section-more-button-url: /tng/pri-activity3/
     section-image-path: /images/tng-pri-activity3.jpg
+
     
 # Resources Section
 resources-title: Media
