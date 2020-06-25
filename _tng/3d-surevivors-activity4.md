@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Activity 4
+title: How Do You Check the Reliability of Sources of Information?
 permalink: /tng/surevivors-activity4/
-breadcrumb: Activity 4
+breadcrumb: How Do You Check the Reliability of Sources of Information?
 collection_name: tng
 second_nav_title: Meet the SUREvivors
 ---

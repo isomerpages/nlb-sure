@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Activity 1
+title: SUREvivors Quiz
 permalink: /tng/surevivors-activity/
-breadcrumb: Activity 1
+breadcrumb: SUREvivors Quiz
 collection_name: tng
 second_nav_title: Meet the SUREvivors
 ---
