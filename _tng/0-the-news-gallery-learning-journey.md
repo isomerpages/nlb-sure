@@ -34,7 +34,7 @@ We have prepared a series of online activities for you:
 | ![](../images/SUREvivors-gacha2.JPG)                         |      |
 | [Create your SUREvivors story](/tng/surevivors-activity2/)   |      |
 |                                                              |      |
-| ![](../images/Activity 3 feature image FB.png)               |      |
+| ![](../images/SUREvivors-activity3.png)                      |      |
 | [Primary and Secondary Sources](/tng/surevivors-activity3/)  |      |
 |                                                              |      |
 | ![](../images/SURE-Activity4-feature-image-FB.png)           |      |
