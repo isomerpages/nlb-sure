@@ -13,7 +13,7 @@ These sources will help you discern the reliability of the information that youâ
 
 [How to be S.U.R.E. of your COVID-19 Information](/blog/fake-news/FN0005)
 
-
+<hr>
 
 ## Videos
 
@@ -23,7 +23,24 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 <hr>
 
+## Articles
+
+[Watch out for manipulated content](/blog/fake-news/fn0006)
+
+<hr>
+
+
 ## Infographics
+
+
+
+**[Evaluating Images](/blog/information-literacy/IL00003)**
+
+We encounter many images daily â€“ through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.  
+
+![](../images/infographic-eval-photos-3.JPG)
+
+<hr>
 
 
 
