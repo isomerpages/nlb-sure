@@ -13,6 +13,12 @@ These sources will help you discern the reliability of the information that youâ
 
 **[How to be S.U.R.E. of your COVID-19 Information](//blog/seniors/SN0021)**
 
+
+
+[**Watch out for manipulated content**](/blog/fake-news/fn0006)
+
+
+
 #### [**How to be S.U.R.E. before you share**](/blog/fake-news/fn0001)
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
