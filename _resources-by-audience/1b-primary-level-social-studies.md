@@ -13,11 +13,11 @@ Learn more about different cultures in the resources below.
 
 [What is the truth behind Chinese New Year superstitions?](/blog/home-based-learning/DD00007)
 
-[Know Your Festival: Hari Raya Puasa](/infographic/1_Hari Raya Infographic 2020.pdf)
+[Know Your Festival: Hari Raya Puasa](/blog/home-based-learning/dd00004)
 
-[Know Your Festival: Deepavali](/infographic/2_Deepavali Infographic 2020.pdf)
+[Know Your Festival: Deepavali](/blog/home-based-learning/DD00008)
 
-[Know Your Festival: Christmas](/infographic/3_Christmas Infographic 2020.pdf)
+[Know Your Festival: Christmas](/blog/home-based-learning/DD00009)
 
 [Singapore Costumes](/infographic/UPDATED19 Singapore Costumes.pdf)
 
