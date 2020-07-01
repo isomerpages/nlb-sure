@@ -11,6 +11,8 @@ second_nav_title: "For Teachers & Students"
 
 Learn more about different cultures in the resources below. 
 
+[What is the truth behind Chinese New Year superstitions?](/blog/home-based-learning/DD00007)
+
 [Know Your Festival: Hari Raya Puasa](/infographic/1_Hari Raya Infographic 2020.pdf)
 
 [Know Your Festival: Deepavali](/infographic/2_Deepavali Infographic 2020.pdf)
