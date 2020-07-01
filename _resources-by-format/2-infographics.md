@@ -6,7 +6,15 @@ breadcrumb: Infographics
 collection_name: resources-by-format
 ---
 
-[**Identifying Credible Health Information**](/blog/information-literacy/il00002) 
+**[Evaluating Images](/blog/information-literacy/IL00003)**
+
+We encounter many images daily – through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.  
+
+![](../images/infographic-eval-photos-3.JPG)
+
+[
+
+Identifying Credible Health Information**](/blog/information-literacy/il00002) 
 
 ![](../images/infographic-Identifying-Credible-Health-Information-thmb.JPG)
 
