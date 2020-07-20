@@ -46,10 +46,3 @@ We have prepared a series of online activities for you:
 
 
 Launched in March 2020, The News Gallery aims to provide a platform to explore issues relating to information and mass media, while showcasing the rich resources on Singapore newspapers in the National Library. It tells the stories of newspapers in Singapore and uncovers key historical events of the nation through the perspectives of news reports. It explores the phenomenon of fake news and offers lessons on how we can prevent its spread. Also presented are features of the newspaper beyond the news, from comics and puzzles to photojournalism, which continue to enlighten, engage and entertain readers. 
-
-<hr>
-**Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr until further notice.**
-
-We look forward to your visit when our libraries reopen. 
-
-Thank you!
