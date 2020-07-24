@@ -7,7 +7,7 @@ collection_name: tng
 second_nav_title: Meet the SUREvivors
 ---
 
-## **Understanding Upin – What Intentions Can An Author Have?**
+## **What Intentions Can An Author Have?**
 
 ![](../images/SURE-Activity6-feature-image.png)
 
