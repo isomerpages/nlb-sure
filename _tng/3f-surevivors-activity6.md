@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Understanding Upin – What Intentions Can an Author Have? 
+title: What Intentions Can An Author Have? 
 permalink: /tng/surevivors-activity6/
-breadcrumb: Understanding Upin – What Intentions Can an Author Have? 
+breadcrumb: What Intentions Can An Author Have? 
 collection_name: tng
 second_nav_title: Meet the SUREvivors
 ---
