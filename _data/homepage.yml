@@ -32,6 +32,18 @@ i-want-to:
     url: /resources/audience/teachers-and-students/primary-level
 
 info-sections:
+  - section-title: For Seniors
+    section-subtitle: How to be S.U.R.E. before you share (Chinese, Malay and Tamil versions)
+    section-description: Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
+    section-more-button: Check them out now!
+    section-more-button-url: /resources/audience/seniors/multilingual
+    section-image-path: /images/sure-animated-video-chinese.jpg
+  - section-title: For primary school students
+    section-subtitle: SUREvivors Activity 6
+    section-description: What Intentions Can an Author Have? 
+    section-more-button: Check them out now!
+    section-more-button-url: /tng/surevivors-activity6/
+    section-image-path: SURE-Activity6-feature-image.png
   - section-title: For Adults
     section-subtitle: How to be S.U.R.E. before you share
     section-description: We have a new e-Presentation and new infographic on applying the four S.U.R.E. steps to verify dubious information. 

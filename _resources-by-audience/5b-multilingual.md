@@ -15,9 +15,9 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 This video is also available in other languages:
 
-- [Mandarin version](/blog/seniors/SN0022)
-- [Malay version](/blog/seniors/SN0023)
-- [Tamil version](/blog/seniors/SN0024)
+- [Mandarin version](/blog/seniors/SN0022) **[new!]**
+- [Malay version](/blog/seniors/SN0023) **[new!]**
+- [Tamil version](/blog/seniors/SN0024) **[new!]**
 
 <hr> 
 
