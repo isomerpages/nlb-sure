@@ -9,6 +9,18 @@ second_nav_title: "For Seniors"
 
 ## Videos
 
+#### [**How to be S.U.R.E. before you share**](/blog/fake-news/FN0004)
+
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
+
+This video is also available in other languages:
+
+- [Mandarin version](/blog/seniors/SN0022) **[new!]**
+- [Malay version](/blog/seniors/SN0023) **[new!]**
+- [Tamil version](/blog/seniors/SN0024) **[new!]**
+
+<hr> 
+
 - [Marine Fishes (English)](/blog/seniors/sn0006) 
 
 - [Cheongsam (English)](/blog/seniors/sn0007)

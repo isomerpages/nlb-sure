@@ -23,6 +23,12 @@ These sources will help you discern the reliability of the information that youâ
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
+This video is also available in other languages:
+
+- [Mandarin version](/blog/seniors/SN0022)
+- [Malay version](/blog/seniors/SN0023)
+- [Tamil version](/blog/seniors/SN0024)
+
 <hr>
 
 **[Evaluating Images](/blog/information-literacy/IL00003)**

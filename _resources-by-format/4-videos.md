@@ -15,6 +15,19 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 </div>
 
 
+
+This video is also available in other languages:
+
+- [Mandarin version](/blog/seniors/SN0022)
+- [Malay version](/blog/seniors/SN0023)
+- [Tamil version](/blog/seniors/SN0024)
+
+
+
+<hr>
+
+
+
 #### The Four Ways of S.U.R.E.
 
 When it comes to online sources, be S.U.R.E. (Source, Understand, Research, Evaluate) before you share!
