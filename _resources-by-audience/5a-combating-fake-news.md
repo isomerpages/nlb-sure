@@ -25,9 +25,9 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 This video is also available in other languages:
 
-- [Mandarin version](/blog/seniors/SN0022)
-- [Malay version](/blog/seniors/SN0023)
-- [Tamil version](/blog/seniors/SN0024)
+- [Mandarin version](/blog/seniors/SN0022) **[new!]** - 学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。
+- [Malay version](/blog/seniors/SN0023) **[new!]** - Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.
+- [Tamil version](/blog/seniors/SN0024) **[new!]** - தேசிய நூலக வாரியத்தின் S.U.R.E. வழிமுறைகளைப் பின்பற்றி உங்களையும் மற்றவர்களையும் இணையத்தின் போலித்தன்மையிலிருந்து பாதுகாத்துக் கொள்ளுங்கள்.
 
 <hr>
 
