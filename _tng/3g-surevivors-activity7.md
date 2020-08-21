@@ -1,11 +1,14 @@
+---
 layout: leftnav-page-content
-title: How to Search for Information Effectively
-permalink: /tng/surevivors-activity7/
-breadcrumb: Narrowing and Broadening Search Terms  
+title: What Intentions Can An Author Have? 
+permalink: /tng/surevivors-activity6/
+breadcrumb: What Intentions Can An Author Have? 
 collection_name: tng
 second_nav_title: Meet the SUREvivors
 
-**How to Search for Information Effectively: Narrowing and Broadening Search Terms** 
+---
+
+## How to Search for Information Effectively: Narrowing and Broadening Search Terms
 
 ![](../images/Researching_Raju1.png)
 
