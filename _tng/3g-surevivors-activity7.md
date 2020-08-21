@@ -1,11 +1,9 @@
----
 layout: leftnav-page-content
-title: How to Search for Information Effectively: Narrowing and Broadening Search Terms   
+title: How to Search for Information Effectively - Narrowing and Broadening Search Terms   
 permalink: /tng/surevivors-activity7/
-breadcrumb: How to Search for Information Effectively: Narrowing and Broadening Search Terms  
+breadcrumb: How to Search for Information Effectively - Narrowing and Broadening Search Terms  
 collection_name: tng
 second_nav_title: Meet the SUREvivors
----
 
 **How to Search for Information Effectively: Narrowing and Broadening Search Terms** 
 
@@ -47,3 +45,12 @@ After identifying the books that you need from the online catalogue, you can loo
 Do note that if you search for information online, you’ll need to make sure that the websites you use are credible and reliable. If you’re not sure about this, [check out](https://sure.nlb.gov.sg/tng/surevivors-activity4/) what my friend Source-Finding Sarah has said about them! 
 
 I hope that you have learnt more about how to search for information effectively. Test out your newfound knowledge in this **[QUIZ](https://go.gov.sg/surevivors-activity7)**. 
+
+
+
+
+
+
+
+
+
