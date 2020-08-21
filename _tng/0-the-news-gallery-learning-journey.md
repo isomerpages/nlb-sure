@@ -42,6 +42,10 @@ We have prepared a series of online activities for you:
 |                                                              |      |
 | ![](../images/SURE-Activity-5-feature-image-FB.png)          |      |
 | [How Do You Differentiate Between Fact and Opinion?](/tng/surevivors-activity5/) |      |
+| ![](../images/SURE-Activity6-feature-image.png)              |      |
+| [What Intentions Can An Author Have?](/tng/surevivors-activity6/) |      |
+| ![](../images/Researching_Raju1.png)                         |      |
+| [How to Search for Information Effectively: Narrowing and Broadening Search Terms](/tng/surevivors-activity7/) |      |
 
 
 

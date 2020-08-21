@@ -12,11 +12,27 @@ We encounter many images daily – through messaging apps, on social media or va
 
 ![](../images/infographic-eval-photos-3.JPG)
 
-[
+<hr>
 
-Identifying Credible Health Information**](/blog/information-literacy/il00002) 
+
+
+[Identifying **Credible Health Information**](/blog/information-literacy/il00002) 
 
 ![](../images/infographic-Identifying-Credible-Health-Information-thmb.JPG)
+
+
+
+How do you ensure that the medical and health information that you consume is reliable?
+
+Use the S.U.R.E. steps to identify if the health information you read can be trusted.
+
+**[Download the PDF version HERE](../../../infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
+
+This infographic is also available in **[Chinese](/blog/information-literacy/IL00004)**, **[Malay](/blog/information-literacy/IL00005)** and **[Tamil](/blog/information-literacy/IL00006)** languages.
+
+
+
+<hr>
 
 
 
