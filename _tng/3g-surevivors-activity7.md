@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: What Intentions Can An Author Have? 
-permalink: /tng/surevivors-activity6/
-breadcrumb: What Intentions Can An Author Have? 
+title: How to Search for Information Effectively
+permalink: /tng/surevivors-activity7/
+breadcrumb: Narrowing and Broadening Search Terms
 collection_name: tng
 second_nav_title: Meet the SUREvivors
 
