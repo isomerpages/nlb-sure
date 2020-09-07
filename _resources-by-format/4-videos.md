@@ -199,4 +199,6 @@ In this video, Dr Jiow Hee Jhee shares some tips on how you can be a digitally s
 
 **SURE Lok Hom & the case of the Mind Reader** 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeoI3IbdFZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+	<iframe class="resp-iframe" src="https://www.youtube.com/embed/LeoI3IbdFZ0"  gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
