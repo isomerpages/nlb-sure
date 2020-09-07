@@ -21,27 +21,27 @@ This video is also available in other languages:
 
 <hr> 
 
-- [Marine Fishes (English)](/blog/seniors/sn0006) 
+- [Marine Fishes (English)](/blog/seniors/sn0006) - Find out how a boy and his grandfather use the 4 ways of S.U.R.E. to set up a marine aquarium.
 
-- [Cheongsam (English)](/blog/seniors/sn0007)
-
-  <br>
-
-- [Marine Fishes (Mandarin)](/blog/seniors/sn0008)
-
-- [Cheongsam (Mandarin)](/blog/seniors/sn0009)
+- [Cheongsam (English)](/blog/seniors/sn0007) - Find out how a lady and her mother use the 4 ways of S.U.R.E. to sew a cheongsam.
 
   <br>
 
-- [Marine Fishes (Malay)](/blog/seniors/sn0010)
+- [Marine Fishes (Mandarin)](/blog/seniors/sn0008) - 通过这个视频来了解一个小男孩与他祖父如何使用S.U.R.E. 的四个步骤来设置鱼缸。
 
-- [Baju Kurung (Malay)](/blog/seniors/sn0011)
+- [Cheongsam (Mandarin)](/blog/seniors/sn0009) - 通过这个视频来了解一位女士与她母亲如何使用S.U.R.E. 的四个步骤来缝制一件旗袍。
 
   <br>
 
-- [Marine Fishes (Tamil)](/blog/seniors/sn0012)
+- [Marine Fishes (Malay)](/blog/seniors/sn0010) - Ketahui bagaimana seorang kanak-kanak dan datuknya menyiapkan sebuah akuarium dengan menggunakan 4 cara S.U.R.E.
 
-- [Sari (Tamil)](/blog/seniors/sn0013)
+- [Baju Kurung (Malay)](/blog/seniors/sn0011) - Ketahui bagaimana seorang wanita dan ibunya menjahit sepasang baju kebaya dengan menggunakan 4 kaedah cara S.U.R.E.
+
+  <br>
+
+- [Marine Fishes (Tamil)](/blog/seniors/sn0012) - நான்கு S.U.R.E. படிநிலைகளைக்கொண்டு ஒரு பையனும் அவன் தாத்தாவும் எப்படி ஒரு மீன்தொட்டியை அமைக்கிறார்கள் எனத் தெரிந்துகொள்ளலாம்.
+
+- [Sari (Tamil)](/blog/seniors/sn0013) - நான்கு S.U.R.E. படிநிலைகளைக்கொண்டு ஒரு பெண்மணியும் அவர் தாயாரும் எப்படி ஒரு சேலையை வடிவமைக்கிறார்கள் எனத் தெரிந்துகொள்ளலாம்.
 
 
 <hr>
