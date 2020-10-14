@@ -32,6 +32,12 @@ i-want-to:
     url: /resources/audience/teachers-and-students/primary-level
 
 info-sections:
+  - section-title: For secondary school students
+    section-subtitle: Digital Resources of the National Library and National Archives of Singapore
+    section-description: 
+    section-more-button: Watch the video now!
+    section-more-button-url: /blog/home-based-learning/DD00010
+    section-image-path: /images/nlnas-video1.png
   - section-title: For Seniors
     section-subtitle: Identifying Credible Health Information (Chinese, Malay and Tamil versions)
     section-description: How do you ensure that the medical and health information that you consume is reliable? Use the S.U.R.E. steps to identify if the health information you read can be trusted. This infographic is now available in Chinese, Malay and Tamil languages.
