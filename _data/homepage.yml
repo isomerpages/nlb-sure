@@ -32,6 +32,12 @@ i-want-to:
     url: /resources/audience/teachers-and-students/primary-level
 
 info-sections:
+  - section-title: For everyone
+    section-subtitle: My guilty love affair with food hack videos
+    section-description: 
+    section-more-button: Read it now!
+    section-more-button-url: /blog/tech/tech0001
+    section-image-path: /images/foodhack.jpg
   - section-title: For secondary school students
     section-subtitle: Digital Resources of the National Library and National Archives of Singapore
     section-description: 
