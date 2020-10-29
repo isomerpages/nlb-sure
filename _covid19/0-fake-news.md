@@ -6,7 +6,7 @@ breadcrumb: COVID-19 Fake News
 collection_name: covid19
 ---
 
-### Fake News concerning COVID-19 
+### COVID-19  Resources
 
 Welcome to the SURE resource page on fake news and online falsehoods pertaining to the COVID-19 outbreak. 
 
