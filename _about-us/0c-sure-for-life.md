@@ -50,8 +50,6 @@ We offer the following to organisations:
 **Damien Wang**
  Damien is a librarian with more than 18 years of experience in content creation and training. A member of the S.U.R.E. team since its inception in 2012, he has delivered talks and conducted workshops about fake news and hoax websites, as well as tools and techniques to deal with them.
 
-**Carmen Wang** Carmen is an associate librarian experienced in doing both large and small scale outreaches promoting reading and literacy. She has conducted talks, workshops and training for audiences ranging from children to adults.
-
 
 
 <hr>
@@ -73,10 +71,3 @@ We offer the following to organisations:
 分享会是免费的，欢迎有兴趣的团体或机构以电邮方式联络国家图书馆以便了解更多详情。 (电邮: [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg))
 
  
-
-**讲员****:**
-
-叶若诗任职于维多利亚街的国家图书馆，除了举办讲座与公众分享如何打击假新闻的知识外，她也是专责中文古籍的参考咨询馆员。
-
-
-
