@@ -3,6 +3,9 @@ title-abbreviated: NLB
 description: The S.U.R.E. campaign is an initiative by the National Library Board to promote the importance of information searching and discernment. The nation-wide campaign was launched in 2013, and Singapore is the first country outside of the United States to promote Information Literacy (IL) on a national scale for the general public.
 url: "https://sure.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Analytics
+google_analytics: UA-50449401-2
+
 # Build settings
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
