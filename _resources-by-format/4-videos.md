@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Videos
 permalink: /resources/format/videos
 breadcrumb: Videos
-collection_name: resources-by-format
+
 ---
+
 
 #### How to be S.U.R.E. before you share
 
