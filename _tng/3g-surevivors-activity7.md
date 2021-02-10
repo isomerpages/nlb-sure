@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: How to Search for Information Effectively
+title: 'How to Search for Information Effectively'
 permalink: /tng/surevivors-activity7/
-breadcrumb: Narrowing and Broadening Search Terms
-collection_name: tng
-second_nav_title: Meet the SUREvivors
+breadcrumb: 'Narrowing and Broadening Search Terms'
+third_nav_title: 'Meet the SUREvivors'
 
 ---
+
 
 ## How to Search for Information Effectively: Narrowing and Broadening Search Terms
 

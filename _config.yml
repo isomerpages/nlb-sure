@@ -1,66 +1,79 @@
-title: National Library Board Singapore
-title-abbreviated: NLB
-description: The S.U.R.E. campaign is an initiative by the National Library Board to promote the importance of information searching and discernment. The nation-wide campaign was launched in 2013, and Singapore is the first country outside of the United States to promote Information Literacy (IL) on a national scale for the general public.
-url: "https://sure.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Analytics
-google_analytics: UA-50449401-2
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'National Library Board Singapore'
+description: 'The S.U.R.E. campaign is an initiative by the National Library Board to promote the importance of information searching and discernment. The nation-wide campaign was launched in 2013, and Singapore is the first country outside of the United States to promote Information Literacy (IL) on a national scale for the general public.'
+url: 'https://sure.nlb.gov.sg'
+google_analytics: null
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Homepage sections
-homepage_hero_i_want_to: true
-homepage_resources: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  about-us:
-    output: true
-  covid19:
-    output: true
-  tng:
-    output: true
-  pri-activity:
-    output: true
-  surevivors-activity:
-    output: true
-  resources:
-    output: true
-  resources-by-audience:
-    output: true
-  resources-by-format:
-    output: true
-  resources-by-topics:
-    output: true
-  ongoing-events:
-    output: true
-  past-events:
-    output: true
-  school-resources:
-    output: true
-  engage-us:
-    output: true
-    
-# Resources and pagination
+    about-us:
+        output: true
+    covid19:
+        output: true
+    tng:
+        output: true
+    pri-activity:
+        output: true
+    surevivors-activity:
+        output: true
+    resources:
+        output: true
+    resources-by-audience:
+        output: true
+    resources-by-format:
+        output: true
+    resources-by-topics:
+        output: true
+    ongoing-events:
+        output: true
+    past-events:
+        output: true
+    school-resources:
+        output: true
+    engage-us:
+        output: true
 resources_name: blog
 paginate: 12
-paginate_path: "/blog/page:num"
+paginate_path: '/blog/page:num'
+favicon: /images/sure-favicon.jpg
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
+
+colors:
+    primary-color: '#00A9E0'
+    secondary-color: '#6c7a89'
+    media-colors:
+        - title: media-color-one
+          color: '#007CB3' 
+        - title: media-color-two
+          color: '#E86826'
+        - title: media-color-three
+          color: '#ED0000'
+        - title: media-color-four
+          color: '#007CB3'
+        - title: media-color-five
+          color: '#E86826'

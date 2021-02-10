@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Primary Level - Research Skills
+title: 'Primary Level - Research Skills'
 permalink: /resources/audience/teachers-and-students/primary-level-research-skills
-breadcrumb: Research Skills
-collection_name: resources-by-audience
-second_nav_title: "For Teachers & Students"
+breadcrumb: 'Research Skills'
+third_nav_title: 'For Teachers & Students'
+
 ---
+
 
 #### **Information Resources** 
 

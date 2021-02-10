@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Secondary Level - CCE, Cyberwellness & ICT
+title: 'Secondary Level - CCE, Cyberwellness & ICT'
 permalink: /resources/audience/teachers-and-students/secondary-level-cce
-breadcrumb: Secondary Level - CCE, Cyberwellness & ICT
-collection_name: resources-by-audience
-second_nav_title: "For Teachers & Students"
+breadcrumb: 'Secondary Level - CCE, Cyberwellness & ICT'
+third_nav_title: 'For Teachers & Students'
+
 ---
+
 
 [How to Spot Doctored Photographs](/infographic/Infographics7_FA-Low-Res.pdf)
 

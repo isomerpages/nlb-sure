@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: National Library
+title: 'National Library'
 permalink: /about-us/national-library/
-breadcrumb: National Library
-collection_name: about-us
+breadcrumb: 'National Library'
+
 ---
+
 
 The National Library is a national knowledge institution empowering individuals and businesses with knowledge and information as it continuously expands its vast array of reference collections and services. It preserves and makes accessible Singapore's literary and publishing heritage, and intellectual memory through the Lee Kong Chian Reference Library. 
 

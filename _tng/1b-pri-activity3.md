@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Behind Every Story
+title: 'Behind Every Story'
 permalink: /tng/pri-activity3/
-breadcrumb: Behind Every Story
-collection_name: tng
-second_nav_title: Primary School Activities
+breadcrumb: 'Behind Every Story'
+third_nav_title: 'Primary School Activities'
+
 ---
+
 
 ![](../images/Behind-Every-Story-4in.JPG)
 

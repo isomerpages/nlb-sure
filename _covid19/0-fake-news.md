@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: COVID-19 Fake News
+title: 'COVID-19 Fake News'
 permalink: /covid19/fake-news/
-breadcrumb: COVID-19 Fake News
-collection_name: covid19
+breadcrumb: 'COVID-19 Fake News'
+
 ---
+
 
 ### COVID-19  Resources
 

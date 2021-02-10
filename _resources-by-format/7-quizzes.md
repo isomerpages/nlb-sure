@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Quizzes
 permalink: /resources/format/quizzes
 breadcrumb: Quizzes
-collection_name: resources-by-format
+
 ---
+
 
 **COVID-19 news: Real or Fake?**
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: SURE for School
+title: 'SURE for School'
 permalink: /about-us/sure-for-school/
-breadcrumb: SURE for School
-collection_name: about-us
-second_nav_title: "SURE Campaign"
+breadcrumb: 'SURE for School'
+third_nav_title: 'SURE Campaign'
+
 ---
+
 
 **S.U.R.E. for School** imparts information literacy and critical thinking skills throu.gh programmes for students and teaching resources for educators.  Teachers and parents can educate children and youths to distinguish genuine
 news from false information using a plethora of resources for [Teachers and Students](/resources/audience/teachers-and-students/primary-level), including elearning, infographics and videos.

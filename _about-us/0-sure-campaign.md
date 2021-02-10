@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About Us
+title: 'About Us'
 permalink: /about-us/sure-campaign/
-breadcrumb: About Us
-collection_name: about-us
+breadcrumb: 'About Us'
+
 ---
+
 
 ### **About the SURE campaign**
 

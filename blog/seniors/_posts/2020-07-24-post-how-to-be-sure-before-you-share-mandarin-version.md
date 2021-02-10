@@ -1,0 +1,13 @@
+---
+title: 'How to be S.U.R.E. before you share (Mandarin Version)'
+date: 2020-07-24T00:00:00.000Z
+permalink: /blog/seniors/SN0022
+
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xJObX5dX_zA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。
+
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps.
+

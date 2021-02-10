@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: SURE for Life
+title: 'SURE for Life'
 permalink: /about-us/sure-for-life/
-breadcrumb: SURE for Life
-collection_name: about-us
-second_nav_title: "SURE Campaign"
+breadcrumb: 'SURE for Life'
+third_nav_title: 'SURE Campaign'
+
 ---
+
 
 **S.U.R.E. for Life** aims to educate the general public on the threats that deliberate online falsehoods pose to the peace and stability of society. We work with partners to equip Singaporeans with information literacy skills through presentations and workshops in English and [Mandarin](#SURE_Talk_Mandarin).
 

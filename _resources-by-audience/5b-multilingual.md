@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Multilingual Resources
+title: 'Multilingual Resources'
 permalink: /resources/audience/seniors/multilingual
-breadcrumb: Multilingual Resources
-collection_name: resources-by-audience
-second_nav_title: "For Seniors"
+breadcrumb: 'Multilingual Resources'
+third_nav_title: 'For Seniors'
+
 ---
+
 
 ## Videos
 

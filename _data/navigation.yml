@@ -1,34 +1,32 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: About Us
-  url: /about-us/sure-campaign/
-  sub-links:
-  - title: SURE (Information Literacy) Campaign
-    url: /about-us/sure-campaign/
-  - title: National Library
-    url: /about-us/national-library/
-- title: The News Gallery Learning Journey 
-  url: /tng/the-news-gallery-learning-journey/
-  sub-links:
-  - title: Primary School Activities 
-    url: /tng/pri-activity/
-  - title: SUREvivors Activities
-    url: /tng/surevivors-activity/
-
-- title: Resources
-  url: /resources/audience/
-  sub-links:
-  - title: Audience
-    url: /resources/audience/
-  - title: Formats
-    url: /resources/format/
-- title: Blog
-  url: /blog/
-- title: Contact Us
-  url: /contact-us/
-- title: FAQ
-  url: /faq/
+logo: /images/nl-logo.jpg
+links:
+    - title: 'About Us'
+      url: /about-us/sure-campaign/
+      false_collection: true
+      sublinks:
+            - title: 'SURE (Information Literacy) Campaign'
+              url: /about-us/sure-campaign/
+            - title: 'National Library'
+              url: /about-us/national-library/
+    - title: 'The News Gallery Learning Journey'
+      url: /tng/the-news-gallery-learning-journey/
+      false_collection: true
+      sublinks:
+            - title: 'Primary School Activities'
+              url: /tng/pri-activity/
+            - title: 'SUREvivors Activities'
+              url: /tng/surevivors-activity/
+    - title: Resources
+      url: /resources/audience/
+      false_collection: true
+      sublinks:
+            - title: Audience
+              url: /resources/audience/
+            - title: Formats
+              url: /resources/format/
+    - title: Blog
+      url: /blog/
+    - title: 'Contact Us'
+      url: /contact-us/
+    - title: FAQ
+      url: /faq/
