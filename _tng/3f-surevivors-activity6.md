@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: What Intentions Can An Author Have? 
+title: 'What Intentions Can An Author Have?'
 permalink: /tng/surevivors-activity6/
-breadcrumb: What Intentions Can An Author Have? 
-collection_name: tng
-second_nav_title: Meet the SUREvivors
+breadcrumb: 'What Intentions Can An Author Have?'
+third_nav_title: 'Meet the SUREvivors'
+
 ---
+
 
 ## **What Intentions Can An Author Have?**
 
