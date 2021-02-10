@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Presentations
 permalink: /resources/format/presentations
 breadcrumb: Presentations
-collection_name: resources-by-format
+
 ---
+
 
 **[How to be S.U.R.E. of your COVID-19 Information](/blog/fake-news/FN0005)**
 
