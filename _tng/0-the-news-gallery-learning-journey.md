@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: The News Gallery Learning Journey
+title: 'The News Gallery Learning Journey'
 permalink: /tng/the-news-gallery-learning-journey/
-breadcrumb: The News Gallery Learning Journey
-collection_name: tng
+breadcrumb: 'The News Gallery Learning Journey'
+
 ---
+
 
 Welcome to the educational resources page for [***The News Gallery: Beyond Headlines***](https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/newsgallery) permanent exhibition. 
 
