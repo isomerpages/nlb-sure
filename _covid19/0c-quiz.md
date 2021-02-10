@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Quiz
 permalink: /covid19/quiz/
 breadcrumb: Quiz
-collection_name: covid19
-second_nav_title: 
+second_nav_title: null
+
 ---
+
 
 ## Coping with COVID-19 and Information Seeking Behaviours Quiz
 

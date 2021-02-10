@@ -1,0 +1,11 @@
+---
+title: 'Video - Marine Fishes (Malay)'
+date: 2020-04-19T00:00:00.000Z
+permalink: /blog/seniors/SN0010
+
+---
+
+
+Ketahui bagaimana seorang kanak-kanak dan datuknya menyiapkan sebuah akuarium dengan menggunakan 4 cara S.U.R.E.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ufVQ-P-Lgqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

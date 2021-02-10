@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: NLB eResources
+title: 'NLB eResources'
 permalink: /resources/audience/seniors/nlb-eresources
-breadcrumb: NLB eResources
-collection_name: resources-by-audience
-second_nav_title: "For Seniors"
+breadcrumb: 'NLB eResources'
+third_nav_title: 'For Seniors'
+
 ---
+
 
 #### [**NewspaperSG**](/blog/seniors/sn00002):  You can search our digital archive of newspapers published since 1831, or find information on over 200 newspaper titles in the National Library's microfilm collection.  Watch this **[video](/blog/seniors/sn00002)** to find out more.
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Secondary Level - Geography
+title: 'Secondary Level - Geography'
 permalink: /resources/audience/teachers-and-students/secondary-level-geography
-breadcrumb: Secondary Level - Geography
-collection_name: resources-by-audience
-second_nav_title: "For Teachers & Students"
+breadcrumb: 'Secondary Level - Geography'
+third_nav_title: 'For Teachers & Students'
+
 ---
+
 
 [Liveable Cities](/cheatsheet/NLB_Cheatsheet_Liveable_Cities_Jul2019.pdf) 
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: How Do You Differentiate Between Fact and Opinion?
+title: 'How Do You Differentiate Between Fact and Opinion?'
 permalink: /tng/surevivors-activity5/
-breadcrumb: How Do You Differentiate Between Fact and Opinion?
-collection_name: tng
-second_nav_title: Meet the SUREvivors
+breadcrumb: 'How Do You Differentiate Between Fact and Opinion?'
+third_nav_title: 'Meet the SUREvivors'
+
 ---
+
 
 ## How Do You Differentiate Between Fact and Opinion?
 

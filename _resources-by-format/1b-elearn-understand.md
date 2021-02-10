@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Understand
 permalink: /resources/format/elearn/understand
 breadcrumb: Understand
-collection_name: resources-by-format
-second_nav_title: "eLearn"
+third_nav_title: eLearn
+
 ---
+
 
 **Analysing Visual Text Made Easy For Kids**
 
