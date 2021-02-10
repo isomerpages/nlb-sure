@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: How Do You Check the Reliability of Sources of Information?
+title: 'How Do You Check the Reliability of Sources of Information?'
 permalink: /tng/surevivors-activity4/
-breadcrumb: How Do You Check the Reliability of Sources of Information?
-collection_name: tng
-second_nav_title: Meet the SUREvivors
+breadcrumb: 'How Do You Check the Reliability of Sources of Information?'
+third_nav_title: 'Meet the SUREvivors'
+
 ---
+
 
 ## How Do You Check the Reliability of Sources of Information?
 
