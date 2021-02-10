@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Combating Fake News
+title: 'Combating Fake News'
 permalink: /resources/audience/adults/combating-fake-news
-breadcrumb: Combating Fake News
-collection_name: resources-by-audience
-second_nav_title: "For Adults"
+breadcrumb: 'Combating Fake News'
+third_nav_title: 'For Adults'
+
 ---
+
 
 These sources will help you discern the reliability of the information that you’re reading. 
 
