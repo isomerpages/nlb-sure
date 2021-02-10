@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: eLearn
 permalink: /resources/format/elearn/elearn
 breadcrumb: eLearn
-collection_name: resources-by-format
-second_nav_title: "eLearn"
+third_nav_title: eLearn
+
 ---
+
 
 ### **A SERIES OF ONLINE TUTORIAL FOR YOUR RESEARCH NEEDS**
 
