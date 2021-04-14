@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Early Editions
+title: 'Early Editions'
 permalink: /tng/pri-activity/
-breadcrumb: Early Editions
-collection_name: tng
-second_nav_title: Primary School Activities
+breadcrumb: 'Early Editions'
+third_nav_title: 'Primary School Activities'
+
 ---
+
 
 *Finding activities for your primary school kid?*
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Create Your SUREvivors Story
+title: 'Create Your SUREvivors Story'
 permalink: /tng/surevivors-activity2/
-breadcrumb: Create Your SUREvivors Story
-collection_name: tng
-second_nav_title: Meet the SUREvivors
+breadcrumb: 'Create Your SUREvivors Story'
+third_nav_title: 'Meet the SUREvivors'
+
 ---
+
 
 ## Create Your SUREvivors Story
 

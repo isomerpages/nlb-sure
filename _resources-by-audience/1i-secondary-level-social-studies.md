@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Secondary Level- Social Studies
+title: 'Secondary Level- Social Studies'
 permalink: /resources/audience/teachers-and-students/secondary-level-social-studies
-breadcrumb: Secondary Level - Social Studies
-collection_name: resources-by-audience
-second_nav_title: "For Teachers & Students"
+breadcrumb: 'Secondary Level - Social Studies'
+third_nav_title: 'For Teachers & Students'
+
 ---
+
 
 #### Singapore Infopedia
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Introduction
 permalink: /tng/surevivors/
-collection_name: tng
-second_nav_title: Meet the SUREvivors
+third_nav_title: 'Meet the SUREvivors'
+
 ---
+
 
 Introducing the **SUREvivors**:  Source-Finding Sarah, Understanding Upin, Researching Raju and Evaluating Emma! Together, they teach students how to be S.U.R.E. and discern false information.
 

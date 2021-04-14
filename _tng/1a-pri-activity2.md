@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Extra! Extra!
+title: 'Extra! Extra!'
 permalink: /tng/pri-activity2/
-breadcrumb: Extra! Extra!
-collection_name: tng
-second_nav_title: Primary School Activities
+breadcrumb: 'Extra! Extra!'
+third_nav_title: 'Primary School Activities'
+
 ---
+
 
 ![](../images/Extra-Extra-4in.JPG)
 

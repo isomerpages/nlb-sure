@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Secondary Level - History
+title: 'Secondary Level - History'
 permalink: /resources/audience/teachers-and-students/secondary-level-history
-breadcrumb: Secondary Level - History
-collection_name: resources-by-audience
-second_nav_title: "For Teachers & Students"
+breadcrumb: 'Secondary Level - History'
+third_nav_title: 'For Teachers & Students'
+
 ---
+
 
 **[Digital Resources of the National Library and National Archives of Singapore](/blog/home-based-learning/DD00010)**
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Primary and Secondary Sources
+title: 'Primary and Secondary Sources'
 permalink: /tng/surevivors-activity3/
-breadcrumb: Primary and Secondary Sources
-collection_name: tng
-second_nav_title: Meet the SUREvivors
+breadcrumb: 'Primary and Secondary Sources'
+third_nav_title: 'Meet the SUREvivors'
+
 ---
+
 
 ## Primary and Secondary Sources
 

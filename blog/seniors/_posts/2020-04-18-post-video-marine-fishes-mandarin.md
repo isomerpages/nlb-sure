@@ -1,0 +1,12 @@
+---
+title: 'Video - Marine Fishes (Mandarin)'
+date: 2020-04-18T00:00:00.000Z
+permalink: /blog/seniors/SN0008
+
+---
+
+
+通过这个视频来了解一个小男孩与他祖父如何使用S.U.R.E. 的四个步骤来设置鱼缸。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/axOkzGipo-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

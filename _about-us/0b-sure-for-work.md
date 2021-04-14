@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: SURE for Work
+title: 'SURE for Work'
 permalink: /about-us/sure-for-work/
-breadcrumb: SURE for Work
-collection_name: about-us
-second_nav_title: "SURE Campaign"
+breadcrumb: 'SURE for Work'
+third_nav_title: 'SURE Campaign'
+
 ---
+
 
 **S.U.R.E. for Work** helps adults pick up trusted techniques to sieve out reliable sources of information at work,
 using handy tips and fact-checking tools to identify fake news. We work with organisations to equip our workforce with information literacy skills through presentations and workshops in English and [Mandarin](#SURE_Talk_Mandarin), as well as [learning journeys](#Learning_Journey).

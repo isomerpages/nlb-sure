@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Trusted Sources
+title: 'Trusted Sources'
 permalink: /covid19/resources/
-breadcrumb: Resource Guide
-collection_name: covid19
-second_nav_title: 
+breadcrumb: 'Resource Guide'
+second_nav_title: null
+
 ---
+
 
 ## CREDIBLE & TRUSTED SOURCES OF COVID-19 INFORMATION
 
