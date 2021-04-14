@@ -18,9 +18,7 @@ The content is suitable for secondary and post-secondary students conducting res
 
 In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/blog/home-based-learning/DD00006)** to complement your learning.
 
-<div class="resp-container">
-        <iframe class="resp-iframe" src="https://player.vimeo.com/video/399032406" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2g2JAlRx6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <HR>
 
@@ -40,25 +38,25 @@ If you receive any dubious information, you can check the facts using credible s
 
 **[How to Paraphrase](/infographic/Infographic-how-to-paraphrase.pdf)**
 
-![Paraphrasing](/images/paraphrase-infoheader-e1450166736285-1050x700.png)
+![Paraphrasing](/images/paraphrase-infoheader-e1450166736285-1050x700.jpg)
 
 When doing your project essay, you might have plagiarised unknowingly when you do not cite the author or source for the phrase which you have used. Download the full infographic to learn the four recommended steps to paraphrase.
 
 [How to Avoid Plagiarism](/infographic/NLB_infographic_AvoidPlagiarism.pdf)
 
-![Avoid plagiarism](/images/Plagiarism-1050x700.png)
+![Avoid plagiarism](/images/Plagiarism-1050x700.jpg)
 
 Nowadays, anyone can easily copy and paste information from the internet for their schoolwork. However, doing so is committing plagiarism, which is a serious offence. Download the full infographic to find out what are the different types of plagiarism and how to avoid it.
 
 **[Citations](/infographic/Cheatsheet_Citation_25nov_.pdf)**
 
-![Using Citations](/images/Citations-1050x700.png)
+![Using Citations](/images/Citations-1050x700.jpg)
 
 A quick guide to doing citation for academic research and projects. Download our cheat sheet to learn why, when and how to cite sources.
 
 [Using Scientific Skills for Daily Life](/infographic/scientificskills-1050x700.png) 
 
-![Using scientific skills](/images/scientificskills-1050x700 (1).png)
+![Using scientific skills](/images/scientificskills-1050x700 (1).jpg)
 
 Science is everywhere – in the air, our food, and event in our bodies. Download our cheat sheet to find out how scientific skills can be applied in our daily life, and attain tips on how to search for credible information.
 
