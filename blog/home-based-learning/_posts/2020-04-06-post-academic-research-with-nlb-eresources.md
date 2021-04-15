@@ -10,4 +10,4 @@ permalink: /blog/home-based-learning/DD00001
 
 In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/blog/home-based-learning/DD00006)** to complement your learning.
 
-<iframe src="https://player.vimeo.com/video/399032406" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2g2JAlRx6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

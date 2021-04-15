@@ -12,7 +12,7 @@ The  [National Library Board](http://www.nlb.gov.sg/) ’s (NLB) S.U.R.E program
 
  S.U.R.E. distills key Information Literacy (IL) concepts into 4 simple ways:
 
-* **Source: Look as its origins. Are they trustworthy?**
+* **Source: Look at its origins. Are they trustworthy?**
   <br>Make sure that the source of information is credible and reliable.
   
 * **Understand: Know what you’re reading. Search for clarity.**
