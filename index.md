@@ -3,7 +3,7 @@ layout: homepage
 title: S.U.R.E.
 permalink: /
 sections:
-- hero:
+    - hero:
           dropdown:
               title: null
               options:
