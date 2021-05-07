@@ -6,7 +6,7 @@ sections:
     - hero:
           title: S.U.R.E.
           subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
-          background: 
+          background: /images/hero-banner-sure.png
           url: /about-us/sure-campaign/
           button: 'Learn More'
        key_highlights:
