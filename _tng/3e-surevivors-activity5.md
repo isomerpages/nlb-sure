@@ -23,7 +23,7 @@ What are facts? Facts are statements that are true and can be verified objective
 
 \-      Humans are mammals.
 
-\-      Living things need air, food and water to survive.  
+\-      Living things are made up of one or more cells.
 
 **Opinions** 
 
