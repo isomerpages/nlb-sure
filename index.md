@@ -6,7 +6,7 @@ sections:
     - hero:
           title: S.U.R.E.
           subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
-          background: /images/SURE-logo-2020_color.jpg
+          background: 
           url: /about-us/sure-campaign/
           button: 'Learn More'
        key_highlights:
