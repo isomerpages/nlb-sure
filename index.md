@@ -33,7 +33,7 @@ sections:
           subtitle: 'For secondary school students'
           description: null
           url: /blog/home-based-learning/DD00010
-          image: /images/nlnas-video1.png
+          image: /images/nlnas-video1.jpg
           alt: 'alt text'
           button: 'Watch the video now!'
     - infopic:
@@ -49,7 +49,7 @@ sections:
           subtitle: 'For primary school students'
           description: 'How to Search for Information Effectively'
           url: /tng/surevivors-activity7/
-          image: /images/Researching_Raju1.png
+          image: /images/Researching_Raju1.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
@@ -65,7 +65,7 @@ sections:
           subtitle: 'For primary school students'
           description: 'What Intentions Can an Author Have?'
           url: /tng/surevivors-activity6/
-          image: /images/SURE-Activity6-feature-image.png
+          image: /images/SURE-Activity6-feature-image.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
@@ -97,7 +97,7 @@ sections:
           subtitle: 'For primary school students'
           description: 'How Do You Differentiate Between Fact and Opinion?'
           url: /tng/surevivors-activity5/
-          image: /images/sure-activity-5-feature-image-fb.png
+          image: /images/sure-activity-5-feature-image-fb.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
