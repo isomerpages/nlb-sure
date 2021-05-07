@@ -8,6 +8,8 @@ image: ../../../images/49924697_s-min.jpg
 
 I am a huge fan of comics. I love their glossy pages, their bright colours, their weird character designs. I love beautiful comic art, and I love the stories that only comics can tell: stories full of emotional depth and character complexity, or brimming with action and excitement, or set in worlds too strange and fantastic for even the wildest of movie budgets.  
 
+![](../../../images/49924697_s-min.jpg)
+
 But comics aren’t just fun; they’re also part of a unique medium with its own complex rules and capabilities. Comics are visual stories which depend on powerful images; they pack huge amounts of information into a small space and rely on readers to fill in the blanks. The techniques comics use to tell their stories can move and delight us – but these same techniques can, in other settings, also be used to mislead or manipulate us.
 
 ![](../../../images/comics-panel-1-min.png)
