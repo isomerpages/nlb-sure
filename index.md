@@ -21,6 +21,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'What Comics Teach Us About Fake News'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0007
+          image: /images/49924697_s-min.jpg
+          alt: 'alt text'
+          button: 'Read it now!'
+    - infopic:
           title: 'My guilty love affair with food hack videos'
           subtitle: 'For everyone'
           description: null
