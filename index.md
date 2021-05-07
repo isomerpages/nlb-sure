@@ -4,11 +4,22 @@ title: S.U.R.E.
 permalink: /
 sections:
     - hero:
+          dropdown:
+              title: null
+              options:
+                    - title: 'explore "The News Gallery" Learning Activities'
+                      url: /tng/the-news-gallery-learning-journey/
+                    - title: 'find resources on combating fake news'
+                      url: /resources/audience/adults/combating-fake-news
+                    - title: 'find out more about S.U.R.E. (Information Literacy)'
+                      url: /about-us/sure-campaign/
+                    - title: 'find resources for schools'
+                      url: /resources/audience/teachers-and-students/primary-level
           title: S.U.R.E.
-          subtitle: 'Discover about the National Library's Learning & Information Literacy resources'
-          background: /images/hero-banner-sure.jpg
-          url: /about-us/sure-campaign/
+          subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
+          background: /images/SURE-logo-2020_color.jpg
           button: 'Learn More'
+          url: /about-us/sure-campaign/
     - infopic:
           title: 'What Comics Teach Us About Fake News'
           subtitle: 'For everyone'
