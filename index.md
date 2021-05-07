@@ -5,7 +5,7 @@ permalink: /
 sections:
     - hero:
           dropdown:
-              title: null
+              title: Select an option
               options:
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
@@ -17,7 +17,7 @@ sections:
                       url: /resources/audience/teachers-and-students/primary-level
           title: S.U.R.E.
           subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
-          background: /images/sure-animated-banner.gif
+          background: /images/SURE-logo-2020_color.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:

@@ -49,13 +49,13 @@ Comics show us the power of images, and of our own minds, to create whole storie
 
 **References:**
 
-https://theconversation.com/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation-129959
+[https://theconversation.com/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation-129959](https://theconversation.com/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation-129959)
 
-https://www.bbc.com/news/magazine-27537142
+[https://www.bbc.com/news/magazine-27537142](https://www.bbc.com/news/magazine-27537142)
 
-http://www.tylervigen.com/spurious-correlations
+[http://www.tylervigen.com/spurious-correlations](http://www.tylervigen.com/spurious-correlations)
 
-https://time.com/3605606/ferguson-in-defense-of-rioting/
+[https://time.com/3605606/ferguson-in-defense-of-rioting/](https://time.com/3605606/ferguson-in-defense-of-rioting/)
 
 *The Wicked + The Divine*, by Kieron Gillen and Jamie McKelvie. Image Comics, 2019.
 
