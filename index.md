@@ -20,6 +20,13 @@ sections:
           background: /images/sure-animated-banner.gif
           button: 'Learn More'
           url: /about-us/sure-campaign/
+   - infopic:
+          title: 'What Comics Teach Us About Fake News'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0007
+          image: /images/49924697_s-min.jpg
+               button: 'Read it now!'
     - infopic:
           title: 'My guilty love affair with food hack videos'
           subtitle: 'For everyone'
@@ -33,7 +40,7 @@ sections:
           subtitle: 'For secondary school students'
           description: null
           url: /blog/home-based-learning/DD00010
-          image: /images/nlnas-video1.png
+          image: /images/nlnas-video1.jpg
           alt: 'alt text'
           button: 'Watch the video now!'
     - infopic:
@@ -49,7 +56,7 @@ sections:
           subtitle: 'For primary school students'
           description: 'How to Search for Information Effectively'
           url: /tng/surevivors-activity7/
-          image: /images/Researching_Raju1.png
+          image: /images/Researching_Raju1.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
@@ -65,7 +72,7 @@ sections:
           subtitle: 'For primary school students'
           description: 'What Intentions Can an Author Have?'
           url: /tng/surevivors-activity6/
-          image: /images/SURE-Activity6-feature-image.png
+          image: /images/SURE-Activity6-feature-image.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
@@ -97,7 +104,7 @@ sections:
           subtitle: 'For primary school students'
           description: 'How Do You Differentiate Between Fact and Opinion?'
           url: /tng/surevivors-activity5/
-          image: /images/sure-activity-5-feature-image-fb.png
+          image: /images/sure-activity-5-feature-image-fb.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
