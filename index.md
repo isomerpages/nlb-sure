@@ -3,23 +3,14 @@ layout: homepage
 title: S.U.R.E.
 permalink: /
 sections:
-    - hero:
-          dropdown:
-              title: null
-              options:
-                    - title: 'explore "The News Gallery" Learning Activities'
-                      url: /tng/the-news-gallery-learning-journey/
-                    - title: 'find resources on combating fake news'
-                      url: /resources/audience/adults/combating-fake-news
-                    - title: 'find out more about S.U.R.E. (Information Literacy)'
-                      url: /about-us/sure-campaign/
-                    - title: 'find resources for schools'
-                      url: /resources/audience/teachers-and-students/primary-level
-          title: S.U.R.E.
-          subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
-          background: /images/sure-animated-banner.gif
-          button: 'Learn More'
-          url: /about-us/sure-campaign/
+    - infopic:
+          title: 'What Comics Teach Us About Fake News'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0007
+          image: /images/49924697_s-min.jpg
+          alt: 'alt text'
+          button: 'Read it now!'
     - infopic:
           title: 'My guilty love affair with food hack videos'
           subtitle: 'For everyone'
@@ -76,36 +67,13 @@ sections:
           image: /images/4-ways-of-sure-thumbnail.jpg
           alt: 'alt text'
           button: 'Check them out now!'
-    - infopic:
-          title: 'Evaluating Images'
-          subtitle: 'For Adults'
-          description: 'We encounter many images daily – through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.'
-          url: /blog/information-literacy/il00003
-          image: /images/infographic-eval-photos-3.jpg
-          alt: 'alt text'
-          button: 'Check them out now!'
+
     - infopic:
           title: 'Multilingual Resources'
           subtitle: 'For Seniors'
           description: 'Videos and infographics available in Chinese, Malay and Tamil languages'
           url: /resources/audience/seniors/multilingual
           image: /images/seniors-fake-news.jpg
-          alt: 'alt text'
-          button: 'Check them out now!'
-    - infopic:
-          title: 'SUREvivors Activity 5'
-          subtitle: 'For primary school students'
-          description: 'How Do You Differentiate Between Fact and Opinion?'
-          url: /tng/surevivors-activity5/
-          image: /images/sure-activity-5-feature-image-fb.png
-          alt: 'alt text'
-          button: 'Check them out now!'
-    - infopic:
-          title: 'The News Gallery - Primary School Activity 3'
-          subtitle: 'For primary school students'
-          description: 'Behind Every Story'
-          url: /tng/pri-activity3/
-          image: /images/tng-pri-activity3.jpg
           alt: 'alt text'
           button: 'Check them out now!'
 notification: "\n"

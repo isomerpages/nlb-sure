@@ -2,7 +2,7 @@
 title: 'What Comics Teach Us About Fake News'
 date: 2021-05-07T00:00:00.000Z
 permalink: /blog/fake-news/FN0007
-image: ../../../images/foodhack.jpg
+image: ../../../images/49924697_s-min.jpg
 
 ---
 
