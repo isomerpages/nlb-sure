@@ -45,7 +45,11 @@ Comics show us the power of images, and of our own minds, to create whole storie
 
 
 
- 
+ *This article was written by Kimberley Chiu.*  
+
+*Kimberley is the Associate Librarian in charge of the adult collection at Ang Mo Kio Public Library. She likes cats, books, and coffee, and spends most of her free time reading fanfiction and watching overlong videos on YouTube. She co-hosts a podcast on film adaptations, and is currently working on a novel.*
+
+
 
 **References:**
 
