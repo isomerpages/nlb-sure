@@ -9,7 +9,7 @@ third_nav_title: 'Meet the SUREvivors'
 
 ## How to Search for Information Effectively: Narrowing and Broadening Search Terms
 
-![](../images/Researching_Raju1.png)
+![](../images/Researching_Raju1.jpg)
 
 Hi everyone, I’m Researching Raju, part of the SUREvivors team! I’m taking over from my friends, [Source-finding Sarah](https://sure.nlb.gov.sg/tng/surevivors-activity3/) and [Understanding Upin](https://sure.nlb.gov.sg/tng/surevivors-activity5/). You’ll learn more about how to conduct research for your project work or homework with me. When doing your research, you may come across a lot of information on the internet, which may be overwhelming. How can you search for information more effectively? Here are some steps that you can follow. 
 

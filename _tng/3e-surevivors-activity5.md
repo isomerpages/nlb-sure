@@ -9,7 +9,7 @@ third_nav_title: 'Meet the SUREvivors'
 
 ## How Do You Differentiate Between Fact and Opinion?
 
-![SUREvivors Understanding Upin](../images/SURE-Activity-5-feature-image-FB.png)
+![SUREvivors Understanding Upin](../images/SURE-Activity-5-feature-image-FB.jpg)
 
 
 
@@ -23,7 +23,7 @@ What are facts? Facts are statements that are true and can be verified objective
 
 \-      Humans are mammals.
 
-\-      Living things need air, food and water to survive.  
+\-      Living things are made up of one or more cells.
 
 **Opinions** 
 

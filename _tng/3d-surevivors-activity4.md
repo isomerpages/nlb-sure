@@ -9,7 +9,7 @@ third_nav_title: 'Meet the SUREvivors'
 
 ## How Do You Check the Reliability of Sources of Information?
 
-![](../images/SURE-Activity4-feature-image-FB.png)
+![](../images/SURE-Activity4-feature-image-FB.jpg)
 
 Hi everyone, it’s me, Source-finding Sarah! I hope that you tried my previous quiz about sources of information. Today, we will learn how to check the reliability of these sources! 
 

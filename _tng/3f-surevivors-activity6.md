@@ -9,7 +9,7 @@ third_nav_title: 'Meet the SUREvivors'
 
 ## **What Intentions Can An Author Have?**
 
-![](../images/SURE-Activity6-feature-image.png)
+![](../images/SURE-Activity6-feature-image.jpg)
 
 Hi everyone, it’s me again, Understanding Upin! Did you try out my previous quiz on differentiating between facts and opinions? Today, we will learn more about what intentions authors may have when they write something. Usually, these intentions are to inform, entertain or persuade. If the main intention of the author is to persuade you to believe in something and what he or she has presented only supports one side of the story, it may affect the credibility of the information provided. 
 
