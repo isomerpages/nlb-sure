@@ -9,7 +9,7 @@ permalink: /blog/home-based-learning/DD00011
 
  As the lower secondary students embark on the journey of learning more about Singapore’s rich history from 1299 to the 1970s, four informative videos have been selected for this Blended Learning Package from the vast collection of the National Library, with an aim to pique their interest in history through providing specially curated resources to make their learning more interesting and engaging.
 
- The four selected videos from the National Library’s *From the Stacks** collection featured letters, documents, newspapers and a map written or printed during a particular period in the history of Singapore:
+ The four selected videos from the National Library’s **From the Stacks** collection featured letters, documents, newspapers and a map written or printed during a particular period in the history of Singapore:
 
 1. [Chart of a Skirmish between the Dutch and the Portuguese in the Johor River](/blog/home-based-learning/DD00012) – from 1606, during the era of the Johor Sultanate
 
@@ -23,7 +23,7 @@ permalink: /blog/home-based-learning/DD00011
 
 There is also a quiz section at the end of each video to ensure that the student’s learning experience has been fruitful.
 
- **From the Stacks* is a collection of exclusive videos highlighting rare materials of historical significance in the National Library’s collection. More videos from the collection can be found on YouTube.
+*From the Stacks* is a collection of exclusive videos highlighting rare materials of historical significance in the National Library’s collection. More videos from the collection can be found on YouTube.*
 
  Please visit these websites for more e-resources from the National Library and the National Archives: The National Library Board e-Resources (https://eresources.nlb.gov.sg/main/) and Archives Online (https://www.nas.gov.sg/archivesonline/).
 
