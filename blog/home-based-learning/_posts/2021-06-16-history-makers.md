@@ -11,7 +11,7 @@ permalink: /blog/home-based-learning/DD00011
 
  The four selected videos from the National Library’s *From the Stacks** collection featured letters, documents, newspapers and a map written or printed during a particular period in the history of Singapore:
 
-1. From the Stacks: Chart of a Skirmish between the Dutch and the Portuguese in the Johor River – from 1606, during the era of the Johor Sultanate
+1. [Chart of a Skirmish between the Dutch and the Portuguese in the Johor River](/blog/home-based-learning/DD00012) – from 1606, during the era of the Johor Sultanate
 
 2. From the Stacks: Letters from Sir Thomas Stamford Raffles to Lord Lansdowne – from the 1820s, after the British established a trading post in Singapore
 
