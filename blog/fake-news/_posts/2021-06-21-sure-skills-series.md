@@ -2,20 +2,18 @@
 title: '  S.U.R.E Skills Series workshop - Detecting Fake Videos and Images'
 date: 2021-06-16T00:00:00.000Z
 permalink: /blog/fake-news/FN0008
-image: ../../../images/SURE_Skills_Series1-min.png
-
+image: ../../../images/SURE_Skills_Series1.jpg
 ---
 
 ![](C:\Users\user\Documents\GitHub\nlb-sure\images\SURE_Skills_Series1.jpg)
 
-Date: Fri, 2 July 2021 
-Time: 7:00pm to 8:30 PM
-Conducted via Zoom
-Free of Charge
+Learn more about the rising threat of manipulated images & deepfake videos used in fake news, and how to detect them with online tools.
+
+Date: Fri, 2 July 2021 <br>Time: 7:00pm to 8:30 PM<br>Conducted via Zoom<br>Free of Charge
 
 REGISTER **[HERE](https://www.eventbrite.sg/e/detecting-fake-videos-and-images-sure-skills-series-x-my-digital-life-registration-159064751955)**
 
-**Learn more about the rising threat of manipulated images & deepfake videos used in fake news, and how to detect them with online tools.**
+
 
 ## About this event
 
