@@ -6,6 +6,8 @@ image: ../../../images/SURE_Skills_Series1-min.png
 
 ---
 
+![](C:\Users\user\Documents\GitHub\nlb-sure\images\SURE_Skills_Series1.jpg)
+
 Date: Fri, 2 July 2021 
 Time: 7:00pm to 8:30 PM
 Conducted via Zoom
