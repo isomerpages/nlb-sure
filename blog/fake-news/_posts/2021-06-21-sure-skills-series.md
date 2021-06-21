@@ -5,7 +5,7 @@ permalink: /blog/fake-news/FN0008
 image: ../../../images/SURE_Skills_Series1.jpg
 ---
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\SURE_Skills_Series1.jpg)
+![]( ../../../images/SURE_Skills_Series1.jpg)
 
 Learn more about the rising threat of manipulated images & deepfake videos used in fake news, and how to detect them with online tools.
 
@@ -17,7 +17,6 @@ REGISTER **[HERE](https://www.eventbrite.sg/e/detecting-fake-videos-and-images-s
 
 ## About this event
 
-![ 		Detecting Fake Videos and Images | S.U.R.E Skills Series x My Digital Life image ](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F131190747%2F453675649972%2F1%2Foriginal.20210405-143422?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=57f904f42593e33aa57d614270b8d0eb)
 
 **Important Notice**
 
