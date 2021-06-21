@@ -20,7 +20,9 @@ REGISTER **[HERE](https://www.eventbrite.sg/e/detecting-fake-videos-and-images-s
 
 **Important Notice**
 
-This programme/event is open to members of the National Library Board, Singapore. Please ensure you have your myLibrary ID on hand before proceeding with the registration. If you do not have a myLibrary ID, you can create one here: https://account.nlb.gov.sg/.
+This programme/event is open to members of the National Library Board, Singapore. Please ensure you have your myLibrary ID on hand before proceeding with the registration. If you do not have a myLibrary ID, you can create one here: [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/).
+
+
 
 **About the Programme/Event**
 
