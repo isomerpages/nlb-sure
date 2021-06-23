@@ -20,7 +20,6 @@ sections:
           background: /images/1747093_s.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
-
 	- infopic:
           title: 'S.U.R.E Skills Series workshop - Detecting Fake Videos and Images'
           subtitle: 'For everyone'
@@ -115,14 +114,6 @@ sections:
           description: 'How Do You Differentiate Between Fact and Opinion?'
           url: /tng/surevivors-activity5/
           image: /images/sure-activity-5-feature-image-fb.jpg
-          alt: 'alt text'
-          button: 'Check them out now!'
-    - infopic:
-          title: 'The News Gallery - Primary School Activity 3'
-          subtitle: 'For primary school students'
-          description: 'Behind Every Story'
-          url: /tng/pri-activity3/
-          image: /images/tng-pri-activity3.jpg
           alt: 'alt text'
           button: 'Check them out now!'
 notification: "\n"
