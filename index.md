@@ -1,4 +1,3 @@
-```
 ---
 layout: homepage
 title: S.U.R.E.
@@ -120,5 +119,3 @@ sections:
 notification: "\n"
 
 ---
-
-```
