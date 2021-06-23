@@ -20,6 +20,14 @@ sections:
           background: /images/1747093_s.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
+	- infopic:
+          title: 'S.U.R.E Skills Series workshop - Detecting Fake Videos and Images'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0008
+          image: /images/SURE_Skills_Series1.jpg
+          alt: 'alt text'
+          button: 'Register now!'
     - infopic:
           title: 'What Comics Teach Us About Fake News'
           subtitle: 'For everyone'
