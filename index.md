@@ -1,5 +1,5 @@
+```
 ---
-​---
 layout: homepage
 title: S.U.R.E.
 permalink: /
@@ -119,5 +119,6 @@ sections:
           button: 'Check them out now!'
 notification: "\n"
 
-​---
 ---
+
+```
