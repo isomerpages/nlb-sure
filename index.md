@@ -20,6 +20,7 @@ sections:
           background: /images/1747093_s.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
+
 	- infopic:
           title: 'S.U.R.E Skills Series workshop - Detecting Fake Videos and Images'
           subtitle: 'For everyone'
