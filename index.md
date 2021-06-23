@@ -19,7 +19,7 @@ sections:
           subtitle: 'Discover about the National Library's Learning & Information Literacy resources'
           background: /images/1747093_s.jpg
           button: 'Learn More'
-          url: /about-us/sure-campaign/
+          url: /about-us/sure-campaign/	
     - infopic:
           title: 'What Comics Teach Us About Fake News'
           subtitle: 'For everyone'
@@ -42,7 +42,7 @@ sections:
           description: null
           url: /blog/home-based-learning/DD00010
           image: /images/nlnas-video1.jpg
-          alt: 'Digital Resources of the National Library and National Archives of Singapore'
+          alt: 'alt text'
           button: 'Watch the video now!'
     - infopic:
           title: 'Identifying Credible Health Information (Chinese, Malay and Tamil versions)'
