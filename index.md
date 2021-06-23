@@ -114,7 +114,7 @@ sections:
           description: 'Behind Every Story'
           url: /tng/pri-activity3/
           image: /images/tng-pri-activity3.jpg
-          alt: 'alt text'
+          alt: 'bes'
           button: 'Check them out now!'
 notification: "\n"
 
