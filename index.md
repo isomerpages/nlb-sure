@@ -42,7 +42,7 @@ sections:
           description: null
           url: /blog/home-based-learning/DD00010
           image: /images/nlnas-video1.jpg
-          alt: 'alt text'
+          alt: 'Digital Resources of the National Library and National Archives of Singapore'
           button: 'Watch the video now!'
     - infopic:
           title: 'Identifying Credible Health Information (Chinese, Malay and Tamil versions)'
