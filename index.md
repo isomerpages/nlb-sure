@@ -1,4 +1,5 @@
 ---
+​---
 layout: homepage
 title: S.U.R.E.
 permalink: /
@@ -16,10 +17,10 @@ sections:
                     - title: 'find resources for schools'
                       url: /resources/audience/teachers-and-students/primary-level
           title: S.U.R.E.
-          subtitle: 'Discover about the National Library's Learning & Information Literacy resources'
+          subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
           background: /images/1747093_s.jpg
           button: 'Learn More'
-          url: /about-us/sure-campaign/	
+          url: /about-us/sure-campaign/
     - infopic:
           title: 'What Comics Teach Us About Fake News'
           subtitle: 'For everyone'
@@ -114,9 +115,9 @@ sections:
           description: 'Behind Every Story'
           url: /tng/pri-activity3/
           image: /images/tng-pri-activity3.jpg
-          alt: 'bes'
+          alt: 'alt text'
           button: 'Check them out now!'
 notification: "\n"
 
+​---
 ---
-
