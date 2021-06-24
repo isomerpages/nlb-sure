@@ -1,5 +1,5 @@
 ---
-title: 'How to be S.U.R.E. before you share - e-Presentation and infographic' 
+title: 'How to be S.U.R.E. before you share (e-Presentation and infographic)' 
 date: 2020-04-06T00:00:00.000Z
 permalink: /blog/fake-news/FN0002
 
