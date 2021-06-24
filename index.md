@@ -21,6 +21,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'S.U.R.E Skills Series workshop'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0008
+          image: /images/SURE_Skills_Series1.jpg
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
           title: 'What Comics Teach Us About Fake News'
           subtitle: 'For everyone'
           description: null
@@ -82,14 +90,6 @@ sections:
           description: 'We have a new e-Presentation and new infographic on applying the four S.U.R.E. steps to verify dubious information.'
           url: /blog/fake-news/fn0002
           image: /images/4-ways-of-sure-thumbnail.jpg
-          alt: 'alt text'
-          button: 'Check them out now!'
-    - infopic:
-          title: 'Evaluating Images'
-          subtitle: 'For Adults'
-          description: 'We encounter many images daily – through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.'
-          url: /blog/information-literacy/il00003
-          image: /images/infographic-eval-photos-3.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
