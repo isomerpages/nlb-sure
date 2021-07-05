@@ -5,6 +5,7 @@ permalink: /blog/fake-news/FN0006
 image: ../../../images/114238488_s.jpg
 ---
 
+![](../../../images/114238488_s.jpg)
 
 In today’s world, false information is chipping away our trust in media, people and resources around us. As we spend much time in the online space, it is more important than ever to separate truth from fiction.
 
