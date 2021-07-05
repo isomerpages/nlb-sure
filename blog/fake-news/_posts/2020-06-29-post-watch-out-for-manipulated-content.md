@@ -2,7 +2,7 @@
 title: 'Watch Out for Manipulated Content'
 date: 2020-06-29T00:00:00.000Z
 permalink: /blog/fake-news/FN0006
-
+image: ../../../images/114238488_s.jpg
 ---
 
 

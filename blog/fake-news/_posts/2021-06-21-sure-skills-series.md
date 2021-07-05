@@ -5,7 +5,7 @@ permalink: /blog/fake-news/FN0008
 image: ../../../images/SURE_Skills_Series1.jpg
 ---
 
-![]( ../../../images/SURE_Skills_Series1.jpg)
+![](../../../images/SURE_Skills_Series1.jpg)
 
 Learn more about the rising threat of manipulated images & deepfake videos used in fake news, and how to detect them with online tools.
 
