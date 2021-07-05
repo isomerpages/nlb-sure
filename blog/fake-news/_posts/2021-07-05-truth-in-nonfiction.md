@@ -24,7 +24,7 @@ But as any statistician will tell you, numbers *can,* and in fact *do*, lie all 
 
 <img src="../../../images/The_Dress_(viral_phenomenon).png" style="zoom:40%;" />
 
-*What colou9r is this dress? ([Photo source](https://en.wikipedia.org/wiki/File:The_Dress_(viral_phenomenon).png))*
+*What colour is this dress? ([Photo source](https://en.wikipedia.org/wiki/File:The_Dress_(viral_phenomenon).png))*
 
 
 
