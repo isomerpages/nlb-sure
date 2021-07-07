@@ -19,7 +19,7 @@ Targeted at lower secondary school students, this blended learning package consi
 
 These videos cover the essential information literacy steps, and useful digital resources of the National Library and National Archives of Singapore to equip students with the knowledge to become more effective researchers for their History subject.
 
-Watch all four videos above BEFORE you try out the **[Kahoot! Challenge](https://kahoot.it/challenge/005015534)**.
+Watch all four videos below BEFORE you try out the **[Kahoot! Challenge](https://kahoot.it/challenge/005015534)**.
 
 
 
