@@ -26,5 +26,4 @@ Try the Kahoot! Challenge quiz.
 
 **EXPLORE**
 
-- Visit the Newspaper SG website, and read the [first issue of the Syonan Shimbun](https://eresources.nlb.gov.sg/newspapers/Digitised/Issue/syonantimes19420220-1). You can view the thumbnail for the first page [here](https://eresources.nlb.gov.sg/newspapers/Digitised/Page/syonantimes19420220-1.1.1).
-- Watch this video from [The News Gallery](https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/newsgallery/virtual-gallery/behind-every-story/) for an analysis of how the Fall of Singapore was reported in the Syonan Shimbun and other newspapers.
+- Read more about [Tan Chay Yan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1628_2009-12-31.html) and  [Tan Kah Kee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html?s=Tan%20Kah%20Kee) at our Infopedia website.
