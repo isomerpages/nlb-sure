@@ -22,7 +22,7 @@ Watch this video before you attempt the quiz below:
 
 **QUIZ**
 
-Try the Kahoot! Challenge quiz. 
+Try the **[Kahoot! Challenge quiz](https://kahoot.it/challenge/009764475)**. 
 
 
 
