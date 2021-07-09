@@ -7,6 +7,8 @@ image: ../../../images/SURE_Skills_Series1.jpg
 
 ![](../../../images/SURE_Skills_Series1.jpg)
 
+## Download the presentation slides **[HERE](https://go.gov.sg/sure-deepfakes1)**.
+
 Learn more about the rising threat of manipulated images & deepfake videos used in fake news, and how to detect them with online tools.
 
 Date: Fri, 2 July 2021 <br>Time: 7:00pm to 8:30 PM<br>Conducted via Zoom<br>Free of Charge
@@ -17,14 +19,13 @@ REGISTER **[HERE](https://www.eventbrite.sg/e/detecting-fake-videos-and-images-s
 
 ## About this event
 
-
 **Important Notice**
 
 This programme/event is open to members of the National Library Board, Singapore. Please ensure you have your myLibrary ID on hand before proceeding with the registration. If you do not have a myLibrary ID, you can create one here: [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/).
 
 
 
-**About the Programme/Event**
+**About the Programme/Even**
 
 In this workshop, participants will learn about the rising threat of manipulated images and deepfake videos which are disseminated via social media and messaging apps. This interactive session will also equip participants with the skills to detect fake images and videos using online tools.
 
