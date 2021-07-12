@@ -15,6 +15,9 @@ sections:
                       url: /about-us/sure-campaign/
                     - title: 'find resources for schools'
                       url: /resources/audience/teachers-and-students/primary-level
+                    - title: 'find contests for schools'
+                      url: /contests/proveit/
+                      
           title: S.U.R.E.
           subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
           background: /images/1747093_s.jpg

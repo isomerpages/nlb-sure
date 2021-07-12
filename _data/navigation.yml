@@ -24,6 +24,14 @@ links:
               url: /resources/audience/
             - title: Formats
               url: /resources/format/
+    - title: Contests
+      url: /contests/proveit/
+      false_collection: true
+      sublinks:
+            - title: 'Prove It!'
+              url: /contests/proveit/
+            - title: 'Historical Scene Investigation'
+              url: /contests/hsi/
     - title: Blog
       url: /blog/
     - title: 'Contact Us'
