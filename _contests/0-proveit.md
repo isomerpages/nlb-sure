@@ -1,6 +1,6 @@
 ---
 title: 'Prove It! Contest'
-permalink: /contests/prove-it/
+permalink: /contests/proveit/
 breadcrumb: 'Prove It!'
 ---
 

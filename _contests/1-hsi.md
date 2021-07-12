@@ -1,5 +1,5 @@
 ---
-title: 'Historical Scene Investigation'
+title: 'Historical Scene Investigation Challenge'
 permalink: /contests/hsi/
 breadcrumb: 'Historical Scene Investigation'
 

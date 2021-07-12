@@ -8,14 +8,6 @@ links:
               url: /about-us/sure-campaign/
             - title: 'National Library'
               url: /about-us/national-library/
-    - title: 'Contests'
-      url: /contests/proveit/
-      false_collection: true
-      sublinks:
-            - title: 'Prove It! Contesr'
-              url: /contests/proveit/
-            - title: 'Historical Scene Investigation'
-              url: /contests/hsi/
     - title: 'The News Gallery Learning Journey'
       url: /tng/the-news-gallery-learning-journey/
       false_collection: true
@@ -32,6 +24,14 @@ links:
               url: /resources/audience/
             - title: Formats
               url: /resources/format/
+    - title: Contests
+      url: /contests/proveit/
+      false_collection: true
+      sublinks:
+            - title: 'Prove It!'
+              url: /contests/proveit/
+            - title: 'Historical Scene Investigation'
+              url: /contests/hsi/
     - title: Blog
       url: /blog/
     - title: 'Contact Us'
