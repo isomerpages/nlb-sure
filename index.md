@@ -24,7 +24,7 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'S.U.R.E Skills Series workshop'
+          title: 'S.U.R.E Skills Series for Seniors: Safeguarding Your Mind From Fake News'
           subtitle: 'For Seniors'
           description: null
           url: /blog/fake-news/FN0010
