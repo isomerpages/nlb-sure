@@ -25,12 +25,20 @@ sections:
           url: /about-us/sure-campaign/
     - infopic:
           title: 'S.U.R.E Skills Series workshop'
-          subtitle: 'For everyone'
+          subtitle: 'For Seniors'
           description: null
-          url: /blog/fake-news/FN0008
-          image: /images/SURE_Skills_Series1.jpg
+          url: /blog/fake-news/FN0010
+          image: /images/sure-skills-series-seniors1.jpg
           alt: 'alt text'
           button: 'Register now!'
+    - infopic:
+          title: 'Story Books: What’s “Truth” in a Non-Fiction Text?'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0009
+          image: /images/102503256_s.jpg
+          alt: 'alt text'
+          button: 'Read it now!'
     - infopic:
           title: 'What Comics Teach Us About Fake News'
           subtitle: 'For everyone'
