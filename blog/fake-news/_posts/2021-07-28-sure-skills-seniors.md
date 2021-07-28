@@ -17,7 +17,7 @@ Fake news can do real harm—destroy trust, damage learning culture, and even in
 - Part 3: Verifying Images & Videos (11 November 2021, 3-4pm)
 - Part 4: Spotting Deepfake Images & Videos (7 December 2021, 3-4pm)
 
-S.U.R.E. stands for Source, Understand, Research and Evaluate, and is an initiative of the National Library to educate the public on information literacy. For more information and free resources, please visit us at [sure.nlb.gov.sg](https://sure.nlb.gov.sg/)s
+S.U.R.E. stands for Source, Understand, Research and Evaluate, and is an initiative of the National Library to educate the public on information literacy. For more information and free resources, please visit us at [sure.nlb.gov.sg](https://sure.nlb.gov.sg/).
 
 
 
