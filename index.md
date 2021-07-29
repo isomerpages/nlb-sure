@@ -32,7 +32,7 @@ sections:
           alt: 'alt text'
           button: 'Register now!'
     - infopic:
-          title: 'S银发族 S.U.R.E. 技能系列: 如何避免受假信息影响'
+          title: '银发族 S.U.R.E. 技能系列: 如何避免受假信息影响'
           subtitle: 'For Seniors'
           description: null
           url: /blog/fake-news/FN0011
