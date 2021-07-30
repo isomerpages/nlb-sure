@@ -29,7 +29,7 @@ collections:
         output: true
     covid19:
         output: true
-    tours-and-workshops
+    tours-and-workshops:
         output: true
     online learning journeys:
         output: true
