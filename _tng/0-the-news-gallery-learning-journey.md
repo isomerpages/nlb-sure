@@ -1,7 +1,7 @@
 ---
-title: 'The News Gallery Learning Journey'
+title: 'The News Gallery Learning Activities'
 permalink: /tng/the-news-gallery-learning-journey/
-breadcrumb: 'The News Gallery Learning Journey'
+breadcrumb: 'The News Gallery Learning Activities'
 
 ---
 
@@ -34,17 +34,17 @@ We have prepared a series of online activities for you:
 | ![](../images/SUREvivors-gacha2.JPG)                         |      |
 | [Create your SUREvivors story](/tng/surevivors-activity2/)   |      |
 |                                                              |      |
-| ![](../images/SUREvivors-activity3.png)                      |      |
+| ![](../images/SUREvivors-activity3.jpg)                      |      |
 | [Primary and Secondary Sources](/tng/surevivors-activity3/)  |      |
 |                                                              |      |
-| ![](../images/SURE-Activity4-feature-image-FB.png)           |      |
+| ![](../images/SURE-Activity4-feature-image-FB.jpg)           |      |
 | [How Do You Check the Reliability of Sources of Information?](/tng/surevivors-activity4/) |      |
 |                                                              |      |
-| ![](../images/SURE-Activity-5-feature-image-FB.png)          |      |
+| ![](../images/SURE-Activity-5-feature-image-FB.jpg)          |      |
 | [How Do You Differentiate Between Fact and Opinion?](/tng/surevivors-activity5/) |      |
-| ![](../images/SURE-Activity6-feature-image.png)              |      |
+| ![](../images/SURE-Activity6-feature-image.jpg)              |      |
 | [What Intentions Can An Author Have?](/tng/surevivors-activity6/) |      |
-| ![](../images/Researching_Raju1.png)                         |      |
+| ![](../images/Researching_Raju1.jpg)                         |      |
 | [How to Search for Information Effectively: Narrowing and Broadening Search Terms](/tng/surevivors-activity7/) |      |
 
 
