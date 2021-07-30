@@ -8,8 +8,7 @@ breadcrumb: 'About Us'
 
 ### **About the SURE campaign**
 
-The  [National Library Board](http://www.nlb.gov.sg/) ’s (NLB) S.U.R.E programme, first launched in 2013, promotes the importance of information searching and discernment to the general public. The acronym stands for Source, Understand, Research, Evaluate – four concepts that an individual should keep in mind when assessing the reliability of news. NLB has since upgraded its S.U.R.E programme to become S.U.R.E. 2.0 – S.U.R.E for [School](/about-us/sure-for-school/); S.U.R.E. for [Work](/about-us/sure-for-work/
-b); and S.U.R.E. for [Life](/about-us/sure-for-life/) – to cater to the different needs and segments of the population.
+The  [National Library Board](http://www.nlb.gov.sg/) ’s (NLB) S.U.R.E programme, first launched in 2013, promotes the importance of information searching and discernment to the general public. The acronym stands for Source, Understand, Research, Evaluate – four concepts that an individual should keep in mind when assessing the reliability of news. NLB has since upgraded its S.U.R.E programme to become S.U.R.E. 2.0 – S.U.R.E for [School](/about-us/sure-for-school/); S.U.R.E. for [Work](/about-us/sure-for-work/); and S.U.R.E. for [Life](/about-us/sure-for-life/) – to cater to the different needs and segments of the population.
 
  S.U.R.E. distills key Information Literacy (IL) concepts into 4 simple ways:
 
