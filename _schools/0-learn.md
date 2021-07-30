@@ -1,6 +1,6 @@
 ---
 title: 'Learning Resources For Schools: HBL, BL, NDLP and SIL'
-permalink: /schools/learn/
+permalink: /tours-and-workshops/learn/
 breadcrumb: 'Learning Resources For Schools: HBL, BL, NDLP  and SIL'
 
 ---

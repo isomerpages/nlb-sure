@@ -1,6 +1,6 @@
 ---
 title: 'Teachers’ Workshop – Combating Online Misinformation and Fake News'
-permalink: /schools/teachers-cfn-workshop/
+permalink: /tours-and-workshops/teachers-cfn-workshop/
 breadcrumb: 'Teachers’ Workshop – Combating Online Misinformation and Fake News'
 third_nav_title: 'Workshops'
 

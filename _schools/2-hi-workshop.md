@@ -1,6 +1,6 @@
 ---
 title: 'Historical Investigation Workshop for Students'
-permalink: /schools/hi-workshop/
+permalink: /tours-and-workshops/hi-workshop/
 breadcrumb: 'Historical Investigation Workshop for Students'
 third_nav_title: 'Workshops'
 

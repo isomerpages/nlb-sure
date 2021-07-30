@@ -1,6 +1,6 @@
 ---
 title: 'Academic Research Skills Workshop'
-permalink: /schools/academic-skills-workshop/
+permalink: /tours-and-workshops/academic-skills-workshop/
 breadcrumb: 'Academic Research Skills Workshop'
 third_nav_title: 'Workshops'
 

@@ -1,6 +1,6 @@
 ---
 title: 'Human x Nature Exhibition'
-permalink: /schools/hxn-virtual-tour/
+permalink: /tours-and-workshops/hxn-virtual-tour/
 breadcrumb: 'Human x Nature Exhibition'
 third_nav_title: 'Online Learning Journeys'
 
