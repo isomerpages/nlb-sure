@@ -18,8 +18,8 @@ image-url: null
 contacts:
     - title: 'General Enquiries & Feedback'
       content:
-            - phone: 'ref@nlb.gov.sg (email)'
-            - phone: 'sure@nlb.gov.sg (email)'
+            - email: 'ref@nlb.gov.sg (email)'
+            - email: 'sure@nlb.gov.sg (email)'
 
 ---
 
