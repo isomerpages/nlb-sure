@@ -8,18 +8,28 @@ links:
               url: /about-us/sure-campaign/
             - title: 'National Library'
               url: /about-us/national-library/
-    - title: 'The News Gallery Learning Journey'
-      url: /tng/the-news-gallery-learning-journey/
+    - title: 'Tours & Workshops'
+      url: /schools/learn/
       false_collection: true
       sublinks:
-            - title: 'Primary School Activities'
-              url: /tng/pri-activity/
-            - title: 'SUREvivors Activities'
-              url: /tng/surevivors-activity/
+            - title: 'Human x Nature tour'
+              url: /schools/hxn-virtual-tour/
+            - title: 'News Gallery tour'
+              url: /schools/tng-virtual-tour/
+            - title: 'H.I. workshop'
+              url: /schools/tng-virtual-tour/
+            - title: 'Research workshop'
+              url: /schools/academic-skills-workshop/
+            - title: 'Teachers’ workshop'
+              url: /schools/teachers-cfn-workshop/
     - title: Resources
       url: /resources/audience/
       false_collection: true
       sublinks:
+            - title: 'News Gallery activities'
+              url: /tng/the-news-gallery-learning-journey/
+            - title: 'SUREvivors Activities'
+              url: /tng/surevivors-activity/
             - title: Audience
               url: /resources/audience/
             - title: Formats
@@ -34,6 +44,16 @@ links:
               url: /contests/hsi/
     - title: Blog
       url: /blog/
+      false_collection: true
+      sublinks:
+            - title: 'Fake News'
+              url: /blog/fake-news/
+            - title: 'Seniors'
+              url: /blog/seniors/
+            - title: 'HBL'
+              url: /blog/home-based-learning/
+            - title: 'Information Literacy'
+              url: /blog/information-literacy/
     - title: 'Contact Us'
       url: /contact-us/
     - title: FAQ
