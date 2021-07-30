@@ -22,18 +22,14 @@ links:
               url: /schools/academic-skills-workshop/
             - title: 'Teachers’ Workshop'
               url: /schools/teachers-cfn-workshop/
-    - title: 'The News Gallery Learning Journey'
-      url: /tng/the-news-gallery-learning-journey/
-      false_collection: true
-      sublinks:
-            - title: 'Primary School Activities'
-              url: /tng/pri-activity/
-            - title: 'SUREvivors Activities'
-              url: /tng/surevivors-activity/
     - title: Resources
       url: /resources/audience/
       false_collection: true
       sublinks:
+            - title: 'News Gallery activities'
+              url: /tng/pri-activity/
+            - title: 'SUREvivors Activities'
+              url: /tng/surevivors-activity/
             - title: Audience
               url: /resources/audience/
             - title: Formats
@@ -48,6 +44,16 @@ links:
               url: /contests/hsi/
     - title: Blog
       url: /blog/
+      false_collection: true
+      sublinks:
+            - title: 'Fake News'
+              url: /blog/fake-news/
+            - title: 'Seniors'
+              url: /blog/seniors/
+            - title: 'HBL'
+              url: /blog/home-based-learning/
+            - title: 'Information Literacy'
+              url: /blog/information-literacy/
     - title: 'Contact Us'
       url: /contact-us/
     - title: FAQ
