@@ -26,3 +26,4 @@ Students will learn about the evolving issues related to news media and online i
 
 **Contact Information:** E-mail us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg) for enquiries & registration
 
+ ![](../images/tng_about_1000w.jpg)

@@ -24,4 +24,4 @@ third_nav_title: 'Online Learning Journeys'
 
 **Contact Information:** E-mail us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg) for enquiries & registration
 
- 
+ ![](../images/hxn_photo_01_1000w.jpg)
