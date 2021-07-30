@@ -1,6 +1,6 @@
 ---
 title: 'The News Gallery Virtual Tour and Workshop'
-permalink: /schools/hxn-virtual-tour/
+permalink: /schools/tng-virtual-tour/
 breadcrumb: 'The News Gallery'
 third_nav_title: 'Online Learning Journeys'
 

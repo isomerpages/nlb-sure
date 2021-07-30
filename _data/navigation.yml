@@ -8,6 +8,20 @@ links:
               url: /about-us/sure-campaign/
             - title: 'National Library'
               url: /about-us/national-library/
+    - title: 'Schools'
+      url: /schools/learn/
+      false_collection: true
+      sublinks:
+            - title: 'Human x Nature Exhibition Online Learning Journey'
+              url: /schools/hxn-virtual-tour/
+            - title: 'The News Gallery Virtual Tour and Workshop'
+              url: /schools/tng-virtual-tour/
+            - title: 'Historical Investigation Workshop for Students'
+              url: /schools/tng-virtual-tour/
+            - title: 'Academic Research Skills Workshop'
+              url: /schools/academic-skills-workshop/
+            - title: 'Teachers’ Workshop – Combating Online Misinformation and Fake News'
+              url: /schools/teachers-cfn-workshop/
     - title: 'The News Gallery Learning Journey'
       url: /tng/the-news-gallery-learning-journey/
       false_collection: true
