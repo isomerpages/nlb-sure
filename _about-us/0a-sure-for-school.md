@@ -7,7 +7,9 @@ third_nav_title: 'SURE Campaign'
 ---
 
 **S.U.R.E. for School** imparts information literacy and critical thinking skills through programmes for students and teaching resources for educators.  Teachers and parents can educate children and youths to distinguish genuine
-news from false information using a plethora of resources , including elearning, infographics and videos.
+news from false information using a plethora of resources , including elearning, infographics and videos. 
+
+
 
 We offer the following programmes and learning resources to schools:
 
