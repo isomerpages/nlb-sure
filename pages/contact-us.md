@@ -15,11 +15,12 @@ locations:
               time: '10.00am - 9.00pm'
               description: 'Closed at 5.00pm on eves of Christmas, New Year and Chinese New Year.<br>Closed on Public Holidays.'
 image-url: null
-contacts:
-    - title: 'General Enquiries & Feedback'
-      content:
-            - email: 'ref@nlb.gov.sg (email)'
-            - email: 'sure@nlb.gov.sg (email)'
+
 
 ---
 
+contacts:
+    - title: 'General Enquiries & Feedback'
+      content:
+            - email: [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg)
+            - email: [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg)
