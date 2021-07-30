@@ -6,8 +6,6 @@ third_nav_title: 'Workshops'
 
 ---
 
-**Historical Investigation Workshop for Students**
-
 **Programme Introduction:** This workshop aims to provide Lower Secondary students with a broad overview of the range of historical sources that can be tapped upon in the online and onsite repositories of the National Library Board (NLB) and the National Archives of Singapore (NAS), for a range of Historical Investigation topics in the [2021 Lower Secondary History syllabus](https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-history-lower-secondary-syllabus.pdf).
 
 We currently cover one of the following H.I. questions in our workshops:

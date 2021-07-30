@@ -11,24 +11,23 @@ We have a range of learning activities and resources to support the [National Di
 
 **Online Learning Journeys / Virtual Tours**
 
-o  [Online Learning Journey: *Human x Nature* Exhibition](#HXN) [Limited run: Term 3, 2021]
+- [Online Learning Journey: *Human x Nature* Exhibition](/schools/hxn-virtual-tour/) [Limited run: Term 3, 2021]
 
-o  [Online Learning Journey: *The News Gallery* Virtual Tour and Workshop](#TNG) [Term 4, 2021 onwards]
- 
+- [Online Learning Journey: *The News Gallery* Virtual Tour and Workshop](/schools/tng-virtual-tour/) [Term 4, 2021 onwards]
 
 
 
 **Workshops for Students**
 
-o  [Historical Investigation workshop](#HI) for students (based on the revised lower secondary History syllabuses) 
+- [Historical Investigation workshop](/schools/hi-workshop/) for students (based on the revised lower secondary History syllabuses) 
 
-o  [Academic Research Skills workshop](#ILAR), which will cover effective search strategies and ways to evaluate information sources
+- [Academic Research Skills workshop](/schools/academic-skills-workshop/), which will cover effective search strategies and ways to evaluate information sources
 
  
 
 **Workshops for Teachers**
 
-o  [Teachers’ Workshop: Combating Online Misinformation and Fake News](#TW)
+- [Teachers’ Workshop: Combating Online Misinformation and Fake News](/schools/teachers-cfn-workshop/)
 
  
 
@@ -40,4 +39,4 @@ o  [Be a S.U.R.E. Historical Investigator](https://sure.nlb.gov.sg/blog/home-bas
 
  
 
-We welcome suggestions about [National Digital Literacy Programme](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html), [Home-Based Learning](https://www.moe.gov.sg/news/press-releases/20200327-schools-to-implement-one-day-of-home-based-learning-a-week), [Blended Learning](https://www.moe.gov.sg/news/press-releases/20201229-blended-learning-to-enhance-schooling-experience-and-further-develop-students-into-self-directed-learners) and Student-Initiated Learning from educators. Please contact us at: [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg). 
+*We welcome suggestions about [National Digital Literacy Programme](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html), [Home-Based Learning](https://www.moe.gov.sg/news/press-releases/20200327-schools-to-implement-one-day-of-home-based-learning-a-week), [Blended Learning](https://www.moe.gov.sg/news/press-releases/20201229-blended-learning-to-enhance-schooling-experience-and-further-develop-students-into-self-directed-learners) and Student-Initiated Learning from educators. Please contact us at: [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg).* 

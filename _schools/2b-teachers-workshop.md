@@ -6,8 +6,6 @@ third_nav_title: 'Workshops'
 
 ---
 
-**Teachers’ Workshop – Combating Online Misinformation and Fake News**
-
 **Programme Introduction:** This workshop aims to equip educators with the knowledge and skills of applying information literacy in combating fake news. By leveraging on the [National Library Board’s S.U.R.E.](https://sure.nlb.gov.sg/about-us/sure-campaign/) (Source, Understand, Research, Evaluate) principles, skills such as recognising the types of online falsehoods, identifying tell-tale signs of fake articles and utilising the latest fact-checking platforms will be taught.
 
 **Programme Type:** Workshop

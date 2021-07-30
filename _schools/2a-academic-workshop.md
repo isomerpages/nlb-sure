@@ -6,8 +6,6 @@ third_nav_title: 'Workshops'
 
 ---
 
-**Academic Research Skills Workshop**
-
 **Programme Introduction:** In this workshop, students will learn how to make their online research more effective and efficient through a combination of search strategies and [digital resources from the National Library Board (NLB)](https://eresources.nlb.gov.sg/main).
 
 **Programme Type:** Workshop
