@@ -12,15 +12,15 @@ links:
       url: /schools/learn/
       false_collection: true
       sublinks:
-            - title: 'Human x Nature Exhibition Online Learning Journey'
+            - title: 'Human x Nature tour'
               url: /schools/hxn-virtual-tour/
-            - title: 'The News Gallery Virtual Tour and Workshop'
+            - title: 'News Gallery tour'
               url: /schools/tng-virtual-tour/
-            - title: 'Historical Investigation Workshop for Students'
+            - title: 'H.I. workshop'
               url: /schools/tng-virtual-tour/
-            - title: 'Academic Research Skills Workshop'
+            - title: 'Research workshop'
               url: /schools/academic-skills-workshop/
-            - title: 'Teachers’ Workshop – Combating Online Misinformation and Fake News'
+            - title: 'Teachers’ Workshop'
               url: /schools/teachers-cfn-workshop/
     - title: 'The News Gallery Learning Journey'
       url: /tng/the-news-gallery-learning-journey/
