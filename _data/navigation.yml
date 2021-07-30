@@ -9,19 +9,19 @@ links:
             - title: 'National Library'
               url: /about-us/national-library/
     - title: 'Tours & Workshops'
-      url: /schools/learn/
+      url: /tours-and-workshops/learn/
       false_collection: true
       sublinks:
             - title: 'Human x Nature tour'
               url: /schools/hxn-virtual-tour/
             - title: 'News Gallery tour'
-              url: /schools/tng-virtual-tour/
+              url: /tours-and-workshops/tng-virtual-tour/
             - title: 'H.I. workshop'
-              url: /schools/tng-virtual-tour/
+              url: /tours-and-workshops/hi-workshop/
             - title: 'Research workshop'
-              url: /schools/academic-skills-workshop/
+              url: /tours-and-workshops/academic-skills-workshop/
             - title: 'Teachers’ workshop'
-              url: /schools/teachers-cfn-workshop/
+              url: /tours-and-workshops/teachers-cfn-workshop/
     - title: Resources
       url: /resources/audience/
       false_collection: true
