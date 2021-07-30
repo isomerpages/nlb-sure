@@ -29,6 +29,12 @@ collections:
         output: true
     covid19:
         output: true
+    schools:
+        output: true
+    online learning journeys:
+        output: true
+    workshops:
+        output: true
     tng:
         output: true
     pri-activity:
