@@ -8,7 +8,7 @@ links:
               url: /about-us/sure-campaign/
             - title: 'National Library'
               url: /about-us/national-library/
-    - title: 'Schools'
+    - title: 'Tours & Workshops'
       url: /schools/learn/
       false_collection: true
       sublinks:
