@@ -13,9 +13,9 @@ news from false information using a plethora of resources , including elearning,
 
 We offer the following programmes and learning resources to schools:
 
-- [Learning activities and resources](/schools/learn/) to support Blended Learning in schools:
-  - [Virtual Tours](schools/hxn-virtual-tour/) 
-  - [Workshops](/schools/hi-workshop/)
+- [Learning activities and resources](/tours-and-workshops/learn/) to support Blended Learning in schools:
+  - [Virtual Tours](tours-and-workshops/hxn-virtual-tour/) 
+  - [Workshops](/tours-and-workshops/hi-workshop/)
 
 - [Contests](https://sure.nlb.gov.sg/contests/proveit/) such as Prove It! and Historical Scene Investigation (H.S.I.)
 
