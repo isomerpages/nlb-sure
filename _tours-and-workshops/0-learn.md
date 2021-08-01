@@ -11,31 +11,31 @@ We have a range of learning activities and resources to support the [National Di
 
 **Online Learning Journeys / Virtual Tours**
 
-- [Online Learning Journey: *Human x Nature* Exhibition](/schools/hxn-virtual-tour/) [Limited run: Term 3, 2021]
+- [Online Learning Journey: *Human x Nature* Exhibition](/tours-and-workshops/hxn-virtual-tour/) [Limited run: Term 3, 2021]
 
-- [Online Learning Journey: *The News Gallery* Virtual Tour and Workshop](/schools/tng-virtual-tour/) [Term 4, 2021 onwards]
+- [Online Learning Journey: *The News Gallery* Virtual Tour and Workshop](/tours-and-workshops/tng-virtual-tour/) [Term 4, 2021 onwards]
 
 
 
 **Workshops for Students**
 
-- [Historical Investigation workshop](/schools/hi-workshop/) for students (based on the revised lower secondary History syllabuses) 
+- [Historical Investigation workshop](/tours-and-workshops/hi-workshop/) for students (based on the revised lower secondary History syllabuses) 
 
-- [Academic Research Skills workshop](/schools/academic-skills-workshop/), which will cover effective search strategies and ways to evaluate information sources
+- [Academic Research Skills workshop](/tours-and-workshops/academic-skills-workshop/), which will cover effective search strategies and ways to evaluate information sources
 
  
 
 **Workshops for Teachers**
 
-- [Teachers’ Workshop: Combating Online Misinformation and Fake News](/schools/teachers-cfn-workshop/)
+- [Teachers’ Workshop: Combating Online Misinformation and Fake News](/tours-and-workshops/teachers-cfn-workshop/)
 
  
 
 **Student-Initiated Learning** 
 
-o  [A Journey Through Time with the National Library](https://sure.nlb.gov.sg/blog/home-based-learning/dd00017)
+- [A Journey Through Time with the National Library](https://sure.nlb.gov.sg/blog/home-based-learning/dd00017)
 
-o  [Be a S.U.R.E. Historical Investigator](https://sure.nlb.gov.sg/blog/home-based-learning/dd00016)
+- [Be a S.U.R.E. Historical Investigator](https://sure.nlb.gov.sg/blog/home-based-learning/dd00016)
 
  
 

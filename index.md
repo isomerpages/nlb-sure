@@ -13,6 +13,8 @@ sections:
                       url: /resources/audience/adults/combating-fake-news
                     - title: 'find out more about S.U.R.E. (Information Literacy)'
                       url: /about-us/sure-campaign/
+                    - title: 'find tours & workshops for schools'
+                      url: /tours-and-workshops/learn/
                     - title: 'find resources for schools'
                       url: /resources/audience/teachers-and-students/primary-level
                     - title: 'find contests for schools'
