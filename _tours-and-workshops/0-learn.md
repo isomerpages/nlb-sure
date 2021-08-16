@@ -1,7 +1,7 @@
 ---
-title: 'Learning Resources For Schools: HBL, BL, NDLP and SIL'
+title: 'Learning Resources For Schools to Support Blended Learning Experiences'
 permalink: /tours-and-workshops/learn/
-breadcrumb: 'Learning Resources For Schools: HBL, BL, NDLP  and SIL'
+breadcrumb: 'Learning Resources For Schools to Support Blended Learning Experiences'
 
 ---
 
@@ -31,7 +31,7 @@ We have a range of learning activities and resources to support the [National Di
 
  
 
-**Student-Initiated Learning** 
+**Resources for Students** 
 
 - [A Journey Through Time with the National Library](https://sure.nlb.gov.sg/blog/home-based-learning/dd00017)
 
