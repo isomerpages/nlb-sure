@@ -19,7 +19,7 @@ These sources will help you discern the reliability of the information that youâ
 
 
 
-#### [**How to be S.U.R.E. before you share**](/blog/fake-news/fn0001)
+#### [**How to be S.U.R.E. before you share**](/blog/fake-news/FN0004)
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
