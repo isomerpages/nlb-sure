@@ -13,7 +13,7 @@ Opened to lower secondary school students, 2021 was a special year for the conte
 A total of 27 schools participated in the contest, in which a delightful mix of videos were submitted which showcased the students’ creativity and aptitude in covering the S.U.R.E. steps. The advocacy efforts by all the teams were shared via a written report. 
 
 The top 10 teams for the S.U.R.E. Prove It! Contest 2021 are as follows:
- 
+
 
 **Champion team: Raffles Institution**
 
@@ -22,8 +22,7 @@ The top 10 teams for the S.U.R.E. Prove It! Contest 2021 are as follows:
 - Feng Jiaxuan, Andrew
 - Nicholas Koh
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=0_IgCwE2f00" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_IgCwE2f00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -34,8 +33,7 @@ The top 10 teams for the S.U.R.E. Prove It! Contest 2021 are as follows:
 - Yeng Kai Qi
 - Muyassarah Nur Atiqah Binte Ahmad
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=zvAXuSAwfI8" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zvAXuSAwfI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -46,8 +44,7 @@ The top 10 teams for the S.U.R.E. Prove It! Contest 2021 are as follows:
 - Ng Zhi Kang, Joshua
 - Lim En Sheng, Eldridge
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=z05BS8BYjKU" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z05BS8BYjKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -61,8 +58,7 @@ We would also like to congratulate the following 7 schools’ students who achie
 - Choo Peng Sheng, Andy 
 - Im Dong Hyeok
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=0zlOdvDwQIU" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zlOdvDwQIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -73,10 +69,7 @@ We would also like to congratulate the following 7 schools’ students who achie
 - Tan Si Yin Isabel 
 - Chua Ee Ling
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=-XQIfK5V7S4" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-XQIfK5V7S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -87,8 +80,7 @@ We would also like to congratulate the following 7 schools’ students who achie
 - Darren Chong Jun Yi
 - Ng Shu Jun 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=jVQf3fCgR9M" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jVQf3fCgR9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -99,8 +91,7 @@ We would also like to congratulate the following 7 schools’ students who achie
 - Christina Lim Jia Hui
 - Lee Lin Ken
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=yTLC1nJOq88" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yTLC1nJOq88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -111,18 +102,18 @@ We would also like to congratulate the following 7 schools’ students who achie
 - Sasi Kumar Sangamitthirai
 - Ramesh Kanikha
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=AKbt57jLwz4" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ckP8bBDxpM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 **Tanjong Katong Secondary School**
 
 - Chua Jing Yi, Ashley
 - Chen Zi Fei
-- Chung Hong Yi Ethan
+- Chung Hong Yi Ethan<iframe width="560" height="315" src="https://www.youtube.com/embed/ckP8bBDxpM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - Jedidiah Ong Yi En
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=AKbt57jLwz4" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AKbt57jLwz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -133,6 +124,5 @@ We would also like to congratulate the following 7 schools’ students who achie
 - Chloe Wong Pei Xuan
 - Lee Xuan Hui
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=dRcyoPgiq58" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRcyoPgiq58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
