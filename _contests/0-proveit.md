@@ -110,7 +110,7 @@ We would also like to congratulate the following 7 schools’ students who achie
 
 - Chua Jing Yi, Ashley
 - Chen Zi Fei
-- Chung Hong Yi Ethan<iframe width="560" height="315" src="https://www.youtube.com/embed/ckP8bBDxpM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Chung Hong Yi Ethan
 - Jedidiah Ong Yi En
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AKbt57jLwz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
