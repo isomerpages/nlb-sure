@@ -10,7 +10,12 @@ third_nav_title: 'Workshops'
 
 **Programme Type:** Workshop
 
-**Programme Details:** This workshop is conducted digitally. Teachers are recommended to prepare a laptop or smartphone as they will participate in interactive activities conducted via the [Kahoot!](https://kahoot.it/) platform. 
+**Programme Details:** This workshop is conducted digitally. Teachers are recommended to prepare a laptop or smartphone as they will participate in interactive activities conducted via the [Kahoot!](https://kahoot.it/) platform. The contents of the workshop includes:
+
+- The problem of information overload
+- Identifying credible and factual sources
+- Search engine strategies and tips
+- Recommended NLB resources
 
 **Target Audience:** Secondary & JC students
 

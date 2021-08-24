@@ -10,7 +10,12 @@ third_nav_title: 'Workshops'
 
 **Programme Type:** Workshop
 
-**Programme Details:** This workshop can be conducted either physically or digitally. Teachers are recommended to prepare a laptop or smartphone as they will participate in interactive activities conducted via the [Kahoot!](https://kahoot.it/) platform. A blended learning package consisting our content and resources will be provided for the teachers. 
+**Programme Details:** This workshop can be conducted either physically or digitally. Teachers are recommended to prepare a laptop or smartphone as they will participate in interactive activities conducted via the [Kahoot!](https://kahoot.it/) platform. A blended learning package consisting our content and resources will be provided for the teachers. The contents of the workshop include:
+
+- Characteristics of fake news
+- Impact of fake news
+- Using the S.U.R.E. steps to combat fake news
+- Fact-checking resources and techniques
 
  **Target Audience:** Teachers and educators
 
