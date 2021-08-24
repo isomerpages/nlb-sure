@@ -35,11 +35,11 @@ links:
             - title: Formats
               url: /resources/format/
     - title: Contests
-      url: /contests/proveit/
+      url: /contests/proveit2021/
       false_collection: true
       sublinks:
             - title: 'Prove It!'
-              url: /contests/proveit/
+              url: /contests/proveit2021/
             - title: 'Historical Scene Investigation'
               url: /contests/hsi/
     - title: Blog

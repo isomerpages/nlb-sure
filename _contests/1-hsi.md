@@ -1,7 +1,7 @@
 ---
-title: 'Historical Scene Investigation Challenge'
+title: 'Historical Scene Investigation Challenge 2021'
 permalink: /contests/hsi/
-breadcrumb: 'Historical Scene Investigation'
+breadcrumb: 'Historical Scene Investigation 2021'
 
 ---
 

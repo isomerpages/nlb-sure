@@ -17,7 +17,7 @@ We offer the following programmes and learning resources to schools:
   - [Virtual Tours](/tours-and-workshops/hxn-virtual-tour/)
   - [Workshops](/tours-and-workshops/hi-workshop/)
 
-- [Contests](https://sure.nlb.gov.sg/contests/proveit/) such as Prove It! and Historical Scene Investigation (H.S.I.)
+- [Contests](https://sure.nlb.gov.sg/contests/proveit2021/) such as Prove It! and Historical Scene Investigation (H.S.I.)
 
 - [Self-directed resources](https://sure.nlb.gov.sg/resources/audience) on information literacy and academic research skills, as well as for [Home-Based Learning](/blog/home-based-learning/) and Blended Learning.
 
