@@ -6,12 +6,33 @@ third_nav_title: 'SURE Campaign'
 
 ---
 
-
 **S.U.R.E. for Life** aims to educate the general public on the threats that deliberate online falsehoods pose to the peace and stability of society. We work with partners to equip Singaporeans with information literacy skills through presentations and workshops in English and [Mandarin](#SURE_Talk_Mandarin).
+
+For more information about our public runs, please refer to the following:
+
+- **S.U.R.E Skills Series workshops** 
+  - [Part 1: Detecting Fake Videos and Images (2 July 2021, 7pm – 8.30pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0008)
+  - [Part 2: Safeguarding Your Mind Against Fake News (3 September 2021, 7pm – 8.30pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0010)
+  - Part 3: Be a Smart Factchecker (3 December 2021, 7pm – 8.30 pm)
+
+
+
+* **S.U.R.E. Skills Series for Seniors workshops**
+  * [Part 1: Safeguarding Your Mind From Fake News (12 August 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0010)
+  * Part 2: Factchecking Dubious Emails & Messages (15 September 2021, 3-4pm)
+  * Part 3: Verifying Images & Videos (11 November 2021, 3-4pm)
+  * Part 4: Spotting Deepfake Images & Videos (7 December 2021, 3-4pm)
+
+
+
+* **银发族 S.U.R.E. 技能系列: 如何避免受假信息影响**
+  * [第一部分：如何避免受假信息影响 （2021年8月24日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/fn0011)
+  * 第二部分：如何查证电邮和信息的真伪（2021年9月21日，下午三时至四时）
+  * 第三部分：如何查证图像和影像的真伪（2021年11月15日，下午三时至四时）
+  * 第四部分：如何识破 “深度伪造” 图像和影像（2021年12月15日，下午三时至四时）
 
 <hr>
 **“COMBATING FAKE NEWS” TALK**
-
 **Combating Fake News** 
 
 **Duration:** 1 hour
@@ -29,6 +50,8 @@ third_nav_title: 'SURE Campaign'
 •       What you can do to combat Fake News
 
 Note:  *This is an interactive workshop with hands-on activities, quizzes, and group discussions. Participants are encouraged to bring their own mobile devices for these activities.*
+
+
 
 We offer the following to organisations:
 
