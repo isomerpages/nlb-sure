@@ -18,10 +18,11 @@ We currently cover one of the following H.I. questions in our workshops:
 
 **Programme Details:** This workshop is conducted digitally. Teachers are recommended to prepare a laptop or smartphone to allow students to participate in interactive activities conducted via the [Kahoot!](https://kahoot.it/) platform.  Students will learn to apply the SURE framework in their Historical Investigation assignments through a research process:
 
-- - **Source** – Learn about the various primary & secondary sources in NLB’s collection, in terms of contextual background and highlights
-  - **Understand** what you read; question and review as you go through the sources to get its main purpose and ideas
-  - **Research** - develop a strategy for effective searching. Locate and access relevant source materials
-  - **Evaluate** uncovered sources in terms of perspectives which are included/excluded,strengths/limitations in the use of various sources 
+- **Source** – Learn about the various primary & secondary sources in NLB’s collection, in terms of contextual background and highlights
+- **Understand** what you read; question and review as you go through the sources to get its main purpose and ideas
+
+- **Research** - develop a strategy for effective searching. Locate and access relevant source materials
+- **Evaluate** uncovered sources in terms of perspectives which are included/excluded,strengths/limitations in the use of various sources 
 
 **Target Audience:** Lower Secondary students
 
