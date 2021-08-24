@@ -1,7 +1,7 @@
 ---
 title: 'Prove It! Contest'
-permalink: /contests/proveit/
-breadcrumb: 'Prove It!'
+permalink: /contests/proveit2021/
+breadcrumb: 'Prove It! 2021'
 ---
 
 ![](../images/proveit2021-logo.JPG)
