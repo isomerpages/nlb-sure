@@ -26,19 +26,27 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'S.U.R.E Skills Series for Seniors: Safeguarding Your Mind From Fake News'
+          title: 'S.U.R.E Skills Series for Seniors: Fact-checking Dubious Emails & Messages'
           subtitle: 'For Seniors'
           description: null
-          url: /blog/fake-news/FN0010
-          image: /images/sure-skills-series-seniors1.jpg
+          url: /blog/fake-news/FN0013
+          image: /images/sure-skills-series-seniors2.jpg
           alt: 'alt text'
           button: 'Register now!'
     - infopic:
-          title: '银发族 S.U.R.E. 技能系列: 如何避免受假信息影响'
+          title: '银发族 S.U.R.E. 技能系列: 如何查证电邮和信息的真伪'
           subtitle: 'For Seniors'
           description: null
-          url: /blog/fake-news/FN0011
-          image: /images/sure-skills-seriesseniors1-chinese.jpg
+          url: /blog/fake-news/FN0014
+          image: /images/sure-skills-seriesseniors2-chinese.jpg
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
+          title: 'S.U.R.E Skills Series workshop - Safeguarding Your Mind Against Fake News'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0012
+          image: /images/sure-skills-series-Sep2021.JPG
           alt: 'alt text'
           button: 'Register now!'
     - infopic:
