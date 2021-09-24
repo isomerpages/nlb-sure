@@ -1,6 +1,6 @@
 ---
 title: 'Read to be Sure'
-permalink: /rtbs/read=to=be=sure/
+permalink: /rtbs/intro/
 breadcrumb: 'Read to be Sure'
 ---
 
