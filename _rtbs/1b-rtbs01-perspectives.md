@@ -1,7 +1,7 @@
 ---
-title: 'Is Fast Fashion Bad? Perspectives'
+title: 'Perspectives'
 permalink: /rtbs/issue1-perspectives/
-title: 'Is Fast Fashion Bad? Perspectives'
+breadcrumb: 'Perspectives'
 third_nav_title: 'Read to be Sure issue #1'
 
 ---

@@ -1,7 +1,7 @@
 ---
-title: 'Is Fast Fashion Bad? Visual Map'
+title: 'Is Fast Fashion Bad?'
 permalink: /rtbs/issue1-visualmap/
-title: 'Is Fast Fashion Bad? Visual Map'
+breadcrumb: 'Is Fast Fashion Bad?'
 third_nav_title: 'Read to be Sure issue #1'
 
 ---

@@ -1,7 +1,7 @@
 ---
-title: 'Is Fast Fashion Bad? Deep Learning'
+title: 'Deep Learning'
 permalink: /rtbs/issue1-deeplearning/
-title: 'Is Fast Fashion Bad? Deep Learning'
+breadcrumb: 'Deep Learning'
 third_nav_title: 'Read to be Sure issue #1'
 
 ---
