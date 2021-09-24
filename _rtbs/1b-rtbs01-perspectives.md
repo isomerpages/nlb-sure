@@ -10,6 +10,8 @@ third_nav_title: 'Read to be Sure issue #1'
 
 To do so, we have to delve deeper into the perspectives of fast fashion…
 
+![](../images/rtbs-01b-perspectives.JPG)
+
 |                                                           |                                                              |                                                           |                                                         |                                           |
 | --------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------- |
 | The economic and  social benefits are almost unbelievable | Instant  gratification, low prices, a win-win situation for consumers | We’re damaging our environment  and filling our landfills | The toxic, unethical  practices of the fashion industry | What about  sustainable, ethical fashion? |

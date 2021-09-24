@@ -6,8 +6,12 @@ third_nav_title: 'Read to be Sure issue #1'
 
 ---
 
-**Curious about the fashion industry?
-** Here are some materials to further your learning.
+**Curious about the fashion industry?**
+
+**
+![](../images/rtbs-01c-deeperlearning.JPG)**
+
+ Here are some materials to further your learning.
 
 | **Its appeal**                                               | **Its downsides**                                            | **Sustainable fashion**                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |

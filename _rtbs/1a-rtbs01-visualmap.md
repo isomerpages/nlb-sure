@@ -8,6 +8,8 @@ third_nav_title: 'Read to be Sure issue #1'
 
 **Curious about the fashion industry?**
 
+![](../images/rtbs-01a-visualmap.JPG)
+
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find new styles on the shelves.
 
 Pretty normal, right?
