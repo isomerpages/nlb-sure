@@ -6,7 +6,7 @@ third_nav_title: 'Read to be Sure issue #1'
 
 ---
 
-**Is fast fashion worth the while?**
+# **Is fast fashion worth the while?**
 
 To do so, we have to delve deeper into the perspectives of fast fashion…
 

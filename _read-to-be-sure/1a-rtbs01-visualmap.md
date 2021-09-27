@@ -6,7 +6,7 @@ third_nav_title: 'Read to be Sure issue #1'
 
 ---
 
-**Curious about the fashion industry?**
+# **Curious about the fashion industry?**
 
 ![](../images/rtbs-01a-visualmap.JPG)
 

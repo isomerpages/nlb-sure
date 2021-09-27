@@ -6,7 +6,7 @@ third_nav_title: 'Read to be Sure issue #1'
 
 ---
 
-## **Curious about the fashion industry?**
+# **Curious about the fashion industry?**
 
 Here are some materials to further your learning.
 
