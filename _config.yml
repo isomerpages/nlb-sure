@@ -37,6 +37,8 @@ collections:
         output: true
     read-to-be-sure:
         output: true
+    rtbs-intro:
+        output: true
     issue1-visualmap:
         output: true
     tng:
@@ -76,7 +78,7 @@ defaults:
           layout: page
 
 colors:
-    primary-color: '#00A9E0'
+    primary-color: '#0000b3'
     secondary-color: '#6c7a89'
     media-colors:
         - title: media-color-one
