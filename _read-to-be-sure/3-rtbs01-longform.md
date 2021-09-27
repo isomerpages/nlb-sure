@@ -1,12 +1,26 @@
 ---
-title: 'Perspectives'
-permalink: /rtbs/issue1-perspectives/
-breadcrumb: 'Perspectives'
+title: 'Long Read: Is Fast Fashion Bad?'
+permalink: /read-to-be-sure/issue1-longread/
+breadcrumb: 'Long Read: Is Fast Fashion Bad?'
 third_nav_title: 'Read to be Sure issue #1'
 
 ---
 
-**Is fast fashion worth the while?**
+# **Curious about the fashion industry?**
+
+![](../images/rtbs-01a-visualmap.JPG)
+
+It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find new styles on the shelves.
+
+Pretty normal, right?
+
+That didn’t use to be the case.
+
+Before, you would have to wait [until next season](https://www.forbes.com/sites/theyec/2019/05/13/three-reasons-why-fast-fashion-is-becoming-a-problem-and-what-to-do-about-it/?sh=3934b17c144b) to find new items. There is a demand for readily available, trend-driven fashion, thanks to the world’s [growing middle class](https://www.mckinsey.com/~/media/mckinsey/industries/retail/our insights/the state of fashion 2020 navigating uncertainty/the-state-of-fashion-2020-final.pdf) and their higher disposable income. Now, fashion companies are capitalising on fast fashion, the rapid production of trendy and cheap clothes in high volumes. 
+
+
+
+# **Is fast fashion worth the while?**
 
 To do so, we have to delve deeper into the perspectives of fast fashion…
 
@@ -37,3 +51,63 @@ To do so, we have to delve deeper into the perspectives of fast fashion…
   **5.**     **What about sustainable, ethical  fashion?**     Let’s say you come back to the same store a  week later. Immediately, some clothes nearby catch your eye. You spot the tag  and are taken aback by the high price. When you look closer, you spot it — a  sticker labelled, “Sustainable Fashion”.     [Sustainability   goes beyond](http://changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdf) switching  to natural materials and labelling clothes as “eco-friendly”. Sustainable fashion uses materials that are  responsibly and ethically sourced or have a lower environmental impact. The  idea focuses on all aspects of the entire supply chain, production and life cycle.  Companies have to [manage   their waste and water](https://www.forbes.com/sites/stephanrabimov/2020/07/20/post-pandemic-fashion-will-be-sustainable-and-affordable-interview-with-anna-gedda-head-of-sustainability-at-hm-group/), limit their gas  emissions and chemicals, [protect   their workers](https://www.greenstrategy.se/sustainable-fashion/what-is-sustainable-fashion/) and pay them fairly.     This is why sustainable fashion may not be  trendy or affordable. Sustainable clothing tend to [be   more expensive](https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706) due to their small batch  production and extensive manufacturing processes. Some consumers are  more likely to [pay premium   prices](https://www.thegoodtrade.com/features/what-is-slow-fashion) for [sustainable   alternatives](https://www.vogue.co.uk/fashion/article/sustainable-fashion-affordable). There is also a lack of size diversity in  sustainable fashion, with consumers [facing   difficulty](https://fashionjournal.com.au/fashion/the-sustainable-fashion-industry-is-size-exclusive-take-it-from-this-model/) in finding sustainable clothing  [that   fits them](https://www.harpersbazaar.com/fashion/designers/a32213676/plus-size-sustainable-fashion/).       Finally, you decide to buy a sustainable  shirt from your favourite brand. On the way home, you suddenly spot headlines  of the very same brand being exposed for child labour. Weren’t they supposed  to be ‘sustainable’? Research might be required as some companies use  misleading marketing tactics and false sustainability claims to get you to  buy their products.      
 
  
+
+# **Curious about the fashion industry?**
+
+Here are some materials to further your learning.
+
+![](../images/rtbs-01c-deeperlearning.JPG)
+
+
+
+## ITS APPEAL
+
+### Articles
+
+1.    [How fast fashion became a multi-trillion-dollar industry](https://www.businessofbusiness.com/articles/examining-fast-fashions-appeal-and-issues/)
+
+2.    [Brand addiction in the contexts of luxury and fast-fashion brands](https://e-tarjome.com/storage/panel/fileuploads/2020-05-06/1588762187_E14818-e-tarjome.pdf)
+
+3.    [Fast fashion is getting faster and that’s a good thing](https://www.themanufacturer.com/articles/fast-fashion-getting-faster-thats-good-thing/)
+
+
+
+## ITS DOWNSIDES
+
+### Articles
+
+1.    [‘A monstrous disposable industry’: Facts about fast fashion](https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/)
+
+ 2.    [Following a t-shirt from cotton field to landfill shows the true cost of fast fashion](https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363)
+
+ 3.    [Textile workers in developing countries and the European fashion industry](https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf)
+
+###  Podcasts
+
+1.    [Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)
+
+2.    [Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion) 
+
+### Video
+
+[Our love for cheap clothes: What’s the true cost?](https://www.youtube.com/watch?app=desktop&v=n75jVQTUEE8)
+
+
+
+## SUSTAINABLE FASHION
+
+### Articles
+
+1.    [The top benefits of sustainable clothing](https://www.goodwear.com/blogs/news/the-top-benefits-of-sustainable-clothing)
+
+ 2.    [Fast fashion’s waste model is going out of style](https://www.politico.eu/article/fast-fashion-waste-losing-appeal-greta-thunberg-environment/)
+
+ 3.    [Synthetic anonymous: Fashion brand’s addiction to fossil fuels](http://changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdfhttp:/changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdf)
+
+ 4.    [The problem with ‘sustainable fashion’](https://edition.cnn.com/style/article/the-problem-with-sustainable-fashion/index.html)
+
+ 5.    [More consumers want sustainable fashion, but are brands delivering it?](https://www.forbes.com/sites/andriacheng/2019/10/17/more-consumers-want-sustainable-fashion-but-are-brands-delivering-it/?sh=2126650734a5) 
+
+### Video
+
+1.    [How fast fashion adds to the world’s clothing waste problem](https://www.youtube.com/watch?app=desktop&v=elU32XNj8PM)

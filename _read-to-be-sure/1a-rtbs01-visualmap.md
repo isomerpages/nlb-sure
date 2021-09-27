@@ -1,6 +1,6 @@
 ---
 title: 'Is Fast Fashion Bad?'
-permalink: /rtbs/issue1-visualmap/
+permalink: /read-to-be-sure/issue1-visualmap/
 breadcrumb: 'Is Fast Fashion Bad?'
 third_nav_title: 'Read to be Sure issue #1'
 

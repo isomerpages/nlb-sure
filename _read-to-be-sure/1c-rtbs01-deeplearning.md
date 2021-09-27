@@ -1,6 +1,6 @@
 ---
 title: 'Deep Learning'
-permalink: /rtbs/issue1-deeplearning/
+permalink: /read-to-be-sure/issue1-deeplearning/
 breadcrumb: 'Deep Learning'
 third_nav_title: 'Read to be Sure issue #1'
 

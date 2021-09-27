@@ -1,6 +1,6 @@
 ---
 title: 'Conversations'
-permalink: /rtbs/issue1-conversations/
+permalink: /read-to-be-sure/issue1-conversations/
 breadcrumb: 'Conversations'
 third_nav_title: 'Read to be Sure issue #1'
 
