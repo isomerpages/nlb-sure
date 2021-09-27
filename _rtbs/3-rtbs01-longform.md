@@ -1,7 +1,7 @@
 ---
-title: 'Is Fast Fashion Bad?'
+title: 'Long Read'
 permalink: /rtbs/issue1-longread/
-breadcrumb: 'Is Fast Fashion Bad?'
+breadcrumb: 'Long Read'
 third_nav_title: 'Read to be Sure issue #1'
 
 ---
@@ -24,7 +24,7 @@ Before, you would have to wait [until next season](https://www.forbes.com/sites/
 
 To do so, we have to delve deeper into the perspectives of fast fashion…
 
-![](C:/Users/user/Documents/GitHub/nlb-sure/images/rtbs-01b-perspectives.JPG)
+![](../images/rtbs-01b-perspectives.JPG)
 
 |                                                           |                                                              |                                                           |                                                         |                                           |
 | --------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------- |
@@ -56,7 +56,7 @@ To do so, we have to delve deeper into the perspectives of fast fashion…
 
 Here are some materials to further your learning.
 
-![](C:/Users/user/Documents/GitHub/nlb-sure/images/rtbs-01c-deeperlearning.JPG)
+![](../images/rtbs-01c-deeperlearning.JPG)
 
 
 
