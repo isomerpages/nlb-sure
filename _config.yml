@@ -37,8 +37,6 @@ collections:
         output: true
     read-to-be-sure:
         output: true
-    rtbs-intro:
-        output: true
     issue1-visualmap:
         output: true
     tng:
