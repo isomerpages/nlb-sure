@@ -1,8 +1,8 @@
 ---
 title: 'Is Fast Fashion Bad?'
 permalink: /read-to-be-sure/issue1-visualmap/
-breadcrumb: 'Is Fast Fashion Bad?'
-third_nav_title: 'Issue #1'
+breadcrumb: 'Visual Map'
+third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 

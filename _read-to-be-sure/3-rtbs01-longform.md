@@ -1,8 +1,8 @@
 ---
-title: 'Long Read: Is Fast Fashion Bad?'
+title: 'Long Read'
 permalink: /read-to-be-sure/issue1-longread/
-breadcrumb: 'Long Read: Is Fast Fashion Bad?'
-third_nav_title: 'Issue #1'
+breadcrumb: 'Long Read'
+third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 
