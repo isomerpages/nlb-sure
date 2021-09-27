@@ -1,7 +1,7 @@
 ---
-title: 'Long Read'
+title: 'Long Read: Is Fast Fashion Bad?'
 permalink: /rtbs/issue1-longread/
-breadcrumb: 'Long Read'
+breadcrumb: 'Long Read: Is Fast Fashion Bad?'
 third_nav_title: 'Read to be Sure issue #1'
 
 ---
