@@ -6,36 +6,37 @@ third_nav_title: 'Read to be Sure issue #1'
 
 ---
 
-**Curious about the fashion industry?**
-![Articles
+## **Curious about the fashion industry?**
 
-**1.**    **[‘A monstrous disposable industry’: Facts about fast fashion](https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/)**
+Here are some materials to further your learning.
 
- 
+![](../images/rtbs-01c-deeperlearning.JPG)
 
-**2.**    **[Following a t-shirt from cotton field to landfill shows the true cost of fast fashion](https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363)**
 
- 
 
-**3.**    **[Textile workers in developing countries and the European fashion industry](https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf)**
+### Articles
 
- 
+1.    [‘A monstrous disposable industry’: Facts about fast fashion](https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/)
 
-Podcasts
+2.    [Following a t-shirt from cotton field to landfill shows the true cost of fast fashion](https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363)
 
-**1.**    **[Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)**
+3.    [Textile workers in developing countries and the European fashion industry](https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf)
 
  
 
-**2.**    **[Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion)** 
+### Podcasts
+
+1.    [Fulfilling ur fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)
+
+2.    [Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion) 
 
  
 
-Videos
+### Videos
 
-**[Our love for cheap clothes: What’s the true cost?](https://www.youtube.com/watch?app=desktop&v=n75jVQTUEE8)**](../images/rtbs-01c-deeperlearning.JPG)
+[Our love for cheap clothes: What’s the true cost?](https://www.youtube.com/watch?app=desktop&v=n75jVQTUEE8)
 
- Here are some materials to further your learning.
+ 
 
 ## ITS APPEAL
 
