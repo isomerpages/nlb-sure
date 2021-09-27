@@ -2,7 +2,7 @@
 title: 'Long Read: Is Fast Fashion Bad?'
 permalink: /read-to-be-sure/issue1-longread/
 breadcrumb: 'Long Read: Is Fast Fashion Bad?'
-third_nav_title: 'Read to be Sure issue #1'
+third_nav_title: 'Issue #1'
 
 ---
 
