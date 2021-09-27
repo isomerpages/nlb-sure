@@ -23,11 +23,11 @@ links:
             - title: 'Teachers’ workshop'
               url: /tours-and-workshops/teachers-cfn-workshop/
     - title: 'Read to be Sure'
-      url: /rtbs/intro/
+      url: /read-to-be-sure/intro/
       false_collection: true
       sublinks:
             - title: 'Issue 1: Fast Fashion'
-              url: /rtbs/issue1-visualmap/
+              url: /read-to-be-sure/issue1-visualmap/
     - title: Resources
       url: /resources/audience/
       false_collection: true
