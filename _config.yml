@@ -35,7 +35,7 @@ collections:
         output: true
     workshops:
         output: true
-    rtbs:
+    read-to-be-sure:
         output: true
     rtbs-intro:
         output: true
