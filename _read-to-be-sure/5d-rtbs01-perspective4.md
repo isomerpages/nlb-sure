@@ -2,7 +2,7 @@
 title: 'Perspective #4'
 permalink: /read-to-be-sure/issue1-perspective4/
 breadcrumb: 'Perspective #4'
-third_nav_title: 'Issue #1: Is Fast Fashion Bad?''
+third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 
