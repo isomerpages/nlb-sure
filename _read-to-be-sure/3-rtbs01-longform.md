@@ -6,8 +6,6 @@ third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 
-# **Curious about the fashion industry?**
-
 ![](../images/rtbs-01a-visualmap.JPG)
 
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find new styles on the shelves.
