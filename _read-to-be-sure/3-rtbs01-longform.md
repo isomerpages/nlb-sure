@@ -56,7 +56,7 @@ To do so, we have to delve deeper into the perspectives of fast fashion…
 
 Here are some materials to further your learning.
 
-![](../images/rtbs-01c-deeperlearning.JPG)
+<img src="../images/rtbs-01c-deeperlearning.JPG" style="zoom: 67%;" />
 
 
 
