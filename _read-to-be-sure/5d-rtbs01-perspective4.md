@@ -1,7 +1,7 @@
 ---
-title: 'Perspective #4'
+title: '#4: Unethical Practices'
 permalink: /read-to-be-sure/issue1-perspective4/
-breadcrumb: 'Perspective #4'
+breadcrumb: '#4: Unethical Practices'
 third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---

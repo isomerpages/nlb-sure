@@ -1,7 +1,7 @@
 ---
-title: 'Perspective #2'
+title: '#2: Price Factor'
 permalink: /read-to-be-sure/issue1-perspective2/
-breadcrumb: 'Perspective #2'
+breadcrumb: '#2: Price Factor'
 third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
