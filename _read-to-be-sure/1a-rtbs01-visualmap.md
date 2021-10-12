@@ -20,9 +20,8 @@ Before, you would have to wait [until next season](https://www.forbes.com/sites/
 
 ![](../images/rtbs-01b-perspectives.JPG)
 
+
 |                                                              |                                                              |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href=/read-to-be-sure/issue1-perspective1/>Economic Impact</a> | <a href=/read-to-be-sure/issue1-perspective2/>Price Factor</a> | <a hrtef=/read-to-be-sure/issue1-perspective3/>Environmental Impact</a> | <a href=/read-to-be-sure/issue1-perspective4/>Unethical  Practices</a> | <a href=/read-to-be-sure/issue1-perspective5/>Sustainable Fashion</a> |
-
- 
+| [The economic and  social benefits are almost unbelievable](/read-to-be-sure/issue1-perspective1/) | [Instant  gratification, low prices, a win-win situation for consumers](/read-to-be-sure/issue1-perspective2/) | [We’re damaging our environment  and filling our landfills](/read-to-be-sure/issue1-perspective3/) | [The toxic, unethical  practices of the fashion industry](/read-to-be-sure/issue1-perspective4/) | [What about  sustainable, ethical fashion?](/read-to-be-sure/issue1-perspective5/) |
 
