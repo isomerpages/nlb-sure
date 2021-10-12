@@ -1,7 +1,7 @@
 ---
-title: 'Deep Learning'
+title: 'Dive Deeper'
 permalink: /read-to-be-sure/issue1-deeplearning/
-breadcrumb: 'Deep Learning'
+breadcrumb: 'Dive Deeper'
 third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
