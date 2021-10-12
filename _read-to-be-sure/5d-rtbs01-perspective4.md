@@ -6,7 +6,7 @@ third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 
-**4.**    **The toxic, unethical practices of the fashion industry**     
+# **4.**    **The toxic, unethical practices of the fashion industry**     
 
 <img src="../images/rtbs-01b-perspective4.JPG" style="zoom:33%;" />
 

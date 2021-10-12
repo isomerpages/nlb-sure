@@ -6,7 +6,7 @@ third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 
-**3.**     **We’re damaging our environment and  filling our landfills**     
+# **3.**     **We’re damaging our environment and  filling our landfills**     
 
 <img src="../images/rtbs-01b-perspective3.JPG" style="zoom:33%;" />
 

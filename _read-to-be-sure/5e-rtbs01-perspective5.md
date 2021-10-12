@@ -6,7 +6,7 @@ third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 
-**5.**     **What about sustainable, ethical fashion?**     
+# **5.**     **What about sustainable, ethical fashion?**     
 
  <img src="../images/rtbs-01b-perspective5.JPG" style="zoom:33%;" />
 
