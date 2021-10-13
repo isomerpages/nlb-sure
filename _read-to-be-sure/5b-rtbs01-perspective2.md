@@ -6,7 +6,7 @@ third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 
-# **2.**    **Instant gratification, low prices, a win-win situation for consumers**     
+## 2. Instant Gratification, Low Prices, A Win-Win Situation For Consumers     
 
 <img src="../images/rtbs-01b-perspective2.JPG" style="zoom:33%;" />
 

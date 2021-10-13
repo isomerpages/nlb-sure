@@ -6,7 +6,7 @@ third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 
 ---
 
-# **1.**    **The economic and social benefits are almost unbelievable**     
+## 1. The Economic And Social Benefits Are Almost Unbelievable     
 
 <img src="../images/rtbs-01b-perspective1.JPG" style="zoom:33%;" />
 
