@@ -18,6 +18,10 @@ Before, you would have to wait [until next season](https://www.forbes.com/sites/
 
 # PERSPECTIVES
 
+**Is fast fashion worth the while?**
+
+To do so, we have to delve deeper into the perspectives of fast fashion…
+
 ![](../images/rtbs-01b-perspectives.JPG)
 
 
