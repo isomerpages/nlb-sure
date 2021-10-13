@@ -7,7 +7,7 @@ third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
 ---
 
 
-# **Curious about the fashion industry?**
+## Curious About The Fashion Industry?
 
 Here are some materials to dive deeper into:
 
