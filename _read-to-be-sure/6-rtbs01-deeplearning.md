@@ -2,7 +2,7 @@
 title: 'Dive Deeper'
 permalink: /read-to-be-sure/issue1-deeplearning/
 breadcrumb: 'Dive Deeper'
-third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
+third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 

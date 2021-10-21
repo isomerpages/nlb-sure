@@ -2,7 +2,7 @@
 title: '#1: Economic Impact'
 permalink: /read-to-be-sure/issue1-perspective1/
 breadcrumb: '#1: Economic Impact'
-third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
+third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 

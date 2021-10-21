@@ -2,7 +2,7 @@
 title: '#3: Environmental Impact'
 permalink: /read-to-be-sure/issue1-perspective3/
 breadcrumb: '#3: Environmental Impact'
-third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
+third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 

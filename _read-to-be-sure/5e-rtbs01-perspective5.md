@@ -2,7 +2,7 @@
 title: '#5: Sustainable Fashion'
 permalink: /read-to-be-sure/issue1-perspective5/
 breadcrumb: '#5: Sustainable Fashion'
-third_nav_title: 'Issue #1: Is Fast Fashion Bad?'
+third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
