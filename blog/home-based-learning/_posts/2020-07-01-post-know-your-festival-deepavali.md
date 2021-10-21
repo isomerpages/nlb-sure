@@ -13,7 +13,7 @@ Deepavali (Diwali) is one important festival celebrated mainly by Hindus all ove
 
 Download the infographic here: **[Know Your Festival - Deepavali](/infographic/2_Deepavali%20Infographic%202020.pdf)**
 
-![](../../../images/infographic-deepavali-sm.JPG)
+![](../../../images/deepavali-masthead.JPG)
 
 
 
