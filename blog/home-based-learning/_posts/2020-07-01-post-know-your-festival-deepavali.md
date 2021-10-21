@@ -2,7 +2,7 @@
 title: 'Know Your Festival - Deepavali'
 date: 2020-07-01T00:00:00.000Z
 permalink: /blog/home-based-learning/DD00008
-image: ../../../images/infographic-deepavali-sm.JPG
+image: ../../../images/deepavali-masthead.JPG
 
 ---
 
