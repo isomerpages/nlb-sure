@@ -11,7 +11,7 @@ Learn more about the psychological reasons behind the spread of fake news, and m
 
 Date: Fri, 3 Sep 2021 <br>Time: 7:00pm to 8:30 PM<br>Conducted via Zoom<br>Free of Charge
 
-Please register **[HERE](https://www.eventbrite.sg/e/safeguarding-your-mind-against-fake-news-sure-x-my-digital-life-registration-166125504857)**.
+Download the slides [**HERE**](https://go.gov.sg/nlb-sure-03sep2021-slides).
 
 
 

@@ -2,7 +2,7 @@
 title: 'Know Your Festival - Deepavali'
 date: 2020-07-01T00:00:00.000Z
 permalink: /blog/home-based-learning/DD00008
-image: ../../../images/infographic-deepavali-sm.JPG
+image: ../../../images/deepavali-masthead.JPG
 
 ---
 
@@ -13,7 +13,7 @@ Deepavali (Diwali) is one important festival celebrated mainly by Hindus all ove
 
 Download the infographic here: **[Know Your Festival - Deepavali](/infographic/2_Deepavali%20Infographic%202020.pdf)**
 
-![](../../../images/infographic-deepavali-sm.JPG)
+![](../../../images/deepavali-masthead.JPG)
 
 
 
