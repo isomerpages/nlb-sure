@@ -26,6 +26,22 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'S.U.R.E Series for Seniors: Verifying Images & Videos'
+          subtitle: 'For Seniors'
+          description: null
+          url: /blog/fake-news/FN0015
+          image: /images/sure-skills-series-seniors3.jpg
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
+          title: '银发族S.U.R.E技能系列：如何查证图像和影像的真伪s'
+          subtitle: 'For Seniors'
+          description: null
+          url: /blog/fake-news/FN0016
+          image: /images/sure-skills-seriesseniors3-chinese.jpg
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
           title: 'S.U.R.E Skills Series for Seniors: Fact-checking Dubious Emails & Messages'
           subtitle: 'For Seniors'
           description: null

@@ -72,8 +72,8 @@ defaults:
           layout: page
 
 colors:
-    primary-color: '#00A9E0'
-    secondary-color: '#6c7a89'
+    primary-color: '#0000b3'
+    secondary-color: '#FF9900'
     media-colors:
         - title: media-color-one
           color: '#007CB3' 

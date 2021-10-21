@@ -11,7 +11,7 @@ image: ../../../images/sure-skills-seriesseniors2-chinese.jpg
 
 Date: 21 September 2021 <br>Time: 3:00pm to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
-**REGISTER [HERE](https://www.eventbrite.sg/e/sure-registration-167057404193?aff=ebdssbonlinesearch)**
+Download the slides **[HERE](https://go.gov.sg/nlb-sure-21sep2021-slides)**.
 
 ## About this event
 
