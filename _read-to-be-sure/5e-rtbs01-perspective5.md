@@ -8,7 +8,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ## 5. What About Sustainable, Ethical Fashion?     
 
- <img src="../images/rtbs-01b-perspective5.JPG" style="zoom:33%;" />
+![](../images/rtbs-01b-perspective5a.JPG)
 
 Let’s say you come back to the same store a week later. Immediately, some clothes nearby catch your eye. You spot the tag and are taken aback by the high price. When you look closer, you spot it — a sticker labelled, “Sustainable Fashion”.
 
