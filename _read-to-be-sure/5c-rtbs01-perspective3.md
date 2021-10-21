@@ -8,7 +8,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ## 3. We’re Damaging Our Environment And  Filling Our Landfills     
 
-<img src="../images/rtbs-01b-perspective3a.JPG">
+<img src="../images/rtbs-01b-perspective3b.JPG">
 
 As clothing sales go up, clothes end up not being worn or are thrown away easily. How many clothing items do you buy and get rid of within a year? [A survey](https://www.channelnewsasia.com/singapore/bursting-seams-singapores-cast-clothing-1035441) involving 1,000 Singaporeans revealed that we buy 34 pieces of new clothing on average and dispose of 27 items within 12 months. For almost every item we buy, we throw away another.
 

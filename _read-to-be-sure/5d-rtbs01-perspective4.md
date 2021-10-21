@@ -8,7 +8,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ## 4. The Toxic, Unethical Practices Of The Fashion Industry     
 
-<img src="../images/rtbs-01b-perspective4a.JPG">
+<img src="../images/rtbs-01b-perspective4b.JPG">
 
 Remember the great economic impact we mentioned earlier? While that may be true, the industry has long been plagued by low wages, modern slavery, child labour and poor working conditions.
 
