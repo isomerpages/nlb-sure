@@ -11,7 +11,7 @@ image: ../../../images//sure-skills-series-seniors2.jpg
 
 Date: 15 September 2021 <br>Time: 3:00pm to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
-**REGISTER [HERE](https://www.eventbrite.sg/e/sure-skills-series-for-seniorsfact-checking-dubious-emails-messages-registration-167055057173?aff=ebdssbonlinesearch)**
+Download the slides **[HERE](https://go.gov.sg/nlb-sure-15sep2021-slides)**.
 
 ## About this event
 
