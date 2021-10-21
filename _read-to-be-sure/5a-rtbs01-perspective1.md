@@ -8,7 +8,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ## 1. The Economic And Social Benefits Are Almost Unbelievable     
 
-<img src="../images/rtbs-01b-perspective1.JPG" style="zoom:33%;" />
+<img src="../images/rtbs-01b-perspective1a.JPG" style="zoom:33%;" />
 
 
 
