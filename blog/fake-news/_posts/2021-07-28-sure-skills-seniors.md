@@ -11,7 +11,7 @@ image: ../../../images//sure-skills-series-seniors1.jpg
 
 Date: 12 August 2021 <br>Time: 3:00pm to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
-**DOWNLOAD THE SLIDES [HERE](https://go.gov.sg/nlb-sure-biases).**
+**DOWNLOAD THE SLIDES [HERE](https://go.gov.sg/nlb-sure-12aug2021-slides).**
 
 ## About this event
 
