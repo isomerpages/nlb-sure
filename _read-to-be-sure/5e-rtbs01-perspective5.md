@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ![](../images/rtbs-01b-perspective5a.JPG)
 
-Let’s say you come back to the same store a week later. Immediately, some clothes nearby catch your eye. You spot the tag and are taken aback by the high price. When you look closer, you spot it — a sticker labelled, “Sustainable Fashion”.
+Let’s say you come back to the same store a week later. Immediately, some clothes nearby catch your eye. You spot the tag and are taken aback by the high price. When you look closer, you spot it — a sticker labelled “Sustainable Fashion”.
 
 [Sustainability goes beyond](http://changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdf) switching to natural materials and labelling clothes as “eco-friendly”. Sustainable fashion uses materials that are responsibly and ethically sourced or have a lower environmental impact. The idea focuses on all aspects of the entire supply chain, production and life cycle. Companies have to [manage their waste and water](https://www.forbes.com/sites/stephanrabimov/2020/07/20/post-pandemic-fashion-will-be-sustainable-and-affordable-interview-with-anna-gedda-head-of-sustainability-at-hm-group/), limit their gas emissions and chemicals, [protect their workers](https://www.greenstrategy.se/sustainable-fashion/what-is-sustainable-fashion/) and pay them fairly.
 
