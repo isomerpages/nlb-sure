@@ -1,7 +1,7 @@
 ---
 title: '#4: Unethical Practices'
 permalink: /read-to-be-sure/issue1-perspective4/
-breadcrumb: '#4: Unethical Practices'
+breadcrumb: '#4: Business Practices'
 third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
