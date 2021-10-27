@@ -90,7 +90,7 @@ Here is more information for you to delve into:
 
 ### Its Appeal
 
-| ![](../images/stock-photo-percentage-discount-sign-in-cloth-shop-327644201 (1).jpg) | ARTICLES<br/><br/>1.    [How fast fashion became a multi-trillion-dollar industry](https://www.businessofbusiness.com/articles/examining-fast-fashions-appeal-and-issues/)<br/><br/>2.    [Brand addiction in the contexts of luxury and fast-fashion brands](https://e-tarjome.com/storage/panel/fileuploads/2020-05-06/1588762187_E14818-e-tarjome.pdf)<br/><br/>3.    [Fast fashion is getting faster and that’s a good thing](https://www.themanufacturer.com/articles/fast-fashion-getting-faster-thats-good-thing/) |
+| ![](../images/stock-photo-percentage-discount-sign-in-cloth-shop-327644201.jpg) | ARTICLES<br/><br/>1.    [How fast fashion became a multi-trillion-dollar industry](https://www.businessofbusiness.com/articles/examining-fast-fashions-appeal-and-issues/)<br/><br/>2.    [Brand addiction in the contexts of luxury and fast-fashion brands](https://e-tarjome.com/storage/panel/fileuploads/2020-05-06/1588762187_E14818-e-tarjome.pdf)<br/><br/>3.    [Fast fashion is getting faster and that’s a good thing](https://www.themanufacturer.com/articles/fast-fashion-getting-faster-thats-good-thing/) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |
 
