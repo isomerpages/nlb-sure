@@ -6,8 +6,6 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
-Fast Fashion: Love it or Hate it?**
-
 ![](../images/stock-photo-fashioned-from-nature-at-v-a-london-uk-may-rd-katherine-hamnett-clean-up-or-die-jacket-1088580968.jpg)
 
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find new styles on the shelves.
