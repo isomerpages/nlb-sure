@@ -22,7 +22,7 @@ Before, you would have to wait [until the next season](https://www.forbes.com/si
 
 To do so, we have to look at the different impacts of fast fashion…
 
-## The Economic And Social Benefits Are Almost Unbelievable    
+***1. The Economic And Social Benefits Are Almost Unbelievable***    
 
 ![](../images/stock-photo--and-coins-stack-pension-fund-k-passive-income-investment-and-retirement-business-1852048969.jpg)
 
@@ -32,7 +32,7 @@ Fast fashion makes a lot of money for trend-driven fashion companies. It’s alm
 
 
 
-## Instant Gratification, Low Prices, A Win-Win Situation For Consumers
+***2. Instant Gratification, Low Prices, A Win-Win Situation For Consumers***
 
 ![](../images/stock-photo-shopping-therapy-makes-her-happy-attractive-young-woman-holding-shopping-bags-and-smiling-while-200139176.jpg)
 
@@ -42,7 +42,7 @@ This industry continues to grow to keep up with rising demand and rapidly changi
 
 
 
-## We’re Damaging Our Environment And  Filling Our Landfills
+***3. We’re Damaging Our Environment And  Filling Our Landfills***
 
 ![](../images/stock-photo-industry-metallurgical-plant-dawn-smoke-smog-emissions-bad-ecology-aerial-photography-1721153281.jpg)
 
@@ -54,7 +54,7 @@ From the production of raw materials to the disposal of clothes, the fast fashio
 
 
 
-## Business Practices  
+***4. Business Practices***  
 
 ![](../images/stock-photo-laborer-s-wearing-face-masks-working-in-a-garment-factory-as-government-has-eased-restriction-on-1721143258.jpg)
 
@@ -68,7 +68,7 @@ But it’s not all bleak in the world of fast fashion. Consumers are becoming mo
 
 
 
-## What About Sustainable, Ethical Fashion? 
+***5. What About Sustainable, Ethical Fashion?*** 
 
 ![](../images/stock-photo-t-shirt-made-of-organic-materials-694793095.jpg)
 
