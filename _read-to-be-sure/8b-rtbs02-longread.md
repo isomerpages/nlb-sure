@@ -28,7 +28,7 @@ Before, you would have to wait [until the next season](https://www.forbes.com/si
 
 To do so, we have to look at the different impacts of fast fashion…
 
-![](../images/5perspectives.JPG)
+<a href="https://sure.nlb.gov.sg">![](../images/5perspectives.JPG)</a>
 
 
 
