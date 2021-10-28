@@ -20,7 +20,9 @@ Before, you would have to wait [until the next season](https://www.forbes.com/si
 
 
 
-**<font size=6 color=red>Perspectives</font>**
+
+
+**<font size=7 color=red>Perspectives</font>**
 
 **<font size=4>Is fast fashion worth the while?</font>**
 
@@ -88,11 +90,11 @@ Finally, you decide to buy a sustainable shirt from your favourite brand. On the
 
 
 
-**<font size=6 color=red>Still  Curious About The Fashion Industry?</font>**
+**<font size=7 color=red>Still  Curious About The Fashion Industry?</font>**
 
 Here is more information for you to delve into:
 
-### <font size=5>Its Appeal</font>
+### <font size=6>Its Appeal</font>
 
 ![](../images/stock-photo-happy-young-man-shopping-by-fashion-with-off-discount-1106545301.jpg)
 
@@ -102,7 +104,7 @@ Here is more information for you to delve into:
 
 
 
-### <font size=5>Its Downsides</font>
+### <font size=6>Its Downsides</font>
 
 <img src="../images/stock-photo-pile-of-old-clothes-and-shoes-dumped-on-the-grass-as-junk-and-garbage-littering-and-polluting-the-1087055786.jpg"  />
 
@@ -110,7 +112,7 @@ Here is more information for you to delve into:
 | ---- | ------------------------------------------------------------ |
 |      |                                                              |
 
-### <font size=5>Sustainable Fashion</font>
+### <font size=6>Sustainable Fashion</font>
 
 ![](../images/stock-photo-sweden-stockholm-march-storefront-with-clothes-made-from-recycled-materials-the-concept-of-1373121191.jpg)
 
