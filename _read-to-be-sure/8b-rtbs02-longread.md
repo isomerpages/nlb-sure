@@ -94,7 +94,7 @@ Finally, you decide to buy a sustainable shirt from your favourite brand. On the
 
 Here is more information for you to delve into:
 
-### <font size=6>Its Appeal</font>
+### ***<font size=6>Its Appeal</font>***
 
 ![](../images/stock-photo-happy-young-man-shopping-by-fashion-with-off-discount-1106545301.jpg)
 
@@ -104,7 +104,7 @@ Here is more information for you to delve into:
 
 
 
-### <font size=6>Its Downsides</font>
+### ***<font size=6>Its Downsides</font>***
 
 <img src="../images/stock-photo-pile-of-old-clothes-and-shoes-dumped-on-the-grass-as-junk-and-garbage-littering-and-polluting-the-1087055786.jpg"  />
 
@@ -112,7 +112,7 @@ Here is more information for you to delve into:
 | ---- | ------------------------------------------------------------ |
 |      |                                                              |
 
-### <font size=6>Sustainable Fashion</font>
+### ***<font size=6>Sustainable Fashion</font>***
 
 ![](../images/stock-photo-sweden-stockholm-march-storefront-with-clothes-made-from-recycled-materials-the-concept-of-1373121191.jpg)
 
