@@ -101,6 +101,6 @@ Finally, you decide to buy a sustainable shirt from your favourite brand. On the
 
 **<font size=7 color=red>Still  Curious About The Fashion Industry?</font>**
 
-Here is **[more information](/read-to-be-sure/issue2-deepdive/)** for you to delve into.
+Here is **[more information](/read-to-be-sure/issue2-deepdive1/)** for you to delve into.
 
 
