@@ -40,7 +40,7 @@ Fast fashion makes a lot of money for trend-driven fashion companies. It’s alm
 
 ***<font size=5>2. Instant Gratification, Low Prices, A Win-Win Situation For Consumers</font>***
 
-![](../images/stock-photo-milan-italy-circa-november-woman-with-a-zara-branded-shopping-bag-in-milan-1110700874 (1).jpg)
+![](../images/stock-photo-milan-italy-circa-november-woman-with-a-zara-branded-shopping-bag-in-milan-1110700874.jpg)
 
 Consumers love the instant gratification fast fashion provides. Getting their hands on [the latest fashion trends](https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail) within a short time seems too good to be true. Yet this is what the industry delivers, and at affordable prices to boot. Fast fashion is everywhere and is produced at very low cost. Fast fashion companies have also been producing items in [a wide range of sizes](https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html) to cater to different body shapes.
 
