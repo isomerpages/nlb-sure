@@ -28,6 +28,8 @@ Before, you would have to wait [until the next season](https://www.forbes.com/si
 
 To do so, we have to look at the different impacts of fast fashion…
 
+![](../images/5perspectives.JPG)
+
 
 
 ***<font size=5>1. The Economic And Social Benefits Are Almost Unbelievable</font>***    
