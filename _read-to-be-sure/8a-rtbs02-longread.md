@@ -8,9 +8,7 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 **<font size=86 color=red>Fast Fashion: Love it or Hate it?</font>**
 
-| <img src="../images/visualmap-left.JPG" style="zoom:25%;" /> | <img src="../images/visualmap-middle.JPG" style="zoom:25%;" /> | <img src="../images/visualmap-right.JPG" style="zoom:25%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
+
 
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find new styles on the shelves.
 
