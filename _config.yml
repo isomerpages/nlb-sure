@@ -78,11 +78,11 @@ defaults:
           layout: page
 
 colors:
-    primary-color: '#FFFFFF'
+    primary-color: '#DCDCDC'
     secondary-color: '#cc0000'
     media-colors:
         - title: media-color-one
-          color: '#007CB3' 
+          col	or: '#007CB3' 
         - title: media-color-two
           color: '#E86826'
         - title: media-color-three
