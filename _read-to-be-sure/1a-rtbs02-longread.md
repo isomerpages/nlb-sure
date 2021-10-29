@@ -8,12 +8,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 **<font size=86 color=red>Fast Fashion: Love it or Hate it?</font>**
 
-| <img src="../images/visualmap-left.JPG" style="zoom: 33%;" /> | <img src="../images/visualmap-middle.JPG" style="zoom: 33%;" /> | <img src="../images/visualmap-right.JPG" style="zoom: 33%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
-| [The Appeal](/read-to-be-sure/issue1-deeplearning/#deepdive1) | [The Solution](/read-to-be-sure/issue1-deeplearning/deepdive#3) | [The Downside](/read-to-be-sure/issue1-deeplearning/#deepdive2) |
-
-<table cellspacing=0 cellpadding=0 border=1>
+<table cellspacing="0" cellpadding="0" border="0">
 <tbody>
   <tr>
     <td><a href="/read-to-be-sure/issue1-deeplearning/#deepdive1"><img src="../images/visualmap-left.JPG" style="zoom: 33%;" /></a></td>
