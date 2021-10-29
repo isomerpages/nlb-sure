@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ![](../images/rtbs-01a-visualmap.jpg)
 
-*Download the [PDF version](../images/rtbs-01a-visualmap.pdf) of this visual map*
+*Download the **[PDF version](https://go.gov.sg/nlb-rtbs1-visualmap)** of this visual map*
 
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find new styles on the shelves.
 
