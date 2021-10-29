@@ -8,24 +8,9 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 **<font size=86 color=red>Fast Fashion: Love it or Hate it?</font>**
 
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody>
-  <tr>
-    <td><a href="/read-to-be-sure/issue1-deeplearning/#deepdive1"><img src="../images/visualmap-left.JPG" style="zoom: 33%;" /></a></td>
-      <td><a href="/read-to-be-sure/issue1-deeplearning/#deepdive3"><img src="../images/visualmap-middle.JPG" style="zoom: 33%;" /></a></td>
-      <td><a href="/read-to-be-sure/issue1-deeplearning/#deepdive2"><img src="../images/visualmap-right.JPG" style="zoom: 33%;" /></a></td>
-  </tr>
-</tbody>
-</table>
+![](../images/rtbs-01a-visualmap.jpg)
 
-
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody>
-  <tr>
-    <td><a href="/read-to-be-sure/issue1-deeplearning/#deepdive1"><img src="../images/visualmap-left.JPG" style="zoom: 33%;" /></a><a href="/read-to-be-sure/issue1-deeplearning/#deepdive3"><img src="../images/visualmap-middle.JPG" style="zoom: 33%;" /></a><a href="/read-to-be-sure/issue1-deeplearning/#deepdive2"><img src="../images/visualmap-right.JPG" style="zoom: 33%;" /></a></td>
-  </tr>
-</tbody>
-</table>
+*Download the [PDF version](../images/rtbs-01a-visualmap.pdf) of this visual map*
 
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find new styles on the shelves.
 
