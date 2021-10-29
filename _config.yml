@@ -82,7 +82,7 @@ colors:
     secondary-color: '#cc0000'
     media-colors:
         - title: media-color-one
-          col	or: '#007CB3' 
+          color: '#007CB3' 
         - title: media-color-two
           color: '#E86826'
         - title: media-color-three
