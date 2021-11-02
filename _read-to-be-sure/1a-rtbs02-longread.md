@@ -55,7 +55,7 @@ This industry continues to grow to keep up with rising demand and rapidly changi
 
 ![](../images/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)
 <br>
-<font size="2">Photo by [Maxim Tolchinskiy](https://unsplash.com/@shaikhulud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pollution?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</font>
+<font size="2">Photo by Maxim Tolchinskiy on Unsplash</font>
 
 As clothing sales go up, clothes end up not being worn or are thrown away easily. How many clothing items do you buy and get rid of within a year? [A survey](https://www.channelnewsasia.com/singapore/bursting-seams-singapores-cast-clothing-1035441) involving 1,000 Singaporeans revealed that we buy 34 pieces of new clothing on average and dispose of 27 items within 12 months. For almost every item we buy, we throw away another.
 
@@ -69,7 +69,7 @@ From the production of raw materials to the disposal of clothes, the fast fashio
 
 ![](../images/rio-lecatompessy-cfDURuQKABk-unsplash.jpg)
 <br>
-<font size="2">Photo by [Rio Lecatompessy](https://unsplash.com/@riolec?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/fast-fashion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) </font> 
+<font size="2">Photo by Rio Lecatompessy on Unsplash </font> 
 
 Remember the great economic impact we mentioned earlier? While that may be true, the industry has long been plagued by low wages, modern slavery, child labour and poor working conditions.
 
@@ -83,7 +83,7 @@ But it’s not all bleak in the world of fast fashion. Consumers are becoming mo
 
 ***<font size=5>5. Sustainable Fashion</font>*** 
 
-![](../images/sustainable-fashion.JPG)<br><font size="2">Photo by [Jess @ Harper Sunday](https://unsplash.com/@harpersunday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sustainable-fashion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</font>  
+![](../images/sustainable-fashion.JPG)<br><font size="2">Photo by Jess @ Harper Sunday on Unsplash</font>  
 
 Let’s say you come back to the same store a week later. Immediately, some clothes nearby catch your eye. You spot the tag and are taken aback by the high price. When you look closer, you spot it — a sticker labelled “Sustainable Fashion”.
 
