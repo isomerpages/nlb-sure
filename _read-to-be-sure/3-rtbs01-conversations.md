@@ -14,17 +14,15 @@ In this inaugural ***Read to be SURE* Conversations** event, our guest speakers 
 
 <a href="https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757">![](../images/RTBS1-EventBrite.JPG)</a>
 
-**Fast Fashion: Love it or Hate it?**
-
 With cheap prices and easy access to various outlets, fast fashion has grown exponentially over the years as consumers flock to them for their apparel needs. 
 
-## About this event
+**<font size="4">About this Event</font>**
 
 **This is a hybrid event. The programme will be live-streamed via ZOOM from Library@Orchard.**
 
 **The existing COVID-19 Safety Management Measures apply to audience attending the event onsite.**
 
-<font size=4 color=red>Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757)**.</font>  
+Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757)**. 
 
 
 
