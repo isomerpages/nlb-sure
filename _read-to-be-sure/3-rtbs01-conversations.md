@@ -6,15 +6,27 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
-**<font size=6>Conversation: Fast Fashion: Love it or Hate it?</font>**
+**<font size=6>Conversations</font>**
 
-<a href="https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757">![](../images/RTBS1-EventBrite.JPG)</a>
-
-With cheap prices and easy access to various outlets, fast fashion has grown exponentially over the years as consumers flock to them for their apparel needs. In this inaugural Read to be SURE Conversations event, our guests will share about the different perspectives on this issue. 
+In this inaugural Read to be SURE Conversations event, our guest speakers will share about the different perspectives on this issue. The audience is strongly encouraged to participate actively, and engage with the speakers. 
 
 ***Read to be SURE*** (RTBS) is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a five-year journey of our next phase of transformation. RTBS aims to educate and inform the public on trending topics through a combination of curated reading content and accompanying programmes. By exploring multiple perspectives on these topics, readers and participants will benefit from a balanced and credible knowledge base.
 
+<a href="https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757">![](../images/RTBS1-EventBrite.JPG)</a>
+
+**Fast Fashion: Love it or Hate it?**
+
+With cheap prices and easy access to various outlets, fast fashion has grown exponentially over the years as consumers flock to them for their apparel needs. 
+
+## About this event
+
+**This is a hybrid event. The programme will be live-streamed via ZOOM from Library@Orchard.**
+
+**The existing COVID-19 Safety Management Measures apply to audience attending the event onsite.**
+
 <font size=4 color=red>Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757)**.</font>  
+
+
 
 **<font size="4">Speakers:</font>**
 
