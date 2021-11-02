@@ -18,7 +18,7 @@ With cheap prices and easy access to various outlets, fast fashion has grown exp
 
 
 
-**<font size="4">About this Event</font>**
+**About this Event**
 
 **This is a hybrid event. The programme will be live-streamed via ZOOM from Library@Orchard.**
 
