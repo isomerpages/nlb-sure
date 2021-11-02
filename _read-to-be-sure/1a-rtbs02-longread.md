@@ -31,6 +31,7 @@ Is fast fashion worth the while?  To do so, we have to look at the different imp
 ***<font size=5>1. Economic Impact</font>***    
 
 ![](../images/towfiqu-barbhuiya-JhevWHCbVyw-unsplash.jpg)
+<br>
 <font size=2>Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/calculator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</font>
 
 The clothing manufacturing industry employs many and creates millions of jobs. Buying your next T-shirt could feed households and reduce poverty in many countries in the Asia-Pacific (APAC) region, also known as “the clothing factory of the world”. In 2019, [65 million people](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/briefingnote/wcms_758626.pdf) worked in the [APAC clothing manufacturing industry](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/publication/wcms_669355.pdf) — that’s every seven out of 10 workers worldwide.
@@ -41,7 +42,7 @@ Fast fashion makes a lot of money for trend-driven fashion companies. It’s alm
 
 ***<font size=5>2. Price Factor</font>***
 
-![](../images/dollar-gill-LUzZ1MllFxU-unsplash.jpg)
+![](../images/dollar-gill-LUzZ1MllFxU-unsplash.jpg)<br>
 <font size=2>Photo by [Dollar Gill](https://unsplash.com/@dollargill?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</font>  
 
 Consumers love the instant gratification fast fashion provides. Getting their hands on [the latest fashion trends](https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail) within a short time seems too good to be true. Yet this is what the industry delivers, and at affordable prices to boot. Fast fashion is everywhere and is produced at very low cost. Fast fashion companies have also been producing items in [a wide range of sizes](https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html) to cater to different body shapes.
@@ -53,6 +54,7 @@ This industry continues to grow to keep up with rising demand and rapidly changi
 ***<font size=5>3. Environmental Impact</font>***
 
 ![](../images/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)
+<br>
 <font size=2>Photo by [Maxim Tolchinskiy](https://unsplash.com/@shaikhulud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pollution?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</font>
 
 As clothing sales go up, clothes end up not being worn or are thrown away easily. How many clothing items do you buy and get rid of within a year? [A survey](https://www.channelnewsasia.com/singapore/bursting-seams-singapores-cast-clothing-1035441) involving 1,000 Singaporeans revealed that we buy 34 pieces of new clothing on average and dispose of 27 items within 12 months. For almost every item we buy, we throw away another.
@@ -66,6 +68,7 @@ From the production of raw materials to the disposal of clothes, the fast fashio
 ***<font size=5>4. Business Practices</font>***  
 
 ![](../images/rio-lecatompessy-cfDURuQKABk-unsplash.jpg)
+<br>
 <font size=2>Photo by [Rio Lecatompessy](https://unsplash.com/@riolec?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/fast-fashion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) </font> 
 
 Remember the great economic impact we mentioned earlier? While that may be true, the industry has long been plagued by low wages, modern slavery, child labour and poor working conditions.
@@ -80,7 +83,7 @@ But it’s not all bleak in the world of fast fashion. Consumers are becoming mo
 
 ***<font size=5>5. Sustainable Fashion</font>*** 
 
-![](../images/sustainable-fashion.JPG)<font size=2>Photo by [Jess @ Harper Sunday](https://unsplash.com/@harpersunday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sustainable-fashion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</font>  
+![](../images/sustainable-fashion.JPG)<br><font size=2>Photo by [Jess @ Harper Sunday](https://unsplash.com/@harpersunday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sustainable-fashion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</font>  
 
 Let’s say you come back to the same store a week later. Immediately, some clothes nearby catch your eye. You spot the tag and are taken aback by the high price. When you look closer, you spot it — a sticker labelled “Sustainable Fashion”.
 
