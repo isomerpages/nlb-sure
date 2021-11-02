@@ -32,7 +32,7 @@ Is fast fashion worth the while?  To do so, we have to look at the different imp
 
 ![](../images/towfiqu-barbhuiya-JhevWHCbVyw-unsplash.jpg)
 <br>
-<font size="2">Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/calculator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</font>
+<font size="2">Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/calculator-towfiqu-barbhuiya?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  </font>
 
 The clothing manufacturing industry employs many and creates millions of jobs. Buying your next T-shirt could feed households and reduce poverty in many countries in the Asia-Pacific (APAC) region, also known as “the clothing factory of the world”. In 2019, [65 million people](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/briefingnote/wcms_758626.pdf) worked in the [APAC clothing manufacturing industry](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/publication/wcms_669355.pdf) — that’s every seven out of 10 workers worldwide.
 
