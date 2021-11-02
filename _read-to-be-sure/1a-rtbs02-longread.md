@@ -31,8 +31,7 @@ Is fast fashion worth the while?  To do so, we have to look at the different imp
 ***<font size=5>1. Economic Impact</font>***    
 
 ![](../images/towfiqu-barbhuiya-JhevWHCbVyw-unsplash.jpg)
-<br>
-<font size="2">Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on Unsplash  </font>
+<font size="2">Photo by Towfiqu barbhuiya on Unsplash  </font>
 
 The clothing manufacturing industry employs many and creates millions of jobs. Buying your next T-shirt could feed households and reduce poverty in many countries in the Asia-Pacific (APAC) region, also known as “the clothing factory of the world”. In 2019, [65 million people](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/briefingnote/wcms_758626.pdf) worked in the [APAC clothing manufacturing industry](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/publication/wcms_669355.pdf) — that’s every seven out of 10 workers worldwide.
 
@@ -42,8 +41,7 @@ Fast fashion makes a lot of money for trend-driven fashion companies. It’s alm
 
 ***<font size=5>2. Price Factor</font>***
 
-![](../images/dollar-gill-LUzZ1MllFxU-unsplash.jpg)<br>
-<font size="2">Photo by Dollar Gill on Unsplash</font>  
+![](../images/dollar-gill-LUzZ1MllFxU-unsplash.jpg)[<font size="2">Photo by Dollar Gill on Unsplash</font>](https://unsplash.com/@towfiqu999999)  
 
 Consumers love the instant gratification fast fashion provides. Getting their hands on [the latest fashion trends](https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail) within a short time seems too good to be true. Yet this is what the industry delivers, and at affordable prices to boot. Fast fashion is everywhere and is produced at very low cost. Fast fashion companies have also been producing items in [a wide range of sizes](https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html) to cater to different body shapes.
 
