@@ -7,11 +7,6 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
-
-## Still  Curious About The Fashion Industry?
-
-Here is more information for you to delve into:
-
 <a name=deepdive1></a>
 
 ![](../images/deepdive1.JPG)

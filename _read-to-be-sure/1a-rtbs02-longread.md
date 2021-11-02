@@ -6,11 +6,11 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
-**<font size=86 color=red>Fast Fashion: Love it or Hate it?</font>**
+**<font size=7>Fast Fashion: Love it or Hate it?</font>**
 
+<a href="../images/rtbs-01a-visualmap.jpg">
 ![](../images/rtbs-01a-visualmap.jpg)
-
-*Download the **[PDF version](https://go.gov.sg/nlb-rtbs1-visualmap)** of this visual map*
+</a>
 
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find new styles on the shelves.
 
@@ -24,13 +24,13 @@ Before, you would have to wait [until the next season](https://www.forbes.com/si
 
 
 
-**<font size=7 color=red>Perspectives</font>**
+**<font size=6>Perspectives</font>**
 
-**<font size=4>Is fast fashion worth the while?</font>**
+Is fast fashion worth the while?  To do so, we have to look at the different impacts of fast fashion.
 
-To do so, we have to look at the different impacts of fast fashion…
 
-***<font size=5>1. The Economic And Social Benefits Are Almost Unbelievable</font>***    
+
+***<font size=5>1. Economic Impact</font>***    
 
 ![](../images/towfiqu-barbhuiya-JhevWHCbVyw-unsplash.jpg)
 
@@ -42,11 +42,11 @@ Fast fashion makes a lot of money for trend-driven fashion companies. It’s alm
 
 
 
-***<font size=5>2. Instant Gratification, Low Prices, A Win-Win Situation For Consumers</font>***
+***<font size=5>2. Price Factor</font>***
 
-![](../images/jon-ly-Xn7GvimQrk8-unsplash.jpg)
+![](../images/dollar-gill-LUzZ1MllFxU-unsplash.jpg)
 
-*Photo by [Jon Ly](https://unsplash.com/@jonatron?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*  
+Photo by [Dollar Gill](https://unsplash.com/@dollargill?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
 
 Consumers love the instant gratification fast fashion provides. Getting their hands on [the latest fashion trends](https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail) within a short time seems too good to be true. Yet this is what the industry delivers, and at affordable prices to boot. Fast fashion is everywhere and is produced at very low cost. Fast fashion companies have also been producing items in [a wide range of sizes](https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html) to cater to different body shapes.
 
@@ -54,7 +54,7 @@ This industry continues to grow to keep up with rising demand and rapidly changi
 
 
 
-***<font size=5>3. We’re Damaging Our Environment And  Filling Our Landfills</font>***
+***<font size=5>3. Environmental Impact</font>***
 
 ![](../images/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)
 *Photo by [Maxim Tolchinskiy](https://unsplash.com/@shaikhulud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pollution?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*  
@@ -83,9 +83,9 @@ But it’s not all bleak in the world of fast fashion. Consumers are becoming mo
 
 
 
-***<font size=5>5. What About Sustainable, Ethical Fashion?</font>*** 
+***<font size=5>5. Sustainable Fashion</font>*** 
 
-![](../images/jess-harper-sunday-0FiKFe4Y6L0-unsplash.jpg)
+![](../images/sustainable-fashion.JPG)
 
 *Photo by [Jess @ Harper Sunday](https://unsplash.com/@harpersunday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sustainable-fashion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*  
 
@@ -99,8 +99,8 @@ Finally, you decide to buy a sustainable shirt from your favourite brand. On the
 
 
 
-**<font size=4>Still  Curious About The Fashion Industry?</font>**
+***<font size=5>Still  Curious About The Fashion Industry?</font>***
 
-Here is **[more information](/read-to-be-sure/issue1-deeplearning/)** for you to delve into.
+We have **[more information](/read-to-be-sure/issue1-deeplearning/)** for you.
 
 
