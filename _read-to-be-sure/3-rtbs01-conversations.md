@@ -24,7 +24,7 @@ Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hat
 
 
 
-**<font size="4">Speakers:</font>**
+**Speakers:**
 
 - Susannah Jaffer, Founder and CEO, ZERRIN
 - Dr. Kapil R. Tuli, Professor of Marketing and Director of the Retail Centre of Excellence, SMU
