@@ -1,8 +1,8 @@
 ---
-title: 'Fast Fashion: Love it or Hate it?'
+title: 'Perspectives'
 permalink: /read-to-be-sure/issue1-visualmap/
-breadcrumb: 'Article'
-third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
+breadcrumb: 'Perspectives'
+third_nav_title: 'Issue #1'
 
 ---
 
