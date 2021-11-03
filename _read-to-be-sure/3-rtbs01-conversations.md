@@ -22,7 +22,7 @@ With cheap prices and easy access to various outlets, fast fashion has grown exp
 
 Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757)**. 
 
-
+![](../images/rtbs1-speakers.JPG)
 
 **Speakers:**
 
@@ -30,17 +30,11 @@ Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hat
 - Dr. Kapil R. Tuli, Professor of Marketing and Director of the Retail Centre of Excellence, SMU
 - Corneliu Dinu Tudor Bodiciu, Programme Leader for BA Fashion Design and Textile and BA Fashion Media and Industries, LASALLE College of the Arts
 
-![](../images/rtbs1-speakers.JPG)
-
-
-
-**<font size="4">Moderator:</font>** 
+**Moderator:**
 
 - Irsyad Ramthan, Product Manager, X0PA AI
 
-   <img src="../images/rtbs1-moderator.jpg" style="zoom:33%;" />
-
-
+   
 
 **<font size="4">About the Speakers and Moderator</font>**:
 
