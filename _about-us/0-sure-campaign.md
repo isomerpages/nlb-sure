@@ -110,7 +110,7 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 
 **SGSecure: Our Community Response to Counter Terrorism** - **since 2021**
 
-- MHA: https://www.sgsecure.gov.sg/resources [*SGSecure Brochures and Advisory Posters are found on Page 1*]
+- MHA: [https://www.sgsecure.gov.sg/resources](https://www.sgsecure.gov.sg/resources) [*SGSecure Brochures and Advisory Posters are found on Page 1*]
 
 
 
