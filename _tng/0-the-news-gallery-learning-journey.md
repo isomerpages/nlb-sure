@@ -5,8 +5,17 @@ breadcrumb: 'The News Gallery Learning Activities'
 
 ---
 
-
 Welcome to the educational resources page for [***The News Gallery: Beyond Headlines***](https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/newsgallery) permanent exhibition. 
+
+**What's new:**
+
+- [The News Gallery Virtual Tour and Workshop](https://sure.nlb.gov.sg/tours-and-workshops/tng-virtual-tour/) 
+- [Activity Sheets for Primary and Secondary schools](/tng/activity-sheets/)
+
+
+
+
+<hr>
 
 We have prepared a series of online activities for you:
 
