@@ -22,6 +22,12 @@ links:
               url: /tours-and-workshops/academic-skills-workshop/
             - title: 'Teachers’ workshop'
               url: /tours-and-workshops/teachers-cfn-workshop/
+    - title: 'Read to be Sure'
+      url: /read-to-be-sure/intro/
+      false_collection: true
+      sublinks:
+            - title: 'Issue 1: Fast Fashion'
+              url: /read-to-be-sure/issue1-visualmap/
     - title: Resources
       url: /resources/audience/
       false_collection: true
