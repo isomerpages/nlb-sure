@@ -84,7 +84,6 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 
 
 
-
 **New 6th pillar of Total Defence: Digital Defence – since Feb 2019**
 
 - ST: [https://www.straitstimes.com/politics/all-recruits-to-learn-about-information-literacy-in-bmt-to-deal-with-fake-news-maliki-osman](https://www.straitstimes.com/politics/all-recruits-to-learn-about-information-literacy-in-bmt-to-deal-with-fake-news-maliki-osman)
@@ -103,8 +102,15 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 
 
 
-SkillsFuture for the Digital Workplace (SFDW) – since July 2019
+**SkillsFuture for the Digital Workplace (SFDW) – since July 2019**
 
 - SSG: [https://www.ssg-wsg.gov.sg/news-and-announcements/3_Aug_2019.html](https://www.ssg-wsg.gov.sg/news-and-announcements/3_Aug_2019.html ) 
+
+
+
+**SGSecure: Our Community Response to Counter Terrorism** - **since 2021**
+
+- MHA: [https://www.sgsecure.gov.sg/resources](https://www.sgsecure.gov.sg/resources) [*SGSecure Brochures and Advisory Posters are found on Page 1*]
+
 
 
