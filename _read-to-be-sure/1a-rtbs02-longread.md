@@ -6,7 +6,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
-**<font size=6>Fast Fashion: Love it or Hate it?</font>**
+**<font size=7>Fast Fashion: Love it or Hate it?</font>**
 
 <a href="/images/rtbs-01a-visualmap.jpg">
 ![](../images/rtbs-01a-visualmap.jpg)
