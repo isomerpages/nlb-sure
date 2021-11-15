@@ -2,7 +2,7 @@
 title: 'Price Factor'
 permalink: /read-to-be-sure/issue1-perspective2/
 breadcrumb: 'Price Factor'
-third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it
+third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
