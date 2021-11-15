@@ -2,7 +2,7 @@
 title: 'Conversations'
 permalink: /read-to-be-sure/issue1-conversations/
 breadcrumb: 'Conversations'
-third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
+third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
