@@ -6,7 +6,9 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
-**2-Minute Read**</br>
+| **2-Minutes Read** |
+| :----------------: |
+|                    |
 
 ***<font size=5>4. Business Practices</font>***  
 
@@ -37,19 +39,19 @@ But it’s not all bleak in the world of fast fashion. Consumers are becoming mo
 
 We have more information for you:
 
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**VIDEO**<br/>
 
-</br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n75jVQTUEE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**PODCASTS**<br/><br/>1.    [Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)<br/>
 
-<iframe src="https://www.npr.org/player/embed/1024284959/1024333811" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-<br/>2.    [Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion) <br/>
+**PODCASTS**<br/>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1098781573&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/weeklyeconomicspodcast" title="Weekly Economics Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">Weekly Economics Podcast</a> · <a href="https://soundcloud.com/weeklyeconomicspodcast/fast-fashion" title="Fast Fashion" target="_blank" style="color: #cccccc; text-decoration: none;">Fast Fashion</a></div>
+1. [Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)<br/>
 
-<br/>
+2. [Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion) <br/>
+
+
 
 **ARTICLES**<br/>
 

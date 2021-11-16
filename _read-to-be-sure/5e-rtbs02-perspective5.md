@@ -6,7 +6,9 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
-**2-Minute Read**</br>
+| **1-Minute Read** |
+| :---------------: |
+|                   |
 
 ***<font size=5>5. Sustainable Fashion</font>*** 
 

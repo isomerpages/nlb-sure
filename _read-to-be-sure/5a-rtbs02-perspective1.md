@@ -6,7 +6,9 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
-**1-Minute Read**</br>
+| **1-Minute Read** |
+| :---------------: |
+|                   |
 
 ***<font size=5>1. Economic Impact</font>***    
 
@@ -28,7 +30,6 @@ This would affect the price. Is there such a thing as "cheap and good"? Here's m
 </div>
 </div>	
 </div>
-
 
 
 ***<font size=5>Still  Curious About The Appeal of the Fast Fashion Industry?</font>***

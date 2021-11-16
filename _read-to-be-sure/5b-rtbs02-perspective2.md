@@ -6,7 +6,10 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
-**1-Minute Read**</br>
+
+| **1-Minute Read** |
+| :---------------: |
+|                   |
 
 ***<font size=5>2. Price Factor</font>***
 

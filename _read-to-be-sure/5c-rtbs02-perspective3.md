@@ -6,8 +6,9 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
-**1-Minute Read**</br>
-
+| **1-Minute Read** |
+| :---------------: |
+|                   |
 ***<font size=5>3. Environmental Impact</font>***
 
 ![](../images/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)<font size="2">Photo by Maxim Tolchinskiy on Unsplash</font>
@@ -40,15 +41,12 @@ We have more information for you:
 
 </br>
 
-**PODCASTS**<br/><br/>1.    [Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)<br/>
+**PODCASTS**<br/>
+1. [Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)<br/>
 
-<iframe src="https://www.npr.org/player/embed/1024284959/1024333811" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+2. [Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion) <br/>
 
-<br/>2.    [Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion) <br/>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1098781573&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/weeklyeconomicspodcast" title="Weekly Economics Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">Weekly Economics Podcast</a> · <a href="https://soundcloud.com/weeklyeconomicspodcast/fast-fashion" title="Fast Fashion" target="_blank" style="color: #cccccc; text-decoration: none;">Fast Fashion</a></div>
-
-<br/>
 
 **ARTICLES**<br/>
 
