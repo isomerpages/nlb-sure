@@ -38,7 +38,7 @@ Finally, you decide to buy a sustainable shirt from your favourite brand. On the
 
 We have more information for you:
 
- **VIDEO**<br/><br/>1.    [How fast fashion adds to the world’s clothing waste problem](https://www.youtube.com/watch?app=desktop&v=elU32XNj8PM)<br/>
+ **VIDEO**
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/elU32XNj8PM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
