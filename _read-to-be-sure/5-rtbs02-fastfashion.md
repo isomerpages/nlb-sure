@@ -22,7 +22,7 @@ Is fast fashion worth the while? To do so, we have to look at the different impa
 
 <div>
 <div class="row is-multiline">
-<div class="col is-one-fifth-desktop is-one--tablet">
+<div class="col is-one-fifth-desktop is-one-fifth-tablet">
 <a href="/read-to-be-sure/issue1-perspective1/"><img src="../images/rtbs1-perspective1.jpg" alt="image 1"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
