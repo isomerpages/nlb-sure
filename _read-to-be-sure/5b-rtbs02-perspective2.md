@@ -6,6 +6,8 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
+**1-Minute Read**</br>
+
 ***<font size=5>2. Price Factor</font>***
 
 ![](../images/dollar-gill-LUzZ1MllFxU-unsplash.jpg)<font size="2">Photo by Dollar Gill on Unsplash</font>  

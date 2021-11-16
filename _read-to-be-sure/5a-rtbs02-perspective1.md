@@ -6,6 +6,8 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 
 ---
 
+**1-Minute Read**</br>
+
 ***<font size=5>1. Economic Impact</font>***    
 
 ![](../images/towfiqu-barbhuiya-JhevWHCbVyw-unsplash.jpg)<font size="2">Photo by Towfiqu barbhuiya on Unsplash</font>
