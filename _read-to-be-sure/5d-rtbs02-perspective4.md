@@ -19,6 +19,15 @@ That’s not even including unethical business practices. During the COVID-19 lo
 
 But it’s not all bleak in the world of fast fashion. Consumers are becoming more aware of the harm behind their clothing purchases. As such, [fashion companies](https://www.vox.com/the-goods/2021/7/19/22535050/gen-z-relationship-fast-fashion) are beginning to implement [more sustainable initiatives](https://www.npr.org/2019/07/27/745418569/can-fast-fashion-and-sustainability-be-stitched-together).
 
-
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective1/"><img src="../images/rtbs1-perspective1.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 4"></a>
+</div>
+</div>	
+</div>
 
 

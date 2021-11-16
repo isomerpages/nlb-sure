@@ -18,6 +18,17 @@ This is why sustainable fashion may not be trendy or affordable. Sustainable clo
 
 Finally, you decide to buy a sustainable shirt from your favourite brand. On the way home, you suddenly spot headlines of the very same brand being exposed for child labour. Weren’t they supposed to be ‘sustainable’? Research might be required as some companies use [misleading marketing tactics and false sustainability claims](http://changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdf) to get you to buy their products. 
 
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
+</div>
+</div>	
+</div>
+
 
 
 ***<font size=5>Still  Curious About The Fashion Industry?</font>***

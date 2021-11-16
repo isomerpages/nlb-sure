@@ -24,5 +24,5 @@ This would affect the price. Is there such a thing as "cheap and good"? Here's m
     <div class="col is-half-desktop is-half-tablet">
 <a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
 </div>
-</div>
+</div>	
 </div>

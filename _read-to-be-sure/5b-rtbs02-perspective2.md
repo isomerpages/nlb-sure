@@ -14,6 +14,13 @@ Consumers love the instant gratification fast fashion provides. Getting their ha
 
 This industry continues to grow to keep up with rising demand and rapidly changing fashion trends. One has to stop and wonder: What are the drawbacks?
 
-
-
-
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective3/"><img src="../images/rtbs1-perspective3.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
+</div>
+</div>	
+</div>

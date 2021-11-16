@@ -16,6 +16,14 @@ How many times do you wear a shirt before throwing it away? Clothes were only wo
 
 From the production of raw materials to the disposal of clothes, the fast fashion industry consumes large amounts of chemicals, water and energy. It is a source of pollution for both air and water, accounting for [10% of all global carbon emissions](https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/633143/EPRS_BRI(2019)633143_EN.pdf). That’s more than that of the international flights industry and the maritime shipping industry combined.
 
-
-
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 4"></a>
+</div>
+</div>	
+</div>
 
