@@ -21,7 +21,7 @@ Finally, you decide to buy a sustainable shirt from your favourite brand. On the
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 2"></a>
+<a href="/read-to-be-sure/issue1-perspective1/"><img src="../images/rtbs1-perspective1.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
