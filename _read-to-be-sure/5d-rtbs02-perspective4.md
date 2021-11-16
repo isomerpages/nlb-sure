@@ -31,3 +31,12 @@ But it’s not all bleak in the world of fast fashion. Consumers are becoming mo
 </div>
 
 
+***<font size=5>Still  Curious About The Fashion Industry?</font>***
+
+We have more information for you:
+
+**PODCASTS**<br/><br/>1.    [Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)<br/><br/>2.    [Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion) <br/><br/>**VIDEO**<br/><br/>[Our love for cheap clothes: What’s the true cost?](https://www.youtube.com/watch?app=desktop&v=n75jVQTUEE8)
+
+**ARTICLES**<br/>
+
+<br/>1.    [‘A monstrous disposable industry’: Facts about fast fashion](https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/)<br/><br/> 2.    [Following a t-shirt from cotton field to landfill shows the true cost of fast fashion](https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363)<br/><br/> 3.    [Textile workers in developing countries and the European fashion industry](https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf)<br/>
