@@ -29,7 +29,8 @@ This industry continues to grow to keep up with rising demand and rapidly changi
 
 
 
-***<font size=5>Still  Curious About The Fashion Industry?</font>***
+
+***<font size=5>Still  Curious About The Appeal of the Fast Fashion Industry?</font>***
 
 We have more information for you:
 

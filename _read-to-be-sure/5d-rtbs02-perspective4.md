@@ -33,7 +33,7 @@ But it’s not all bleak in the world of fast fashion. Consumers are becoming mo
 </div>
 
 
-***<font size=5>Still  Curious About The Fashion Industry?</font>***
+***<font size=5>Still  Curious About The Downsides of the Fast Fashion Industry?</font>***
 
 We have more information for you:
 

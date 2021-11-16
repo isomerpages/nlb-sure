@@ -31,7 +31,7 @@ This would affect the price. Is there such a thing as "cheap and good"? Here's m
 
 
 
-***<font size=5>Still  Curious About The Fashion Industry?</font>***
+***<font size=5>Still  Curious About The Appeal of the Fast Fashion Industry?</font>***
 
 We have more information for you:
 

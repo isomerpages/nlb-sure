@@ -32,7 +32,7 @@ Finally, you decide to buy a sustainable shirt from your favourite brand. On the
 </div>
 
 
-***<font size=5>Still  Curious About The Fashion Industry?</font>***
+***<font size=5>Still  Curious About The Sustainable Fashion Industry?</font>***
 
 We have more information for you:
 

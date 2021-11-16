@@ -30,7 +30,7 @@ From the production of raw materials to the disposal of clothes, the fast fashio
 </div>
 
 
-***<font size=5>Still  Curious About The Fashion Industry?</font>***
+***<font size=5>Still  Curious About The Downsides of the Fast Fashion Industry?</font>***
 
 We have more information for you:
 
