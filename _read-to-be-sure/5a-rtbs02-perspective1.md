@@ -18,10 +18,10 @@ This would affect the price. Is there such a thing as "cheap and good"? Here's m
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
+    <div class="col is-half-desktop is-half-tablet">
 <a href="/read-to-be-sure/issue1-perspective2/"><img src="../images/rtbs1-perspective2.jpg" alt="image 2"></a>
 </div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
+    <div class="col is-half-desktop is-half-tablet">
 <a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
 </div>
 </div>
