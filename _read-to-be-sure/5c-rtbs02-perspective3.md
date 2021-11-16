@@ -9,6 +9,7 @@ third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
 | **1-Minute Read** |
 | :---------------: |
 |                   |
+
 ***<font size=5>3. Environmental Impact</font>***
 
 ![](../images/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)<font size="2">Photo by Maxim Tolchinskiy on Unsplash</font>
@@ -39,7 +40,7 @@ We have more information for you:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n75jVQTUEE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</br>
+
 
 **PODCASTS**<br/>
 1. [Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)<br/>
