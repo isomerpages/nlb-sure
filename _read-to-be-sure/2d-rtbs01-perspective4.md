@@ -37,13 +37,6 @@ But it’s not all bleak in the world of fast fashion. As consumers are becoming
 
 ***<font size=5>More about the Business Practices</font>***
 
-**VIDEO**<br/>
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n75jVQTUEE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
-
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
