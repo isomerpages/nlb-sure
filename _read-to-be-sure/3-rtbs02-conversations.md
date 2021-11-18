@@ -60,4 +60,4 @@ Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hat
 
  Here's a visual map of the different perspectives in this issue of *Read to be SURE*:
 
-<a href="../images/RTBS1-visualmap.jpg">![](../images/RTBS1-visualmap.JPG)</a>
+<a href="https://staging-nlb-sure.netlify.app/images/RTBS1-visualmap.jpg">![](../images/RTBS1-visualmap.JPG)</a>
