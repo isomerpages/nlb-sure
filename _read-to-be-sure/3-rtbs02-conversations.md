@@ -2,13 +2,13 @@
 title: 'Conversations'
 permalink: /read-to-be-sure/issue1-conversations/
 breadcrumb: 'Conversations'
-third_nav_title: 'Issue #2: Fast Fashion: Love it or Hate it?'
+third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
 In our ***Read to be SURE*** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives with a balanced view on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
-<a href="https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757">![](../images/RTBS1-EventBrite.JPG)</a>
+<a href="https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757">![](../images/RTBS1-Banner.JPG)</a>
 
 With cheap prices and easy access to various outlets, fast fashion has grown exponentially over the years as consumers flock to them for their apparel needs. Is fast fashion necessarily bad? Is sustainable fashion the only solution? Join us on 8 Dec, as the speakers share their views on this issue. 
 
@@ -54,4 +54,8 @@ Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hat
 
 **Irsyad Ramthan** is the former co-Founder of Interseed, a digital platform that promotes sustainability solutions and supports various start-ups that utilize alternative sustainable materials for different consumer products. Over the years, he has designed innovation programmes for Southeast Asian under-35s to solve sustainability challenges. He is currently a product manager by profession, and is a seasonal host for Interseed’s podcast titled *Impact in Sight*.  
 
- 
+ <hr>
+
+Here's a visual map of the different perspectives in this issue of *Read to be SURE*:
+
+![](../images/RTBS1-visualmap.JPG)
