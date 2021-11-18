@@ -54,6 +54,8 @@ But it’s not all bleak in the world of fast fashion. As consumers are becoming
     <div class="col is-half-desktop is-half-tablet">
 <a href="https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363"><img src="../images/rtbs1-read5.jpg" alt="image 2"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet"><a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf"><img src="../images/rtbs1-read6.jpg" alt="image 2"></a></div>
+    <div class="col is-half-desktop is-half-tablet"><a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf"><img src="../images/rtbs1-read6.jpg" alt="image 2"></a>
+</div>
 </div>	
 </div>
+
