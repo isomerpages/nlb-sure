@@ -44,12 +44,23 @@ But it’s not all bleak in the world of fast fashion. As consumers are becoming
 
 
 
-**PODCASTS**<br/>
-
-1. [Fulfilling our fast fashion fix](https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix)<br/>
-
-2. [Weekly economics podcast: Fast fashion](https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion) <br/>
-
-
-
-**ARTICLES**<br/>1.    [‘A monstrous disposable industry’: Facts about fast fashion](https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/)<br/><br/> 2.    [Following a t-shirt from cotton field to landfill shows the true cost of fast fashion](https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363)<br/><br/> 3.    [Textile workers in developing countries and the European fashion industry](https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf)<br/>
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://www.youtube.com/watch?v=n75jVQTUEE8"><img src="../images/rtbs1-watch3.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix"><img src="../images/rtbs1-listen1.jpg" alt="image 4"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion"><img src="../images/rtbs1-listen2.jpg" alt="image 4"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/"><img src="../images/rtbs1-read4.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363"><img src="../images/rtbs1-read5.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet"><a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf"><img src="../images/rtbs1-read6.jpg" alt="image 2"></a></div>
+</div>	
+</div>

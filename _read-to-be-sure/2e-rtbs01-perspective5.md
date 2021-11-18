@@ -36,9 +36,24 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 
 ***<font size=5>More about Sustainable Fashion</font>***
 
- **VIDEO**
+ 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/elU32XNj8PM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://www.youtube.com/watch?v=elU32XNj8PM&feature=emb_imp_woyt"><img src="../images/rtbs1-watch4.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet"><a href="https://www.goodwear.com/blogs/news/the-top-benefits-of-sustainable-clothing"><img src="../images/rtbs1-read7.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet"><a href="https://www.politico.eu/article/fast-fashion-waste-losing-appeal-greta-thunberg-environment/"><img src="../images/rtbs1-read8.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet"><a href="http://changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdf"><img src="../images/rtbs1-read9.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet"><a href="https://edition.cnn.com/style/article/the-problem-with-sustainable-fashion/index.html"><img src="../images/rtbs1-read10.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet"><a href="https://www.forbes.com/sites/andriacheng/2019/10/17/more-consumers-want-sustainable-fashion-but-are-brands-delivering-it/?sh=2126650734a5"><img src="../images/rtbs1-read11.jpg" alt="image 2"></a>
+</div>
+</div>	
+</div>
 
 <br/>**ARTICLES**<br/>1.    [The top benefits of sustainable clothing](https://www.goodwear.com/blogs/news/the-top-benefits-of-sustainable-clothing)<br/><br/> 2.    [Fast fashion’s waste model is going out of style](https://www.politico.eu/article/fast-fashion-waste-losing-appeal-greta-thunberg-environment/)<br/><br/> 3.    [Synthetic anonymous: Fashion brand’s addiction to fossil fuels](http://changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdfhttp:/changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdf)<br/><br/> 4.    [The problem with ‘sustainable fashion’](https://edition.cnn.com/style/article/the-problem-with-sustainable-fashion/index.html)<br/><br/> 5.    [More consumers want sustainable fashion, but are brands delivering it?](https://www.forbes.com/sites/andriacheng/2019/10/17/more-consumers-want-sustainable-fashion-but-are-brands-delivering-it/?sh=2126650734a5) <br/>

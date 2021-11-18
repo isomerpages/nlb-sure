@@ -55,7 +55,6 @@ Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hat
 **Irsyad Ramthan** is the former co-Founder of Interseed, a digital platform that promotes sustainability solutions and supports various start-ups that utilize alternative sustainable materials for different consumer products. Over the years, he has designed innovation programmes for Southeast Asian under-35s to solve sustainability challenges. He is currently a product manager by profession, and is a seasonal host for Interseed’s podcast titled *Impact in Sight*.  
 
  <hr>
-
 Here's a visual map of the different perspectives in this issue of *Read to be SURE*:
-
-![](../images/RTBS1-visualmap.JPG)
+<a href="../images/RTBS1-visualmap.jpg">
+![](../images/RTBS1-visualmap.JPG)</a>
