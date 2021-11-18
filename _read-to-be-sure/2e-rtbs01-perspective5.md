@@ -51,8 +51,7 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 </div>
     <div class="col is-half-desktop is-half-tablet"><a href="https://edition.cnn.com/style/article/the-problem-with-sustainable-fashion/index.html"><img src="../images/rtbs1-read10.jpg" alt="image 2"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet"><a href="https://www.forbes.com/sites/andriacheng/2019/10/17/more-consumers-want-sustainable-fashion-but-are-brands-delivering-it/?sh=2126650734a5"><img src="../images/rtbs1-read11.jpg" alt="image 2"></a>
-</div>
+    <div class="col is-half-desktop is-half-tablet"><a href="https://www.forbes.com/sites/andriacheng/2019/10/17/more-consumers-want-sustainable-fashion-but-are-brands-delivering-it/?sh=2126650734a5"><img src="../images/rtbs1-read11.jpg" alt="image 2"></a></div>
 </div>	
 </div>
 
