@@ -40,13 +40,14 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 <a href="https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail"><img src="../images/rtbs1-read12.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html"><img src="../images/rtbs1-read13.jpg" alt="image 4"></a>
+<a href="https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html"><img src="../images/rtbs1-read13-size.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="https://www.vox.com/the-goods/22573682/shein-future-of-fast-fashion-explained"><img src="../images/rtbs1-read2.jpg" alt="image 2"></a>
 </div>
 </div>	
 </div>
+
 
 
 
