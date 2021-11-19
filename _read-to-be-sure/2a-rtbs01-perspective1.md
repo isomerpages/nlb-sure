@@ -34,7 +34,7 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://youtu.be/Ir1b-ez2x5g"><img src="../images/rtbs1-watch1.jpg" alt="image 2"></a>
+<a href="https://www.youtube.com/watch?v=Ir1b-ez2x5g"><img src="../images/rtbs1-watch1.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="https://www.businessofbusiness.com/articles/examining-fast-fashions-appeal-and-issues/"><img src="../images/rtbs1-read1.jpg" alt="image 4"></a>
@@ -47,6 +47,7 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 </div>
 </div>	
 </div>
+
 
 
 
