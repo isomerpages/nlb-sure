@@ -19,9 +19,11 @@ This industry continues to grow to keep up with rising demand and rapidly changi
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-third-desktop is-one-third-tablet"></div>
+    <div class="col is-one-third-desktop is-one-third-tablet">
 <a href="/read-to-be-sure/issue1-perspective3/"><img src="../images/rtbs1-perspective3.jpg" alt="image 2"></a>
 </div>
+    <div class="col is-one-third-desktop is-one-third-tablet"></div>  
 </div>	
 </div>
 
@@ -32,17 +34,18 @@ This industry continues to grow to keep up with rising demand and rapidly changi
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=tLfNUD0-8ts&feature=emb_imp_woyt"><img src="../images/rtbs1-watch2.jpg" alt="image 2"></a>
+<a href="https://www.youtube.com/watch?v=Ir1b-ez2x5g"><img src="../images/rtbs1-watch1.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.businessofbusiness.com/articles/examining-fast-fashions-appeal-and-issues/"><img src="../images/rtbs1-read1.jpg" alt="image 4"></a>
+<a href="https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail"><img src="../images/rtbs1-read12.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.themanufacturer.com/articles/fast-fashion-getting-faster-thats-good-thing/"><img src="../images/rtbs1-read3.jpg" alt="image 4"></a>
+<a href="https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html"><img src="../images/rtbs1-read13.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://e-tarjome.com/storage/panel/fileuploads/2020-05-06/1588762187_E14818-e-tarjome.pdf"><img src="../images/rtbs1-read2.jpg" alt="image 2"></a>
+<a href="https://www.vox.com/the-goods/22573682/shein-future-of-fast-fashion-explained"><img src="../images/rtbs1-read2.jpg" alt="image 2"></a>
 </div>
 </div>	
 </div>
+
 
