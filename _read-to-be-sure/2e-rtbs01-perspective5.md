@@ -22,40 +22,32 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 
 <div>
 <div class="row is-multiline">
+    <div class="col is-one-third-desktop is-one-third-tablet"></div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="/read-to-be-sure/issue1-conversations/"><img src="../images/rtbs1-join-the-convo.jpg" alt="image 2"></a>
 </div>
+    <div class="col is-one-third-desktop is-one-third-tablet"></div>
 </div>	
 </div>
+
 
 
 
 ***<font size=5>Want to know more about Sustainable Fashion?</font>***
 
-
-
-
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
 <a href="https://www.youtube.com/watch?v=elU32XNj8PM&feature=emb_imp_woyt"><img src="../images/rtbs1-watch4.jpg" alt="image 2"></a>
-    </div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.goodwear.com/blogs/news/the-top-benefits-of-sustainable-clothing"><img src="../images/rtbs1-read7.jpg" alt="image 2"></a>
-    </div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.politico.eu/article/fast-fashion-waste-losing-appeal-greta-thunberg-environment/"><img src="../images/rtbs1-read8.jpg" alt="image 2"></a>
-    </div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="http://changingmarkets.org/wp-content/uploads/2021/07/SyntheticsAnonymous_FinalWeb.pdf"><img src="../images/rtbs1-read9.jpg" alt="image 2"></a>
-    </div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://edition.cnn.com/style/article/the-problem-with-sustainable-fashion/index.html"><img src="../images/rtbs1-read10.jpg" alt="image 2"></a>
-    </div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.forbes.com/sites/andriacheng/2019/10/17/more-consumers-want-sustainable-fashion-but-are-brands-delivering-it/?sh=2126650734a5"><img src="../images/rtbs1-read11.jpg" alt="image 2"></a>
-    </div>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://www.goodwear.com/blogs/news/the-top-benefits-of-sustainable-clothing"><img src="../images/rtbs1-read7.jpg" alt="image 4"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://www.politico.eu/article/fast-fashion-waste-losing-appeal-greta-thunberg-environment/"><img src="../images/rtbs1-read8.jpg" alt="image 4"></a>
+</div>
 </div>	
 </div>
+
 
 
