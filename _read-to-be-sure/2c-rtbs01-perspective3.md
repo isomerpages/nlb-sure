@@ -18,7 +18,7 @@ Do you remember how often you wore a shirt before throwing it away? Clothes were
 
 From the production of raw materials to the disposal of clothes, the fast fashion industry consumes large amounts of chemicals, water and energy. It is a source of pollution for both air and water, accounting for [10% of all global carbon emissions](https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/633143/EPRS_BRI(2019)633143_EN.pdf). That’s more than that of the international flights industry and the maritime shipping industry combined.
 
-The demand to be “on trend” leads to clothes churned out faster than we can wear them out. What can we do about it? 
+The demand to be “on trend” leads to clothes churned out faster than we can wear them out. What would that mean to workers in the fast fashion factories? 
 
 <div>
 <div class="row is-multiline">
@@ -29,8 +29,7 @@ The demand to be “on trend” leads to clothes churned out faster than we can 
 </div>
 
 
-
-***<font size=5>More about the Environmental Impact</font>***
+***<font size=5>Want to know more about the Environmental Impact?</font>***
 
 <div>
 <div class="row is-multiline">

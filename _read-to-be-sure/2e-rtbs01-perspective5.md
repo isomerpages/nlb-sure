@@ -23,16 +23,14 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-perspective1/"><img src="../images/rtbs1-perspective1.jpg" alt="image 2"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
+<a href="/read-to-be-sure/issue1-conversations/"><img src="../images/rtbs1-join-the-convo.jpg" alt="image 2"></a>
 </div>
 </div>	
 </div>
 
 
-***<font size=5>More about Sustainable Fashion</font>***
+
+***<font size=5>Want to know more about Sustainable Fashion?</font>***
 
 
 

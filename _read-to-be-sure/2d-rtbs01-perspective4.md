@@ -30,7 +30,7 @@ But it’s not all bleak in the world of fast fashion. As consumers are becoming
 </div>
 
 
-***<font size=5>More about the Business Practices</font>***
+***<font size=5>Want to know more about the Business Practices?</font>***
 
 <div>
 <div class="row is-multiline">
