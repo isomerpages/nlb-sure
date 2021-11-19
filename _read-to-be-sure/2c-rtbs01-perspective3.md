@@ -10,8 +10,6 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-***<font size=5>3. Environmental Impact</font>***
-
 ![](../images/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)<font size="2">Photo by Maxim Tolchinskiy on Unsplash</font>
 
 How many clothing items do you buy and get rid of within a year? A survey involving 1,000 Singaporeans revealed that we [buy 34 pieces of new clothing on average](https://www.channelnewsasia.com/singapore/bursting-seams-singapores-cast-clothing-1035441) and dispose of 27 items within 12 months. For almost every item we buy, we throw away another.
@@ -25,13 +23,11 @@ The demand to be “on trend” leads to clothes churned out faster than we can 
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 2"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 4"></a>
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
 </div>
 </div>	
 </div>
+
 
 
 ***<font size=5>More about the Environmental Impact</font>***
