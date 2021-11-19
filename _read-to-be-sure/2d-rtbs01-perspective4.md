@@ -23,11 +23,14 @@ But it’s not all bleak in the world of fast fashion. As consumers are becoming
 
 <div>
 <div class="row is-multiline">
+    <div class="col is-one-third-desktop is-one-third-tablet"></div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 4"></a>
 </div>
+    <div class="col is-one-third-desktop is-one-third-tablet"></div>
 </div>	
 </div>
+
 
 
 ***<font size=5>Want to know more about the Business Practices?</font>***
@@ -35,22 +38,15 @@ But it’s not all bleak in the world of fast fashion. As consumers are becoming
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=n75jVQTUEE8"><img src="../images/rtbs1-watch3.jpg" alt="image 2"></a>
+<a href="https://www.youtube.com/watch?v=W1mvcFuiTts"><img src="../images/rtbs1-watch5-undercover.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix"><img src="../images/rtbs1-listen1.jpg" alt="image 4"></a>
+<a href="https://www.fashionrevolution.org/resources/listen-to-the-fashion-revolution-podcast/"><img src="../images/rtbs1-listen3.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion"><img src="../images/rtbs1-listen2.jpg" alt="image 4"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/"><img src="../images/rtbs1-read4.jpg" alt="image 2"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363"><img src="../images/rtbs1-read5.jpg" alt="image 2"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet"><a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652025/EPRS_BRI(2020)652025_EN.pdf"><img src="../images/rtbs1-read6.jpg" alt="image 2"></a>
+<a href="https://thewardrobecrisis.com/podcast/2017/7/11/podcast-ep-5-kalpona-akter-beyond-rana-plaza"><img src="../images/rtbs1-listen4.jpg" alt="image 4"></a>
 </div>
 </div>	
 </div>
+
 
