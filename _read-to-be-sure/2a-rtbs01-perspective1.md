@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/towfiqu-barbhuiya-JhevWHCbVyw-unsplash.jpg)font size="2">Photo by Towfiqu barbhuiya on Unsplash</font>
+![](../images/towfiqu-barbhuiya-JhevWHCbVyw-unsplash.jpg)<font size="2">Photo by Towfiqu barbhuiya on Unsplash</font>
 
 Buying your next T-shirt could [feed households and reduce poverty](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/briefingnote/wcms_758626.pdf) in many countries in the Asia-Pacific (APAC) region, also known as “the clothing factory of the world”. In 2019, 65 million people worked in the [APAC clothing manufacturing industry](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/publication/wcms_669355.pdf) — that’s every seven out of 10 workers worldwide.
 
@@ -20,18 +20,13 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-third-desktop is-one-third-tablet"></div>
+    <div class="col is-one-third-desktop is-one-third-tablet">
 <a href="/read-to-be-sure/issue1-perspective2/"><img src="../images/rtbs1-perspective2.jpg" alt="image 2"></a>
 </div>	
-</div>
-<div>
-<div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 4"></a>
+    <div class="col is-one-third-desktop is-one-third-tablet"></div>
 </div>
 </div>	
-</div>
-
 
 
 ***<font size=5>Want to know more about the Economic impact?</font>***
@@ -48,7 +43,7 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 <a href="https://www.themanufacturer.com/articles/fast-fashion-getting-faster-thats-good-thing/"><img src="../images/rtbs1-read3.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://e-tarjome.com/storage/panel/fileuploads/2020-05-06/1588762187_E14818-e-tarjome.pdf"><img src="../images/rtbs1-read2.jpg" alt="image 2"></a>
+<a href="https://www.vox.com/the-goods/22573682/shein-future-of-fast-fashion-explained"><img src="../images/rtbs1-read2.jpg" alt="image 2"></a>
 </div>
 </div>	
 </div>
