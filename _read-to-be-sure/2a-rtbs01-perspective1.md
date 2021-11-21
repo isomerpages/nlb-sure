@@ -37,7 +37,7 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 <a href="https://www.youtube.com/watch?v=Ir1b-ez2x5g"><img src="../images/rtbs1-watch1.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail"><img src="../images/rtbs1-read12.jpg" alt="image 4"></a>
+<a href="https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail"><img src="../images/rtbs1-read12-instant.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html"><img src="../images/rtbs1-read13-size.jpg" alt="image 4"></a>
@@ -47,6 +47,7 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 </div>
 </div>	
 </div>
+
 
 
 
