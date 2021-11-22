@@ -12,7 +12,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/shutterstock_99337259-min.jpg)
+![](../images/becca-mchaffie-Fzde_6ITjkw-unsplash-min.jpg)<font size="2">Photo by Becca McHaffie on Unsplash</font>
 
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find [new styles](https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706) on the shelves.
 
