@@ -32,7 +32,7 @@ The demand to be “on trend” leads to clothes churned out faster than we can 
 
 
 
-***<font size=5>Want to know more about the Environmental Impact?</font>***
+***<font size=5>Want to know more about the environmental impact?</font>***
 
 <div>
 <div class="row is-multiline">

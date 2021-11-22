@@ -29,7 +29,7 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 </div>	
 
 
-***<font size=5>Want to know more about the Economic impact?</font>***
+***<font size=5>Want to know more about the economic impact?</font>***
 
 <div>
 <div class="row is-multiline">

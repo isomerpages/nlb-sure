@@ -28,7 +28,7 @@ This industry continues to grow to keep up with rising demand and rapidly changi
 </div>
 
 
-***<font size=5>Want to know more about the Price Factor?</font>***
+***<font size=5>Want to know more about the price factor?</font>***
 
 <div>
 <div class="row is-multiline">

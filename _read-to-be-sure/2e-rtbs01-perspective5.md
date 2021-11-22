@@ -33,7 +33,7 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 
 
 
-***<font size=5>Want to know more about Sustainable Fashion?</font>***
+***<font size=5>Want to know more about sustainable fashion?</font>***
 
 <div>
 <div class="row is-multiline">
