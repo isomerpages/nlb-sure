@@ -19,4 +19,3 @@ We would love to hear your views:
 
 <a href="https://forms.gle/ZuAp1CsG2mRdG6KM7">![](../images/rtbs1-poll.JPG)</a>
 
-<a href="https://go.gov.sg/nlb-rtbs1-rise">![](../images/issue1-enhanced.jpg)</a>
