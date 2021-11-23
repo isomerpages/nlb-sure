@@ -24,7 +24,7 @@ But it’s not all bleak in the world of fast fashion. As consumers are becoming
 <div>
 <div class="row is-multiline">
     <div class="col is-one-third-desktop is-one-third-tablet"></div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-half-desktop is-third-tablet">
 <a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 4"></a>
 </div>
     <div class="col is-one-third-desktop is-one-third-tablet"></div>
