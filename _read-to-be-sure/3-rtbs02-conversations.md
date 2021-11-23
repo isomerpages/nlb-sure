@@ -6,7 +6,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
-In our ***Read to be SURE*** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives with a balanced view on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
+In our ***Read to be SURE*** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
 <a href="https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757">![](../images/RTBS1-Banner.JPG)</a>
 
@@ -58,6 +58,31 @@ Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hat
 
 <hr>
 
- Here's a visual map of the different perspectives in this issue of *Read to be SURE*:
+ Here's a visual map of the different perspectives:
 
 <a href="https://staging-nlb-sure.netlify.app/images/RTBS1-visualmap.jpg">![](../images/RTBS1-visualmap.JPG)</a>
+
+
+
+Return to the 5 Perspectives:
+
+
+<div>
+<div class="row is-multiline">
+<div class="col is-one-fifth-desktop is-one-fifth-tablet">
+<a href="/read-to-be-sure/issue1-perspective1/"><img src="../images/rtbs1-perspective1.jpg" alt="image 1"></a>
+</div>
+    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
+<a href="/read-to-be-sure/issue1-perspective2/"><img src="../images/rtbs1-perspective2.jpg" alt="image 2"></a>
+</div>
+    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
+<a href="/read-to-be-sure/issue1-perspective3/"><img src="../images/rtbs1-perspective3.jpg" alt="image 3"></a>
+</div>
+    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
+</div>
+    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
+<a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 5"></a>
+</div>
+</div>
+</div>

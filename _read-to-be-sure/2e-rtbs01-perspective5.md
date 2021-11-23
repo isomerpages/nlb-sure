@@ -23,13 +23,14 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-conversations/"><img src="../images/rtbs1-join-the-convo.jpg" alt="image 2"></a>
+<a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="../images/rtbs1-poll2.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="../images/rtbs1-poll2.jpg" alt="image 2"></a>
+<a href="/read-to-be-sure/issue1-conversations/"><img src="../images/rtbs1-join-the-convo.jpg" alt="image 2"></a>
 </div>    
 </div>	
 </div>
+
 
 
 
