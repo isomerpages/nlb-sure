@@ -6,7 +6,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ---
 
-In our ***Read to be SURE*** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
+In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
 <a href="https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757">![](../images/RTBS1-Banner.JPG)</a>
 
