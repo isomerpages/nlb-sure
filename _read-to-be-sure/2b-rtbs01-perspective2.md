@@ -13,7 +13,11 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 ![](../images/dollar-gill-LUzZ1MllFxU-unsplash.jpg)<font size="2">Photo by Dollar Gill on Unsplash</font>  
 
-Consumers love the instant gratification fast fashion provides. Getting their hands on [the latest fashion trends](https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail) within a short time seems too good to be true. Yet this is what the industry delivers, and at affordable prices to boot. Fast fashion is everywhere and is produced at very low cost. Fast fashion companies have also promoted [size inclusivity](https://ww.fashionnetwork.com/news/Mango-completes-violeta-integration-shein-tops-plus-size-inclusivity-list,1327389.html), producing a wide range of designs to appeal to different body types. 
+Getting your hands on [the latest fashion trends](https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail) within a short time seems too good to be true. Yet this is what the industry delivers, and at affordable prices to boot.
+
+How do they do it? 
+
+Vertically integrated supply chains allow fast fashion producers [greater control of everything](https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706) from fabrics to logistics. Outsourcing manufacturing to [low-cost countries offers bargain deals](https://www.wsj.com/articles/the-hidden-cost-of-cheap-fashion-could-catch-up-to-investors-zara-old-navy-11621556298) to consumers across the globe. Cheaper prices have been linked not only to [cheap](https://www.channelnewsasia.com/commentary/fast-fashion-manufacturing-cheap-modern-slavery-913181) labour but [child labour](https://labs.theguardian.com/unicef-child-labour/) as well. 
 
 This industry continues to grow to keep up with rising demand and rapidly changing fashion trends. One has to stop and wonder: At what cost?
 
