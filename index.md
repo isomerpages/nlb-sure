@@ -32,7 +32,7 @@ sections:
           subtitle: 'For everyone'
           description: null
           url: /read-to-be-sure/issue1-introduction/
-          image: /images/RTBS1-visualmap.JPG
+          image: /images/becca-mchaffie-Fzde_6ITjkw-unsplash-min.jpg
           alt: 'alt text'
           button: 'Read Issue #1 now!'
     - infopic:
