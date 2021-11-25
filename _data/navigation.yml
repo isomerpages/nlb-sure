@@ -47,7 +47,7 @@ links:
             - title: 'Prove It!'
               url: /contests/proveit2021/
             - title: 'Historical Scene Investigation'
-              url: /contests/hsi/
+              url: /contests/hsi2021/
     - title: Blog
       url: /blog/
       false_collection: true
