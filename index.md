@@ -32,9 +32,9 @@ sections:
           subtitle: 'For everyone'
           description: null
           url: /read-to-be-sure/issue1-introduction/
-          image: /images/RTBS1-Banner.JPG
+          image: /images/RTBS1-visualmap.JPG
           alt: 'alt text'
-          button: 'Register now!'
+          button: 'Read Issue #1 now!'
     - infopic:
           title: 'S.U.R.E Skills Series workshop - How to Be A Smart Fact-Checker'
           subtitle: 'For everyone'
