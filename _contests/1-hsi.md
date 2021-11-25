@@ -17,38 +17,26 @@ A total of 59 schools participated in the contest and the submissions showcased 
 We would like to congratulate the following school teams for achieving the top 3 positions, along with being awarded the Young Historians’ Award by MOE:
 
 **Champion team: Methodist Girls’ School**
-
-| ·    Lim Chu Wern          |
-| -------------------------- |
-| ·    Lang Wen Ling Laura   |
-| ·    Jacqueline Lam Zhi En |
-| ·    Lee Jia Yin, Chloe    |
-
-<Embed Video>
+•	Lim Chu Wern
+•	Lang Wen Ling Laura
+•	Jacqueline Lam Zhi En
+•	Lee Jia Yin, Chloe
+<Insert YouTube video>
 
 **1st runner-up: National Junior College (Secondary)**
-
-| ·    Jaya Shree Adheenamilagi |
-| ----------------------------- |
-| ·    Eunice Ang Geh Kar       |
-| ·    Venise Hah Xin Yi        |
-| ·    Leong Xian Zhu, Samuel   |
-
-<Embed Video>
-
-
+•	Jaya Shree Adheenamilagi
+•	Eunice Ang Geh Kar
+•	Venise Hah Xin Yi
+•	Leong Xian Zhu, Samuel
+<Insert YouTube video>
 
 **2nd runner-up: CHIJ St Theresa’s Convent** 
+•	Aishwerya Sunil Singh
+•	Fiona Tan Lin Xuan
+•	Janelle Chan Wai Yee
+•	Paige Loh Wan Seon
+<Insert YouTube video>
 
-·    Aishwerya Sunil Singh
-
-·    Fiona Tan Lin Xuan
-
-·    Janelle Chan Wai Yee
-
-·    Paige Loh Wan Seon
-
-<Embed video>
 
  <hr>
 
