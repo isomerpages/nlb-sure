@@ -6,11 +6,15 @@ third_nav_title: eLearn
 
 ---
 
-| <font color="red">NOTICE:                                    |
+| <font color="red">NOTICE:</font>                             |
 | ------------------------------------------------------------ |
-| The eLearn section of this website will **no longer be available** from 10 Dec 2021 onwards.  We thank you for using our elearn modules.</font> |
+| **The eLearn section of this website will no longer be available from 10 Dec 2021 onwards.  We thank you for using our elearn modules.** |
 
-### **A SERIES OF ONLINE TUTORIAL FOR YOUR RESEARCH NEEDS**
+
+
+<hr> 
+
+### **A** SERIES OF ONLINE TUTORIAL FOR YOUR RESEARCH NEEDS
 
 eLearn Centre is an e-learning portal where you can gain new research knowledge and skills. It shows you how to search the Internet more effectively by focusing on your search strategy and the right search techniques. So whether you are a student, parent or working adult, eLearn Centre has something for you.
 
