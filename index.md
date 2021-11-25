@@ -52,6 +52,22 @@ sections:
           alt: 'alt text'
           button: 'Register now!'
     - infopic:
+          title: 'S.U.R.E Series for Seniors: Spotting Deepfake Images and Videos'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0018
+          image: /images/sure-skills-series-seniors4.jpg
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
+          title: '银发族S.U.R.E技能系列：如何识破 “深度伪造” 图像和影像'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0019
+          image: /images/sure-skills-seriesseniors4-chinese.jpg
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
           title: 'Story Books: What’s “Truth” in a Non-Fiction Text?'
           subtitle: 'For everyone'
           description: null
