@@ -9,7 +9,7 @@ image: ../../../images//sure-skills-series-seniors2.jpg
 
 **Hone your skill at spotting fact from fiction - learn how check and confirm like a professional before you share emails and messages**
 
-Date: 15 September 2021 <br>Time: 3:00pm to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
+Date: 15 September 2021 <br>Time: 3:00PM to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
 Download the slides **[HERE](https://go.gov.sg/nlb-sure-15sep2021-slides)**.
 
