@@ -6,7 +6,11 @@ third_nav_title: eLearn
 
 ---
 
+### **
 
+| <font color="red">NOTICE:                                    |
+| ------------------------------------------------------------ |
+| The eLearn section of this website will **no longer be available** from 10 Dec 2021 onwards.  We thank you for using our elearn modules.</font> |
 
 ### **Internet Searching Skills** 
 

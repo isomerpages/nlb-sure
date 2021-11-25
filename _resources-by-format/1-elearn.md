@@ -9,6 +9,10 @@ third_nav_title: eLearn
 
 ### **A SERIES OF ONLINE TUTORIAL FOR YOUR RESEARCH NEEDS**
 
+| <font color="red">NOTICE:                                    |
+| ------------------------------------------------------------ |
+| The eLearn section of this website will **no longer be available** from 10 Dec 2021 onwards.  We thank you for using our elearn modules.</font> |
+
 eLearn Centre is an e-learning portal where you can gain new research knowledge and skills. It shows you how to search the Internet more effectively by focusing on your search strategy and the right search techniques. So whether you are a student, parent or working adult, eLearn Centre has something for you.
 
 Gain new knowledge and develop your research skills according to three levels – Basic, Advanced and Continuous Education. Each module includes a video lesson and interactive activities for fun learning. eLearn Centre modules can be accessed anytime and anywhere as long as you have Internet access.
