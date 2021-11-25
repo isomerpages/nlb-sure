@@ -13,7 +13,7 @@ For more information about our public runs, please refer to the following:
 - **S.U.R.E Skills Series workshops** 
   - [Part 1: Detecting Fake Videos and Images (2 July 2021, 7pm – 8.30pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0008)
   - [Part 2: Safeguarding Your Mind Against Fake News (3 September 2021, 7pm – 8.30pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0012)
-  - Part 3: Be a Smart Factchecker (3 December 2021, 7pm – 8.30 pm)
+  - [Part 3: Be a Smart Factchecker (3 December 2021, 7pm – 8.30 pm)](https://sure.nlb.gov.sg/blog/fake-news/FN0017)
 
 
 
