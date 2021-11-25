@@ -7,6 +7,8 @@ sections:
           dropdown:
               title: null
               options:
+                    - title: 'explore "Read to be SURE" Issue #1'
+                      url: /read-to-be-sure/issue1-introduction/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
                     - title: 'find resources on combating fake news'
@@ -26,43 +28,19 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'S.U.R.E Series for Seniors: Verifying Images & Videos'
-          subtitle: 'For Seniors'
-          description: null
-          url: /blog/fake-news/FN0015
-          image: /images/sure-skills-series-seniors3.jpg
-          alt: 'alt text'
-          button: 'Register now!'
-    - infopic:
-          title: '银发族S.U.R.E技能系列：如何查证图像和影像的真伪s'
-          subtitle: 'For Seniors'
-          description: null
-          url: /blog/fake-news/FN0016
-          image: /images/sure-skills-seriesseniors3-chinese.jpg
-          alt: 'alt text'
-          button: 'Register now!'
-    - infopic:
-          title: 'S.U.R.E Skills Series for Seniors: Fact-checking Dubious Emails & Messages'
-          subtitle: 'For Seniors'
-          description: null
-          url: /blog/fake-news/FN0013
-          image: /images/sure-skills-series-seniors2.jpg
-          alt: 'alt text'
-          button: 'Register now!'
-    - infopic:
-          title: '银发族 S.U.R.E. 技能系列: 如何查证电邮和信息的真伪'
-          subtitle: 'For Seniors'
-          description: null
-          url: /blog/fake-news/FN0014
-          image: /images/sure-skills-seriesseniors2-chinese.jpg
-          alt: 'alt text'
-          button: 'Register now!'
-    - infopic:
-          title: 'S.U.R.E Skills Series workshop - Safeguarding Your Mind Against Fake News'
+          title: 'Read to be SURE Issue #1: Fast Fashion: Love it or Hate it?'
           subtitle: 'For everyone'
           description: null
-          url: /blog/fake-news/FN0012
-          image: /images/sure-skills-series-Sep2021.JPG
+          url: /read-to-be-sure/issue1-introduction/
+          image: /images/RTBS1-Banner.JPG
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
+          title: 'S.U.R.E Skills Series workshop - How to Be A Smart Fact-Checker'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0017
+          image: /images/sure-skills-series-Dec2021.JPG
           alt: 'alt text'
           button: 'Register now!'
     - infopic:
