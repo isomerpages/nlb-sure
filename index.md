@@ -36,6 +36,14 @@ sections:
           alt: 'alt text'
           button: 'Read Issue #1 now!'
     - infopic:
+          title: 'Join the "Read to be SURE" Conversations'
+          subtitle: 'For everyone'
+          description: null
+          url: /read-to-be-sure/issue1-conversations/
+          image: /images/RTBS1-Banner.JPG
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
           title: 'S.U.R.E Skills Series workshop - How to Be A Smart Fact-Checker'
           subtitle: 'For everyone'
           description: null
