@@ -18,109 +18,110 @@ We would like to congratulate the following school teams for achieving the top 3
 
 **Champion team: Methodist Girls’ School**
 
-| ·    Lim Chu Wern          |
-| -------------------------- |
-| ·    Lang Wen Ling Laura   |
-| ·    Jacqueline Lam Zhi En |
-| ·    Lee Jia Yin, Chloe    |
-
-<Embed Video>
+- Lim Chu Wern
+- Lang Wen Ling Laura
+- Jacqueline Lam Zhi En
+- Lee Jia Yin, Chloe
+  
 
 **1st runner-up: National Junior College (Secondary)**
 
-| ·    Jaya Shree Adheenamilagi |
-| ----------------------------- |
-| ·    Eunice Ang Geh Kar       |
-| ·    Venise Hah Xin Yi        |
-| ·    Leong Xian Zhu, Samuel   |
-
-<Embed Video>
-
-
+- Jaya Shree Adheenamilagi
+- Eunice Ang Geh Kar
+- Venise Hah Xin Yi
+- Leong Xian Zhu, Samuel
+  
 
 **2nd runner-up: CHIJ St Theresa’s Convent** 
 
-·    Aishwerya Sunil Singh
+- Aishwerya Sunil Singh
+- Fiona Tan Lin Xuan
+- Janelle Chan Wai Yee
+- Paige Loh Wan Seon
+  
 
-·    Fiona Tan Lin Xuan
-
-·    Janelle Chan Wai Yee
-
-·    Paige Loh Wan Seon
-
-<Embed video>
 
  <hr>
 
 We would also like to congratulate the following 10 schools for attaining the Gold level certificate in the contest:
 
 **CHIJ St Nicholas Girls’ School**
-•	Liang Wern Hwee 
-•	Ng Wing Yan Emily 
-•	Wu Sixin 
-•	Boh Shu Ting Shannon 
-<Insert YouTube video>
+
+- Liang Wern Hwee 
+- Ng Wing Yan Emily
+- Wu Sixin 
+- Boh Shu Ting Shannon 
+  
 
 **Chung Cheng High School (Main)**
-•	Foo Jing En Joaquina
-•	Ariel Lua Kai Xuan
-•	Lee Xinyi Athena
-•	Isabella Leow Yi Shan
-<Insert YouTube video>
+
+- Foo Jing En Joaquina
+- Ariel Lua Kai Xuan
+- Lee Xinyi Athena
+- Isabella Leow Yi Shan
+  
 
 **Hillgrove Secondary School**
-•	Kitson Neo
-•	Saanvi Singh
-•	Tan Shi En, Shyane
-•	Norin Dianni Binte Abdullah 
-<Insert YouTube video>
+
+- Kitson Neo
+- Saanvi Singh
+- Tan Shi En, Shyane
+- Norin Dianni Binte Abdullah 
+  
 
 **Hwa Chong Institution**
-•	Law Xue Qi Alestor 
-•	Ashton Lim Yao Kai 
-•	Yu Yao Quan 
-•	Chia Ern Kang
-<Insert YouTube video>
+
+- Law Xue Qi Alestor 
+- Ashton Lim Yao Kai 
+- Yu Yao Quan 
+- Chia Ern Kang
+  
 
 **Jurong West Secondary School**
-•	Randilyn Liau Fang Xian
-•	Tan Yu Ing
-•	Liew Rui En
-•	Thet Su Naing
-<Insert YouTube video>
+
+- Randilyn Liau Fang Xian
+- Tan Yu Ing
+- Liew Rui En
+- Thet Su Naing
+  
 
 **Raffles Girls’ Scho**ol
-•	Kong Yu-Ann 
-•	Lim Rae-Ann
-•	Chung Shin Rei
-•	Chua Jen Ee
-<Insert YouTube video>
+
+- Kong Yu-Ann
+- Lim Rae-Ann
+- Chung Shin Rei
+- Chua Jen Ee
+  
 
 **Raffles Institution**
-•	Au Chun Kiat
-•	Jared Xu Xinrui
-•	Li Houzhe
-•	Raoul Abay Gunalan
-<Insert YouTube video>
+
+- Au Chun Kiat
+- Jared Xu Xinrui
+- Li Houzhe
+- Raoul Abay Gunalan
+  
 
 **Seng Kang Secondary School**
-•	Dang Ngoc Nguyen
-•	Mohamed Aafif Bin Mohamed Jahir Hussain
-•	Renie Tan Si En
-•	Lim Zhuo Yao Prime
-<Insert YouTube video>
+
+- Dang Ngoc Nguyen
+- Mohamed Aafif Bin Mohamed Jahir Hussain
+- Renie Tan Si En
+- Lim Zhuo Yao Prime
+  
 
 **School of the Arts (SOTA)**
-•	Terrell James Ng
-•	Celestine Sixuan Groleau
-•	Khin Sandi Tun
-•	Khoo Sze Min Sophia
-<Insert YouTube video>
+
+- Terrell James Ng
+- Celestine Sixuan Groleau
+- Khin Sandi Tun
+- Khoo Sze Min Sophia
+  
 
 **Woodlands Ring Secondary School**
-•	Tan Yi Ning Jessica
-•	Preethissh s/o S Raguppathi
-•	Pang Yi Xi
-•	Isabelle Boey Ming Hui
-<Insert YouTube video>
+
+- Tan Yi Ning Jessica
+- Preethissh s/o S Raguppathi
+- Pang Yi Xi
+- Isabelle Boey Ming Hui
+  
 
