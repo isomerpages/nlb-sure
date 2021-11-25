@@ -9,7 +9,7 @@ image: ../../../images/sure-skills-series-dec2021.JPG
 
 **Learn useful tips and techniques in fact-checking suspicious messages or posts you receive in this interactive workshop.**
 
-Date: Fri, 3 Dec 2021 <br>Time: 7:00pm to 8:30 PM<br>Conducted via Zoom<br>Free of Charge
+Date: Fri, 3 Dec 2021 <br>Time: 7:00PM to 8:30 PM<br>Conducted via Zoom<br>Free of Charge
 
 Please register **[HERE](https://www.eventbrite.sg/e/how-to-be-a-smart-fact-checker-sure-x-my-digital-life-registration-209078267727)**.
 

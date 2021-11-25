@@ -9,7 +9,7 @@ image: ../../../images/sure-skills-seriesseniors2-chinese.jpg
 
 **通过这个工作坊，您能学习怎么查证可疑电邮和信息的内容，便可以像专业人士一样地先查证信息的真伪，再决定要不要分享。**
 
-Date: 21 September 2021 <br>Time: 3:00pm to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
+Date: 21 September 2021 <br>Time: 3:00PM to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
 Download the slides **[HERE](https://go.gov.sg/nlb-sure-21sep2021-slides)**.
 

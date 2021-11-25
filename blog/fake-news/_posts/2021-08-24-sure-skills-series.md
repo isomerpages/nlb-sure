@@ -9,7 +9,7 @@ image: ../../../images/sure-skills-series-Sep2021.JPG
 
 Learn more about the psychological reasons behind the spread of fake news, and more importantly, what YOU can do about it.
 
-Date: Fri, 3 Sep 2021 <br>Time: 7:00pm to 8:30 PM<br>Conducted via Zoom<br>Free of Charge
+Date: Fri, 3 Sep 2021 <br>Time: 7:00PM to 8:30 PM<br>Conducted via Zoom<br>Free of Charge
 
 Download the slides [**HERE**](https://go.gov.sg/nlb-sure-03sep2021-slides).
 

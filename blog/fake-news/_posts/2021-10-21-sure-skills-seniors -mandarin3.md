@@ -9,7 +9,7 @@ image: ../../../images/sure-skills-seriesseniors3-chinese.jpg
 
 **您是否曾经从社交群组里收到令人感到不安的图像，觉得很可疑却又不能确定？一起来参加这个工作坊，学习如何使用网上的查证工具来核实可疑图像和影像的真伪吧！**
 
-Date: 15 November 2021 <br>Time: 3:00pm to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
+Date: 15 November 2021 <br>Time: 3:00PM to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
 **REGISTER [HERE](https://www.eventbrite.sg/e/sure-time-of-your-life-tickets-186596734857?aff=ebdssbonlinesearch)**
 

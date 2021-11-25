@@ -9,7 +9,7 @@ image: ../../../images/sure-skills-seriesseniors1-chinese.jpg
 
 **这个工作坊将能让您了解人们撒播假信息背后的心理因素，以及您能如何协助制止假信息的传播。**
 
-Date: 24 August 2021 <br>Time: 3:00pm to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
+Date: 24 August 2021 <br>Time: 3:00PM to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
 **REGISTER [HERE](https://www.eventbrite.sg/e/sure-time-of-your-life-registration-162388035987?aff=ebdssbonlinesearch)**
 

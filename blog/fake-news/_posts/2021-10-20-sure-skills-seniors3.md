@@ -9,7 +9,7 @@ image: ../../../images//sure-skills-series-seniors3.jpg
 
 **Received an image that you suspect is fake, but cannot be sure? Discover useful online tools to check for dubious images and videos.**
 
-Date: 11 November 2021 <br>Time: 3:00pm to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
+Date: 11 November 2021 <br>Time: 3:00PM to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
 **REGISTER [HERE](https://www.eventbrite.sg/e/sure-series-for-seniors-verifying-images-videos-toyl-tickets-186593655647?aff=ebdssbeac)**
 
