@@ -1,14 +1,126 @@
 ---
 title: 'Historical Scene Investigation Challenge 2021'
-permalink: /contests/hsi/
+permalink: /contests/hsi2021/
 breadcrumb: 'Historical Scene Investigation 2021'
+image: ../../../images/hsi2021-logo.JPG
 
 ---
 
 ![](../images/hsi2021-logo.JPG)
 
-The Historical Scene Investigation (H.S.I.) Challenge is an annual contest organised by the National Library, Singapore, which promises an exciting experience for students to put their historical inquiry and research skills to the test. 
+Organised by the National Library Board and supported by the Ministry of Education (Humanities Branch, History Unit), the Historical Scene Investigation (HSI) Challenge is an inter-school contest in which students put their historical inquiry and research skills to the test. 
 
-This year's contest (10 Aug - 17 Sep 2021) is aligned to the [Human x Nature: Environmental Histories of Singapore](https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/humanxnature/) exhibition at the National Library, which explores the relationship between humans and the natural world throughout Singapore's history. The competition is open to all lower secondary students.  Each school can send ONE  team comprising 4 members.
+Opened to lower secondary school students, 2021 was a special year for the contest as it was aligned to the *[Human x Nature: Environmental Histories of Singapore](https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/humanxnature/)* exhibition at the National Library. Each team was required to create a video to highlight their historical investigation findings, along with a written report with cited sources.
 
-Download the **[EDM](https://go.gov.sg/nlb-hsi2021)** for details.
+A total of 59 schools participated in the contest and the submissions showcased the students’ creativity and aptitude in their historical research.
+
+We would like to congratulate the following school teams for achieving the top 3 positions, along with being awarded the Young Historians’ Award by MOE:
+
+**Champion team: Methodist Girls’ School**
+
+| ·    Lim Chu Wern          |
+| -------------------------- |
+| ·    Lang Wen Ling Laura   |
+| ·    Jacqueline Lam Zhi En |
+| ·    Lee Jia Yin, Chloe    |
+
+<Embed Video>
+
+**1st runner-up: National Junior College (Secondary)**
+
+| ·    Jaya Shree Adheenamilagi |
+| ----------------------------- |
+| ·    Eunice Ang Geh Kar       |
+| ·    Venise Hah Xin Yi        |
+| ·    Leong Xian Zhu, Samuel   |
+
+<Embed Video>
+
+
+
+**2nd runner-up: CHIJ St Theresa’s Convent** 
+
+·    Aishwerya Sunil Singh
+
+·    Fiona Tan Lin Xuan
+
+·    Janelle Chan Wai Yee
+
+·    Paige Loh Wan Seon
+
+<Embed video>
+
+ <hr>
+
+We would also like to congratulate the following 10 schools for attaining the Gold level certificate in the contest:
+
+**CHIJ St Nicholas Girls’ School**
+•	Liang Wern Hwee 
+•	Ng Wing Yan Emily 
+•	Wu Sixin 
+•	Boh Shu Ting Shannon 
+<Insert YouTube video>
+
+**Chung Cheng High School (Main)**
+•	Foo Jing En Joaquina
+•	Ariel Lua Kai Xuan
+•	Lee Xinyi Athena
+•	Isabella Leow Yi Shan
+<Insert YouTube video>
+
+**Hillgrove Secondary School**
+•	Kitson Neo
+•	Saanvi Singh
+•	Tan Shi En, Shyane
+•	Norin Dianni Binte Abdullah 
+<Insert YouTube video>
+
+**Hwa Chong Institution**
+•	Law Xue Qi Alestor 
+•	Ashton Lim Yao Kai 
+•	Yu Yao Quan 
+•	Chia Ern Kang
+<Insert YouTube video>
+
+**Jurong West Secondary School**
+•	Randilyn Liau Fang Xian
+•	Tan Yu Ing
+•	Liew Rui En
+•	Thet Su Naing
+<Insert YouTube video>
+
+**Raffles Girls’ Scho**ol
+•	Kong Yu-Ann 
+•	Lim Rae-Ann
+•	Chung Shin Rei
+•	Chua Jen Ee
+<Insert YouTube video>
+
+**Raffles Institution**
+•	Au Chun Kiat
+•	Jared Xu Xinrui
+•	Li Houzhe
+•	Raoul Abay Gunalan
+<Insert YouTube video>
+
+**Seng Kang Secondary School**
+•	Dang Ngoc Nguyen
+•	Mohamed Aafif Bin Mohamed Jahir Hussain
+•	Renie Tan Si En
+•	Lim Zhuo Yao Prime
+<Insert YouTube video>
+
+**School of the Arts (SOTA)**
+•	Terrell James Ng
+•	Celestine Sixuan Groleau
+•	Khin Sandi Tun
+•	Khoo Sze Min Sophia
+<Insert YouTube video>
+
+**Woodlands Ring Secondary School**
+•	Tan Yi Ning Jessica
+•	Preethissh s/o S Raguppathi
+•	Pang Yi Xi
+•	Isabelle Boey Ming Hui
+<Insert YouTube video>
+
