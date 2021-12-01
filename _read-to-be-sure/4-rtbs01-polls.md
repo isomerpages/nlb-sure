@@ -16,7 +16,7 @@ We would love to hear your views about Fast Fashion:
 
 
 
-Share your thoughts about this Issue of **Read to be SURE**:
+Share your feedback about this Issue of **Read to be SURE**:
 
 <a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="../images/rtbs1-poll2.jpg" alt="Exit Poll"></a>
 
