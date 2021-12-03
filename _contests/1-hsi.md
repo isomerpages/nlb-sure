@@ -19,17 +19,14 @@ We would like to congratulate the following school teams for achieving the top 3
 **Champion team: Methodist Girls’ School**
 
 - Lim Chu Wern
-
 - Lang Wen Ling Laura
-
 - Jacqueline Lam Zhi En
-
-- Lee Jia Yin, Chloe
-  
-  
+- Lee Jia Yin, Chloes
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/watch?v=vEOYx-70pkU" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEOYx-70pkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 **1st runner-up: National Junior College (Secondary)**
 
@@ -39,6 +36,11 @@ We would like to congratulate the following school teams for achieving the top 3
 - Leong Xian Zhu, Samuel
   
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5KnDQ_asuuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
 **2nd runner-up: CHIJ St Theresa’s Convent** 
 
 - Aishwerya Sunil Singh
@@ -47,8 +49,11 @@ We would like to congratulate the following school teams for achieving the top 3
 - Paige Loh Wan Seon
   
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/tlWTEcWYaK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
- <hr>
+<hr>
+
 
 We would also like to congratulate the following 10 schools for attaining the Gold level certificate in the contest:
 
@@ -60,6 +65,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Boh Shu Ting Shannon 
   
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/mWwjHlVXN9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
 **Chung Cheng High School (Main)**
 
 - Foo Jing En Joaquina
@@ -67,6 +77,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Lee Xinyi Athena
 - Isabella Leow Yi Shan
   
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/I9CoDAFBWqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 **Hillgrove Secondary School**
 
@@ -76,6 +91,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Norin Dianni Binte Abdullah 
   
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/niH8ywnvXro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
 **Hwa Chong Institution**
 
 - Law Xue Qi Alestor 
@@ -83,6 +103,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Yu Yao Quan 
 - Chia Ern Kang
   
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/U-d3YpiOwO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 **Jurong West Secondary School**
 
@@ -92,6 +117,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Thet Su Naing
   
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/0zvXvD4VxjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
 **Raffles Girls’ Scho**ol
 
 - Kong Yu-Ann
@@ -99,6 +129,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Chung Shin Rei
 - Chua Jen Ee
   
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/eB_DaWdKAaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 **Raffles Institution**
 
@@ -108,6 +143,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Raoul Abay Gunalan
   
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/GaTPhhIL2qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
 **Seng Kang Secondary School**
 
 - Dang Ngoc Nguyen
@@ -115,6 +155,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Renie Tan Si En
 - Lim Zhuo Yao Prime
   
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/RSAe5ifFPmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 **School of the Arts (SOTA)**
 
@@ -124,6 +169,11 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Khoo Sze Min Sophia
   
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/nSdDAdYdg-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
 **Woodlands Ring Secondary School**
 
 - Tan Yi Ning Jessica
@@ -132,3 +182,5 @@ We would also like to congratulate the following 10 schools for attaining the Go
 - Isabelle Boey Ming Hui
   
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/PgAOhGCPJpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
