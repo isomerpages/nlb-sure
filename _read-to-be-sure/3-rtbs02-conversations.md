@@ -32,7 +32,7 @@ Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hat
 
 **Moderator:**
 
-- Irsyad Ramthan, Product Manager, X0PA AI
+- Irsyad Ramthan, sustainable maker and podcast host
 
    
 
@@ -52,9 +52,7 @@ Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hat
 
 
 
-**Irsyad Ramthan** is the former co-Founder of Interseed, a digital platform that promotes sustainability solutions and supports various start-ups that utilize alternative sustainable materials for different consumer products. Over the years, he has designed innovation programmes for Southeast Asian under-35s to solve sustainability challenges. He is currently a product manager by profession, and is a seasonal host for Interseed’s podcast titled *Impact in Sight*.  
-
-
+**Irsyad Ramthan** is the former co-Founder of Interseed, a digital platform that promotes sustainability solutions and supports various start-ups that utilize alternative sustainable materials for different consumer products. Over the years, he has designed innovation programmes for Southeast Asian under-35s to solve sustainability challenges. He is currently a sustainable maker and podcast host.
 
 <hr>
 
