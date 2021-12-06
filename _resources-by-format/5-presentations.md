@@ -18,7 +18,7 @@ In this e-lecture, learn how to conduct academic research online using a combina
 
 
 
-[**How to be S.U.R.E. before you share**](/blog/fake-news/fn0001)
+[**How to be S.U.R.E. before you share**](/blog/fake-news/fn0002)
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
