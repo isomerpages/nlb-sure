@@ -11,7 +11,7 @@ image: ../../../images//sure-skills-series-seniors3.jpg
 
 Date: 11 November 2021 <br>Time: 3:00PM to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
-**REGISTER [HERE](https://www.eventbrite.sg/e/sure-series-for-seniors-verifying-images-videos-toyl-tickets-186593655647?aff=ebdssbeac)**
+**Download the slides [HERE](https://go.gov.sg/nlb-sure-11nov2021-slides).**
 
 ## About this event
 

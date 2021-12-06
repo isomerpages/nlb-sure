@@ -21,7 +21,7 @@ For more information about our public runs, please refer to the following:
   * [Part 1: Safeguarding Your Mind From Fake News (12 August 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0010)
   * [Part 2: Factchecking Dubious Emails & Messages (15 September 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0013)
   * [Part 3: Verifying Images & Videos (11 November 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0015)
-  * Part 4: Spotting Deepfake Images & Videos (7 December 2021, 3-4pm)
+  * [Part 4: Spotting Deepfake Images & Videos (7 December 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/FN0018)
 
 
 
@@ -29,7 +29,7 @@ For more information about our public runs, please refer to the following:
   * [第一部分：如何避免受假信息影响 （2021年8月24日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/fn0011)
   * [第二部分：如何查证电邮和信息的真伪（2021年9月21日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/fn0014)
   * [第三部分：如何查证图像和影像的真伪（2021年11月15日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/fn0016)
-  * 第四部分：如何识破 “深度伪造” 图像和影像（2021年12月15日，下午三时至四时）
+  * [第四部分：如何识破 “深度伪造” 图像和影像（2021年12月15日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/FN0019)
 
 <hr>
 **“COMBATING FAKE NEWS” TALK**
