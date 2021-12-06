@@ -11,7 +11,7 @@ image: ../../../images/sure-skills-seriesseniors1-chinese.jpg
 
 Date: 24 August 2021 <br>Time: 3:00PM to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
-**REGISTER [HERE](https://www.eventbrite.sg/e/sure-time-of-your-life-registration-162388035987?aff=ebdssbonlinesearch)**
+**Download the slides [HERE](https://go.gov.sg/nlb-sure-24aug2021-slides).**
 
 ## About this event
 
