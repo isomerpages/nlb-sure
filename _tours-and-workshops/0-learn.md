@@ -11,9 +11,8 @@ We have a range of learning activities and resources to support the [National Di
 
 **Online Learning Journeys / Virtual Tours**
 
-- [Online Learning Journey: *Human x Nature* Exhibition](/tours-and-workshops/hxn-virtual-tour/) [Limited run: Term 3, 2021]
-
 - [Online Learning Journey: *The News Gallery* Virtual Tour and Workshop](/tours-and-workshops/tng-virtual-tour/) [Term 4, 2021 onwards]
+
 
 
 

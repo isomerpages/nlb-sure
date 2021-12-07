@@ -12,8 +12,6 @@ links:
       url: /tours-and-workshops/learn/
       false_collection: true
       sublinks:
-            - title: 'Human x Nature tour'
-              url: /tours-and-workshops/hxn-virtual-tour/
             - title: 'News Gallery tour'
               url: /tours-and-workshops/tng-virtual-tour/
             - title: 'H.I. workshop'
