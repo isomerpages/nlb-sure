@@ -20,7 +20,7 @@ With cheap prices and easy access to various outlets, fast fashion has grown exp
 
 **The existing COVID-19 Safety Management Measures apply to audience attending the event onsite.**
 
-Please register **[HERE](https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757)**. 
+
 
 ![](../images/rtbs1-speakers.JPG)
 
