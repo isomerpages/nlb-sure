@@ -42,7 +42,7 @@ sections:
           url: /read-to-be-sure/issue1-conversations/
           image: /images/RTBS1-Banner.JPG
           alt: 'alt text'
-          button: 'Register now!'
+          button: 'View programme details'
     - infopic:
           title: 'S.U.R.E Skills Series workshop - How to Be A Smart Fact-Checker'
           subtitle: 'For everyone'
@@ -50,7 +50,7 @@ sections:
           url: /blog/fake-news/FN0017
           image: /images/sure-skills-series-Dec2021.JPG
           alt: 'alt text'
-          button: 'Register now!'
+          button: 'View programme details'
     - infopic:
           title: 'S.U.R.E Series for Seniors: Spotting Deepfake Images and Videos'
           subtitle: 'For everyone'
@@ -58,7 +58,7 @@ sections:
           url: /blog/fake-news/FN0018
           image: /images/sure-skills-series-seniors4.jpg
           alt: 'alt text'
-          button: 'Register now!'
+          button: 'View programme details'
     - infopic:
           title: '银发族S.U.R.E技能系列：如何识破 “深度伪造” 图像和影像'
           subtitle: 'For everyone'
