@@ -21,7 +21,7 @@ We would like to congratulate the following school teams for achieving the top 3
 - Lim Chu Wern
 - Lang Wen Ling Laura
 - Jacqueline Lam Zhi En
-- Lee Jia Yin, Chloes
+- Lee Jia Yin, Chloe
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vEOYx-70pkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
