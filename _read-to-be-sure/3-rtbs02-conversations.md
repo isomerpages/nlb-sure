@@ -55,8 +55,7 @@ With cheap prices and easy access to various outlets, fast fashion has grown exp
 **Irsyad Ramthan** is the former co-Founder of Interseed, a digital platform that promotes sustainability solutions and supports various start-ups that utilize alternative sustainable materials for different consumer products. Over the years, he has designed innovation programmes for Southeast Asian under-35s to solve sustainability challenges. He is currently a sustainable maker and podcast host.
 
 <hr>
-
-If you are interested to find out more about other programmes related to fashion and sustainability. Check this out.
+If you are interested to find out more about other programmes related to fashion and sustainability. Check this out:
 
 <a href="https://www.facebook.com/groups/learnxarts.sg/permalink/432862811673331/" TARGET=_new>
 ![](../images/LearnX-Arts.jpg)</a>
