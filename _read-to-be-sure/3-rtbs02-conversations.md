@@ -56,9 +56,22 @@ With cheap prices and easy access to various outlets, fast fashion has grown exp
 
 <hr>
 
+If you are interested to find out more about other programmes related to fashion and sustainability. Check this out.
+
+<a href="https://www.facebook.com/groups/learnxarts.sg/permalink/432862811673331/" TARGET=_new>
+![](../images/LearnX-Arts.jpg)</a>
+
+<hr>
+
  Here's a visual map of the different perspectives:
 
 <a href="https://staging-nlb-sure.netlify.app/images/RTBS1-visualmap.jpg">![](../images/RTBS1-visualmap.JPG)</a>
+
+
+
+
+
+
 
 
 
