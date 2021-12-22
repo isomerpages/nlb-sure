@@ -14,4 +14,4 @@ Before your child attempts this quiz, you may wish to check out our resources on
 
 **[START THE QUIZ](https://tinyurl.com/tng-surevivor-quiz)**
 
-![](../../../images/SUREvivors quiz thmb.JPG)
+![](../../../images/SUREvivors-quiz-thmb.JPG)

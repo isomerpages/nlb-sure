@@ -9,7 +9,7 @@ permalink: /blog/seniors/SN00002
 #### NLB eResources & Setting Up MyLibrary ID
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe class="resp-iframe" src="https://www.youtube.com/embed/3MsUaXed7Gg" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MsUaXed7Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 

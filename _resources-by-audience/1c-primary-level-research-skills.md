@@ -13,27 +13,37 @@ If you’re not sure where to go to find sources to research for your homework, 
 
 #### NewspaperSG
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/3l38zzEptq0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/9LjwBMyDeJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
 
 #### NLB eResources & Setting Up MyLibrary ID
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <div class="resp-container">
 	<iframe class="resp-iframe" src="https://www.youtube.com/embed/3MsUaXed7Gg" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+    </div></div>
+
+
 
 #### Singapore Infopedia
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/TfSNrJttMk4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/sPkNSb3_I9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
 
 #### Archives Online
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/27xY2ZuG57o" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9tXzVzZrlEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
 
 [Social Studies: Issues Investigation Made Easy](/infographic/NLB_Infographic_SocialStudies.pdf)
 
@@ -79,9 +89,12 @@ Not all information on the internet can be trusted. You can refer to the informa
 
 #### SURE Lok Hom & the Case of Antique Chairs
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/idBVtJ9s7F4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe class="resp-iframe" src="https://www.youtube.com/embed/idBVtJ9s7F4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+
+
+
 
 #### Report Writing Skills 
 
