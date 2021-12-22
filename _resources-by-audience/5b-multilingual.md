@@ -55,13 +55,11 @@ This video is also available in other languages:
 
 ## Infographics	
 
-![How to deal with dubious messages](/images/dubious-messages-English.png)
+![](../images/dubious-messages-English-1573549989107.png)
 
 [**How To Deal With Dubious Messages**](/blog/seniors/sn0005)
 
 Bogus stories can be easily spread through SMS and social messaging tools and apps. Before you share, verify the information using the steps in this tip sheet. 
-
-
 
 
 
@@ -71,13 +69,9 @@ Bogus stories can be easily spread through SMS and social messaging tools and ap
 
 
 
-
-
 **[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/blog/seniors/sn0015)**
 
 Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan aplikasi sebaran mesej sosial. Pastikan anda menyemak informasi dengan menggunakan tip-tip  berikut.
-
-
 
 
 

@@ -13,9 +13,8 @@ If you’re not sure where to go to find sources to research for your homework, 
 
 #### NewspaperSG
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/3l38zzEptq0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LjwBMyDeJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #### NLB eResources & Setting Up MyLibrary ID
 
@@ -25,15 +24,13 @@ If you’re not sure where to go to find sources to research for your homework, 
 
 #### Singapore Infopedia
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/TfSNrJttMk4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sPkNSb3_I9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #### Archives Online
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/27xY2ZuG57o" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9tXzVzZrlEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 [Social Studies: Issues Investigation Made Easy](/infographic/NLB_Infographic_SocialStudies.pdf)
 

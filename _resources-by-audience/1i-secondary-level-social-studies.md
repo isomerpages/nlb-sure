@@ -9,9 +9,8 @@ third_nav_title: 'For Teachers & Students'
 
 #### Singapore Infopedia
 
-<div class="resp-container">
-	<iframe class="resp-iframe" src="https://www.youtube.com/embed/TfSNrJttMk4" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sPkNSb3_I9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 [Ageing Population](/cheatsheet/NLB_CheatSheets7_Ageing-Population.pdf) 
 
