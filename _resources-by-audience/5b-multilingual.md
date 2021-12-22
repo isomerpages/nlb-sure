@@ -19,13 +19,15 @@ This video is also available in other languages:
 - [Malay version](/blog/seniors/SN0023) **[new!]** - Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.
 - [Tamil version](/blog/seniors/SN0024) **[new!]** - தேசிய நூலக வாரியத்தின் S.U.R.E. வழிமுறைகளைப் பின்பற்றி உங்களையும் மற்றவர்களையும் இணையத்தின் போலித்தன்மையிலிருந்து பாதுகாத்துக் கொள்ளுங்கள்.
 
-<hr> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YML5AOlGLH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/YML5AOlGLH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>></div>
+
 
 
 - [Marine Fishes (English)](/blog/seniors/sn0006) Find out how a boy and his grandfather use the 4 ways of S.U.R.E. to set up a marine aquarium.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ADhtSDhMsAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/ADhtSDhMsAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 - [Cheongsam (English)](/blog/seniors/sn0007) - Find out how a lady and her mother use the 4 ways of S.U.R.E. to sew a cheongsam.
