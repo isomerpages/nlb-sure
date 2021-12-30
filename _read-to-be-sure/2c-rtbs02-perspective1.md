@@ -58,7 +58,7 @@ Read on to find out more about the cost of strict COVID-19 restrictions.
 <a href="https://www.bbc.com/news/world-asia-china-59257496"><img src="../images/rtbs2-perspective1-read2.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.uneca.org/videos/eca-COVID-19-response-global-debate-africa’s-COVID-19-lockdown-exit-strategies-executive"><img src="../images/rtbs2-perspective1-watch2.jpg" alt="Africa’s lockdown exit strategy, the debate"></a>
+<a href="https://www.youtube.com/watch?v=5VJJ4hRMqlk"><img src="../images/rtbs2-perspective1-watch2.jpg" alt="Africa’s lockdown exit strategy, the debate"></a>
 </div>
 </div>	
 </div>

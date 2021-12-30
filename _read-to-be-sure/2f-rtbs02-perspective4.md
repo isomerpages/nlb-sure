@@ -48,19 +48,20 @@ Read on to learn more about the path forward.
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.nature.com/articles/d41586-021-03562-8"><img src="../images/rtbs2-perspective5-listen1.jpg" alt="The omicron variant (podcast)image 2"></a>
+<a href="https://news.un.org/en/story/2021/09/1100192"><img src="../images/rtbs2-perspective4-read1.jpg" alt="Widening vaccine inequality"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.bbc.com/future/article/20211201-what-will-the-next-generation-of-covid-19-vaccines-be-like"><img src="../images/rtbs2-perspective5-read1.jpg" alt="The future of COVID-19 vaccines"></a>
+<a href="https://www.straitstimes.com/opinion/the-scandal-of-vaccine-inequity"><img src="../images/rtbs2-perspective4-read2.jpg" alt="The need for vaccine equity"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.channelnewsasia.com/singapore/big-read-COVID-19-young-people-millenials-generation-z-future-2311476"><img src="../images/rtbs2-perspective5-read2.jpg" alt="Generation COVID-19 – long term implications"></a>
+<a href="https://www.youtube.com/watch?v=4J97hPjls2Y"><img src="../images/rtbs2-perspective4-watch1.jpg" alt="COVID-19 changes travel (video)"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.mckinsey.com/Videos/video?vid=6233052089001&plyrid=HkOJqCPWdb&aid=56CFE93E-67A1-451D-B5CB-4D3286947974"><img src="../images/rtbs2-perspective5-watch1.jpg" alt="Accelerated changes at the work place (video)"></a>
+<a href="https://www.independent.co.uk/news/health/lockdown-COVID-coronavirus-19-july-b1883112.html"><img src="../images/rtbs2-perspective4-read3.jpg" alt="Doctors frown on lifting restrictions"></a>
 </div>
 </div>	
 </div>
+
 
 
 
