@@ -42,15 +42,7 @@ Read on to find out more about the cost of strict COVID-19 restrictions.
 </div>
 </div>	
 
-<div>
-<div class="row is-multiline">
-    <div class="col is-one-half-desktop is-one-half-tablet"></div>
-    <div class="col is-one-half-desktop is-one-half-tablet">
-<a href="/read-to-be-sure/issue2-perspective3/"><img src="../images/rtbs2-perspective3.png" alt="image 2"></a>
-</div>
-    <div class="col is-one-half-desktop is-one-half-tablet"></div>  
-</div>	
-</div>
+
 
 ***<font size=5>Want to know more about COVID-19 restrictions?</font>***
 
@@ -70,6 +62,7 @@ Read on to find out more about the cost of strict COVID-19 restrictions.
 </div>
 </div>	
 </div>
+
 
 
 

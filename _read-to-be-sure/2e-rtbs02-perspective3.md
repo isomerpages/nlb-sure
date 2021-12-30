@@ -37,15 +37,8 @@ Read on to find out if the costs of reducing COVID-19 restrictions are too high.
 </div>
 
 
-<div>
-<div class="row is-multiline">
-    <div class="col is-one-half-desktop is-one-half-tablet"></div>
-    <div class="col is-half-desktop is-third-tablet">
-<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.png" alt="image 4"></a>
-</div>
-    <div class="col is-one-half-desktop is-one-half-tablet"></div>
-</div>	
-</div>
+***<font size=5>Read on to find out if the costs of reducing COVID-19 restrictions are too high.</font>***
+
 
 <div>
 <div class="row is-multiline">
