@@ -16,15 +16,7 @@ Watch the video below for a quick introduction, and sign up for the Conversation
 
 We would love to hear your views:
 
-OPTION 1:
-
-![](../images/rtbs2-poll1.JPG)
-
-
-
-OPTION 2:
-
-![](../images/rtbs2-poll2.JPG)
+![]()
 
 
 

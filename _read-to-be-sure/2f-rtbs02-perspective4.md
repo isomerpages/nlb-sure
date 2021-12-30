@@ -10,7 +10,7 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 | :---------------: |
 |                   |
 
-![](../images/rtbs2-perspective4.png)
+![](../images/rtbs2-perspective4-notext.png)
 
 Optimistic projections estimate that by mid-2022, death and disease rates for COVID-19 may be[ lower than that of the seasonal common flu](https://www.straitstimes.com/singapore/covid-19-infection-and-death-rates-should-be-on-a-par-with-seasonal-flu-by-mid-2022-bill) owing to the increase in global immunity resulting from high vaccination rates of a population, or moderate vaccination levels coupled with significant prior COVID-19 infections. As a result, this has encouraged the lifting of COVID-19 restrictions in many countries across the globe.  
 

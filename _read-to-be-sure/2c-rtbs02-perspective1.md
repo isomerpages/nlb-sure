@@ -10,7 +10,7 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 | :---------------: |
 |                   |
 
-![](../images/rtbs2-perspective1.png)
+![](../images/rtbs2-perspective1-notext.png)
 
 While the pandemic started unexpectedly, the world has begun accepting that it has fully transformed our daily routine. Today’s toddlers relate wearing masks to going out, and terms like “circuit breaker”, “lockdown” and “quarantine” have become mainstream. The world came to a standstill as governments took similar approaches to deal with the unknown. Public health resource considerations and a desire to prevent the spread of the virus spurred zero-COVID strategies, despite differences in political systems and development levels. 
 

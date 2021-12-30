@@ -11,7 +11,7 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 | :---------------: |
 |                   |
 
-![](../images/rtbs2-perspective2.png)
+![](../images/rtbs2-perspective2-notext.png)
 
 
 

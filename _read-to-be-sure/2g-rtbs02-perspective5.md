@@ -10,7 +10,7 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 | :---------------: |
 |                   |
 
-![](../images/rtbs2-perspective5.png)
+![](../images/rtbs2-perspective5-notext.png)
 
 Most countries have accepted that eradicating COVID-19 is [impossible](https://www.economist.com/briefing/2021/10/16/how-the-world-learns-to-live-with-covid-19). The emergence of new variants could impact how the pandemic continues to turn up. The Delta variant has shown that an elimination strategy is [no longer viable](https://www.cnbc.com/2021/10/05/zero-covid-strategies-abandoned-in-the-face-of-the-delta-variant.html). The highly transmissible Omicron variant has also posed challenges to easing COVID-19 measures, spurring [further border restrictions](https://www.japantimes.co.jp/news/2021/12/01/asia-pacific/china-covid-zero-omicron/) in some countries. 
 
