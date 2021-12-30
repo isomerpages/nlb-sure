@@ -48,16 +48,20 @@ Read on to learn more about the path forward.
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=W1mvcFuiTts"><img src="../images/rtbs2-watch1.jpg" alt="image 2"></a>
+<a href="https://news.un.org/en/story/2021/09/1100192"><img src="../images/rtbs2-perspective4-read1.jpg" alt="Widening vaccine inequality"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.fashionrevolution.org/resources/listen-to-the-fashion-revolution-podcast/"><img src="../images/rtbs2-listen2.jpg" alt="image 4"></a>
+<a href="https://www.straitstimes.com/opinion/the-scandal-of-vaccine-inequity"><img src="../images/rtbs2-perspective4-read2.jpg" alt="The need for vaccine equity"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://thewardrobecrisis.com/podcast/2017/7/11/podcast-ep-5-kalpona-akter-beyond-rana-plaza"><img src="../images/rtbs2-listen1.jpg" alt="image 4"></a>
+<a href="https://www.youtube.com/watch?v=4J97hPjls2Y"><img src="../images/rtbs2-perspective4-watch1.jpg" alt="COVID-19 changes travel (video)"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://www.independent.co.uk/news/health/lockdown-COVID-coronavirus-19-july-b1883112.html"><img src="../images/rtbs2-perspective4-read2.jpg" alt="Doctors frown on lifting restrictions"></a>
 </div>
 </div>	
 </div>
+
 
 
 

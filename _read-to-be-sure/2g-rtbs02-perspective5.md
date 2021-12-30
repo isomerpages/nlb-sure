@@ -33,20 +33,14 @@ As more countries transition to [COVID-19 endemicity](https://www.bmj.com/conten
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="../images/rtbs2-feedback1.jpg" alt="image 2"></a>
+<a href=""><img src="../images/rtbs2-lets-hear-from-you.jpg" alt="Let's Hear From You"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-conversations/"><img src="../images/rtbs2-joinconvo1.jpg" alt="image 2"></a>
+<a href=""><img src="../images/rtbs2-join-the-convo.jpg" alt="image 2"></a>
 </div>    
 </div>	
-<div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="../images/rtbs2-feedback2.jpg" alt="image 2"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-conversations/"><img src="../images/rtbs2-joinconvo2.jpg" alt="image 2"></a>
-</div>    
-</div></div>	
+</div>	
+
 
 
 
@@ -55,16 +49,20 @@ As more countries transition to [COVID-19 endemicity](https://www.bmj.com/conten
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=elU32XNj8PM&feature=emb_imp_woyt"><img src="../images/rtbs2-watch1.jpg" alt="image 2"></a>
+<a href="https://www.nature.com/articles/d41586-021-03562-8"><img src="../images/rtbs2-perspective5-listen1.jpg" alt="The omicron variant (podcast)image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.goodwear.com/blogs/news/the-top-benefits-of-sustainable-clothing"><img src="../images/rtbs2-read1.jpg" alt="image 4"></a>
+<a href="https://www.bbc.com/future/article/20211201-what-will-the-next-generation-of-COVID-19-vaccineThe future of COVID-19 vacciness-be-like"><img src="../images/rtbs2-perspective5-read1.jpg" alt="The future of COVID-19 vaccines"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.politico.eu/article/fast-fashion-waste-losing-appeal-greta-thunberg-environment/"><img src="../images/rtbs2-read2.jpg" alt="image 4"></a>
+<a href="https://www.channelnewsasia.com/singapore/big-read-COVID-19-young-people-millenials-generation-z-future-2311476"><img src="../images/rtbs2-perspective5-read2.jpg" alt="Generation COVID-19 – long term implications"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="https://www.mckinsey.com/Videos/video?vid=6233052089001&plyrid=HkOJqCPWdb&aid=56CFE93E-67A1-451D-B5CB-4D3286947974"><img src="../images/rtbs2-perspective5-watch1.jpg" alt="Accelerated changes at the work place (video)"></a>
 </div>
 </div>	
 </div>
+
 
 
 

@@ -50,20 +50,18 @@ Read on to know what easing COVID-19 restrictions might mean.
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=ni9gQn5rsLA"><img src="../images/rtbs2-watch1.jpg" alt="image 2"></a>
+<a href="https://www.newscientist.com/article/2292381-why-is-new-zealand-seemingly-giving-up-on-its-zero-COVID-strategy/"><img src="../images/rtbs2-perspective2-read1.jpg" alt="Maintaining zero-COVID policies – the case in New Zealand"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.theguardian.com/business/2019/jun/22/cost-cheap-fast-fashion-workers-planet"><img src="../images/rtbs2-read1.jpg" alt="image 4"></a>
+<a href="https://www.bloomberg.com/news/audio/2021-11-17/nations-bend-to-economic-costs-of-COVID-zero-tolerance-podcast"><img src="../images/rtbs2-perspective2-listen1.jpg" alt="Costs of zero-COVID policy (podcast)"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.theglobeandmail.com/podcasts/the-decibel/article-how-sheins-low-prices-are-setting-fast-fashion-on-fire/"><img src="../images/rtbs2-read1.jpg" alt="image 4"></a>
+<a href="https://www.youtube.com/watch?v=N9gjrficS5U&t=17s"><img src="../images/rtbs2-perspective2-watch1.jpg" alt="The economic outlook following COVID-19 (video)"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.theatlantic.com/magazine/archive/2021/03/ultra-fast-fashion-is-eating-the-world/617794/"><img src="../images/rtbs2-read1.jpg" alt="image 2"></a>
+<a href="https://www.nature.com/articles/d41586-021-03649-2"><img src="../images/rtbs2-perspective1-read2.jpg" alt="The impact on Mental Health (podcast)"></a>
 </div>
 </div>	
 </div>
-
-
 
 

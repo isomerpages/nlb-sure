@@ -12,11 +12,9 @@ Watch the video below for a quick introduction, and sign up for the Conversation
 
 [PLACEHOLDER FOR TEASER VIDEO]
 
-![](../images/rtbs2-watch1.JPG)
-
 We would love to hear your views:
 
-![]()
+![](../images/rtbs2-share-your-thoughts.JPG)
 
 
 
