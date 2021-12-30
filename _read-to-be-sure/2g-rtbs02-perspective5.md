@@ -52,7 +52,7 @@ As more countries transition to [COVID-19 endemicity](https://www.bmj.com/conten
 <a href="https://www.nature.com/articles/d41586-021-03562-8"><img src="../images/rtbs2-perspective5-listen1.jpg" alt="The omicron variant (podcast)image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.bbc.com/future/article/20211201-what-will-the-next-generation-of-COVID-19-vaccineThe future of COVID-19 vacciness-be-like"><img src="../images/rtbs2-perspective5-read1.jpg" alt="The future of COVID-19 vaccines"></a>
+<a href="https://www.bbc.com/future/article/20211201-what-will-the-next-generation-of-covid-19-vaccines-be-like"><img src="../images/rtbs2-perspective5-read1.jpg" alt="The future of COVID-19 vaccines"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="https://www.channelnewsasia.com/singapore/big-read-COVID-19-young-people-millenials-generation-z-future-2311476"><img src="../images/rtbs2-perspective5-read2.jpg" alt="Generation COVID-19 – long term implications"></a>

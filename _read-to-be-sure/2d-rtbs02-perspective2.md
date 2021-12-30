@@ -25,7 +25,15 @@ Countries fear [being left behind](https://www.theguardian.com/world/2021/oct/30
 
 The European Chamber of Commerce in Hong Kong said that the strict quarantine rules left residents “indefinitely [trapped in Hong Kong](https://www.straitstimes.com/ASIA/EAST-ASIA/STRICT-COVID-19-CURBS-LEAVE-HONG-KONG-INDEFINITELY-TRAPPED-EU-CHAMBER-SAYS) when the rest of the world is moving on” thereby threatening its standing as a global financial hub. Strict immigration and quarantine rules leave the territory [isolated](https://www.economist.com/the-economist-explains/2021/10/06/why-hong-kongs-zero-covid-strategy-could-backfire), to the frustration of many families and businesses.
 
-
+<div>
+<div class="row is-multiline">
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue2-perspective4/"><img src="../images/rtbs2-perspective4.png" alt="image 4"></a>
+</div>
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
+</div>	
+</div>
 
 73% of the respondents of a [survey](https://www.iata.org/en/pressroom/2021-releases/2021-10-05-01/) conducted by the International Air Transport Association reported that their quality of life was suffering due to travel restrictions. They had missed many “family moments, personal development opportunities and business priorities.” 
 
@@ -35,11 +43,11 @@ Read on to know what easing COVID-19 restrictions might mean.
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-one-third-desktop is-one-third-tablet"></div>
-    <div class="col is-one-third-desktop is-one-third-tablet">
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
+    <div class="col is-one-half-desktop is-one-half-tablet">
 <a href="/read-to-be-sure/issue2-perspective3/"><img src="../images/rtbs2-perspective3.png" alt="image 2"></a>
 </div>
-    <div class="col is-one-third-desktop is-one-third-tablet"></div>  
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>  
 </div>	
 </div>
 

@@ -28,17 +28,24 @@ Read on to find out if the costs of reducing COVID-19 restrictions are too high.
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-one-third-desktop is-one-third-tablet"></div>
-    <div class="col is-half-desktop is-third-tablet">
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
+    <div class="col is-half-desktop is-half-tablet">
 <a href="/read-to-be-sure/issue2-perspective4/"><img src="../images/rtbs2-perspective4.png" alt="image 4"></a>
 </div>
-    <div class="col is-one-third-desktop is-one-third-tablet"></div>
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
 </div>	
 </div>
 
 
-
-***<font size=5>Want to know more about eased COVID-19 measures?</font>***
+<div>
+<div class="row is-multiline">
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
+    <div class="col is-half-desktop is-third-tablet">
+<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.png" alt="image 4"></a>
+</div>
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
+</div>	
+</div>
 
 <div>
 <div class="row is-multiline">
