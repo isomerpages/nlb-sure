@@ -12,7 +12,7 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 ![](../images/rtbs2-perspective3-notext.png)
 
-As people around the world queue up for vaccine shots, some dream of finally being able to [attend football games](https://safe.menlosecurity.com/https:/www.bloomberg.com/news/articles/2021-11-02/premier-league-soccer-crowds-pack-stadiums-like-never-before) or live music events, while others simply hope this means they can buy groceries safely. The approach towards easing stringent measure varies from country to country — while some opt for a gradual opening, others have lifted measures altogether.  
+As people around the world queue up for vaccine shots, some dream of finally being able to [attend football games](https://www.bloomberg.com/news/articles/2021-11-02/premier-league-soccer-crowds-pack-stadiums-like-never-before) or live music events, while others simply hope this means they can buy groceries safely. The approach towards easing stringent measure varies from country to country — while some opt for a gradual opening, others have lifted measures altogether.  
 
  
 
