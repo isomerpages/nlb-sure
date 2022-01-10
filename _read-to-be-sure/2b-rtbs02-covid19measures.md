@@ -6,16 +6,11 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 ---
 
+<p align=center><b>1-Minute Read</b></p>
+
 **<font size=5>COVID-19 Restrictions: The Roads to Recovery</font>**
 
-| **1-Minute Read** |
-| :---------------: |
-|                   |
-
 ![](../images/rtbs2-visualmap.jpg)
-<font size=2><a href="https://staging-nlb-sure.netlify.app/images/RTBS2-visualmap.pdf" target="_blank">Download the PDF</a></font>
-
-
 
 **Tackling COVID-19** 
 
@@ -35,7 +30,7 @@ Governments worldwide face common challenges of balancing health, social, and ec
 
  
 
-As countries begin to realise that the coronavirus is here to [stay](https://www.nature.com/articles/d41586-021-00396-2), returning to the pre-pandemic normal by lifting restrictions completely has become seemingly less viable.
+As countries begin to realise that the [coronavirus is here to stay](https://www.nature.com/articles/d41586-021-00396-2), returning to the pre-pandemic normal by lifting restrictions completely has become seemingly less viable.
 
  
 

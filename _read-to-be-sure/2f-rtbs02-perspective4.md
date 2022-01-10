@@ -20,8 +20,6 @@ Yet, the capacities of public health systems remain a concern for most governmen
 
 
 
- 
-
 Additionally, while there is a resumption of international activities as borders open up following vaccine rollouts, the lack of harmonised [border measures](https://www.iata.org/en/iata-repository/pressroom/presentations/restarting-global-travel-agm2021/), restrictions and procedures is a cause of confusion for travellers—who resort to finalising plans as late as possible to keep up [with rapidly changing regulations](https://www.swissinfo.ch/eng/travelers-are-waiting-till-last-minute-to-book-flights/47158012), incited by new virus strands. [Fragmented rules](https://worldrepublicnews.com/as-international-travel-returns-confusion-reigns-over-vaccines/) about vaccine acceptance, documentation, as well as testing requirements are costly and difficult to navigate. 
 
  
@@ -31,6 +29,16 @@ The return to normalcy is fragile. Countries that are reopening faster have repo
 
 
 Read on to learn more about the path forward. 
+
+<div>
+<div class="row is-multiline">
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.jpg" alt="image 4"></a>
+</div>
+    <div class="col is-one-half-desktop is-one-half-tablet"></div>
+</div>	
+</div>
 
 
 
