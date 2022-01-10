@@ -34,35 +34,6 @@ Read on to learn more about the path forward.
 
 
 
-<div>
-<div class="row is-multiline">
-    <div class="col is-one-half-desktop is-one-half-tablet"></div>
-    <div class="col is-half-desktop is-third-tablet">
-<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.jpg" alt="image 4"></a>
-</div>
-    <div class="col is-one-half-desktop is-one-half-tablet"></div>
-</div>	
-</div>
-<div>
-<div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://royalsociety.org/science-events-and-lectures/2021/11/living-with-COVID-19/" target="_blank"><img src="../images/rtbs2-perspective3-watch1.jpg" alt="Living with COVID-19 – the conversation (video)"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.channelnewsasia.com/listen/heart-matter/COVID-19-vaccinations-kids-aged-5-11-unpacking-data-parental-fears-and-social-pressures-2322511" target="_blank"><img src="../images/rtbs2-perspective3-listen1.jpg" alt="Coping with kids during the pandemic (podcast)"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.thelancet.com/article/S0140-6736(20)32007-9/fulltext" target="_blank"><img src="../images/rtbs2-perspective3-read1.jpg" alt="Eased restrictions – lessons learnt"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://news.smu.edu.sg/news/2021/09/29/COVID-19-has-significantly-changed-singapores-commuting-patterns" target="_blank"><img src="../images/rtbs2-perspective3-read2.jpg" alt="Questions of mobility"></a>
-</div>
-</div>	
-</div>
-
-
-
-
 ***<font size=5>Want to know more about the problems countries are facing?</font>***
 
 <div>
