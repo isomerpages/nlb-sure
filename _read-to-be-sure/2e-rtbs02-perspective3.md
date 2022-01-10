@@ -16,8 +16,6 @@ As people around the world queue up for vaccine shots, some dream of finally bei
 
 
 
- 
-
 Gradual reopening and public health measures such as mandatory wearing of masks indoors, indoor capacity restrictions, social distancing, and implementing [vaccine passports](https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419) are some strategies that countries can adopt. Countries have also been reopening their borders for [international travel](https://www.instituteforgovernment.org.uk/explainers/covid-international-travel-rules) to cope with the economic and social impacts of the pandemic, that continue to become more [acute](https://www.iata.org/en/programs/covid-19-resources-guidelines/reopening-borders-documents/).
 
  
@@ -47,19 +45,18 @@ Read on to find out if the costs of reducing COVID-19 restrictions are too high.
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://royalsociety.org/science-events-and-lectures/2021/11/living-with-COVID-19/"><img src="../images/rtbs2-perspective3-watch1.jpg" alt="Living with COVID-19 – the conversation (video)"></a>
+<a href="https://royalsociety.org/science-events-and-lectures/2021/11/living-with-COVID-19/" target="_blank"><img src="../images/rtbs2-perspective3-watch1.jpg" alt="Living with COVID-19 – the conversation (video)"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.channelnewsasia.com/listen/heart-matter/COVID-19-vaccinations-kids-aged-5-11-unpacking-data-parental-fears-and-social-pressures-2322511"><img src="../images/rtbs2-perspective3-listen1.jpg" alt="Coping with kids during the pandemic (podcast)"></a>
+<a href="https://www.channelnewsasia.com/listen/heart-matter/COVID-19-vaccinations-kids-aged-5-11-unpacking-data-parental-fears-and-social-pressures-2322511" target="_blank"><img src="../images/rtbs2-perspective3-listen1.jpg" alt="Coping with kids during the pandemic (podcast)"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.thelancet.com/article/S0140-6736(20)32007-9/fulltext"><img src="../images/rtbs2-perspective3-read1.jpg" alt="Eased restrictions – lessons learnt"></a>
+<a href="https://www.thelancet.com/article/S0140-6736(20)32007-9/fulltext" target="_blank"><img src="../images/rtbs2-perspective3-read1.jpg" alt="Eased restrictions – lessons learnt"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://news.smu.edu.sg/news/2021/09/29/COVID-19-has-significantly-changed-singapores-commuting-patterns"><img src="../images/rtbs2-perspective3-read2.jpg" alt="Questions of mobility"></a>
+<a href="https://news.smu.edu.sg/news/2021/09/29/COVID-19-has-significantly-changed-singapores-commuting-patterns" target="_blank"><img src="../images/rtbs2-perspective3-read2.jpg" alt="Questions of mobility"></a>
 </div>
 </div>	
 </div>
-
 
 

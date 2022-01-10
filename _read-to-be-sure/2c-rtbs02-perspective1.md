@@ -50,16 +50,16 @@ Read on to find out more about the cost of strict COVID-19 restrictions.
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-COVID-cero-y-como-puede-ayudarnos-a-minimizar-el-impacto-de-la-pandemia- "><img src="../images/rtbs2-perspective1-read1.jpg" alt="What is a zero-COVID strategy and how can it help us minimise the impact of the pandemic?"></a>
+<a href="https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-COVID-cero-y-como-puede-ayudarnos-a-minimizar-el-impacto-de-la-pandemia- " target="_blank"><img src="../images/rtbs2-perspective1-read1.jpg" alt="What is a zero-COVID strategy and how can it help us minimise the impact of the pandemic?"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=oyueyJtKnnI"><img src="../images/rtbs2-perspective1-watch1.jpg" alt="Understanding social distancing behaviours"></a>
+<a href="https://www.youtube.com/watch?v=oyueyJtKnnI" target="_blank"><img src="../images/rtbs2-perspective1-watch1.jpg" alt="Understanding social distancing behaviours"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.bbc.com/news/world-asia-china-59257496"><img src="../images/rtbs2-perspective1-read2.jpg" alt="image 4"></a>
+<a href="https://www.bbc.com/news/world-asia-china-59257496" target="_blank"><img src="../images/rtbs2-perspective1-read2.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=5VJJ4hRMqlk"><img src="../images/rtbs2-perspective1-watch2.jpg" alt="Africa’s lockdown exit strategy, the debate"></a>
+<a href="https://www.youtube.com/watch?v=5VJJ4hRMqlk" target="_blank"><img src="../images/rtbs2-perspective1-watch2.jpg" alt="Africa’s lockdown exit strategy, the debate"></a>
 </div>
 </div>	
 </div>

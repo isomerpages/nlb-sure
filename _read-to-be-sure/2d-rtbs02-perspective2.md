@@ -49,16 +49,16 @@ Read on to know what easing COVID-19 restrictions might mean.
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.newscientist.com/article/2292381-why-is-new-zealand-seemingly-giving-up-on-its-zero-COVID-strategy/"><img src="../images/rtbs2-perspective2-read1.jpg" alt="Maintaining zero-COVID policies – the case in New Zealand"></a>
+<a href="https://www.newscientist.com/article/2292381-why-is-new-zealand-seemingly-giving-up-on-its-zero-COVID-strategy/" target="_blank"><img src="../images/rtbs2-perspective2-read1.jpg" alt="Maintaining zero-COVID policies – the case in New Zealand"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.bloomberg.com/news/audio/2021-11-17/nations-bend-to-economic-costs-of-covid-zero-tolerance-podcast"><img src="../images/rtbs2-perspective2-listen1.jpg" alt="Costs of zero-COVID policy (podcast)"></a>
+<a href="https://www.bloomberg.com/news/audio/2021-11-17/nations-bend-to-economic-costs-of-covid-zero-tolerance-podcast" target="_blank"><img src="../images/rtbs2-perspective2-listen1.jpg" alt="Costs of zero-COVID policy (podcast)"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=N9gjrficS5U&t=17s"><img src="../images/rtbs2-perspective2-watch1.jpg" alt="The economic outlook following COVID-19 (video)"></a>
+<a href="https://www.youtube.com/watch?v=N9gjrficS5U&t=17s" target="_blank"><img src="../images/rtbs2-perspective2-watch1.jpg" alt="The economic outlook following COVID-19 (video)"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.nature.com/articles/d41586-021-03649-2"><img src="../images/rtbs2-perspective2-listen2.jpg" alt="The impact on Mental Health (podcast)"></a>
+<a href="https://www.nature.com/articles/d41586-021-03649-2" target="_blank"><img src="../images/rtbs2-perspective2-listen2.jpg" alt="The impact on Mental Health (podcast)"></a>
 </div>
 </div>	
 </div>
