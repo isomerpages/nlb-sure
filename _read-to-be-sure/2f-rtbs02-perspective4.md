@@ -1,7 +1,7 @@
 ---
-title: 'Easing COVID-19 Measures: Too much, too soon?'
+title: 'Too much, too soon?'
 permalink: /read-to-be-sure/issue2-perspective4/
-breadcrumb: 'Easing COVID-19 Measures: Too much, too soon?'
+breadcrumb: 'Too much, too soon?'
 third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 ---
@@ -10,7 +10,7 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 | :---------------: |
 |                   |
 
-![](../images/rtbs2-perspective4-notext.png)
+![](../images/rtbs2-perspective4-notext.jpg)
 
 Optimistic projections estimate that by mid-2022, death and disease rates for COVID-19 may be[ lower than that of the seasonal common flu](https://www.straitstimes.com/singapore/covid-19-infection-and-death-rates-should-be-on-a-par-with-seasonal-flu-by-mid-2022-bill) owing to the increase in global immunity resulting from high vaccination rates of a population, or moderate vaccination levels coupled with significant prior COVID-19 infections. As a result, this has encouraged the lifting of COVID-19 restrictions in many countries across the globe.  
 
@@ -20,25 +20,30 @@ Yet, the capacities of public health systems remain a concern for most governmen
 
 
 
- Additionally, while there is a resumption of international activities as borders open up following vaccine rollouts, the lack of harmonised [border measures](https://www.iata.org/en/iata-repository/pressroom/presentations/restarting-global-travel-agm2021/), restrictions and procedures is a cause of confusion for travellers. [Fragmented rules](https://worldrepublicnews.com/as-international-travel-returns-confusion-reigns-over-vaccines/) about vaccine acceptance, documentation, as well as testing requirements are costly and difficult to navigate. 
+ 
+
+Additionally, while there is a resumption of international activities as borders open up following vaccine rollouts, the lack of harmonised [border measures](https://www.iata.org/en/iata-repository/pressroom/presentations/restarting-global-travel-agm2021/), restrictions and procedures is a cause of confusion for travellers—who resort to finalising plans as late as possible to keep up [with rapidly changing regulations](https://www.swissinfo.ch/eng/travelers-are-waiting-till-last-minute-to-book-flights/47158012), incited by new virus strands. [Fragmented rules](https://worldrepublicnews.com/as-international-travel-returns-confusion-reigns-over-vaccines/) about vaccine acceptance, documentation, as well as testing requirements are costly and difficult to navigate. 
 
  
 
-The return to normalcy is fragile. Countries that are reopening faster have reported a [higher death toll](https://doi.org/10.1136/bmj-2021-067508) in the earlier stages of the pandemic. As individuals begin to integrate back into society — balancing their work and personal lives — the risks of cluster infections remain. [Vaccine inequality](https://www.fidh.org/en/issues/international-justice/covid-19-spreading-faster-than-vaccines-rich-countries-must-address) also remains a concern, especially as it creates unvaccinated pockets where the virus can continue to mutate and spread.
+The return to normalcy is fragile. Countries that are reopening faster have reported a [higher death toll](https://doi.org/10.1136/bmj-2021-067508) in the earlier stages of the pandemic. As individuals begin to integrate back into society — balancing their work and personal lives — the risks of cluster infections remain. [Vaccine inequality](https://www.fidh.org/en/issues/international-justice/covid-19-spreading-faster-than-vaccines-rich-countries-must-address) also remains a concern, especially as it creates unvaccinated pockets where the virus can continue to mutate and spread. 
 
- 
+
 
 Read on to learn more about the path forward. 
+
+
 
 <div>
 <div class="row is-multiline">
     <div class="col is-one-half-desktop is-one-half-tablet"></div>
     <div class="col is-half-desktop is-third-tablet">
-<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.png" alt="image 4"></a>
+<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.jpg" alt="image 4"></a>
 </div>
     <div class="col is-one-half-desktop is-one-half-tablet"></div>
 </div>	
 </div>
+
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: 'Tight COVID-19 Restrictions — How effective are they?'
+title: 'How effective are they?'
 permalink: /read-to-be-sure/issue2-perspective1/
-breadcrumb: 'Tight COVID-19 Restrictions — How effective are they?'
+breadcrumb: 'How effective are they?'
 third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 ---
@@ -10,15 +10,15 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 | :---------------: |
 |                   |
 
-![](../images/rtbs2-perspective1-notext.png)
+![](../images/rtbs2-perspective1-notext.jpg)
 
-While the pandemic started unexpectedly, the world has begun accepting that it has fully transformed our daily routine. Today’s toddlers relate wearing masks to going out, and terms like “circuit breaker”, “lockdown” and “quarantine” have become mainstream. The world came to a standstill as governments took similar approaches to deal with the unknown. Public health resource considerations and a desire to prevent the spread of the virus spurred zero-COVID strategies, despite differences in political systems and development levels. 
+While the pandemic started unexpectedly, the world has begun to accept that it has fully transformed our daily routine. Today’s toddlers relate wearing masks to going out, and terms like “circuit breaker”, “lockdown” and “quarantine” have become mainstream. The world came to a standstill as governments took similar approaches to deal with the unknown. Public health resource considerations and a desire to prevent the spread of the virus spurred zero-COVID strategies, despite differences in political systems and development levels. 
 
 
 
  
 
-Countries such as Australia, China, Hong Kong, Macau, New Zealand, Singapore, Taiwan and Vietnam backed policies aimed at [eliminating COVID‑19](https://www.eiu.com/n/asias-transition-away-from-zero-covid/) through strict containment measures, extensive testing, contact tracing and firm international border controls. Such efforts curbed the spread of the virus.
+Countries such as Australia, China, Hong Kong, Macau, New Zealand, Singapore, Taiwan and Vietnam backed policies aimed at [eliminating COVID‑19](https://www.eiu.com/n/asias-transition-away-from-zero-covid/) through strict containment measures, extensive testing, contact tracing and firm international border controls. Such efforts strived to curb the spread of the virus.
 
  
 
@@ -36,11 +36,12 @@ Read on to find out more about the cost of strict COVID-19 restrictions.
 <div class="row is-multiline">
     <div class="col is-one-half-desktop is-one-half-tablet"></div>
     <div class="col is-one-half-desktop is-one-half-tablet">
-<a href="/read-to-be-sure/issue2-perspective2/"><img src="../images/rtbs2-perspective2.png" alt="image 2"></a>
+<a href="/read-to-be-sure/issue2-perspective2/"><img src="../images/rtbs2-perspective2.jpg" alt="image 2"></a>
 </div>	
     <div class="col is-one-half-desktop is-one-half-tablet"></div>
 </div>
 </div>	
+
 
 
 

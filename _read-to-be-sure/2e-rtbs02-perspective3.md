@@ -1,7 +1,7 @@
 ---
-title: 'Easing COVID-19 Measures: What are the possibilities?'
+title: 'What are the possibilities?'
 permalink: /read-to-be-sure/issue2-perspective3/
-breadcrumb: 'Easing COVID-19 Measures: What are the possibilities? '
+breadcrumb: 'What are the possibilities? '
 third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 ---
@@ -10,9 +10,11 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 | :---------------: |
 |                   |
 
-![](../images/rtbs2-perspective3-notext.png)
+![](../images/rtbs2-perspective3-notext.jpg)
 
-As people around the world queue up for vaccine shots, some dream of finally being able to [attend football games](https://www.bloomberg.com/news/articles/2021-11-02/premier-league-soccer-crowds-pack-stadiums-like-never-before) or live music events, while others simply hope this means they can buy groceries safely. The approach towards easing stringent measure varies from country to country — while some opt for a gradual opening, others have lifted measures altogether.  
+As people around the world queue up for vaccine shots, some dream of finally being able to [attend football games](https://safe.menlosecurity.com/https:/www.bloomberg.com/news/articles/2021-11-02/premier-league-soccer-crowds-pack-stadiums-like-never-before) or live music events, while others simply hope this means they can buy groceries safely. The approach towards easing stringent measure varies from country to country — while some opt for a gradual opening, others have lifted measures altogether.  
+
+
 
  
 
@@ -26,11 +28,13 @@ Gradual reopening and public health measures such as mandatory wearing of masks 
 
 Read on to find out if the costs of reducing COVID-19 restrictions are too high.
 
+
+
 <div>
 <div class="row is-multiline">
     <div class="col is-one-half-desktop is-one-half-tablet"></div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue2-perspective4/"><img src="../images/rtbs2-perspective4.png" alt="image 4"></a>
+<a href="/read-to-be-sure/issue2-perspective4/"><img src="../images/rtbs2-perspective4.jpg" alt="image 4"></a>
 </div>
     <div class="col is-one-half-desktop is-one-half-tablet"></div>
 </div>	

@@ -8,15 +8,13 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 **<font size=5>COVID-19 Restrictions: The Roads to Recovery</font>**
 
-| **1-Minute Read** |
-| :---------------: |
-|                   |
-
-![](../images/rtbs2-visualmap.png)
+|         **1-Minute Read**          |
+| :--------------------------------: |
+| ![](../images/rtbs2-visualmap.jpg) |
 
 **Tackling COVID-19** 
 
- Reports of the pandemic have flooded our news feed for almost two years. While adopting masks, hand sanitisers and social distancing have become common place in Singapore, the reality of living with COVID-19 differs from country to country. 
+Reports of the pandemic have flooded our news feed for almost two years. While adopting masks, hand sanitisers and social distancing have become commonplace in Singapore, the reality of living with COVID-19 differs from country to country. 
 
  
 
@@ -24,7 +22,7 @@ As COVID-19 continues to spread globally, questions arise on how to better manag
 
  
 
-Yet continuous lockdowns, quarantine orders, and limited social interactions have adverse effects on public [mental health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02143-7/fulltext) and well-being worldwide. School and business closures, restricted mobility also contribute to economic and political strain. 
+Yet continuous lockdowns, quarantine orders, and limited social interactions have adverse effects on public [mental health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02143-7/fulltext) and well-being worldwide. School and business closures, as well as restricted mobility also contribute to economic and political strain. 
 
  
 
@@ -41,21 +39,22 @@ Read on to find out more about COVID-19 restrictions, and the outlook going forw
 <div>
 <div class="row is-multiline">
 <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective1/"><img src="../images/rtbs2-perspective1.png" alt="image 1"></a>
+<a href="/read-to-be-sure/issue2-perspective1/"><img src="../images/rtbs2-perspective1.jpg" alt="image 1"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective2/"><img src="../images/rtbs2-perspective2.png" alt="image 2"></a>
+<a href="/read-to-be-sure/issue2-perspective2/"><img src="../images/rtbs2-perspective2.jpg" alt="image 2"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective3/"><img src="../images/rtbs2-perspective3.png" alt="image 3"></a>
+<a href="/read-to-be-sure/issue2-perspective3/"><img src="../images/rtbs2-perspective3.jpg" alt="image 3"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective4/"><img src="../images/rtbs2-perspective4.png" alt="image 4"></a>
+<a href="/read-to-be-sure/issue2-perspective4/"><img src="../images/rtbs2-perspective4.jpg" alt="image 4"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.png" alt="image 5"></a>
+<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.jpg" alt="image 5"></a>
 </div>
 </div>
 </div>
+
 
 
