@@ -13,11 +13,7 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 ![](../images/rtbs2-perspective2-notext.jpg)
 
-# Countries fear [being left behind](https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll) in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people. 
-
-
-
- 
+Countries fear [being left behind](https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll) in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people. 
 
 [Singapore](https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic), [Australia, New Zealand](https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last) and [Vietnam](https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327), for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the [global population](https://www.nature.com/articles/d41586-021-00396-2) for years to come. 
 
