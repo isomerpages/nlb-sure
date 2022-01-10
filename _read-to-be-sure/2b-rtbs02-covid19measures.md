@@ -8,9 +8,11 @@ third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 **<font size=5>COVID-19 Restrictions: The Roads to Recovery</font>**
 
-|         **1-Minute Read**          |
-| :--------------------------------: |
-| ![](../images/rtbs2-visualmap.jpg) |
+| **1-Minute Read** |
+| :---------------: |
+|                   |
+
+<a href="https://staging-nlb-sure.netlify.app/images/RTBS2-visualmap.pdf">![](../images/rtbs2-visualmap.jpg)</a>
 
 **Tackling COVID-19** 
 
