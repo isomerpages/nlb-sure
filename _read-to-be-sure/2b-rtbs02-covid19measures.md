@@ -1,7 +1,7 @@
 ---
-title: 'COVID-19 Restrictions - The 5 Perspectives'
+title: 'COVID-19 Restrictions - The Perspectives'
 permalink: /read-to-be-sure/issue2-perspectives/
-breadcrumb: 'The 5 Perspectives'
+breadcrumb: 'The Perspectives'
 third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
 
 ---
