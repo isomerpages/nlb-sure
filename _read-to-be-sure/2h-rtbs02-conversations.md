@@ -2,7 +2,7 @@
 title: 'Conversations'
 permalink: /read-to-be-sure/issue2-conversations/
 breadcrumb: 'Conversations'
-third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
+third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 
@@ -10,11 +10,12 @@ In our **Read to be SURE** **Conversations**, we will invite guests from all wal
 
 [PLACEHOLDER FOR CONVO #2 BANNER]
 
-[PLACE HOLDER FOR CONVO #2 BLURB]
+Date: Sat, 19 Feb 2022
+Time: 3.00pm to 4.30pm
 
 **About this Event**
 
-**This is a hybrid event. The programme will be live-streamed via ZOOM from [tbc].**
+**This is a hybrid event. The programme will be live-streamed via ZOOM from library@harbourfront.**
 
 **The existing COVID-19 Safety Management Measures apply to audience attending the event onsite.**
 

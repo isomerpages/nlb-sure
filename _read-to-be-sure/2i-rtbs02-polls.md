@@ -2,7 +2,7 @@
 title: 'Share Your Thoughts'
 permalink: /read-to-be-sure/issue2-polls/
 breadcrumb: 'Share Your Thoughts'
-third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
+third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 

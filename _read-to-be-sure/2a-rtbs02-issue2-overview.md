@@ -2,7 +2,7 @@
 title: 'Introduction'
 permalink: /read-to-be-sure/issue2-introduction/
 breadcrumb: 'Introduction'
-third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
+third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 

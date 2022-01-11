@@ -2,13 +2,13 @@
 title: 'COVID-19 Restrictions - The Perspectives'
 permalink: /read-to-be-sure/issue2-perspectives/
 breadcrumb: 'The Perspectives'
-third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
+third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 
 <p align=center><b>1-Minute Read</b></p>
 
-**<font size=5>COVID-19 Restrictions: The Roads to Recovery</font>**
+**<font size=5>COVID-19 Curbs: Less or More?</font>**
 
 ![](../images/rtbs2-visualmap.jpg)
 

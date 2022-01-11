@@ -2,7 +2,7 @@
 title: 'Too much, too soon?'
 permalink: /read-to-be-sure/issue2-perspective4/
 breadcrumb: 'Too much, too soon?'
-third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
+third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 

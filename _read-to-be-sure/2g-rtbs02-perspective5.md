@@ -2,7 +2,7 @@
 title: 'Where do we go from here?'
 permalink: /read-to-be-sure/issue2-perspective5/
 breadcrumb: 'Where do we go from here? '
-third_nav_title: 'Issue #2: COVID-19 Restrictions — The Roads to Recovery'
+third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 
