@@ -32,7 +32,7 @@ What is the difference between the two, and how can you tell if what you are usi
 
 ![](../images/surevivors-act3-03.JPG)
 
-** ![](../images/book-cover-001.png)
+ ![](../images/book-cover-001.png)
 
 You are now ready to take the quiz! Click on this link to test your knowledge: 
 
