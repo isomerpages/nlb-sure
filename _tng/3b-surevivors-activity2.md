@@ -57,13 +57,13 @@ What happens at the beginning, middle and end of the story? Remember to think ab
 
 Start creating your own adventures with these tools below:
 
-·    [Storyboard That](https://www.storyboardthat.com/) (https://www.storyboardthat.com/)
+·    [Storyboard That](https://www.storyboardthat.com/) 
 
-·    [Canva](https://www.canva.com/create/comic-strips/) (https://www.canva.com/create/comic-strips/)
+·    [Canva](https://www.canva.com/create/comic-strips/) 
 
-·    [Pixton](https://www.pixton.com/student-comic-builder) (https://www.pixton.com/student-comic-builder)
+·    [Pixton](https://www.pixton.com/student-comic-builder) 
 
-·    [Powerpoint](Powerpoint) (https://youtu.be/OZUkNY97nzk) 
+·    [Powerpoint](https://youtu.be/OZUkNY97nzk)  
 
  
 
