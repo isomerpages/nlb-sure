@@ -41,8 +41,6 @@ collections:
         output: true
     issue1-introduction:
         output: true
-    issue2-introduction:
-        output: true
     tng:
         output: true
     pri-activity:
