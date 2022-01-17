@@ -21,24 +21,27 @@ We have prepared a series of online activities for you:
 
 ## **Primary School Activities:**
 
-| ![](../images/Early-Editions-4in.JPG)                        |      |
-| ------------------------------------------------------------ | ---- |
-| [Early Editions](https://sure.nlb.gov.sg/tng/pri-activity/)  |      |
-|                                                              |      |
-| ![](../images/Extra-Extra-4in.JPG)                           |      |
-| [Extra! Extra!](https://sure.nlb.gov.sg/tng/pri-activity2/)  |      |
-|                                                              |      |
-| ![](../images/Behind-Every-Story-4in.JPG)                    |      |
-| [Behind Every Story](https://sure.nlb.gov.sg/tng/pri-activity3/) |      |
-
-
+<div>
+<div class="row is-multiline">
+	<div class="col is-half-desktop is-half-tablet">
+<a href="/tng/pri-activity/" target="_blank"><img src="../images/Early-Editions-4in.JPG" alt="TNG activity 1"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/tng/pri-activity2/" target="_blank"><img src="../images/Extra-Extra-4in.JPG" alt="TNG  activity 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/tng/pri-activity3/" target="_blank"><img src="../images/Behind-Every-Story-4in.JPG" alt="TNG activity 3"></a>
+</div>
+</div>	
+</div>
+`
 
 ## SUREvivors Activities
 
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://sure.nlb.gov.sg/tng/surevivors-activity/)" target="_blank"><img src="../images/SUREvivors-quiz-thmb.JPG" alt="SUREvivors Activity 1"></a>
+<a href="/tng/surevivors-activity/)" target="_blank"><img src="../images/SUREvivors-quiz-thmb.JPG" alt="SUREvivors Activity 1"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="https://sure.nlb.gov.sg/tng/surevivors-activity2/" target="_blank"><img src="../images/SUREvivors-gacha2.JPG" alt="SUREvivors Activity 2"></a>
