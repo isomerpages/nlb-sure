@@ -43,8 +43,6 @@ You would definitely have come across advertisements, be it on the internet, tel
 
 Their aim is to persuade you to buy whatever product or service they are advertising. This can be done by making the images of the product look attractive or showing you the reactions of people using them.
 
-Now that you know more about how to identify the intentions of the author, try out this quiz **[[HERE](https://go.gov.sg/surevivor-activity6)]**.
-
 ![](../images/surevivors-act6-03.JPG)
 
 
