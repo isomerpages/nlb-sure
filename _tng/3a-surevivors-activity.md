@@ -13,7 +13,10 @@ The SUREvivors need your help!  Defeat the Fake News Monsters by answering the q
 
 [Before your child attempts this quiz, you may wish to check out our resources on combating fake news **[HERE](https://sure.nlb.gov.sg/resources/audience/adults/combating-fake-news)**.]
 
-**[START THE QUIZ](https://go.gov.sg/surevivor-activity-1)**
+- [For Primary School Students](https://go.gov.sg/surevivor-activity1a) 
+- [For Secondary School Students](https://go.gov.sg/surevivor-activity-1)
+
+
 
 ![](../images/SUREvivors-quiz-thmb.JPG)
 

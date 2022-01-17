@@ -11,7 +11,7 @@ image: ../../../images//sure-skills-series-seniors4.jpg
 
 Date: 7 December 2021 <br>Time: 3:00PM to 4:00 PM<br>Conducted via Zoom<br>Free of Charge
 
-**REGISTER [[HERE](https://www.eventbrite.sg/e/sure-skills-series-for-seniors-spotting-deepfake-images-and-videos-tickets-174925586137?aff=ebdssbonlinesearch)]**
+Download the slides **[HERE](https://go.gov.sg/nlb-sure-7dec2021-slides)**.
 
 ## About this event
 

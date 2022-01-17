@@ -10,6 +10,19 @@ third_nav_title: 'SURE Campaign'
 
 For more information about our public runs, please refer to the following:
 
+
+
+**2022 SERIES:**
+
+* **S.U.R.E. Skills Series for Seniors workshops**
+  * [Part 1: Factchecking Dubious Emails & Messages (30 Mar 2022, 3-4pm)](https://www.eventbrite.sg/e/sure-skills-series-for-seniors-factchecking-dubious-emails-messages-tickets-244266837687)
+  * [Part 2: Verifying Images & Videos (21 Apr 2022, 3-4pm)](https://www.eventbrite.sg/e/sure-skills-series-for-seniors-verifying-images-videos-tickets-244274691177)
+  * [Part 3: Spotting Deepfake Images & Videos (18 May 2022, 3-4pm)](https://www.eventbrite.sg/e/sure-skills-series-for-seniors-spotting-deepfake-images-videos-tickets-244277178617)
+
+
+
+**2021 SERIES:**
+
 - **S.U.R.E Skills Series workshops** 
   - [Part 1: Detecting Fake Videos and Images (2 July 2021, 7pm – 8.30pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0008)
   - [Part 2: Safeguarding Your Mind Against Fake News (3 September 2021, 7pm – 8.30pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0012)

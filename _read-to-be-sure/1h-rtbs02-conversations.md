@@ -8,17 +8,19 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
-<a href="https://www.eventbrite.sg/e/fast-fashion-love-it-or-hate-it-read-to-be-sure-tickets-202741323757">![](../images/RTBS1-Banner.JPG)</a>
+With cheap prices and easy access to various outlets, fast fashion has grown exponentially over the years as consumers flock to them for their apparel needs. Is fast fashion necessarily bad? Is sustainable fashion the only solution? 
 
-With cheap prices and easy access to various outlets, fast fashion has grown exponentially over the years as consumers flock to them for their apparel needs. Is fast fashion necessarily bad? Is sustainable fashion the only solution? Join us on 8 Dec, as the speakers share their views on this issue. 
+Watch the highlights of the Conversation event on 8 Dec 2021:
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3cu9B4DSfA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
-**About this Event**
+Watch the full recording:
 
-**This is a hybrid event. The programme will be live-streamed via ZOOM from Library@Orchard.**
-
-**The existing COVID-19 Safety Management Measures apply to audience attending the event onsite.**
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H9TfsasMWr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
@@ -53,12 +55,6 @@ With cheap prices and easy access to various outlets, fast fashion has grown exp
 
 
 **Irsyad Ramthan** is the former co-Founder of Interseed, a digital platform that promotes sustainability solutions and supports various start-ups that utilize alternative sustainable materials for different consumer products. Over the years, he has designed innovation programmes for Southeast Asian under-35s to solve sustainability challenges. He is currently a sustainable maker and podcast host.
-
-<hr>
-If you are interested to find out more about other programmes related to fashion and sustainability. Check this out:
-
-<a href="https://www.facebook.com/groups/learnxarts.sg/permalink/432862811673331/" TARGET=_new>
-![](../images/LearnX-Arts.jpg)</a>
 
 <hr>
 
