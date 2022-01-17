@@ -41,7 +41,7 @@ We have prepared a series of online activities for you:
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="/tng/surevivors-activity/)" target="_blank"><img src="../images/SUREvivors-quiz-thmb.JPG" alt="SUREvivors Activity 1"></a>
+<a href="/tng/surevivors-activity/" target="_blank"><img src="../images/SUREvivors-quiz-thmb.JPG" alt="SUREvivors Activity 1"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="https://sure.nlb.gov.sg/tng/surevivors-activity2/" target="_blank"><img src="../images/SUREvivors-gacha2.JPG" alt="SUREvivors Activity 2"></a>
