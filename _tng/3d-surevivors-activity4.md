@@ -29,11 +29,13 @@ One place you can get reliable sources of information from is the library!
 
 
 *1. Books and Magazines*
+
 You can refer to books or authoritative magazines (such as those published by well-known and well-recognised scientific institutions) for your research. These publications will often include their sources of information for further reading under their “references” section.
 
 
 
 *2. E-books and e-magazines*
+
 Some of these materials are even available online on the National Library Board’s [eResources website](https://eresources.nlb.gov.sg/main)! All you need is a [myLibrary username](https://www.nlb.gov.sg/Portals/0/IMG/VisitUs/Membership_Guide/myLibrary_ID_Registration_Guide.PDF) to access these eResources. Here are some useful resources you can start exploring:
 
 -  **[Overdrive](https://nlb.overdrive.com/)** *for a range of ebooks, audiobooks and magazines.*
@@ -43,6 +45,7 @@ Some of these materials are even available online on the National Library Board�
    
 
 *3. Newspapers*
+
 Newspapers are a great source of information. Reputable newspapers will fact-check reports and correct errors made by their reporters. Here’s how you can access newspapers in our collection:
 
 - **[NewspaperSG](https://eresources.nlb.gov.sg/newspapers/)** *for online access to older Singapore newspapers* 
@@ -54,6 +57,7 @@ Newspapers are a great source of information. Reputable newspapers will fact-che
    
 
 *4. Online websites*
+
 Thanks to the internet, information is at our fingertips! It’s usually our first go-to place when searching for information. However, with the vast amount of information available online, you must be extra careful that the websites are authoritative or associated to credible organisations. 
 
  One way to check if an online source of information is trustworthy or reliable is to look closely at the website. 

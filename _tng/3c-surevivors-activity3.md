@@ -11,8 +11,8 @@ third_nav_title: 'Meet the SUREvivors'
 
 ![](../images/SUREvivors-activity3A.JPG)
 
-Hi everyone! I'm Source-Finding Sarah, part of the SUREvivors team. I will help you to learn more about what different sources of information are. After that, take my [online quiz](https://forms.gle/LobqaT7jbR9xun49A) to test your knowledge!
- 
+Hi everyone! I'm Source-Finding Sarah, part of the SUREvivors team. I will help you to learn more about what different sources of information are. After that, take my [online quiz](https://go.gov.sg/surevivor-activity-3) to test your knowledge!
+
 
 There are many types of sources of information out there:
 
