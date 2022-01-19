@@ -35,7 +35,7 @@ As more countries transition to [COVID-19 endemicity](https://www.bmj.com/conten
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href=""><img src="../images/rtbs2-lets-hear-from-you.jpg" alt="Let's Hear From You"></a>
+<a href="https://forms.gle/NFAYtAWQedbuSKxm8"><img src="../images/rtbs2-lets-hear-from-you.jpg" alt="Let's Hear From You"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href=""><img src="../images/rtbs2-join-the-convo.jpg" alt="image 2"></a>
