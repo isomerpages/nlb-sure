@@ -16,8 +16,6 @@ While the pandemic started unexpectedly, the world has begun to accept that it h
 
 
 
- 
-
 Countries such as Australia, China, Hong Kong, Macau, New Zealand, Singapore, Taiwan and Vietnam backed policies aimed at [eliminating COVID‑19](https://www.eiu.com/n/asias-transition-away-from-zero-covid/) through strict containment measures, extensive testing, contact tracing and firm international border controls. Such efforts strived to curb the spread of the virus.
 
  
@@ -30,19 +28,14 @@ Yet, those who live in democracies and value personal liberty might find the cos
 
  
 
-Read on to find out more about the cost of strict COVID-19 restrictions. 
-
-<details>
-
-    <summary><span style="font-weight: 700; font-size: 16px; font-style: normal;">What are the downsides to having more restrictions?</span></summary>
+<details>    <summary><span style="font-weight: 700; font-size: 16px; font-style: normal;">What are the downsides to having more restrictions?</span></summary>
 <br>
     <span style="font-weight: 400; font-size: 16px; font-style: normal; color:normal">Countries fear <a href="https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll">being left behind</a> in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people. 
-<a href="https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic">Singapore</a>, <a href="https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last">Australia, New Zealand</a> and <a href="https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327">Vietnam</a>, for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the <a href="https://www.nature.com/articles/d41586-021-00396-2">global population</a> for years to come. </span>
-</details>
+<a href="https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic">Singapore</a>, <a href="https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last">Australia, New Zealand</a> and <a href="https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327">Vietnam</a>, for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the <a href="https://www.nature.com/articles/d41586-021-00396-2">global population</a> for years to come. 73% of the respondents of a <a href="https://www.iata.org/en/pressroom/2021-releases/2021-10-05-01/">survey</a> conducted by the International Air Transport Association reported that their quality of life was suffering due to travel restrictions. They had missed many “family moments, personal development opportunities and business priorities.”</span></details>
 
 
 
-***<font size=5>Want to know more about COVID-19 restrictions?</font>***
+***<font size=4>Want to know more about COVID-19 restrictions?</font>***
 
 <div>
 <div class="row is-multiline">
