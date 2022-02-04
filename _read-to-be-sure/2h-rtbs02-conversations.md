@@ -59,6 +59,7 @@ Moderator:
 
 
 <hr>
+![](../images/rtbs2-visualmap.jpg)
 
 Return to the 5 Perspectives:
 

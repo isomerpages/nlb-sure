@@ -1,7 +1,7 @@
 ---
-title: 'What are the possibilities?'
+title: 'Less Curbs'
 permalink: /read-to-be-sure/issue2-perspective3/
-breadcrumb: 'What are the possibilities? '
+breadcrumb: 'Less Curbs? '
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---

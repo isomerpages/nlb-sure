@@ -1,7 +1,7 @@
 ---
-title: 'How effective are they?'
+title: 'More Curbs'
 permalink: /read-to-be-sure/issue2-perspective1/
-breadcrumb: 'How effective are they?'
+breadcrumb: 'More Curbs'
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
@@ -30,17 +30,26 @@ Yet, those who live in democracies and value personal liberty might find the cos
 
  
 
-Read on to find out more about the cost of strict COVID-19 restrictions. 
+Read on to find out more about the cost of strict COVID-19 restrictions. <details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal;">What are the downsides to having more curbs?</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Countries fear [being left behind](https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll) in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people. 
 
-<div>
-<div class="row is-multiline">
-    <div class="col is-one-half-desktop is-one-half-tablet"></div>
-    <div class="col is-one-half-desktop is-one-half-tablet">
-<a href="/read-to-be-sure/issue2-perspective2/"><img src="../images/rtbs2-perspective2.jpg" alt="image 2"></a>
-</div>	
-    <div class="col is-one-half-desktop is-one-half-tablet"></div>
-</div>
-</div>	
+[Singapore](https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic), [Australia, New Zealand](https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last) and [Vietnam](https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327), for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the [global population](https://www.nature.com/articles/d41586-021-00396-2) for years to come. 
+
+
+
+The European Chamber of Commerce in Hong Kong said that the strict quarantine rules left residents “indefinitely [trapped in Hong Kong](https://www.straitstimes.com/ASIA/EAST-ASIA/STRICT-COVID-19-CURBS-LEAVE-HONG-KONG-INDEFINITELY-TRAPPED-EU-CHAMBER-SAYS) when the rest of the world is moving on” thereby threatening its standing as a global financial hub. Strict immigration and quarantine rules leave the territory [isolated](https://www.economist.com/the-economist-explains/2021/10/06/why-hong-kongs-zero-covid-strategy-could-backfire), to the frustration of many families and businesses.
+
+
+
+73% of the respondents of a [survey](https://www.iata.org/en/pressroom/2021-releases/2021-10-05-01/) conducted by the International Air Transport Association reported that their quality of life was suffering due to travel restrictions. They had missed many “family moments, personal development opportunities and business priorities.” 
+
+</span>
+</details>
+
+
+
 
 
 

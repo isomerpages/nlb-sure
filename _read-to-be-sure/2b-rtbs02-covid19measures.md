@@ -1,5 +1,5 @@
 ---
-title: 'COVID-19 Restrictions - The Perspectives'
+title: 'COVID-19 Restrictions'
 permalink: /read-to-be-sure/issue2-perspectives/
 breadcrumb: 'The Perspectives'
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
@@ -10,51 +10,55 @@ third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 **<font size=5>COVID-19 Curbs: Less or More?</font>**
 
-![](../images/rtbs2-visualmap.jpg)
+![](../images/rtbs2-masthead.jpg)
 
-**Tackling COVID-19** 
-
-Reports of the pandemic have flooded our news feed for almost two years. While adopting masks, hand sanitisers and social distancing have become commonplace in Singapore, the reality of living with COVID-19 differs from country to country. 
+When the Vaccination Travel Lanes (VTL) were announced and social media feeds were slowly filled up with destinations beyond the boundaries of our living room or neighbourhoods, it served as a reminder of life before the pandemic. It isn’t just wanderlust; even if not all of us are privileged to travel, the glimmer of endemicity is on the horizon. 
 
  
 
-As COVID-19 continues to spread globally, questions arise on how to better manage the spread of the coronavirus and its adverse effects. In order to prevent health systems from [becoming overwhelmed](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32007-9/fulltext), many countries have implemented restrictions to limit further escalation. These include lockdowns and border closures to reduce the movement of people. 
+With borders reopening, it signalled that economies could be on the road to recovery. Families could be reunited. The promise of freedom of movement is a much-needed breath of fresh air after living behind our masks for two years.
 
  
 
-Yet continuous lockdowns, quarantine orders, and limited social interactions have adverse effects on public [mental health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02143-7/fulltext) and well-being worldwide. School and business closures, as well as restricted mobility also contribute to economic and political strain. 
+Could this be the year when we finally move from pandemic to endemic? 
 
  
 
-Governments worldwide face common challenges of balancing health, social, and economic concerns. [Public health principles](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32007-9/fulltext) that remain pertinent towards anticipating mitigation approaches include infection status, community acceptance, public health capacity, and health-system capacity. 
+Some of us have our fingers crossed. Constant recalibration of restrictions, if anything, have informed us that certainty is not a given. 
 
  
 
-As countries begin to realise that the [coronavirus is here to stay](https://www.nature.com/articles/d41586-021-00396-2), returning to the pre-pandemic normal by lifting restrictions completely has become seemingly less viable.
+While many countries have relaxed COVID-19 restrictions, news of variants that could threaten human health and overwhelm public health systems is still very much on our radar. It’s difficult to breathe easy when the number of infections is still in the hundreds of thousands and vaccine inequality still a concern across the globe. 
 
  
 
-Read on to find out more about COVID-19 restrictions, and the outlook going forward. 
+Fear and worry about contracting COVID-19 at home, let alone overseas, is a natural reaction for us. Differentiated measures based on vaccination status offer some comfort and a semblance of safety in the face of an unpredictable virus. After all, what else could we do to make sense of our lives turned upside down?
+
+ 
+
+It’s hard to deny the instinct to be social and return to connecting with family, friends and even co-workers in the office freely. Individual efforts such as taking Antigen Rapid Tests (ART) when feeling sick or checking in and out of venues seem like a small price to pay in exchange for some personal freedoms. 
+
+ 
+
+Yet, with some countries moving fast to lift almost all their COVID-19 measures, it’s easy to feel that the grass is greener elsewhere. Even though we know it’s not as simple as “if they can do it, why can’t we?”, the pandemic fatigue has taken its toll. These other possibilities of life with little or no restrictions have their appeal. 
+
+ 
+
+Living in such unprecedented times, there’s no handbook to endemicity. Perhaps what we can hold on to, is that we are definitely moving in that direction.
+
+ 
+
+ **<font size=5>Would you prefer to have...</font>**
 
 <div>
 <div class="row is-multiline">
-<div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective1/"><img src="../images/rtbs2-perspective1.jpg" alt="image 1"></a>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue2-perspective1/"><img src="../images/rtbs2-more-restrictions.jpg" alt="More restrictions"></a>
 </div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective2/"><img src="../images/rtbs2-perspective2.jpg" alt="image 2"></a>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue2-perspective3/"><img src="../images/rtbs2-less-restrictions.jpg" alt="Less restrictions"></a>
 </div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective3/"><img src="../images/rtbs2-perspective3.jpg" alt="image 3"></a>
+</div>	
 </div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective4/"><img src="../images/rtbs2-perspective4.jpg" alt="image 4"></a>
-</div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.jpg" alt="image 5"></a>
-</div>
-</div>
-</div>
-
 
 
