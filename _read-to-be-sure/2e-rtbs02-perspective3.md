@@ -24,7 +24,7 @@ Gradual reopening and public health measures such as mandatory wearing of masks 
 <p><a href="https://www.newsweek.com/sweden-norway-lifting-covid-restrictions-spark-reactions-pundits-want-end-mandates-1634916">Sweden, Norway, and Denmark</a> are among the countries that have decided to live with COVID-19. <a href="https://www.politico.eu/article/denmark-first-eu-lift-coronavirus-restrictions/">Denmark</a> was the first country in the European Union that lifted all COVID-19 restrictions. Norway said that “the time has come to return to a <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/norway-end-coronavirus-related-restrictions-saturday-2021-09-24/">normal daily life</a>” and does not require proof of vaccination for citizens to enter nightclubs, bars or restaurants. <a href="https://www.aa.com.tr/en/europe/sweden-lifts-all-covid-19-restrictions/2378287">Sweden</a> also abolished all COVID-19 related restrictions, announcing that the pandemic has been brought under control. </p></details>
 
 
-
+<HR>
 
 <details>    <summary><b>What are the possible risks from having fewer restrictions?</b></summary>
 <p>
