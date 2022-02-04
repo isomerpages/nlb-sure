@@ -56,29 +56,5 @@ Moderator:
 
 **Sean Tan** is the Outreach Director at Debate Association (Singapore) and a second year student at Singapore Polytechnic. Sean has represented his school in debating tournaments around the world and adjudicated at local tournaments, including the Singapore Secondary Schools Debating Championship and NYP's Inter-school Tournament. Since joining DA(S), Sean has worked on several projects including Youth Debate Open and December Debate Camp. In school, Sean is the President of the Singapore Polytechnic Debating Club, conducting weekly trainings for aspiring debaters.
 
-
-
-<hr>
 ![](../images/rtbs2-visualmap.jpg)
 
-Return to the 5 Perspectives:
-
-<div>
-<div class="row is-multiline">
-<div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective1/"><img src="../images/rtbs2-perspective1.png" alt="image 1"></a>
-</div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective2/"><img src="../images/rtbs2-perspective2.png" alt="image 2"></a>
-</div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective3/"><img src="../images/rtbs2-perspective3.png" alt="image 3"></a>
-</div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective4/"><img src="../images/rtbs2-perspective4.png" alt="image 4"></a>
-</div>
-    <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-perspective5.png" alt="image 5"></a>
-</div>
-</div>
-</div>
