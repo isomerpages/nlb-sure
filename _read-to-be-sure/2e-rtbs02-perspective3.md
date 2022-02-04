@@ -34,7 +34,7 @@ Optimistic projections estimate that by mid-2022, death and disease rates for CO
  <p>The return to normalcy is fragile. Countries that are reopening faster have reported a <a href="https://doi.org/10.1136/bmj-2021-067508">higher death toll</a> in the earlier stages of the pandemic. As individuals begin to integrate back into society — balancing their work and personal lives — the risks of cluster infections remain. <a href="https://www.fidh.org/en/issues/international-justice/covid-19-spreading-faster-than-vaccines-rich-countries-must-address">Vaccine inequality</a> also remains a concern, especially as it creates unvaccinated pockets where the virus can continue to mutate and spread. </p></details>
 
 
-
+<hr>
 
 ***<font size=4>Read on to find out if the costs of reducing COVID-19 restrictions are too high.</font>***
 
