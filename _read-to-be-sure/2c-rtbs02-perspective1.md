@@ -1,7 +1,7 @@
 ---
-title: 'More Curbs'
+title: 'More Curbs?'
 permalink: /read-to-be-sure/issue2-perspective1/
-breadcrumb: 'More Curbs'
+breadcrumb: 'More Curbs?'
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
@@ -28,7 +28,7 @@ While today most of the world expects COVID-19 to become [endemic](https://www.n
 <br>
     <span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Optimistic projections estimate that by mid-2022, death and disease rates for COVID-19 may be <a href="https://www.straitstimes.com/singapore/covid-19-infection-and-death-rates-should-be-on-a-par-with-seasonal-flu-by-mid-2022-bill"></a>lower than that of the seasonal common fluhttps://www.straitstimes.com/singapore/covid-19-infection-and-death-rates-should-be-on-a-par-with-seasonal-flu-by-mid-2022-bill owing to the increase in global immunity resulting from high vaccination rates of a population, or moderate vaccination levels coupled with significant prior COVID-19 infections. As a result, this has encouraged the lifting of COVID-19 restrictions in many countries across the globe. <br>Yet, the capacities of public health systems remain a concern for most governments, who resort to keeping a close watch on COVID-19 case numbers, ready to re-impose restrictions whenever deemed necessary. People and businesses are thus <a href="https://www.bmj.com/content/375/bmj-2021-067508">caught in confusion</a> when these policies are adjusted.  <br>Additionally, while there is a resumption of international activities as borders open up following vaccine rollouts, the lack of harmonised <a href="https://www.iata.org/en/iata-repository/pressroom/presentations/restarting-global-travel-agm2021/">border measures</a>, restrictions and procedures is a cause of confusion for travellers—who resort to finalising plans as late as possible to keep up <a href="https://www.swissinfo.ch/eng/travelers-are-waiting-till-last-minute-to-book-flights/47158012">with rapidly changing regulations</a>, incited by new virus strands. <a href="https://worldrepublicnews.com/as-international-travel-returns-confusion-reigns-over-vaccines/">Fragmented rules</a> about vaccine acceptance, documentation, as well as testing requirements are costly and difficult to navigate.  <br>The return to normalcy is fragile. Countries that are reopening faster have reported a <a href="https://doi.org/10.1136/bmj-2021-067508">higher death toll</a> in the earlier stages of the pandemic. As individuals begin to integrate back into society — balancing their work and personal lives — the risks of cluster infections remain. <a href="https://www.fidh.org/en/issues/international-justice/covid-19-spreading-faster-than-vaccines-rich-countries-must-address">Vaccine inequality</a> also remains a concern, especially as it creates unvaccinated pockets where the virus can continue to mutate and spread. </span></details>
 
- 
+
 
 <details>    <summary><span style="font-weight: 700; font-size: 20px; font-style: normal;">What are the downsides to having more restrictions?</span></summary>
 <br>

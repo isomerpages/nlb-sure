@@ -1,7 +1,7 @@
 ---
-title: 'Introduction'
+title: 'Welcome to Issue 2'
 permalink: /read-to-be-sure/issue2-introduction/
-breadcrumb: 'Introduction'
+breadcrumb: 'Welcome to Issue 2'
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
