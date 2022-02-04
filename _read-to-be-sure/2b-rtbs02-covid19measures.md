@@ -18,7 +18,7 @@ When the Vaccination Travel Lanes (VTL) were announced and social media feeds we
 
 With borders reopening, it signalled that economies could be on the road to recovery. Families could be reunited. The promise of freedom of movement is a much-needed breath of fresh air after living behind our masks for two years.
 
- 
+
 <details>    <summary><b>Could this be the year when we finally move from pandemic to endemic?</b></summary>
 <p><br>Some of us have our fingers crossed. Constant recalibration of restrictions, if anything, have informed us that certainty is not a given.</p> 
 <p>While many countries have relaxed COVID-19 restrictions, news of variants that could threaten human health and overwhelm public health systems is still very much on our radar. It’s difficult to breathe easy when the number of infections is still in the hundreds of thousands and vaccine inequality still a concern across the globe.</p>
@@ -34,13 +34,17 @@ With borders reopening, it signalled that economies could be on the road to reco
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-third-desktop is-one-third-tablet">
 <a href="/read-to-be-sure/issue2-perspective1/"><img src="../images/rtbs2-more-restrictions.jpg" alt="More restrictions"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-third-desktop is-one-third-tablet">
 <a href="/read-to-be-sure/issue2-perspective3/"><img src="../images/rtbs2-less-restrictions.jpg" alt="Less restrictions"></a>
 </div>
-</div>	
+    <div class="col is-one-third-desktop is-one-third-tablet">
+<a href="/read-to-be-sure/issue2-perspective5/"><img src="../images/rtbs2-middle-path.jpg" alt="More restrictions"></a>
 </div>
+    </div>	
+</div>
+
 
 
