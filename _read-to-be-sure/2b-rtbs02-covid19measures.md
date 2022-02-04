@@ -1,7 +1,7 @@
 ---
-title: 'COVID-19 Restrictions'
+title: 'Less or More Curbs?'
 permalink: /read-to-be-sure/issue2-perspectives/
-breadcrumb: 'The Perspectives'
+breadcrumb: 'More or Less Curbs?'
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
