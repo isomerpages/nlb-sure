@@ -1,7 +1,7 @@
 ---
-title: 'The Middle Path?'
+title: 'A Middle Path?'
 permalink: /read-to-be-sure/issue2-perspective5/
-breadcrumb: 'The Middle Path?'
+breadcrumb: 'A Middle Path?'
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
