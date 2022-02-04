@@ -20,14 +20,14 @@ Countries such as Australia, China, Hong Kong, Macau, New Zealand, Singapore, Ta
 <p>While today most of the world expects COVID-19 to become <a href="https://www.nature.com/articles/d41586-021-00396-2">endemic</a>, <a href="https://www.straitstimes.com/asia/east-asia/china-is-more-dedicated-than-ever-to-covid-19-zero-as-it-battles-delta">China</a> continues to maintain this approach. <a href="https://research.nus.edu.sg/eai/wp-content/uploads/sites/2/2020/06/EAIBB-No.-1535-Life_political-opinions_COVID-19-lockdown-Chengdu-n-Wuhan-2.pdf">Public support</a> for the zero-COVID approach in China appears strong, possibly due to the <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.694988/full">social stigma and discrimination</a> of those who contract COVID-19. A study even estimates that China would have to cope with over <a href="https://www.straitstimes.com/asia/east-asia/china-study-warns-of-colossal-covid-19-outbreak-if-it-opens-up-like-us-france">600,000 cases a day</a> if travel restrictions are lifted, highlighting China’s argument that its approach is one driven by necessity.
 </details>
 
-
+<hr>
 
 <details>    <summary><b>What are the downsides to having more restrictions?</b></summary>
 <p><br>Countries fear <a href="https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll">being left behind</a> in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people.</p> 
 <p><a href="https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic">Singapore</a>, <a href="https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last">Australia, New Zealand</a> and <a href="https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327">Vietnam</a>, for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the <a href="https://www.nature.com/articles/d41586-021-00396-2">global population</a> for years to come.</p> 
 <p>73% of the respondents of a <a href="https://www.iata.org/en/pressroom/2021-releases/2021-10-05-01/">survey</a> conducted by the International Air Transport Association reported that their quality of life was suffering due to travel restrictions. They had missed many “family moments, personal development opportunities and business priorities.” <img src="../images/rtbs2-perspective2-notext.jpg"></p>
 </details>
-
+<hr>
 
 
 ***<font size=4>Want to know more about COVID-19 restrictions?</font>***
