@@ -30,27 +30,15 @@ Yet, those who live in democracies and value personal liberty might find the cos
 
  
 
-Read on to find out more about the cost of strict COVID-19 restrictions. <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal;">What are the downsides to having more curbs?</span></summary>
+Read on to find out more about the cost of strict COVID-19 restrictions. 
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal;">What are the downsides to having more restrictions?</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Countries fear [being left behind](https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll) in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people. 
-
-[Singapore](https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic), [Australia, New Zealand](https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last) and [Vietnam](https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327), for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the [global population](https://www.nature.com/articles/d41586-021-00396-2) for years to come. 
-
-
-
-The European Chamber of Commerce in Hong Kong said that the strict quarantine rules left residents “indefinitely [trapped in Hong Kong](https://www.straitstimes.com/ASIA/EAST-ASIA/STRICT-COVID-19-CURBS-LEAVE-HONG-KONG-INDEFINITELY-TRAPPED-EU-CHAMBER-SAYS) when the rest of the world is moving on” thereby threatening its standing as a global financial hub. Strict immigration and quarantine rules leave the territory [isolated](https://www.economist.com/the-economist-explains/2021/10/06/why-hong-kongs-zero-covid-strategy-could-backfire), to the frustration of many families and businesses.
-
-
-
-73% of the respondents of a [survey](https://www.iata.org/en/pressroom/2021-releases/2021-10-05-01/) conducted by the International Air Transport Association reported that their quality of life was suffering due to travel restrictions. They had missed many “family moments, personal development opportunities and business priorities.” 
-
+    <span style="font-weight: 400; font-size: 16px; font-style: normal; color:normal">Countries fear <a href="https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll">being left behind</a> in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people. 
+        <p><br><a href="https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic">Singapore</a>, <a href="https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last">Australia, New Zealand</a> and <a href="https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327">Vietnam</a>, for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the <a href="https://www.nature.com/articles/d41586-021-00396-2">global population</a> for years to come. 
 </span>
 </details>
-
-
-
-
 
 
 
@@ -58,20 +46,21 @@ The European Chamber of Commerce in Hong Kong said that the strict quarantine ru
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-half-tablet">
 <a href="https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-COVID-cero-y-como-puede-ayudarnos-a-minimizar-el-impacto-de-la-pandemia- " target="_blank"><img src="../images/rtbs2-perspective1-read1.jpg" alt="What is a zero-COVID strategy and how can it help us minimise the impact of the pandemic?"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-half-tablet">
 <a href="https://www.youtube.com/watch?v=oyueyJtKnnI" target="_blank"><img src="../images/rtbs2-perspective1-watch1.jpg" alt="Understanding social distancing behaviours"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-half-tablet">
 <a href="https://www.bbc.com/news/world-asia-china-59257496" target="_blank"><img src="../images/rtbs2-perspective1-read2.jpg" alt="image 4"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-half-tablet">
 <a href="https://www.youtube.com/watch?v=5VJJ4hRMqlk" target="_blank"><img src="../images/rtbs2-perspective1-watch2.jpg" alt="Africa’s lockdown exit strategy, the debate"></a>
 </div>
 </div>	
 </div>
+
 
 
 
