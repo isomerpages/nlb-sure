@@ -26,10 +26,10 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-one-quarter-tablet">
 <a href="https://forms.gle/NFAYtAWQedbuSKxm8"><img src="../images/rtbs2-lets-hear-from-you.jpg" alt="Let's Hear From You"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-one-quarter-tablet">
 <a href=""><img src="../images/rtbs2-join-the-convo.jpg" alt="image 2"></a>
 </div>    
 </div>	
@@ -38,20 +38,21 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 
 
 
+
 ***<font size=5>Want to know more about how countries hope to move forward?</font>***
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.nature.com/articles/d41586-021-03562-8"><img src="../images/rtbs2-perspective5-listen1.jpg" alt="The omicron variant (podcast)image 2"></a>
+    <div class="col is-one-quarter-desktop is-one-quarter-tablet">
+<a href="https://www.nature.com/articles/d41586-021-03562-8"><img src="../images/rtbs2-perspective5-listen1.jpg" alt="The omicron variant (podcast)"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-one-quarter-tablet">
 <a href="https://www.bbc.com/future/article/20211201-what-will-the-next-generation-of-covid-19-vaccines-be-like"><img src="../images/rtbs2-perspective5-read1.jpg" alt="The future of COVID-19 vaccines"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-one-quarter-tablet">
 <a href="https://www.channelnewsasia.com/singapore/big-read-COVID-19-young-people-millenials-generation-z-future-2311476"><img src="../images/rtbs2-perspective5-read2.jpg" alt="Generation COVID-19 – long term implications"></a>
 </div>
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-one-quarter-desktop is-one-quarter-tablet">
 <a href="https://www.mckinsey.com/Videos/video?vid=6233052089001&plyrid=HkOJqCPWdb&aid=56CFE93E-67A1-451D-B5CB-4D3286947974"><img src="../images/rtbs2-perspective5-watch1.jpg" alt="Accelerated changes at the work place (video)"></a>
 </div>
 </div>	
