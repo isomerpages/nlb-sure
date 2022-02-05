@@ -51,5 +51,5 @@ Moderator:
 
 
 
-![](../images/rtbs2-visualmap.jpg)
+
 
