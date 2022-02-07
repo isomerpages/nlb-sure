@@ -6,7 +6,7 @@ third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 
-<p align=center><b>1-Minute Read</b></p>
+<p align=center><b>2-Minute Read</b></p>
 
 **<font size=5>COVID-19 Curbs: Less or More?</font>**
 
