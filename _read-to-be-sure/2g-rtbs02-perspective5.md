@@ -36,6 +36,10 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 </div>	
 
 
+Take our [**poll**](https://forms.gle/zkBsk2izarbksiQB6) now, and share your views on this topic!  Here are the [current poll results](https://docs.google.com/forms/d/e/1FAIpQLSf_lZzfeQtbTtuAwcgXkhcuNBXjyWCb7ejOpZwelRO4lYboPg/viewanalytics): 
+
+![](../images/rtbs2-poll1-2feb2022.JPG)
+
 
 
 
