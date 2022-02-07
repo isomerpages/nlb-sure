@@ -8,8 +8,6 @@ third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 <p align=center><b>2-Minute Read</b></p>
 
-**<font size=5>COVID-19 Curbs: Less or More?</font>**
-
 ![](../images/rtbs2-masthead.jpg)
 
 When the Vaccination Travel Lanes (VTL) were announced and social media feeds were slowly filled up with destinations beyond the boundaries of our living room or neighbourhoods, it served as a reminder of life before the pandemic. It isn’t just wanderlust; even if not all of us are privileged to travel, the glimmer of endemicity is on the horizon. 
