@@ -6,7 +6,7 @@ third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 
-| **2-Minute Read** |
+| **1-Minute Read** |
 | :---------------: |
 |                   |
 
