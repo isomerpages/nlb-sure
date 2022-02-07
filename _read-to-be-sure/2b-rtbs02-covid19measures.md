@@ -8,17 +8,13 @@ third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 <p align=center><b>2-Minute Read</b></p>
 
-![](../images/rtbs2-masthead.jpg)
+![](../images/rtbs2-masthead2.jpg)
 
 When the Vaccination Travel Lanes (VTL) were announced and social media feeds were slowly filled up with destinations beyond the boundaries of our living room or neighbourhoods, it served as a reminder of life before the pandemic. It isn’t just wanderlust; even if not all of us are privileged to travel, the glimmer of endemicity is on the horizon. 
 
- 
-
 With borders reopening, it signalled that economies could be on the road to recovery. Families could be reunited. The promise of freedom of movement is a much-needed breath of fresh air after living behind our masks for two years.
 
-
-<details>    <summary><b>Could this be the year when we finally move from pandemic to endemic?</b></summary>
-<p><br>Some of us have our fingers crossed. Constant recalibration of restrictions, if anything, have informed us that certainty is not a given.</p> 
+Some of us have our fingers crossed. Constant recalibration of restrictions, if anything, have informed us that certainty is not a given.
 <p>While many countries have relaxed COVID-19 restrictions, news of variants that could threaten human health and overwhelm public health systems is still very much on our radar. It’s difficult to breathe easy when the number of infections is still in the hundreds of thousands and vaccine inequality still a concern across the globe.</p>
 <p>Fear and worry about contracting COVID-19 at home, let alone overseas, is a natural reaction for us. Differentiated measures based on vaccination status offer some comfort and a semblance of safety in the face of an unpredictable virus. After all, what else could we do to make sense of our lives turned upside down?</p>
 <p>It’s hard to deny the instinct to be social and return to connecting with family, friends and even co-workers in the office freely. Individual efforts such as taking Antigen Rapid Tests (ART) when feeling sick or checking in and out of venues seem like a small price to pay in exchange for some personal freedom</p>
@@ -26,9 +22,10 @@ With borders reopening, it signalled that economies could be on the road to reco
 <p>Living in such unprecedented times, there’s no handbook to endemicity. Perhaps what we can hold on to, is that we are definitely moving in that direction.</p></details>
 
 
+
  
 
- **<font size=5>Would you prefer to have...</font>**
+ **<font size=5>Interested to read more about adopting...</font>**
 
 <div>
 <div class="row is-multiline">
@@ -45,6 +42,4 @@ With borders reopening, it signalled that economies could be on the road to reco
 </div>
 
 
-Take our [**poll**](https://forms.gle/zkBsk2izarbksiQB6) now, and share your views on this topic!  Here are the [current poll results](https://docs.google.com/forms/d/e/1FAIpQLSf_lZzfeQtbTtuAwcgXkhcuNBXjyWCb7ejOpZwelRO4lYboPg/viewanalytics): 
 
-![](../images/rtbs2-poll1-2feb2022.JPG)
