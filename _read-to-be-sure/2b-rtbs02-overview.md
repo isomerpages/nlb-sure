@@ -1,6 +1,6 @@
 ---
 title: 'Overview'
-permalink: /read-to-be-sure/issue2-perspectives/
+permalink: /read-to-be-sure/issue2-overview/
 breadcrumb: 'Overview'
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
