@@ -27,7 +27,10 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 <a href="/read-to-be-sure/issue2-conversations/"><img src="../images/rtbs2-join-the-convo.jpg" alt="image 2"></a>
 </div>    
 </div>	
-</div>	
+</div>	h
+
+
+
 <div>
 <div class="row is-multiline">
     <div class="col is-one-third-desktop is-one-third-tablet">
@@ -43,14 +46,14 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 </div>
 
 
-<font size="5">Let's [hear from you](https://forms.gle/NFAYtAWQedbuSKxm8) about this Issue!</font>
+
+**Let's [hear from you](https://forms.gle/NFAYtAWQedbuSKxm8) about this Issue!**
 
 
 
-<font size="5">Take our [**poll**](https://forms.gle/zkBsk2izarbksiQB6) now, and share your views on this topic!  Here are the [current poll results](https://docs.google.com/forms/d/e/1FAIpQLSf_lZzfeQtbTtuAwcgXkhcuNBXjyWCb7ejOpZwelRO4lYboPg/viewanalytics): </font>
+**Take our [poll](https://forms.gle/zkBsk2izarbksiQB6) now, and share your views on this topic!  Here are the [current poll results](https://docs.google.com/forms/d/e/1FAIpQLSf_lZzfeQtbTtuAwcgXkhcuNBXjyWCb7ejOpZwelRO4lYboPg/viewanalytics):** 
 
 ![](../images/rtbs2-poll1-2feb2022.JPG)
-
 
 
 
