@@ -1,6 +1,6 @@
 ---
 title: 'A Middle Path?'
-permalink: /read-to-be-sure/issue2-perspective5/
+permalink: /read-to-be-sure/issue2-middle-path/
 breadcrumb: 'A Middle Path?'
 third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
