@@ -27,7 +27,7 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 <a href="/read-to-be-sure/issue2-conversations/"><img src="../images/rtbs2-join-the-convo.jpg" alt="image 2"></a>
 </div>    
 </div>	
-</div>	h
+</div>
 
 
 
