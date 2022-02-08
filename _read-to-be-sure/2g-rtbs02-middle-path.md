@@ -17,7 +17,7 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 <p>As people find repeated lockdowns and strict quarantines draining, communities need to find a way to learn how to adapt and live with COVID-19 when the virus continues to persist.</p>
  <p>History has shown that pandemics do eventually <a href="https://www.straitstimes.com/opinion/from-plague-to-polio-how-do-pandemics-end">end</a>; as sufficient numbers of people develop immunity, viruses cannot find new hosts to replicate in. Only one human disease, <a href="https://asm.org/Articles/2020/March/Disease-Eradication-What-Does-It-Take-to-Wipe-out">smallpox</a>, has ever been completely eradicated. Other diseases like influenza, measles, and cholera became endemic over time. These diseases were kept in check by vaccines and medical treatments.</p> 
 <p>Tightening and loosening restrictions have their own benefits and trade-offs. As countries explore solutions, academics encourage governments to <a href="https://www.sciencedirect.com/science/article/pii/S2666776221001988">collaborate and share available resources</a>. Better utilisation of tools to manage the pandemic, such as vaccinations, masks and ventilation might assist the world to get back on its feet as quickly and as safely as possible. </p>
-<p>As more countries transition to <a href="https://www.bmj.com/content/375/bmj-2021-067508">COVID-19 endemicity</a>, continuing efforts are required to address vaccine inequity, enhance health system capacities, and strengthen public health preparedness in view of potential emergent strains and waning vaccine immunities. </p></details>
+<p>As more countries transition to <a href="https://www.bmj.com/content/375/bmj-2021-067508">COVID-19 endemicity</a>, continuing efforts are required to address vaccine inequity, enhance health system capacities, and strengthen public health preparedness in view of potential emergent strains and waning vaccine immunities. </p>
 
 
 
@@ -28,7 +28,19 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 </div>    
 </div>	
 </div>	
-
+<div>
+<div class="row is-multiline">
+    <div class="col is-one-third-desktop is-one-third-tablet">
+<a href="/read-to-be-sure/issue2-more-curbs"><img src="../images/rtbs2-more-restrictions.jpg" alt="More restrictions"></a>
+</div>
+    <div class="col is-one-third-desktop is-one-third-tablet">
+<a href="/read-to-be-sure/issue2-less-curbs/"><img src="../images/rtbs2-less-restrictions.jpg" alt="Less restrictions"></a>
+</div>
+    <div class="col is-one-third-desktop is-one-third-tablet">
+<a href="/read-to-be-sure/issue2-middle-path/"><img src="../images/rtbs2-middle-path.jpg" alt="More restrictions"></a>
+</div>
+    </div>	
+</div>
 
 
 <font size="5">Let's [hear from you](https://forms.gle/NFAYtAWQedbuSKxm8) about this Issue!</font>
