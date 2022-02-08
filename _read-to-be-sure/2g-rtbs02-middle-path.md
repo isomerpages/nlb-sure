@@ -31,22 +31,6 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 
 
 
-<div>
-<div class="row is-multiline">
-    <div class="col is-one-third-desktop is-one-third-tablet">
-<a href="/read-to-be-sure/issue2-more-curbs"><img src="../images/rtbs2-more-restrictions.jpg" alt="More restrictions"></a>
-</div>
-    <div class="col is-one-third-desktop is-one-third-tablet">
-<a href="/read-to-be-sure/issue2-less-curbs/"><img src="../images/rtbs2-less-restrictions.jpg" alt="Less restrictions"></a>
-</div>
-    <div class="col is-one-third-desktop is-one-third-tablet">
-<a href="/read-to-be-sure/issue2-middle-path/"><img src="../images/rtbs2-middle-path.jpg" alt="More restrictions"></a>
-</div>
-    </div>	
-</div>
-
-
-
 **Let's [hear from you](https://forms.gle/NFAYtAWQedbuSKxm8) about this Issue!**
 
 
