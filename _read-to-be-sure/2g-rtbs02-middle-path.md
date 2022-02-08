@@ -23,7 +23,7 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-one-quarter-desktop is-one-quarter-tablet">
+    <div class="col is-half-desktop is-half-tablet">
 <a href="/read-to-be-sure/issue2-conversations/"><img src="../images/rtbs2-join-the-convo.jpg" alt="image 2"></a>
 </div>    
 </div>	
