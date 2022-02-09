@@ -2,7 +2,7 @@
 title: 'COVID-19 at the crossroads'
 permalink: /read-to-be-sure/issue2-overview/
 breadcrumb: 'COVID-19 at the crossroads'
-third_nav_title: 'Issue #2: COVID-19 Curbs — Less or More?'
+third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 ---
 
