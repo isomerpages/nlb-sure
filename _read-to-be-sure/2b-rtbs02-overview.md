@@ -1,14 +1,22 @@
 ---
-title: 'Overview'
+title: 'COVID-19 at the crossroads'
 permalink: /read-to-be-sure/issue2-overview/
-breadcrumb: 'Overview'
-third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
+breadcrumb: 'COVID-19 at the crossroads'
+third_nav_title: 'Issue #2: COVID-19 Curbs — Less or More?'
 
 ---
 
 <p align=center><b>2-Minute Read</b></p>
 
-![](../images/rtbs2-masthead2.jpg)
+![](../images/rtbs2-masthead3.jpg)
+
+<p>
+
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wk-34_iOCRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 When the Vaccination Travel Lanes (VTL) were announced and social media feeds were slowly filled up with destinations beyond the boundaries of our living room or neighbourhoods, it served as a reminder of life before the pandemic. It isn’t just wanderlust; even if not all of us are privileged to travel, the glimmer of endemicity is on the horizon. 
 
