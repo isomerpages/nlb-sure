@@ -59,7 +59,7 @@ Living in such unprecedented times, there’s no handbook to endemicity. Perhaps
 <P>
 
 
- **<font size=5>Interested to read more about adopting...</font>**
+<B> <font size=5>Interested to read more about adopting...</font></B>
 
 <div>
 <div class="row is-multiline">
