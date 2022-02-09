@@ -18,15 +18,15 @@ third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 
 
 
-<p></p>
+<p>
 
 When the Vaccination Travel Lanes (VTL) were announced and social media feeds were slowly filled up with destinations beyond the boundaries of our living room or neighbourhoods, it served as a reminder of life before the pandemic. It isn’t just wanderlust; even if not all of us are privileged to travel, the glimmer of endemicity is on the horizon. 
 
-<p> </p>
+<p> 
 
 With borders reopening, it signalled that economies could be on the road to recovery. Families could be reunited. The promise of freedom of movement is a much-needed breath of fresh air after living behind our masks for two years.
 
-<p> </p>
+<p> 
 
 Could this be the year when we finally move from pandemic to endemic? 
 
