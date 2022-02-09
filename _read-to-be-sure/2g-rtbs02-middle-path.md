@@ -67,6 +67,4 @@ If you are interested to discuss this further,
 </div>
 
 
-
-
-
+<b>If you have 2 mins to spare, we would like to  [hear from you](https://forms.gle/NFAYtAWQedbuSKxm8) about this Issue.</b>
