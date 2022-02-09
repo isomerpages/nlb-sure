@@ -21,6 +21,18 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 
 
 
+
+
+So what are your thoughts about COVID-19 restrictions? Take our [poll](https://forms.gle/zkBsk2izarbksiQB6) now!
+
+Here's what others think so far:
+
+![](../images/rtbs2-poll1-2feb2022.JPG)
+
+
+
+If you are interested to discuss this further,
+
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
@@ -31,13 +43,7 @@ Most countries have accepted that eradicating COVID-19 is [impossible](https://w
 
 
 
-**Let's [hear from you](https://forms.gle/NFAYtAWQedbuSKxm8) about this Issue!**
-
-
-
-**Take our [poll](https://forms.gle/zkBsk2izarbksiQB6) now, and share your views on this topic!  Here are the [current poll results](https://docs.google.com/forms/d/e/1FAIpQLSf_lZzfeQtbTtuAwcgXkhcuNBXjyWCb7ejOpZwelRO4lYboPg/viewanalytics):** 
-
-![](../images/rtbs2-poll1-2feb2022.JPG)
+<hr>
 
 
 
