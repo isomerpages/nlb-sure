@@ -6,11 +6,7 @@ third_nav_title: 'SURE Campaign'
 
 ---
 
-**S.U.R.E. for Life** aims to educate the general public on the threats that deliberate online falsehoods pose to the peace and stability of society. We work with partners to equip Singaporeans with information literacy skills through presentations and workshops in English a第一部分。
-
-• 第二部分：如何查证图像和影像的真伪（2022年7月20日，下午三时至四时）
-
-• 第三部分：如何识破 “深度伪造” 图像和影像（2022年8月18日，下午三时至四时nd [Mandarin](#SURE_Talk_Mandarin).
+**S.U.R.E. for Life** aims to educate the general public on the threats that deliberate online falsehoods pose to the peace and stability of society. We work with partners to equip Singaporeans with information literacy skills through presentations and workshops in English and [Mandarin](#SURE_Talk_Mandarin).
 
 For more information about our public runs, please refer to the following:
 
