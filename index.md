@@ -7,8 +7,8 @@ sections:
           dropdown:
               title: null
               options:
-                    - title: 'explore "Read to be SURE" Issue #1'
-                      url: /read-to-be-sure/issue1-introduction/
+                    - title: 'explore "Read to be SURE" Issue #2'
+                      url: /read-to-be-sure/issue2-overview/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
                     - title: 'find resources on combating fake news'
@@ -28,6 +28,22 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Read to be SURE Issue #2: COVID-19 Curbs: Less or More?'
+          subtitle: 'For everyone'
+          description: null
+          url: /read-to-be-sure/issue2-overview/
+          image: /images/rtbs2-masthead3.jpg
+          alt: 'alt text'
+          button: 'Read Issue #2 now!'
+    - infopic:
+          title: 'Join the "Read to be SURE" Conversations'
+          subtitle: 'For everyone'
+          description: null
+          url: /read-to-be-sure/issue2-conversations/
+          image: /images/rtbs2-convo2.jpg
+          alt: 'alt text'
+          button: 'View programme details'
+    - infopic:
           title: 'Read to be SURE Issue #1: Fast Fashion: Love it or Hate it?'
           subtitle: 'For everyone'
           description: null
@@ -35,14 +51,6 @@ sections:
           image: /images/becca-mchaffie-Fzde_6ITjkw-unsplash-min.jpg
           alt: 'alt text'
           button: 'Read Issue #1 now!'
-    - infopic:
-          title: 'Join the "Read to be SURE" Conversations'
-          subtitle: 'For everyone'
-          description: null
-          url: /read-to-be-sure/issue1-conversations/
-          image: /images/RTBS1-Banner.JPG
-          alt: 'alt text'
-          button: 'View programme details'
     - infopic:
           title: 'S.U.R.E Skills Series workshop - How to Be A Smart Fact-Checker'
           subtitle: 'For everyone'
