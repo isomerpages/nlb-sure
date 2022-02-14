@@ -15,14 +15,14 @@ For more information about our public runs, please refer to the following:
 **2022 SERIES:**
 
 * **S.U.R.E. Skills Series for Seniors workshops**
-  * [Part 1: Factchecking Dubious Emails & Messages (30 Mar 2022, 3-4pm)](../blog/fake-news/FN0020)
+  * [Part 1: Factchecking Dubious Emails & Messages (30 Mar 2022, 3-4pm)](../../blog/fake-news/FN0020)
   * Part 2: Verifying Images & Videos (21 Apr 2022, 3-4pm)
   * Part 3: Spotting Deepfake Images & Videos (18 May 2022, 3-4pm)
 
 
 
 - **银发族S.U.R.E.技能系列**
-  - [第一部分:  如何查证电邮和短信的真伪 （2022年6月16日，下午三时至四时）](../blog/fake-news/FN0023)
+  - [第一部分:  如何查证电邮和短信的真伪 （2022年6月16日，下午三时至四时）](/blog/fake-news/FN0023)
   - 第二部分:  如何查证图像和影像的真伪（2022年7月20日，下午三时至四时）
   - 第三部分:  如何识破 “深度伪造” 图像和影像（2022年8月18日，下午三时至四时
 
