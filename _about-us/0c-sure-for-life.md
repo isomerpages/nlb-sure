@@ -14,6 +14,14 @@ For more information about our public runs, please refer to the following:
 
 **2022 SERIES:**
 
+
+
+- **Total Defence Day 2022** 
+  - [Detecting Scams and Fake Images (15 Feb 2022, 6-7pm)](../../blog/fake-news/FN0026)
+  - [Detecting Scams and Fake Images (22 Feb 2022, 6-7pm)](../../blog/fake-news/FN0027)
+
+
+
 * **S.U.R.E. Skills Series for Seniors workshops**
   * [Part 1: Factchecking Dubious Emails & Messages (30 Mar 2022, 3-4pm)](../../blog/fake-news/FN0020)
   * [Part 2: Verifying Images & Videos (21 Apr 2022, 3-4pm)](../../blog/fake-news/FN0021)
