@@ -44,6 +44,14 @@ sections:
           alt: 'alt text'
           button: 'Read Issue #2 now!'
     - infopic:
+          title: 'Total Defence Day 2022 - Detecting Scams and Fake Images'
+          subtitle: 'For Everyone'
+          description: null
+          url: /blog/fake-news/FN0027
+          image: /images/SURE-TD-22Feb2022.JPG
+          alt: 'alt text'
+          button: 'View programme details'
+    - infopic:
           title: 'Read to be SURE Issue #1: Fast Fashion: Love it or Hate it?'
           subtitle: 'For everyone'
           description: null
