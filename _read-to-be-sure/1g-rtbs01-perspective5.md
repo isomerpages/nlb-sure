@@ -51,4 +51,4 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 </div>
 
 
-
+Click **[here](https://reference.nlb.gov.sg/guides/socscihum/soc-sci/fast-fashion)** for more resources on Fast Fashion.
