@@ -8,8 +8,6 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
-</a>
-
 ## About this event
 
 **This is a hybrid event. The programme will be live-streamed via ZOOM from the National Library (25 pax max).**
