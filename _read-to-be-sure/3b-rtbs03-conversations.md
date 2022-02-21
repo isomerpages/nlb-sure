@@ -2,7 +2,7 @@
 title: 'Conversations'
 permalink: /read-to-be-sure/issue3-conversations/
 breadcrumb: 'Conversations'
-third_nav_title: 'Issue #2: Should we invest in cryptocurrencies and NFTs?'
+third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 ---
 

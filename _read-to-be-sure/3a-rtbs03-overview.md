@@ -12,9 +12,9 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 <table>
 <tr>
-    <td bgcolor=red><B>No, it’s still risky and prone to frauds & scams</B></td>
+    <td bgcolor=red><B><font color=white>No, it’s still risky and prone to frauds & scams</font></B></td>
     <td> </td>
-    <td bgcolor=green><B>Yes, there are some success stories in Singapore</B></td>
+    <td bgcolor=green><B><font color=white>Yes, there are some success stories in Singapore</font></B></td>
 </tr>
     <tr>
     <td>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</td>
@@ -27,6 +27,7 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
     <td>Keep on reading at <a href="https://www.straitstimes.com/life/arts/spore-project-makes-14-million-debut-with-nft-trading-cards">The Straits Times</a></td>
 </tr>
 </table>
+
 
 
 
