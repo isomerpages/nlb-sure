@@ -6,7 +6,13 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 ---
 
-In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
+In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line withg one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
+
+![](../images/kanchanara-GnWfl_nnZro-unsplash.jpg)
+
+Date: Sat, 26 Mar 2022
+Time: 3pm-4.30pm
+
 
 ## About this event
 
