@@ -43,6 +43,8 @@ collections:
         output: true
     issue2-overview:
         output: true
+    issue3-overview:
+        output: true
     tng:
         output: true
     pri-activity:
