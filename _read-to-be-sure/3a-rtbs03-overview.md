@@ -11,8 +11,8 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 <table style="width: 190%;" border="0" cellpadding="50">
 	<tbody>
    <tr>
-    <th>No, it's still risky and prone to frauds and scams</th>
-    <th>Yes, there are some success stories in Singapore</th>
+    <th>NO, IT'S STILL RISKY AND PRONE TO FRAUDS AND SCAMS</th>
+    <th>YES, THERE ARE SOME SUCCESS STORIES IN SINGAPORE</th>
   </tr>
         <tr>
             <td>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
