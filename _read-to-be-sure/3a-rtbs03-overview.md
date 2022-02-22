@@ -8,7 +8,7 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 ![](../images/RTBS3-masthead.jpg)
 
-<table style="width: 200%;" border="1" cellpadding="20">
+<table style="width: 180%;" border="1" cellpadding="20">
 	<tbody>
 		<tr>
 			<td>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.	</td>
