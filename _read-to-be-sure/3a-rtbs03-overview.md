@@ -8,7 +8,7 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 ![](../images/RTBS3-masthead.jpg)
 
-<table style="width: 190%;" border="0" cellpadding="50">
+<table style="width: 180%;" border="0" cellpadding="50">
 	<tbody>
    <tr>
     <th>NO, IT'S STILL RISKY AND PRONE TO FRAUDS AND SCAMS</th>
