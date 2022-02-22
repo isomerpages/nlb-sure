@@ -10,7 +10,7 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 ![](../images/RTBS3-masthead.jpg)
 
-<table>
+<table width=1000>
     <tr>
     <td>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</td>
     <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. </td>
@@ -32,8 +32,8 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 <ul>
     <li><a href="https://www.aljazeera.com/economy/2021/11/2/singapore-wants-to-be-a-crypto-hub-or-risk-being-left-behind">Singapore says embrace crypto or risk being ‘left behind’</a></li>
         <li><a href="https://www.businesstimes.com.sg/banking-finance/there-is-a-place-for-crypto-in-singapore-if-regulated-tharman">https://www.businesstimes.com.sg/banking-finance/there-is-a-place-for-crypto-in-singapore-if-regulated-tharman</a></li>
-   </ul></td></tr>
-</table>
+   </ul></td></tr></table>
+
 
 
 
