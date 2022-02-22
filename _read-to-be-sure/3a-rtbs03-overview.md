@@ -33,6 +33,6 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 
 
+![](../images/rtbs3-engagement-poll-results.JPG)
 <center><font size="5"><b>Take our <a href="https://forms.gle/jPRLHNv5DXGgKtrEA">poll</a> now!</b></font></center>
 
-![](../images/rtbs3-engagement-poll-results.JPG)
