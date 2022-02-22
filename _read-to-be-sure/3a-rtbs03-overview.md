@@ -19,12 +19,12 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
                 </p>
             </td></tr>
 		<tr>
-			<td><b>Learn more about the downsides here:</b><p>
+			<td><b>Learn more about the downsides here:</b><br>
                 <a href="https://www.moneysense.gov.sg/articles/2018/10/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens">Risks of cryptocurrencies, initial coin offerings and other digital tokens</a>
-                </p></td>
-			<td><b>Learn more about the upsides here:</b><p>
+                </td>
+			<td><b>Learn more about the upsides here:</b><br>
                 <a href="https://www.aljazeera.com/economy/2021/11/2/singapore-wants-to-be-a-crypto-hub-or-risk-being-left-behind">Singapore says embrace crypto or risk being ‘left behind’</a>
-                </p></td>
+               </td>
 		</tr>
 	</tbody>
 </table>
