@@ -31,7 +31,7 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 
 
-<font size="5"><a href="https://forms.gle/jPRLHNv5DXGgKtrEA">Take our poll now!</a></font>
+### Take our **[poll](https://forms.gle/jPRLHNv5DXGgKtrEA)** now!
 
 
 
