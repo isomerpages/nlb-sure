@@ -6,8 +6,6 @@ third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
 
 ---
 
-<center><font size="5"><b>Should we invest in cryptocurrencies and NFTs?</b></font></center>
-
 ![](../images/RTBS3-masthead.jpg)
 
 <table><tr>
