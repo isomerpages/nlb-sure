@@ -1,7 +1,7 @@
 ---
 title: 'Risks or Rewards?'
 permalink: /read-to-be-sure/issue3-overview/
-breadcrumb: 'Risk or Rewards?'
+breadcrumb: 'Risks or Rewards?'
 third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 ---
@@ -11,14 +11,13 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 <table style="width: 180%;" border="0" cellpadding="50">
 	<tbody>
    <tr>
-    <th>NO, IT'S STILL RISKY AND PRONE TO FRAUDS AND SCAMS</th>
-    <th>YES, THERE ARE SOME SUCCESS STORIES IN SINGAPORE</th>
+    <th>IT’S STILL RISKY AND PRONE TO FRAUDS & SCAMS</th>
+    <th>IT CAN BE REWARDNG IF DONE RIGHT</th>
   </tr>
         <tr>
-            <td>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-<p><b>Keep on reading at <a href="https://vulcanpost.com/661378/onecoin-singapore-cryptocurrency-fraud/">VulcanPost</a></b></p></td>
-            <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu
-<p><b>Keep on reading at <a href="https://www.straitstimes.com/life/arts/spore-project-makes-14-million-debut-with-nft-trading-cards">The Straits Times</a></b></p></td>
+            <td>Cryptocurrencies are not regulated by the Monetary Authority of Singapore (MAS) as they are not legal tender. There are risks involved, such as frauds and scams, the lack of transparency and being misused to fund illegal activities.<a href="https://www.moneysense.gov.sg/articles/2018/10/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens">MONEYSENSE</a></b></p></td>
+            <td>
+Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryptocurrencies market rose rapidly and hit a record high of US$3 trillion in November 2021. Cryptocurrencies continue to gain acceptance as a payment option, offering faster peer-to-peer payments without the need to provide personal details. El Salvador officially adopted Bitcoin as legal tender in September 2021 despite the International Monetary Fund (IMF) warnings and attracted four million people to start using it. <a href="https://fortune.com/2021/11/09/cryptocurrency-market-cap-3-trillion-bitcion-ether-shiba-inu/">FORTUNE</a></b></p></td>
         </tr>
 		<tr>
 			<td><b>Learn more about the downsides here:</b><br>
