@@ -1,8 +1,8 @@
 ---
-title: 'Overview'
+title: 'Risk or Rewards?'
 permalink: /read-to-be-sure/issue3-overview/
-breadcrumb: 'Overview'
-third_nav_title: 'Issue #3: Should we invest in cryptocurrencies and NFTs?'
+breadcrumb: 'Risk or Rewards?'
+third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risk or Rewards?'
 
 ---
 
