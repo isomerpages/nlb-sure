@@ -8,6 +8,8 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 ![](../images/RTBS3-masthead.jpg)
 
+*Swipe or scroll  below to view the different perspectives*
+
 <table style="width: 180%;" border="0" cellpadding="50">
 	<tbody>
    <tr>
@@ -31,6 +33,7 @@ Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryp
 		</tr>
 	</tbody>
 </table>
+
 
 
 
