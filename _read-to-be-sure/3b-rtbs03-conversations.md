@@ -6,7 +6,7 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 ---
 
-In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line withg one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
+In our **Read to be SURE** **Conversations**, we will invite guests from all wal	ks of life to share their expertise and perspectives on trending issues that matter. In line withg one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
 ![](../images/kanchanara-GnWfl_nnZro-unsplash.jpg)
 
@@ -28,20 +28,15 @@ In this Read to be SURE Conversations event, our guests will share different per
 
 Read to be SURE (RTBS) is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a five-year journey of our next phase of transformation. RTBS aims to educate and inform the public on trending topics through a combination of curated reading content and accompanying programmes. By exploring multiple perspectives on these topics, readers and participants will benefit from a balanced and credible knowledge base.
 
-
+![](../images/rtbs3-convo-speakers.JPG)
 
 Speakers:
 
-- 
+- **Chia Hock Lai** - Co-founder, Global Fintech Institute | Co-chair Blockchain Association SG
+- **Valerie Chai** - Director, Hyrule Advisory Pte Ltd
 
 Moderator:
 
-- 
-
-
-
-
-
-
+- **Nizam Ismail** - Founder/CEO, Ethikom Consultancy
 
 
