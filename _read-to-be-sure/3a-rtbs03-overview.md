@@ -17,9 +17,13 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
     <th>IT CAN BE REWARDNG IF DONE RIGHT</th>
   </tr>
         <tr>
-            <td>Cryptocurrencies are not regulated by the Monetary Authority of Singapore (MAS) as they are not legal tender. There are risks involved, such as frauds and scams, the lack of transparency and being misused to fund illegal activities.<a href="https://www.moneysense.gov.sg/articles/2018/10/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens">MONEYSENSE</a></td>
+            <td>Cryptocurrencies are not regulated by the Monetary Authority of Singapore (MAS) as they are not legal tender. There are risks involved, such as frauds and scams, the lack of transparency and being misused to fund illegal activities.
+                <p><b>Read more at <a href="https://www.moneysense.gov.sg/articles/2018/10/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens">MONEYSENSE</a></b></p>
+            </td>
             <td>
-Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryptocurrencies market rose rapidly and hit a record high of US$3 trillion in November 2021. Cryptocurrencies continue to gain acceptance as a payment option, offering faster peer-to-peer payments without the need to provide personal details. El Salvador officially adopted Bitcoin as legal tender in September 2021 despite the International Monetary Fund (IMF) warnings and attracted four million people to start using it. <a href="https://fortune.com/2021/11/09/cryptocurrency-market-cap-3-trillion-bitcion-ether-shiba-inu/">FORTUNE</a></td>
+Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryptocurrencies market rose rapidly and hit a record high of US$3 trillion in November 2021. Cryptocurrencies continue to gain acceptance as a payment option, offering faster peer-to-peer payments without the need to provide personal details. El Salvador officially adopted Bitcoin as legal tender in September 2021 despite the International Monetary Fund (IMF) warnings and attracted four million people to start using it.
+                <p><b>Read more at <a href="https://fortune.com/2021/11/09/cryptocurrency-market-cap-3-trillion-bitcion-ether-shiba-inu/">FORTUNE</a></b></p>
+                </td>
         </tr>
 		<tr>
 			<td><b>Learn more about the downsides here:</b><br>
