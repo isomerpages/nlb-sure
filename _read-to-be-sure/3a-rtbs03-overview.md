@@ -1,8 +1,8 @@
 ---
-title: 'Risk or Rewards?'
+title: 'Risks or Rewards?'
 permalink: /read-to-be-sure/issue3-overview/
 breadcrumb: 'Risk or Rewards?'
-third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risk or Rewards?'
+third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 ---
 
