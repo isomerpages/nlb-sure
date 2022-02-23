@@ -10,7 +10,7 @@ In our **Read to be SURE** **Conversations**, we will invite guests from all wal
 
 ![](../images/kanchanara-GnWfl_nnZro-unsplash.jpg)
 
-Date: Sat, 26 Mar 2022
+Date: Sat, 26 Mar 2022<br>
 Time: 3pm-4.30pm
 
 
