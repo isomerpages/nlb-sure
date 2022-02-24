@@ -12,7 +12,7 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 	<tbody>
    <tr>
     <th>IT’S STILL RISKY AND PRONE TO FRAUDS AND SCAMS</th>
-    <th>IT CAN BE REWARDNG AS THE RETURNS CAN BE HIGH</th>
+    <th>IT CAN BE REWARDING AS THE RETURNS CAN BE HIGH</th>
   </tr>
         <tr>
             <td style="width: 50%;">Cryptocurrencies are not regulated by the Monetary Authority of Singapore (MAS) as they are not legal tender. There are risks involved, such as frauds and scams, the lack of transparency and being misused to fund illegal activities.
