@@ -39,7 +39,7 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 
 
-##### Would you invest in cryptocurrencies or NFTs?  Take our **[poll](https://forms.gle/jPRLHNv5DXGgKtrEA)** now!
+##### Would you invest in cryptocurrencies and NFTs?  Take our **[poll](https://forms.gle/jPRLHNv5DXGgKtrEA)** now!
 
 
 
