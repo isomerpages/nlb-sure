@@ -10,7 +10,7 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 *Swipe or scroll  below to view the different perspectives*
 
-<table style="width: 120%;" border="0" cellpadding="50">
+<table style="width: 100%;" border="0" cellpadding="50">
 	<tbody>
    <tr>
     <th>IT’S STILL RISKY AND PRONE TO FRAUDS & SCAMS</th>
@@ -30,7 +30,7 @@ Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryp
                 <a href="https://www.moneysense.gov.sg/articles/2018/10/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens">Risks of cryptocurrencies, initial coin offerings and other digital tokens</a><br>&nbsp;<br>
                                 <a href="https://www.channelnewsasia.com/singapore/nft-not-suitable-retail-investors-consumers-caution-tharman-mas-2500276?cid=internal_sharetool_androidphone_16022022_cna">NFTs not suitable for retail investors, consumers should exercise 'extreme caution': Tharman</a>
                 </td>
-            <td><b><font size="4">To know more about the upsides:</font></b><br>
+            <td><b><font size="3">To know more about the upsides:</font></b><br>
                 <a href="https://www.aljazeera.com/economy/2021/11/2/singapore-wants-to-be-a-crypto-hub-or-risk-being-left-behind">Singapore says embrace crypto or risk being ‘left behind’</a><br>&nbsp;<br>
                 <a href="https://www.businesstimes.com.sg/banking-finance/there-is-a-place-for-crypto-in-singapore-if-regulated-tharman">There is a place for crypto in Singapore if regulated: Tharman</a>
                </td>
@@ -41,7 +41,8 @@ Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryp
 
 
 
-### Would you invest in cryptocurrencies or NFTs?  Take our **[poll](https://forms.gle/jPRLHNv5DXGgKtrEA)** now!
+
+#### Would you invest in cryptocurrencies or NFTs?  Take our **[poll](https://forms.gle/jPRLHNv5DXGgKtrEA)** now!
 
 
 
