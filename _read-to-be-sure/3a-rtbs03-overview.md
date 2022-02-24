@@ -18,8 +18,7 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
             <td>Cryptocurrencies are not regulated by the Monetary Authority of Singapore (MAS) as they are not legal tender. There are risks involved, such as frauds and scams, the lack of transparency and being misused to fund illegal activities.
                 <p><b><font size="3">Read more at <a href="https://www.moneysense.gov.sg/articles/2018/10/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens">MONEYSENSE</a></font></b></p>
             </td>
-            <td>
-Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryptocurrencies market rose rapidly and hit a record high of US$3 trillion in November 2021. Cryptocurrencies continue to gain acceptance as a payment option, offering faster peer-to-peer payments without the need to provide personal details.
+            <td>Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryptocurrencies market rose rapidly and hit a record high of US$3 trillion in November 2021. Cryptocurrencies continue to gain acceptance as a payment option, offering faster peer-to-peer payments without the need to provide personal details.
                 <p><b><font size="3">Read more at <a href="https://fortune.com/2021/11/09/cryptocurrency-market-cap-3-trillion-bitcion-ether-shiba-inu/">FORTUNE</a></font></b></p>
                 </td>
         </tr>
