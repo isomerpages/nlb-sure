@@ -8,10 +8,9 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
-![](../images/kanchanara-GnWfl_nnZro-unsplash.jpg)
+![](../images/RTBS3-Convo-masthead.jpg)
 
-Date: Sat, 26 Mar 2022<br>
-Time: 3pm-4.30pm
+
 
 
 ## About this event
