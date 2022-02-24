@@ -8,8 +8,6 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 ![](../images/RTBS3-masthead.jpg)
 
-*Swipe or scroll  below to view the different perspectives*
-
 <table style="width: 100%;" border="0" cellpadding="50">
 	<tbody>
    <tr>
