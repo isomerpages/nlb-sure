@@ -8,7 +8,7 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 ![](../images/RTBS3-masthead.jpg)
 
-<table style="width: 100%;" border="0" cellpadding="50">
+<table border="0" cellpadding="50">
 	<tbody>
    <tr>
     <th>IT’S STILL RISKY AND PRONE TO FRAUDS & SCAMS</th>
