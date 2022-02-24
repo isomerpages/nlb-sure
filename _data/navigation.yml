@@ -28,6 +28,8 @@ links:
               url: /read-to-be-sure/issue1-introduction/
             - title: 'Issue 2: COVID-19 Restrictions'
               url: /read-to-be-sure/issue2-overview/
+            - title: 'Issue 3: Cryptocurrencies & NFTs'
+              url: /read-to-be-sure/issue3-overview/
     - title: Resources
       url: /resources/audience/
       false_collection: true
