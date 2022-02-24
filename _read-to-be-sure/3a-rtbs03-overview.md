@@ -40,7 +40,7 @@ Investing in cryptocurrencies and NFTs is potentially highly lucrative. The cryp
 
 
 
-#### Would you invest in cryptocurrencies or NFTs?  Take our **[poll](https://forms.gle/jPRLHNv5DXGgKtrEA)** now!
+##### Would you invest in cryptocurrencies or NFTs?  Take our **[poll](https://forms.gle/jPRLHNv5DXGgKtrEA)** now!
 
 
 
