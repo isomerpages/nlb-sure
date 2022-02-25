@@ -15,7 +15,7 @@ In our **Read to be SURE** **Conversations**, we will invite guests from all wal
 
 ## About this event
 
-**This is a hybrid event. The programme will be live-streamed via ZOOM from The National Library Building.** 
+**This is a hybrid event. The programme will be live-streamed via ZOOM from the National Library Building.** 
 
 **The existing Vaccination-Differentiated Safe Management Measures (VDS) apply to audience attending the event onsite and is limited to a maximum of 25 attendees.** 
 
