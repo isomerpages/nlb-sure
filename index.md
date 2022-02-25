@@ -7,8 +7,8 @@ sections:
           dropdown:
               title: null
               options:
-                    - title: 'explore "Read to be SURE" Issue #3'
-                      url: /read-to-be-sure/issue3-overview/
+                    - title: 'explore "Read to be SURE" Issue #2'
+                      url: /read-to-be-sure/issue2-overview/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
                     - title: 'find resources on combating fake news'
@@ -23,7 +23,7 @@ sections:
                       url: /contests/proveit2021/
                       
           title: S.U.R.E.
-          subtitle: 'Discover about the National Library's Learning & Information Literacy resources'
+          subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
           background: /images/1747093_s.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
@@ -31,26 +31,26 @@ sections:
           title: 'Join the "Read to be SURE" Conversations'
           subtitle: 'For everyone'
           description: null
-          url: /read-to-be-sure/issue3-conversations/
-          image: /images/RTBS3-Convo-masthead.jpg
+          url: /read-to-be-sure/issue2-conversations/
+          image: /images/rtbs2-convo2.jpg
           alt: 'alt text'
           button: 'View programme details'
     - infopic:
-          title: 'Read to be SURE Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
-          subtitle: 'For everyone'
-          description: null
-          url: /read-to-be-sure/issue3-overview/
-          image: /images/RTBS3-masthead.jpg
-          alt: 'alt text'
-          button: 'Read Issue #3 now, and share your thoughts with us!'
-    - infopic:
-          title: 'Read to be SURE Issue #2: COVID-19 Curbs— Less or More?'
+          title: 'Read to be SURE Issue #2: COVID-19 Curbs: Less or More?'
           subtitle: 'For everyone'
           description: null
           url: /read-to-be-sure/issue2-overview/
           image: /images/rtbs2-masthead3.jpg
           alt: 'alt text'
           button: 'Read Issue #2 now!'
+    - infopic:
+          title: 'Total Defence Day 2022 - Detecting Scams and Fake Images'
+          subtitle: 'For Everyone'
+          description: null
+          url: /blog/fake-news/FN0027
+          image: /images/SURE-TD-22Feb2022.JPG
+          alt: 'alt text'
+          button: 'View programme details'
     - infopic:
           title: 'Read to be SURE Issue #1: Fast Fashion: Love it or Hate it?'
           subtitle: 'For everyone'
@@ -164,5 +164,4 @@ sections:
           alt: 'alt text'
           button: 'Check them out now!'
 notification: "\n"
-
 ---
