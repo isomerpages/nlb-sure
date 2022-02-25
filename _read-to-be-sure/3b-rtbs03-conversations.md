@@ -29,18 +29,15 @@ Read to be SURE (RTBS) is part of NLB’s Libraries and Archives Blueprint 2025 
 
  
 
-Speakers:
+**Speakers:**
 
-·    Chia Hock Lai - Co-founder, Global Fintech Institute, and Co-chair Blockchain Association SG
+- **Chia Hock Lai** - Co-founder, Global Fintech Institute, and Co-chair Blockchain Association SG
+- **Valerie Chai** - Director, Hyrule Advisory Pte Ltd
+- **Russell Yee** – Assistant Vice President, OCBC Bank
 
-·    Valerie Chai - Director, Hyrule Advisory Pte Ltd
+**Moderator:** 
 
-·    Russell Yee – Assistant Vice President, OCBC Bank
-
-
- Moderator: 
-
-·    Nizam Ismail – Founder/CEO, Ethikom Consultancy
+- **Nizam Ismail** – Founder/CEO, Ethikom Consultancy
 
  ![](../images/rtbs3-convo-speakers.JPG)
 
