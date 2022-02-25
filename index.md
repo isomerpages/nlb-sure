@@ -1,5 +1,5 @@
 ---
-	layout: homepage
+layout: homepage
 title: S.U.R.E.
 permalink: /
 sections:
