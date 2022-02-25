@@ -31,10 +31,18 @@ sections:
           title: 'Join the "Read to be SURE" Conversations'
           subtitle: 'For everyone'
           description: null
-          url: /read-to-be-sure/issue2-conversations/
-          image: /images/rtbs2-convo2.jpg
+          url: /read-to-be-sure/issue3-conversations/
+          image: /images/RTBS3-Convo-masthead.jpg
           alt: 'alt text'
           button: 'View programme details'
+    - infopic:
+          title: 'Read to be SURE Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
+          subtitle: 'For everyone'
+          description: null
+          url: /read-to-be-sure/issue3-overview/
+          image: /images/RTBS3-masthead.jpg
+          alt: 'alt text'
+          button: 'Read Issue #3 now, and share your thoughts with us!'
     - infopic:
           title: 'Read to be SURE Issue #2: COVID-19 Curbs: Less or More?'
           subtitle: 'For everyone'
