@@ -23,12 +23,8 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
                 </td>
         </tr>
 		<tr>
-            <td><b><font size="3">To know more about what tech giants have done about fake news:</font></b><br>
-                <a href="https://www.channelnewsasia.com/business/twitter-facebook-clamp-down-russia-state-linked-news-2527366">Twitter, Facebook clamp down on Russia state-linked news</a><br>&nbsp;<br>                              
-                                <a href="https://www.theguardian.com/technology/2022/feb/28/facebook-takes-down-disinformation-network-targeting-ukraine-meta-instagram">Facebook takes down Ukraine disinformation network and bans Russian-backed media</a><br>&nbsp;<br>
-                                <a href="https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880">Facebook, Twitter remove disinformation accounts targeting Ukrainians</a><br>&nbsp;<br>
-                                <a href="https://www.asiaone.com/digital/douyin-takes-down-more-3500-videos-about-war-ukraine">Douyin takes down more than 3,500 videos about war in Ukraine</a>
-                </td>
+            <td><b><font size="3">To know more about what tech giants have done about fake news:</font></b><br><a href="https://www.channelnewsasia.com/business/twitter-facebook-clamp-down-russia-state-linked-news-2527366">Twitter, Facebook clamp down on Russia state-linked news</a><br>&nbsp;<br><a href="https://www.theguardian.com/technology/2022/feb/28/facebook-takes-down-disinformation-network-targeting-ukraine-meta-instagram">Facebook takes down Ukraine disinformation network and bans Russian-backed media</a><br>&nbsp;<br><a href="https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880">Facebook, Twitter remove disinformation accounts targeting Ukrainians</a><br>&nbsp;<br><a href="https://www.asiaone.com/digital/douyin-takes-down-more-3500-videos-about-war-ukraine">Douyin takes down more than 3,500 videos about war in Ukraine</a>
+</td>
             <td><b><font size="3">To know more about fact-checking misleading information:</font></b><br>
                 <a href="https://fullfact.org/blog/2022/feb/how-to-fact-check-ukraine-videos/">Ukraine and beyond: How to fact check misleading videos</a><br>&nbsp;<br>
                 <a href="https://edition.cnn.com/2022/02/26/politics/fake-ukraine-videos-fact-check">Fact-checking fake videos of Ukraine conflict</a><br>&nbsp;<br>
