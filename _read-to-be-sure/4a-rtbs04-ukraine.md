@@ -15,7 +15,7 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
     <th>WE SHOULD BE MORE DISCERNING AND SELF-RELIANT</th>
   </tr>
         <tr>
-            <td style="width: 50%;">The Prime Ministers of Poland, Lithuania, Latvia and Estonia urged the CEOs of Google, YouTube, Facebook and Twitter to proactively suspend accounts denying, glorifying or justifying wars of aggression, war crimes and crimes against humanity.
+            <td>The Prime Ministers of Poland, Lithuania, Latvia and Estonia urged the CEOs of Google, YouTube, Facebook and Twitter to proactively suspend accounts denying, glorifying or justifying wars of aggression, war crimes and crimes against humanity.
                  <p><b><font size="3">Read more at <a href="https://www.channelnewsasia.com/business/google-facebook-twitter-must-combat-ukraine-fake-news-polish-baltic-leaders-2526116">CHANNELNEWSASIA</a></font></b></p>
             </td>
             <td style="width: 50%;">There is a limit to what social media companies can do.  They sometimes face the demands of an authoritarian government that pressures them to censor content it doesn’t like, and to allow propaganda to run unchecked.
