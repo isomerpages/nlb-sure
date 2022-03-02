@@ -6,8 +6,10 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 ---
 
-![](../images/rtbs4-hot-button-ukraine.JPG)
+![](../images/rtbs4-hot-button-ukraine.JPG)<font size="2">Photo by Sima Ghaffarzadeh from Pexels</font>
 
+> 
+>
 > | **TECH GIANTS SHOULD DO MORE TO TACKLE DISINFORMATION**      | **WE SHOULD BE MORE DISCERNING AND SELF-RELIANT**            |
 > | ------------------------------------------------------------ | ------------------------------------------------------------ |
 > | The Prime Ministers of Poland, Lithuania, Latvia and Estonia urged the CEOs of Google, YouTube, Facebook and Twitter to proactively suspend accounts denying, glorifying or justifying wars of aggression, war crimes and crimes against humanity. | There is a limit to what social media companies can do. They sometimes face the demands of an authoritarian government that pressures them to censor content it doesn’t like, and to allow propaganda to run unchecked. |
