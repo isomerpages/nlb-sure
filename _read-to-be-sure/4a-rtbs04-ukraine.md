@@ -20,8 +20,7 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
             </td>
             <td style="width: 50%;">There is a limit to what social media companies can do.  They sometimes face the demands of an authoritarian government that pressures them to censor content it doesn’t like, and to allow propaganda to run unchecked.
                 <p><b><font size="3">Read more at <a href="https://www.vox.com/2022/2/26/22951757/russia-facebook-twitter-youtube-censorship-social-media">VOX</a></font></b></p>
-                </td>
-        </tr>
+                </td></tr>
 		<tr>
             <td><b><font size="3">To know more about what tech giants have done about fake news:</font></b><br><a href="https://www.channelnewsasia.com/business/twitter-facebook-clamp-down-russia-state-linked-news-2527366">Twitter, Facebook clamp down on Russia state-linked news</a><br>&nbsp;<br><a href="https://www.theguardian.com/technology/2022/feb/28/facebook-takes-down-disinformation-network-targeting-ukraine-meta-instagram">Facebook takes down Ukraine disinformation network and bans Russian-backed media</a><br>&nbsp;<br><a href="https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880">Facebook, Twitter remove disinformation accounts targeting Ukrainians</a><br>&nbsp;<br><a href="https://www.asiaone.com/digital/douyin-takes-down-more-3500-videos-about-war-ukraine">Douyin takes down more than 3,500 videos about war in Ukraine</a>
 </td>
