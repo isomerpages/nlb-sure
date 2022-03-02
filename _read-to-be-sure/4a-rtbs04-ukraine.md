@@ -29,7 +29,7 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
                 </td>
             <td><b><font size="3">To know more about fact-checking misleading information:</font></b><br>
                 <a href="https://fullfact.org/blog/2022/feb/how-to-fact-check-ukraine-videos/">Ukraine and beyond: How to fact check misleading videos</a><br>&nbsp;<br>
-                <a href="https://edition.cnn.com/2022/02/26/politics/fake-ukraine-videos-fact-check">Fact-checking fake videos of Ukraine conflict</a>
+                <a href="https://edition.cnn.com/2022/02/26/politics/fake-ukraine-videos-fact-check">Fact-checking fake videos of Ukraine conflict</a><br>&nbsp;<br>
                 <a href="https://www.usatoday.com/story/news/factcheck/2022/02/28/fact-check-whats-true-and-whats-false-invasion-ukraine/6952717001/">Fact check roundup: What's true and what's false about the Russian invasion of Ukraine</a></td></tr>
                 </tbody></table>
 
