@@ -6,7 +6,7 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 ---
 
-*This special edition of the Read to be SURE presents two and more viewpoints on current events and issues to broaden perspectives and mindsets.*
+*This special edition of the Read to be SURE presents multiple viewpoints on current events and issues to broaden perspectives and mindsets.*
 
 ![](../images/rtbs4-hot-button-ukraine.JPG)<font size="2">Photo by Sima Ghaffarzadeh from Pexels</font>
 
