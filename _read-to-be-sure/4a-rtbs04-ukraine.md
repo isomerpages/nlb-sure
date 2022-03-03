@@ -10,7 +10,7 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 ![h](../images/rtbs4-hot-button-ukraine.JPG)<font size="2">Photo by Sima Ghaffarzadeh from Pexels</font>
 
-| **TECH GIANTS SHOULD DO MORE TO TACKLE DISINFORMATION**      | **WE SHOULD BE MORE DISCERNING AND SELF-RELIANT**            |
+| **TECH GIANTS SHOULD DO MORE TO TACKLE DISINFORMATION**      | **NETIZENS SHOULD BE MORE DISCERNING AND SELF-RELIANT**      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Since most of the fake images and videos are  shared in popular social media platforms, tech giants should exercise  responsibility by adjusting their recommendation algorithms, demonetising  accounts, prohibit ads or labelling dubious content. <br />In fact, the Prime Ministers of Poland, Lithuania, Latvia and Estonia urged the CEOs of Google, YouTube, Facebook and Twitter to proactively suspend accounts denying, glorifying or justifying wars of aggression, war crimes and crimes against humanity. | There is a limit to what social media companies can or will do as they may by pressured by governments to censor content  or to allow propaganda to run unchecked. And  opposing sides in this conflict may also be involved in online disinformation.<br /><br />By liking or sharing fake videos and images indiscriminately, netizens may unwittingly spread false information. |
 | **Read more at [CNA](https://www.channelnewsasia.com/business/google-facebook-twitter-must-combat-ukraine-fake-news-polish-baltic-leaders-2526116)** | **Read more at [VOX](https://www.vox.com/2022/2/26/22951757/russia-facebook-twitter-youtube-censorship-social-media)** |
