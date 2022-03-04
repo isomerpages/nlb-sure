@@ -28,6 +28,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Read to be SURE Issue #4: Who can help us filter the truth?'
+          subtitle: 'For everyone'
+          description: null
+          url: /read-to-be-sure/issue4-ukraine/
+          image: /images/rtbs4-hot-button-ukraine.JPG
+          alt: 'alt text'
+          button: 'Read Issue #4 now, and share your thoughts with us!'
+    - infopic:
           title: 'Join the "Read to be SURE" Conversations'
           subtitle: 'For everyone'
           description: null
