@@ -20,7 +20,7 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 | [Twitter, Facebook clamp down on Russia state-linked news](https://www.channelnewsasia.com/business/twitter-facebook-clamp-down-russia-state-linked-news-2527366) | [Fact-checking fake videos of Ukraine conflict](https://edition.cnn.com/2022/02/26/politics/fake-ukraine-videos-fact-check) |
 | [Facebook takes down Ukraine disinformation network and bans Russian-backed media](https://www.theguardian.com/technology/2022/feb/28/facebook-takes-down-disinformation-network-targeting-ukraine-meta-instagram) | [Fact check roundup: What's true and what's false about the Russian invasion of Ukraine](https://www.usatoday.com/story/news/factcheck/2022/02/28/fact-check-whats-true-and-whats-false-invasion-ukraine/6952717001/) |
 | [Big Tech’s Russia problem](https://www.vox.com/2022/2/26/22951757/russia-facebook-twitter-youtube-censorship-social-media) | [The Sift (28 Feb 2022): Ukraine news tips](https://newslit.org/educators/sift/the-sift-ukraine-news-tips-russian-disinfo-machine-george-washington-fact-checker/) |
-|                                                              |                                                              |
+| [Douyin takes down more than 3,500 videos about war in Ukraine](https://www.asiaone.com/digital/douyin-takes-down-more-3500-videos-about-war-ukraine) | [Fact check: Ukraine's 'Ghost of Kyiv' fighter pilot](https://www.dw.com/en/fact-check-ukraines-ghost-of-kyiv-fighter-pilot/a-60951825) |
 
 
 
