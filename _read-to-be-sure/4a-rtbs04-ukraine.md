@@ -1,12 +1,12 @@
 ---
-title: 'Who can help us filter the truth?'
+title: 'How can we filter the truth?'
 permalink: /read-to-be-sure/issue4-ukraine/
-breadcrumb: 'Who can help us filter the truth?'
+breadcrumb: 'How can we filter the truth?'
 third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 ---
 
-*This special edition of the Read to be SURE presents multiple viewpoints on current events and issues to broaden perspectives and mindsets.*
+*This special edition of Read to be SURE presents multiple viewpoints on current events and issues to broaden perspectives and mindsets.*
 
 ![h](../images/rtbs4-hot-button-ukraine.JPG)<font size="2">Photo by Sima Ghaffarzadeh from Pexels</font>
 
@@ -24,6 +24,6 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 
 
-##### Who should help us filter the truth about the Russia-Ukraine conflict?  Take our **[poll](https://forms.gle/K2K2HTdPnrVQY2AV8)** now!
+##### How can we filter the truth about the Russia-Ukraine conflict?  Take our **[poll](https://forms.gle/K2K2HTdPnrVQY2AV8)** now!
 
 ![](../images/rtbs4-ukraine-poll-results.JPG)
