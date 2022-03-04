@@ -1,7 +1,7 @@
 ---
-title: 'Who can help us filter the truth?'
+title: 'How can we filter the truth?'
 permalink: /read-to-be-sure/issue4-ukraine/
-breadcrumb: 'Who can help us filter the truth?'
+breadcrumb: 'How can we filter the truth?'
 third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 ---
