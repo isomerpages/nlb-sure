@@ -24,6 +24,6 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 
 
-##### Who should help us filter the truth about the Russia-Ukraine conflict?  Take our **[poll](https://forms.gle/K2K2HTdPnrVQY2AV8)** now!
+##### How can we filter the truth about the Russia-Ukraine conflict?  Take our **[poll](https://forms.gle/K2K2HTdPnrVQY2AV8)** now!
 
 ![](../images/rtbs4-ukraine-poll-results.JPG)
