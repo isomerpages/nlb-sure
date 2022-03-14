@@ -42,7 +42,7 @@ If you are interested to discuss this further,
 </div>    
 </div>	
 </div>
-
+Please refer to our resource guide [here](https://reference.nlb.gov.sg/guides/sci-tech/sciences/covid19-resilience-restrictions) for further reading on COVID-19.
 
 
 <hr>

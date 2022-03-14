@@ -21,9 +21,17 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 | [Facebook takes down Ukraine disinformation network and bans Russian-backed media](https://www.theguardian.com/technology/2022/feb/28/facebook-takes-down-disinformation-network-targeting-ukraine-meta-instagram) | [Fact check roundup: What's true and what's false about the Russian invasion of Ukraine](https://www.usatoday.com/story/news/factcheck/2022/02/28/fact-check-whats-true-and-whats-false-invasion-ukraine/6952717001/) |
 | [Big Tech’s Russia problem](https://www.vox.com/2022/2/26/22951757/russia-facebook-twitter-youtube-censorship-social-media) | [The Sift (28 Feb 2022): Ukraine news tips](https://newslit.org/educators/sift/the-sift-ukraine-news-tips-russian-disinfo-machine-george-washington-fact-checker/) |
 | [Douyin takes down more than 3,500 videos about war in Ukraine](https://www.asiaone.com/digital/douyin-takes-down-more-3500-videos-about-war-ukraine) | [Fact check: Ukraine's 'Ghost of Kyiv' fighter pilot](https://www.dw.com/en/fact-check-ukraines-ghost-of-kyiv-fighter-pilot/a-60951825) |
+|                                                              | [The Information War Isn’t Over Yet](https://www.theatlantic.com/technology/archive/2022/03/russia-ukraine-war-propaganda/626975/) |
 
 
 
 ##### How can we filter the truth about the Russia-Ukraine conflict?  Take our **[poll](https://forms.gle/K2K2HTdPnrVQY2AV8)** now!
 
 ![](../images/rtbs4-ukraine-poll-results.JPG)
+
+
+
+Some views shared by our readers:
+
+- "*Platform owners have a greater responsibility to stem out fake news.*"
+- "*Tech giants will have their own interests and have misused their power in the past and present to mislead the public into taking decisions that are in the favour of large corporations. The responsibility of the media is to ensure that all perspectives, regardless of whether they are in support or against the commonly accepted beliefs, are brought to the attention of the public. The public are the ones who need to develop the skill of distinguishing true information from false ones.*"
