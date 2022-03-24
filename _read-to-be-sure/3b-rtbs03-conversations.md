@@ -37,7 +37,7 @@ Read to be SURE (RTBS) is part of NLB’s Libraries and Archives Blueprint 2025 
 
 **Moderator:** 
 
-- **Nizam Ismail** – Founder/CEO, Ethikom Consultancy
+- **Benjamin Gaw** – Director, Corporate and Mergers & Acquisitions, and Head, Healthcare & Life Sciences (Corporate & Regulatory), Drew & Napier LLC
 
  ![](../images/rtbs3-convo-speakers.JPG)
 
@@ -48,4 +48,4 @@ Read to be SURE (RTBS) is part of NLB’s Libraries and Archives Blueprint 2025 
 
     <p><b>Russell Yee</b> is a compliance officer who takes a keen interest in the financial and fintech sector, particularly in the cryptocurrency space. He recognises the potential that crypto has to disrupt the traditional financial businesses and has taught himself the ins and outs of crypto by dabbling in the space since 2017. He views crypto from both the wealth management and regulatory compliance lens, and adopts a pragmatic and risk-based approach when evaluating the latest crypto trends.</p> 
     
-    <p><b>Nizam Ismail</b> is CEO and Founder of Ethikom Consultancy, a Southeast Asian focused consultancy. He works with financial institutions, Fintech firms and blockchain enterprises on a variety of regulatory compliance matters. His career experience spanned from being a Deputy Public Prosecutor/State Counsel at the Commercial Affairs Department, a Division Head at the Monetary Authority of Singapore, Head of Compliance for Southeast Asia at Morgan Stanley and Lehman Brothers, and former head of financial services of a law firm. He is a Fellow at the Singapore University of Social Sciences and Head of the Regulatory and Compliance Sub-Committee of the Blockchain Association of Singapore. </p></details>
+    <p><b>Benjamin Gaw</b> is a Director in the Corporate and Mergers & Acquisitions Practice Groups, as well as Head, Healthcare & Life Sciences – Corporate & Regulatory at Drew & Napier LLC. He is also a member of the Telecommunications Media and Technology and Information Technology Practice Group and also co-heads the Employment Practice Group.  In relation to technology and corporate intellectual property matters and fintech and blockchain matters, Benjamin regularly advises on legal issues in the commercialisation and exploitation of intellectual property rights, such as research and development agreements, IP licensing and cross-licensing agreements, IP assignments and also franchises and franchising businesses. He also advises on start-ups and early stage investments in technology companies. He also regularly advises on issues relating to the Payment Systems Act, blockchain and cryptocurrencies and other fintech matters. </p></details>
