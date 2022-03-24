@@ -2,7 +2,7 @@
 title: 'Why fast fashion is hot'
 permalink: /read-to-be-sure/rtbs1-students-article1/
 breadcrumb: 'Why fast fashion is hot'
-third_nav_title: 'Issue #1: Student Resource'
+third_nav_title: 'Issue #1: Dive Deeper'
 
 ---
 
