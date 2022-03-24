@@ -8,6 +8,10 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
+**<font color=red size=5>Registrations for this event are full. You can view the livestream on NLB's YouTube page via the following link:  https://youtu.be/DB0G34qlr1I</font>**
+
+
+
 <a href="https://www.eventbrite.sg/e/cryptocurrencies-and-nfts-risks-or-rewards-read-to-be-sure-tickets-277335065647">![](../images/RTBS3-Convo-masthead.jpg)</a>
 
 
