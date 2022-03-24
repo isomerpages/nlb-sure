@@ -2,7 +2,7 @@
 title: 'The Real Price Tag of Fast Fashion'
 permalink: /read-to-be-sure/rtbs1-students-article4/
 breadcrumb: 'The Real Price Tag of Fast Fashion'
-third_nav_title: 'Student's Edition Issue #1: Fast Fashion'
+third_nav_title: 'Student Resource'
 
 ---
 

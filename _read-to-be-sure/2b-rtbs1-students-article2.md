@@ -2,7 +2,7 @@
 title: 'Fast fashion giants'
 permalink: /read-to-be-sure/rtbs1-students-article2/
 breadcrumb: 'Fast fashion giants'
-third_nav_title: 'Student's Edition Issue #1: Fast Fashion'
+third_nav_title: 'Student Resource'
 
 ---
 

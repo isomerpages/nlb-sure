@@ -2,7 +2,7 @@
 title: 'The Fast Fashion Crisis'
 permalink: /read-to-be-sure/rtbs1-students-article5/
 breadcrumb: 'The Fast Fashion Crisis'
-third_nav_title: 'Student's Edition Issue #1: Fast Fashion'
+third_nav_title: 'Student Resource'
 
 ---
 

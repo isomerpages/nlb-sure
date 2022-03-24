@@ -2,7 +2,7 @@
 title: 'When shopping becomes your personality'
 permalink: /read-to-be-sure/rtbs1-students-article3/
 breadcrumb: 'When shopping becomes your personality'
-third_nav_title: 'Student's Edition Issue #1: Fast Fashion'
+third_nav_title: 'Student Resource'
 
 ---
 
