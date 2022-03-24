@@ -22,7 +22,7 @@ Entrance to UNIQLO Orchard Central. [Shutterstock](https://www.shutterstock.com/
 
 
 
-***Go on, take a look at your closet. When was the last time you bought clothes? Where was it from and why did you choose to buy it?\***
+**Go on, take a look at your closet. When was the last time you bought clothes? Where was it from and why did you choose to buy it?**
 
  
 
@@ -78,7 +78,7 @@ Ultimately, we find ourselves stuck in a Catch-22 situation — we can look chic
 
  
 
-***Think about who might lose out from the value that fast fashion brings to consumers.\*** 
+**Think about who might lose out from the value that fast fashion brings to consumers.** 
 
  
 

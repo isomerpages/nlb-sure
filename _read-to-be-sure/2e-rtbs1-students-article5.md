@@ -18,7 +18,7 @@ third_nav_title: 'Issue #1: Dive Deeper'
 
  
 
-***How have you tried to shop more sustainably when it comes to fashion?\*** 
+**How have you tried to shop more sustainably when it comes to fashion?** 
 
  
 
@@ -134,7 +134,7 @@ Education and awareness can also help to bridge the gap and enable consumers to 
 
  
 
-***How can the fashion industry be more sustainable and ethical with regards to its supply chain practices? What can you as a consumer in Singapore do to support the move towards sustainable fashion?\***
+**How can the fashion industry be more sustainable and ethical with regards to its supply chain practices? What can you as a consumer in Singapore do to support the move towards sustainable fashion?**
 
  
 

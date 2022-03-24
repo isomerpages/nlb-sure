@@ -20,7 +20,7 @@ third_nav_title: 'Issue #1: Dive Deeper'
 
 *A collage of TikTok #sheinhaul videos. TikTok.*
 
-***Where do you get your style inspirations from?\***
+**Where do you get your style inspirations from?**
 
  
 
@@ -84,7 +84,7 @@ TikTok, arguably one of the most influential social media platforms today with [
 
 ![](../images/rtbs1-students-article3.jpg)
 
-*Person recording themselves with a new sweater and clothes.* *[Shutterstock](https://www.shutterstock.com/image-photo/young-woman-selling-clothes-online-by-1931387588)**.*
+*Person recording themselves with a new sweater and clothes.* *[Shutterstock](https://www.shutterstock.com/image-photo/young-woman-selling-clothes-online-by-1931387588).*
 
  
 
@@ -130,7 +130,7 @@ Beyond that, it has been shown that [Facebook](https://www.cbsnews.com/news/face
 
  
 
-***What responsibilities should social media platforms have when it comes to issues of consumer behaviour?\***
+**What responsibilities should social media platforms have when it comes to issues of consumer behaviour?**
 
  
 

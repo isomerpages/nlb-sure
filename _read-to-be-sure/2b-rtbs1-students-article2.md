@@ -19,9 +19,9 @@ third_nav_title: 'Issue #1: Dive Deeper'
 
 ![](../images/rtbs1-students-article2a.jpg)
 
-*Shein online store.* *[Shutterstock](https://www.shutterstock.com/zh-Hant/image-photo/stuttgart-germany-aug-14-2021-cellphone-2037893501)**.*
+*Shein online store.* *[Shutterstock](https://www.shutterstock.com/zh-Hant/image-photo/stuttgart-germany-aug-14-2021-cellphone-2037893501).*
 
-***How often do you feel like you need a wardrobe update? Are there many options for you to do so?\***
+**How often do you feel like you need a wardrobe update? Are there many options for you to do so?**
 
  
 
@@ -43,7 +43,7 @@ In 2011, [H&M opened its flagship store in Orchard Building](https://hmgroup.com
 
  ![](../images/rtbs1-students-article2b.jpg)
 
-*A Zara store in Hong Kong having a sale.* *[Shutterstock](https://www.shutterstock.com/image-photo/hong-kong-circa-january-2016-zara-466425656)**.*
+*A Zara store in Hong Kong having a sale.* *[Shutterstock](https://www.shutterstock.com/image-photo/hong-kong-circa-january-2016-zara-466425656).*
 
  
 
@@ -125,7 +125,7 @@ The speeds at which they produce clothes are far from sustainable, but the custo
 
  
 
-***Is using data this way always beneficial for consumers? How does it affect the way we consume or behave?\***
+**Is using data this way always beneficial for consumers? How does it affect the way we consume or behave?**
 
  
 

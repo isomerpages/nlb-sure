@@ -20,11 +20,11 @@ third_nav_title: 'Issue #1: Dive Deeper'
 
 ![](../images/rtbs1-students-article4b.jpg)
 
-*Clothes sales rack.* *[Artem Beliaikin/Unsplash](https://unsplash.com/photos/Ta3f1ZcCgWg)**.*
+*Clothes sales rack.* *[Artem Beliaikin/Unsplash](https://unsplash.com/photos/Ta3f1ZcCgWg).*
 
  
 
-***What was the last item of clothing you purchased? How often have you worn it so far?\*** 
+**What was the last item of clothing you purchased? How often have you worn it so far?** 
 
  
 
@@ -133,7 +133,7 @@ It’s a sobering pill to swallow. Since the 1970s, people around the world have
 
  
 
-***Based on the information presented, what will you do with your next item of unwanted clothing, and would your choice have been different prior to reading this article?\***
+**Based on the information presented, what will you do with your next item of unwanted clothing, and would your choice have been different prior to reading this article?**
 
  
 
