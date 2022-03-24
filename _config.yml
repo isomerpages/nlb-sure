@@ -39,11 +39,7 @@ collections:
         output: true
     rtbs-intro:
         output: true
-    rtbs-students:
-        output: true
     issue1-introduction:
-        output: true
-    overview:
         output: true
     issue2-overview:
         output: true
