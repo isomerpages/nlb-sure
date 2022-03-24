@@ -1,4 +1,5 @@
 ---
+
 title: 'Risks or Rewards?'
 permalink: /read-to-be-sure/issue3-overview/
 breadcrumb: 'Risks or Rewards?'
@@ -45,3 +46,15 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 
 ![](../images/rtbs3-engagement-poll-results.JPG)
+
+
+
+Reasons cited for investing in cryptocurrencies or NFTs:
+
+![](../images/rtbs3-engagement-poll-results-yes.JPG)
+
+
+
+Reasons cited for NOT investing in cryptocurrencies or NFTs:
+
+![](../images/rtbs3-engagement-poll-results-no.JPG)
