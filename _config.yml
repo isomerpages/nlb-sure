@@ -41,6 +41,8 @@ collections:
         output: true
     issue1-introduction:
         output: true
+    overview:
+        output: true
     issue2-overview:
         output: true
     issue3-overview:
