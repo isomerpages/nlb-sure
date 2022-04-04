@@ -34,4 +34,18 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 Some views shared by our readers:
 
 - "*Platform owners have a greater responsibility to stem out fake news.*"
+
 - "*Tech giants will have their own interests and have misused their power in the past and present to mislead the public into taking decisions that are in the favour of large corporations. The responsibility of the media is to ensure that all perspectives, regardless of whether they are in support or against the commonly accepted beliefs, are brought to the attention of the public. The public are the ones who need to develop the skill of distinguishing true information from false ones.*"
+
+- "*Do not circulate what’s being sent on WhatsApp or telegram without doing due diligent checks and cause unnecessary panic or alarm*"
+
+- "*What’s posted online stays there forever - always verify if it’s current or dated , after checking the first two.*"
+
+- "*If it’s a blog , it’s an opinion of an individual or group - and why would we decide what’s true or false based on another person’s opinion?*"
+
+- "*Always check the root source of information and always go with official and mainstream media.*"
+
+- "*We all must take personal responsibility and exercise self-care in this situation and in the reading of all news regardless of source. Always ascertain and verify the source. Always double check with at least 2 other credible sources. Always discern what we read.*"
+
+  
+
