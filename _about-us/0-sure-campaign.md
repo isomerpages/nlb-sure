@@ -69,10 +69,7 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 
 **National Digital Readiness Blueprint – since June 2018**
 
-- CNA: [https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390](https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390  )  
-
 - MCI: [https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint](https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint ) 
-
 
 
 
@@ -80,7 +77,7 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 
 **MCCY counter-terrorism curriculum- since Jan 2019**
 
-- CNA: [https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834](https://www.channelnewsasia.com/news/singapore/religious-organisations-get-more-help-on-handling-fake-news-11114834 ) 
+- ST: https://www.straitstimes.com/singapore/new-initiatives-to-help-religious-and-community-groups-combat-fake-news-and-terrorism
 
 
 

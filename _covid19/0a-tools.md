@@ -24,13 +24,14 @@ If the dubious information you received mentioned something specific to Singapor
 
 
 
-Local media websites also debunk fake news, though not all of them are exclusively about COVID-19:
+Local media websites also debunk fake news, though **not all of them are exclusively about COVID-19**:
 
-- [The Straits Times](https://www.straitstimes.com/tags/fake-news)
-- [Zaobao](https://www.zaobao.com.sg/keywords/fake-news)
-- [STOMP](https://stomp.straitstimes.com/tag/stomp-fights-fake-news)
-- [Channel NewsAsia](https://www.channelnewsasia.com/news/topic/fake-news)
-- [Mothership](https://mothership.sg/category/fake-news/)
+- [The Straits Times articles about fake news](https://www.straitstimes.com/tags/fake-news)
+- [Zaobao articles about 假新闻 or fake news](https://www.zaobao.com.sg/keywords/fake-news)
+- [Berita Harian articles on *berita palsu* or fake news](https://www.beritaharian.sg/taxonomy/term/9159)
+- [Tamil Murasu articles about fake news](https://www.tamilmurasu.com.sg/search/google/%22fake%20news%22)
+- [STOMP articles about fake news](https://stomp.straitstimes.com/tag/stomp-fights-fake-news)
+- [Mothership articles about fake news](https://mothership.sg/search/?s=%22fake+news%22)
 
 
 
@@ -50,7 +51,7 @@ Sometimes, you may receive fake news which do not mention anything specific abou
 - [The Coronavirus Collection: Fact-Checking COVID-19](https://www.snopes.com/collections/new-coronavirus-collection/) -  fact-checked claims listed in categories such as [*Origins and Spread*](https://www.snopes.com/collections/coronavirus-origins-treatments/), [*Prevention & Treatments*](https://www.snopes.com/collections/coronavirus-collection-prevention-treatments/),  and [*Viral Videos*](https://www.snopes.com/collections/coronavirus-collection-videos/).
 - [Reuters Fact Check](https://www.reuters.com/fact-check) - useful for international fake news, such as: 
   [*Bill Gates planning to use microchip implants to fight coronavirus*](https://www.reuters.com/article/uk-factcheck-coronavirus-bill-gates-micr/false-claim-bill-gates-planning-to-use-microchip-implants-to-fight-coronavirus-idUSKBN21I3EC) or [*In China the coronavirus only hit Wuhan, Chinese stock market unaffected*](https://www.reuters.com/article/uk-factcheck-coronavirus-only-hit-wuhan/false-claim-in-china-the-coronavirus-only-hit-wuhan-chinese-stock-market-unaffected-idUSKBN21J6MT)
-- [AFP Fact Check](https://factcheck.afp.com/search?keyword=covid) - by news agency Agence France-Presse (AFP), you can refer to articles about Singapore, such as [*Singaporean authorities refute hoax about 'spot fines' for people violating social distancing orders*](https://factcheck.afp.com/singaporean-authorities-refute-hoax-about-spot-fines-people-violating-social-distancing-orders), or international cases like [*Health experts warn against mixing rum, bleach and fabric softener to make 'hand sanitiser'*](https://factcheck.afp.com/health-experts-warn-against-mixing-rum-bleach-and-fabric-softener-make-hand-sanitiser).
+- [AFP Fact Check](https://factcheck.afp.com/list/all/37881/all/all/79) - by news agency Agence France-Presse (AFP), you can refer to articles about Singapore, such as "[Posts misrepresent news article about Singapore’s vaccination programme](https://factcheck.afp.com/posts-misrepresent-news-article-about-singapores-vaccination-programme)", or international cases like "[Scientific paper does not prove Moderna 'created' coronavirus](https://factcheck.afp.com/doc.afp.com.326Q8PG)".
 
 
 
