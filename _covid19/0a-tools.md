@@ -57,6 +57,8 @@ Sometimes, you may receive fake news which do not mention anything specific abou
 - [Reuters Fact Check](https://www.reuters.com/fact-check) - useful for international fake news, such as: 
   [*Bill Gates planning to use microchip implants to fight coronavirus*](https://www.reuters.com/article/uk-factcheck-coronavirus-bill-gates-micr/false-claim-bill-gates-planning-to-use-microchip-implants-to-fight-coronavirus-idUSKBN21I3EC) or [*In China the coronavirus only hit Wuhan, Chinese stock market unaffected*](https://www.reuters.com/article/uk-factcheck-coronavirus-only-hit-wuhan/false-claim-in-china-the-coronavirus-only-hit-wuhan-chinese-stock-market-unaffected-idUSKBN21J6MT)
 - [AFP Fact Check](https://factcheck.afp.com/list/all/37881/all/all/79) - by news agency Agence France-Presse (AFP), you can refer to articles about Singapore, such as "[Posts misrepresent news article about Singapore’s vaccination programme](https://factcheck.afp.com/posts-misrepresent-news-article-about-singapores-vaccination-programme)", or international cases like "[Scientific paper does not prove Moderna 'created' coronavirus](https://factcheck.afp.com/doc.afp.com.326Q8PG)".
+- [BBC articles on fake news](https://www.bbc.com/news/topics/cjxv13v27dyt/fake-news), e.g. [Covid: Posts claiming only 17,000 died of virus 'factually incorrect'](https://www.bbc.com/news/60145237)
+- [Politifact articles on COVID-19 fake news](https://www.politifact.com/coronavirus/), e.g. [Pfizer paid “$2.8 million bribe payment” to the FDA for COVID-19 vaccine approval](https://www.politifact.com/factchecks/2022/apr/05/tweets/pfizer-did-not-bribe-fda-approval-its-covid-19-vac/)
 
 
 
