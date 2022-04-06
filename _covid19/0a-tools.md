@@ -1,7 +1,7 @@
 ---
-title: 'Fact-checking Tools'
+title: 'COVID-19 Fact-checking Tools'
 permalink: /covid19/tools/
-breadcrumb: 'Fact-checking Tools'
+breadcrumb: 'COVID-19 Fact-checking Tools'
 second_nav_title: null
 
 ---
@@ -24,13 +24,19 @@ If the dubious information you received mentioned something specific to Singapor
 
 
 
-Local media websites also debunk fake news, though not all of them are exclusively about COVID-19:
+Local media websites also debunk fake news, though **not all of them are exclusively about COVID-19**:
 
-- [The Straits Times](https://www.straitstimes.com/tags/fake-news)
-- [Zaobao](https://www.zaobao.com.sg/keywords/fake-news)
-- [STOMP](https://stomp.straitstimes.com/tag/stomp-fights-fake-news)
-- [Channel NewsAsia](https://www.channelnewsasia.com/news/topic/fake-news)
-- [Mothership](https://mothership.sg/category/fake-news/)
+- [The Straits Times articles about fake news](https://www.straitstimes.com/tags/fake-news)
+- [Zaobao articles about 假新闻 or fake news](https://www.zaobao.com.sg/keywords/fake-news)
+  - E.g. [网站称伊维菌素能治疗冠病 卫生部：没有科学证明](https://www.zaobao.com.sg/realtime/singapore/story20211015-1203776) 
+- [Berita Harian articles on fake news](https://www.beritaharian.sg/taxonomy/term/9159)
+  - E.g. [Truth Warriors dikenakan arahan pembetulan Pofma berkaitan dakwaan palsu Covid-19](https://www.beritaharian.sg/setempat/truth-warriors-dikenakan-arahan-pembetulan-pofma-berkaitan-dakwaan-palsu-covid-19)
+- [Tamil Murasu articles about fake news](https://www.tamilmurasu.com.sg/search/google/%22fake%20news%22)
+  - E.g. [கொவிட்-19 தொடர்பில் பொய்ச் செய்திகள்; ஏராளமான பதிவுகளை அகற்றிய ஃபேஸ்புக், டுவிட்டர் ](https://www.tamilmurasu.com.sg/singapore/story20210324-63377.html)
+- [STOMP articles about fake news (written by journalists)](https://stomp.straitstimes.com/tag/fake-news) 
+  - E.g. [Temasek Foundation debunks circulated photo regarding distribution of masks on Aug 4](https://stomp.straitstimes.com/singapore-seen/temasek-foundation-debunks-circulated-photo-regarding-distribution-of-masks-on-aug-4)
+- [Mothership articles about fake news](https://mothership.sg/search/?s=%22fake+news%22)
+  - E.g. [MOH debunks fake news that S'pore did autopsy & found Covid-19 can be treated with aspirin](https://mothership.sg/2021/06/singapore-debunk-covid-19-fake-news-autopsy/)
 
 
 
@@ -50,7 +56,9 @@ Sometimes, you may receive fake news which do not mention anything specific abou
 - [The Coronavirus Collection: Fact-Checking COVID-19](https://www.snopes.com/collections/new-coronavirus-collection/) -  fact-checked claims listed in categories such as [*Origins and Spread*](https://www.snopes.com/collections/coronavirus-origins-treatments/), [*Prevention & Treatments*](https://www.snopes.com/collections/coronavirus-collection-prevention-treatments/),  and [*Viral Videos*](https://www.snopes.com/collections/coronavirus-collection-videos/).
 - [Reuters Fact Check](https://www.reuters.com/fact-check) - useful for international fake news, such as: 
   [*Bill Gates planning to use microchip implants to fight coronavirus*](https://www.reuters.com/article/uk-factcheck-coronavirus-bill-gates-micr/false-claim-bill-gates-planning-to-use-microchip-implants-to-fight-coronavirus-idUSKBN21I3EC) or [*In China the coronavirus only hit Wuhan, Chinese stock market unaffected*](https://www.reuters.com/article/uk-factcheck-coronavirus-only-hit-wuhan/false-claim-in-china-the-coronavirus-only-hit-wuhan-chinese-stock-market-unaffected-idUSKBN21J6MT)
-- [AFP Fact Check](https://factcheck.afp.com/search?keyword=covid) - by news agency Agence France-Presse (AFP), you can refer to articles about Singapore, such as [*Singaporean authorities refute hoax about 'spot fines' for people violating social distancing orders*](https://factcheck.afp.com/singaporean-authorities-refute-hoax-about-spot-fines-people-violating-social-distancing-orders), or international cases like [*Health experts warn against mixing rum, bleach and fabric softener to make 'hand sanitiser'*](https://factcheck.afp.com/health-experts-warn-against-mixing-rum-bleach-and-fabric-softener-make-hand-sanitiser).
+- [AFP Fact Check](https://factcheck.afp.com/list/all/37881/all/all/79) - by news agency Agence France-Presse (AFP), you can refer to articles about Singapore, such as "[Posts misrepresent news article about Singapore’s vaccination programme](https://factcheck.afp.com/posts-misrepresent-news-article-about-singapores-vaccination-programme)", or international cases like "[Scientific paper does not prove Moderna 'created' coronavirus](https://factcheck.afp.com/doc.afp.com.326Q8PG)".
+- [BBC articles on fake news](https://www.bbc.com/news/topics/cjxv13v27dyt/fake-news), e.g. [Covid: Posts claiming only 17,000 died of virus 'factually incorrect'](https://www.bbc.com/news/60145237)
+- [Politifact articles on COVID-19 fake news](https://www.politifact.com/coronavirus/), e.g. [Pfizer paid “$2.8 million bribe payment” to the FDA for COVID-19 vaccine approval](https://www.politifact.com/factchecks/2022/apr/05/tweets/pfizer-did-not-bribe-fda-approval-its-covid-19-vac/)
 
 
 
