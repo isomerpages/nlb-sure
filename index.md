@@ -28,6 +28,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Detecting Scams and Fake Images with S.U.R.E. - The LLiBrary Lunchtime Talk'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/fake-news/FN0026
+          image: /images/llibrary-19May2022.PNG
+          alt: 'alt text'
+          button: 'Register Now!'
+    - infopic:
           title: 'Read to be SURE Issue #4: Who can help us filter the truth?'
           subtitle: 'For everyone'
           description: null

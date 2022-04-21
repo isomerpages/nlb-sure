@@ -1,5 +1,5 @@
 ---
-title: 'Detecting Scams and Fake Images with S.U.R.E.'
+title: 'Detecting Scams and Fake Images with S.U.R.E. - The LLiBrary Lunchtime Talk'
 date: 2022-04-21T00:08:00.000Z
 permalink: /blog/fake-news/FN0026
 image: ../../../images/llibrary-19May2022.PNG
