@@ -111,3 +111,13 @@ Apart from reaching out to schools in Singapore,  SURE is aligned to the various
 
 
 
+**MCCY - Singapore Journey** **- since 2021**
+
+- S.U.R.E. is featured in [Chapter 3: Our Society and Way of Life](https://www.sgjourney.gov.sg/courses/public-ejourney/lesson/on-the-internet-2/) and [Chapter 7: Our Future, Together](https://www.sgjourney.gov.sg/courses/public-ejourney/lesson/technological-disruptions-2/).
+
+
+
+**Health Promotion Board - HealthHub > MindSG - since 2022** 
+
+- [Teens: Learning About Cyber Wellness](https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Learning-About-Cyber-Wellness-Teens) 
+- [Youth / Young Adults: Learning About Cyber Wellness](https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Learning-About-Cyber-Wellness-Youths) 
