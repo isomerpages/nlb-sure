@@ -91,7 +91,7 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 ![](../images/seniors-fake-news.JPG)
 
-**[How seniors can fight fake news](/infographic/Infog-1-Marcus-Chin-English-FINAL-002)**
+**[How seniors can fight fake news](/infographic/Infog-1-Marcus-Chin-English-FINAL-002.pdf)**
 
 Don’t believe everything you read online. Find out how you can verify dubious information in this tip sheet.    
 
