@@ -49,15 +49,13 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
-![Fact checking using multiple sources](/images/Multiple-Sources-Header.png)
+![](../images/Multiple-Sources-Header.jpg)
 
 If you receive any dubious information, you can check the facts using credible sources before you share.
 
 
 
-
-<hr>
-![How to deal with dubious messages](/images/dubious-messages-English.png)
+![](../images/dubious-messages-English.png)
 
 **[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
 
@@ -91,9 +89,9 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 <hr>
 
-![How seniors can fight fake news](/images/seniors-fake-news.JPG)
+![](../images/seniors-fake-news.JPG)
 
-**[How seniors can fight fake news](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
+**[How seniors can fight fake news](/infographic/Infog-1-Marcus-Chin-English-FINAL-002.pdf)**
 
 Don’t believe everything you read online. Find out how you can verify dubious information in this tip sheet.    
 
@@ -126,7 +124,7 @@ Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak
 <hr>
 **[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
 
-![NewspaperSG](/images/NewspaperSG-masthead-1050x536.png)
+![](../images/NewspaperSG-masthead-1050x536.jpg)
 
 Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore and Malaya and how to think critically when reading news articles.  
 
@@ -135,7 +133,7 @@ Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore an
 <hr>
 **[Be S.U.R.E . about your research](/infographic/Be-SURE_Infographic_Hires.pdf)**
 
-![](/images/besure-infographicheader-e1450169907842-1050x700.png)
+![](../images/besure-infographicheader-e1450169907842-1050x700.png)
 
 How well do you know about the information you receive? Are you sure about the information your friend shared or the information you read online? Learn how to apply the 4 ways of S.U.R.E. to discern information in our daily activities, such as shopping and eating.
 
