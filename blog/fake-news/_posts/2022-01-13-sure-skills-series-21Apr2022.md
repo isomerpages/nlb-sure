@@ -11,7 +11,7 @@ image: ../../../images/sure-skills-series-seniors-eng2.JPG
 
 Date: Thu, 21 Apr 2022 <br>Time: 3:00PM to 4.00 PM<br>Conducted via Zoom<br>Free of Charge
 
-**Please register [HERE](https://www.eventbrite.sg/e/sure-skills-series-for-seniors-verifying-images-videos-tickets-244274691177).**
+Download the slides **[HERE](https://go.gov.sg/nlb-sure-21apr2022-slides)**.
 
 
 

@@ -8,7 +8,12 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 In our **Read to be SURE** **Conversations**, we will invite guests from all walks of life to share their expertise and perspectives on trending issues that matter. In line with one of NLB’s LAB25 key roles of nurturing an Informed Citizenry, we hope that the **Conversations** will help broaden and deepen your mindsets.  
 
-**Registrations for this event are full. You can view the livestream on NLB's YouTube page via the following link:  [https://youtu.be/DB0G34qlr1I](https://youtu.be/DB0G34qlr1I)**
+
+
+View the full event recording here:
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=c41b2576-9070-4d58-85b2-ae820037ab8b&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div>
 
 
 
