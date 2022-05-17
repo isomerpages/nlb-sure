@@ -10,7 +10,8 @@ In our **Read to be SURE** **Conversations**, we will invite guests from all wal
 
 View the full event recording here:
 
-<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=7c050bad-5c34-4fb7-b409-ae6e0061e465&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=7c050bad-5c34-4fb7-b409-ae6e0061e465&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div>
 
 
 
