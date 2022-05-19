@@ -17,7 +17,7 @@ View the full event recording here:
 
 
 
-<a href="https://www.eventbrite.sg/e/cryptocurrencies-and-nfts-risks-or-rewards-read-to-be-sure-tickets-277335065647">![](../images/RTBS3-Convo-masthead.jpg)</a>
+If you are keen to read more about this topic, check out this resource guide **[HERE](https://reference.nlb.gov.sg/guides/sci-tech/tech/crypto-nfts)**.
 
 
 
