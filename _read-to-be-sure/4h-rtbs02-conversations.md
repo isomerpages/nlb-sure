@@ -15,10 +15,6 @@ View the full event recording here:
 
 
 
-
-
-<a href="https://www.eventbrite.com/e/covid-19-curbs-less-or-more-read-to-be-sure-tickets-249930527937?aff=ebdssbdestsearch&keep_tld=1">![](../images/rtbs2-convo2.jpg)</a>
-
 ## About this event
 
 **This is a hybrid event. The programme will be live-streamed via ZOOM from library@harbourfront (25 pax max).**
