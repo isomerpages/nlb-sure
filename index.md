@@ -36,17 +36,9 @@ sections:
           alt: 'alt text'
           button: 'Read Issue #4 now, and share your thoughts with us!'
     - infopic:
-          title: 'Join the "Read to be SURE" Conversations'
-          subtitle: 'For everyone'
-          description: null
-          url: /read-to-be-sure/issue3-conversations/
-          image: /images/RTBS3-Convo-masthead.jpg
-          alt: 'alt text'
-          button: 'View programme details'
-    - infopic:
           title: 'Read to be SURE Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
           subtitle: 'For everyone'
-          description: null
+          description: nullh
           url: /read-to-be-sure/issue3-overview/
           image: /images/RTBS3-masthead.jpg
           alt: 'alt text'
@@ -60,14 +52,6 @@ sections:
           alt: 'alt text'
           button: 'Read Issue #2 now!'
     - infopic:
-          title: 'Total Defence Day 2022 - Detecting Scams and Fake Images'
-          subtitle: 'For Everyone'
-          description: null
-          url: /blog/fake-news/FN0027
-          image: /images/SURE-TD-22Feb2022.JPG
-          alt: 'alt text'
-          button: 'View programme details'
-    - infopic:
           title: 'Read to be SURE Issue #1: Fast Fashion: Love it or Hate it?'
           subtitle: 'For everyone'
           description: null
@@ -75,14 +59,6 @@ sections:
           image: /images/becca-mchaffie-Fzde_6ITjkw-unsplash-min.jpg
           alt: 'alt text'
           button: 'Read Issue #1 now!'
-    - infopic:
-          title: 'S.U.R.E Skills Series for Seniors -Factchecking Dubious Emails & Messages'
-          subtitle: 'For Seniors'
-          description: null
-          url: /blog/fake-news/FN0020
-          image: /images/sure-skills-series-seniors-eng1.JPG
-          alt: 'alt text'
-          button: 'View programme details'
     - infopic:
           title: 'Story Books: What’s “Truth” in a Non-Fiction Text?'
           subtitle: 'For everyone'
