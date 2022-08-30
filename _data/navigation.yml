@@ -6,8 +6,6 @@ links:
       sublinks:
             - title: 'SURE (Information Literacy) Campaign'
               url: /about-us/sure-campaign/
-            - title: 'National Library'
-              url: /about-us/national-library/
     - title: 'Tours & Workshops'
       url: /tours-and-workshops/learn/
       false_collection: true
@@ -44,14 +42,16 @@ links:
               url: /resources/audience/
             - title: Formats
               url: /resources/format/
-    - title: Contests
-      url: /contests/proveit2021/
+    - title: Events
+      url: /events/surecelebratesmil/
       false_collection: true
       sublinks:
+            - title: 'S.U.R.E. Celebrates M.I.L.'
+              url: /events/surecelebratesmil/
             - title: 'Prove It!'
-              url: /contests/proveit2021/
+              url: /events/proveit2021/
             - title: 'Historical Scene Investigation'
-              url: /contests/hsi2021/
+              url: /events/hsi2021/
     - title: Blog
       url: /blog/
       false_collection: true
@@ -64,5 +64,7 @@ links:
               url: /blog/home-based-learning/
             - title: 'Information Literacy'
               url: /blog/information-literacy/
+            - title: 'Tech'
+              url: /blog/tech/
     - title: 'Contact Us'
       url: /contact-us/

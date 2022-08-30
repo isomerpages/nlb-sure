@@ -20,7 +20,7 @@ sections:
                     - title: 'find resources for schools'
                       url: /resources/audience/teachers-and-students/primary-level
                     - title: 'find contests for schools'
-                      url: /contests/proveit2021/
+                      url: /events/proveit2021/
                       
           title: S.U.R.E.
           subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
