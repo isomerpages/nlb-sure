@@ -57,7 +57,7 @@ Read on to find out how you can apply the S.U.R.E. steps when you next shop onli
 
 Falling prey to [e-commerce scams](https://www.police.gov.sg/media-room/news/20211109_police_advisory_on_e-commerce_scam_during_the_year_end_online_shopping_events) and losing your money is the furthest course of action from saving it. Keep yourself safe by checking who exactly you are buying from. How many sales have they made? How have buyers reviewed them? Before buying anything, it is always a good practice to make sure that you’re spending money on a reputable seller.
 
- 
+
 
 ### Compare products.
 
