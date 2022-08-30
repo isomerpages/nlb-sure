@@ -7,8 +7,8 @@ sections:
           dropdown:
               title: null
               options:
-                    - title: 'explore "Read to be SURE" Issue #2'
-                      url: /read-to-be-sure/issue2-overview/
+                    - title: 'find out more about S.U.R.E. Celebrates M.I.L.'
+                      url: /events/surecelebratesmil/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
                     - title: 'find resources on combating fake news'
@@ -19,14 +19,20 @@ sections:
                       url: /tours-and-workshops/learn/
                     - title: 'find resources for schools'
                       url: /resources/audience/teachers-and-students/primary-level
-                    - title: 'find contests for schools'
-                      url: /contests/proveit2021/
                       
           title: S.U.R.E.
           subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
           background: /images/1747093_s.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
+    - infopic:
+          title: 'S.U.R.E. Celebrates M.I.L.'
+          subtitle: 'For everyone'
+          description: null
+          url: /events/surecelebratesmil/
+          image: /images/dsgn_23.JPG
+          alt: 'alt text'
+          button: 'Sign up now, and stand a chance to win the S.U.R.E. Bingo!'
     - infopic:
           title: 'Read to be SURE Issue #4: Who can help us filter the truth?'
           subtitle: 'For everyone'

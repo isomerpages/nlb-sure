@@ -61,7 +61,7 @@ collections:
         output: true
     resources-by-topics:
         output: true
-    contests:
+    events:
         output: true
     ongoing-events:
         output: true
