@@ -1,6 +1,6 @@
 ---
 title: 'Prove It! Contest 2021'
-permalink: /contests/proveit2021/
+permalink: /events/proveit2021/
 breadcrumb: 'Prove It! 2021'
 ---
 
