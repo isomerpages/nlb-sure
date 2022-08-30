@@ -45,7 +45,7 @@ Read on to find out how you can apply the S.U.R.E. steps when you next shop onli
 
  
 
-1.   Look at the sellers. Are they trustworthy?
+1. **Look at the sellers. Are they trustworthy?**
 
 (Check your Sources and Understand the information provided)
 
@@ -59,7 +59,7 @@ Falling prey to [e-commerce scams](https://www.police.gov.sg/media-room/news/202
 
  
 
-2.   Compare products. 
+2. **Compare products.** 
 
 (Research across websites)
 
@@ -77,7 +77,7 @@ Assuming you’ve checked your sellers and verified their credibility, there’s
 
  
 
-3. Don’t fall prey to marketing tactics
+**3) Don’t fall prey to marketing tactics**
 
 (Evaluate before making a decision)
 
