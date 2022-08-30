@@ -6,7 +6,7 @@ breadcrumb: 'S.U.R.E. Celebrates M.I.L.'
 
 ## About S.U.R.E. Celebrates M.I.L.
 
-![](../images/dsgn_23.jpg)
+![](../images/sure-celebrates-mil1.jpg)
 
 The rapid advancements in technology and global events have greatly impacted the way we stay connected to and understand the world around us. Online information users today encounter a multitude of challenges – information overload, misinformation and disinformation, online scams, and our own personal biases. 
 

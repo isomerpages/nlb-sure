@@ -30,7 +30,7 @@ sections:
           subtitle: 'For everyone'
           description: null
           url: /events/surecelebratesmil/
-          image: /images/dsgn_23.JPG
+          image: /images/sure-celebrates-mil1.JPG
           alt: 'alt text'
           button: 'Sign up now, and stand a chance to win the S.U.R.E. Bingo!'
     - infopic:
