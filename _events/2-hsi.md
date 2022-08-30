@@ -1,6 +1,6 @@
 ---
 title: 'Historical Scene Investigation Challenge 2021'
-permalink: /contests/hsi2021/
+permalink: /events/hsi2021/
 breadcrumb: 'Historical Scene Investigation 2021'
 image: ../../../images/hsi2021-logo.JPG
 
