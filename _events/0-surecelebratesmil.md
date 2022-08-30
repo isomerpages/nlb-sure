@@ -14,7 +14,8 @@ This year’s theme is “***Be S.U.R.E., Stay Connected***” and you can learn
 
 - Discern and use online information sources
 - Unpack and avoid scams
-- Avoid online harms Understand news literacy 
+- Avoid online harms 
+- Understand news literacy 
 
  
 
