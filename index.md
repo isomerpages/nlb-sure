@@ -42,51 +42,27 @@ sections:
           alt: 'alt text'
           button: 'Read Issue #4 now, and share your thoughts with us!'
     - infopic:
-          title: 'Read to be SURE Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
-          subtitle: 'For everyone'
-          description: nullh
-          url: /read-to-be-sure/issue3-overview/
-          image: /images/RTBS3-masthead.jpg
-          alt: 'alt text'
-          button: 'Read Issue #3 now, and share your thoughts with us!'
-    - infopic:
-          title: 'Read to be SURE Issue #2: COVID-19 Curbs: Less or More?'
+          title: 'Be S.U.R.E. before you “add to cart”'
           subtitle: 'For everyone'
           description: null
-          url: /read-to-be-sure/issue2-overview/
-          image: /images/rtbs2-masthead3.jpg
-          alt: 'alt text'
-          button: 'Read Issue #2 now!'
-    - infopic:
-          title: 'Read to be SURE Issue #1: Fast Fashion: Love it or Hate it?'
-          subtitle: 'For everyone'
-          description: null
-          url: /read-to-be-sure/issue1-introduction/
-          image: /images/becca-mchaffie-Fzde_6ITjkw-unsplash-min.jpg
-          alt: 'alt text'
-          button: 'Read Issue #1 now!'
-    - infopic:
-          title: 'Story Books: What’s “Truth” in a Non-Fiction Text?'
-          subtitle: 'For everyone'
-          description: null
-          url: /blog/fake-news/FN0009
-          image: /images/102503256_s.jpg
+          url: /blog/tech/TECH0002
+          image: /images/ecommerce-g0a4095276_1920.jpg
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
-          title: 'What Comics Teach Us About Fake News'
+          title: 'How I Almost Got Hooked Into a Scam'
           subtitle: 'For everyone'
           description: null
-          url: /blog/fake-news/FN0007
-          image: /images/49924697_s-min.jpg
+          url: /blog/tech/TECH0003
+          image: /images/blog-tech3-1.jpg
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
-          title: 'My guilty love affair with food hack videos'
+          title: 'What Popular Culture Teaches Us About the Spread of False Information'
           subtitle: 'For everyone'
           description: null
-          url: /blog/tech/tech0001
-          image: /images/foodhack.jpg
+          url: /blog/tech/TECH0004
+          image: /images/blog-tech4.jpg
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
