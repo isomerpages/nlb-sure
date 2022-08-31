@@ -45,9 +45,9 @@ The result of Mysterio’s actions are revealed in the next film, *Spider-Man: N
 
  
 
-[SPIDER-MAN: NO WAY HOME - First 10 Minutes](https://www.youtube.com/watch?v=ww_Vz7-buOk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ww_Vz7-buOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
- 
+
 
 **Stay Safe with the S.U.R.E. steps!**
 
