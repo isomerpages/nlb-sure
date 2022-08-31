@@ -33,7 +33,7 @@ Mysterio had filmed Peter verbally instructing drones to ‘execute’ a series 
 
  
 
-[TheDailyBugle.net: EXCLUSIVE Spider-Man Unmasked Full Story Credit The Daily Bugle J. Jonah Jameson](https://www.youtube.com/watch?v=wjczS3bXpfM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wjczS3bXpfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
 
