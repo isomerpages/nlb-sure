@@ -62,7 +62,7 @@ sections:
           subtitle: 'For everyone'
           description: null
           url: /blog/tech/TECH0004
-          image: /images/blog-tech4.jpg
+          image: /images/blog-tech4a.jpg
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:

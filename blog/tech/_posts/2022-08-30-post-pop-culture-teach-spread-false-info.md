@@ -2,7 +2,7 @@
 title: 'What Popular Culture Teaches Us About the Spread of False Information'
 date: 2022-08-30T08:00:00.000Z
 permalink: /blog/tech/TECH0004
-image: ../../../images/blog-tech4.jpg
+image: ../../../images/blog-tech4a.jpg
 ---
 
 According to *Oxford Bibliographies Online*, popular culture constitutes ‘the set of practices, beliefs, and objects that embody the most broadly shared meanings of a social system’. The fact that the spread of false information has long been depicted in popular books and films, then, signals that false information is a striking aspect of our society. Indeed, from the fake news published by *[The Daily Prophet](https://www.newstatesman.com/politics/2017/06/boy-who-lies-what-daily-prophet-can-teach-us-about-fake-news)* in the *[Harry Potter](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=13720061)* series to the portrayal of how sensationalist news contributed to the outbreak of the Spanish-American war in *[Citizen Kane](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7677705)*, depictions of false information in popular culture are not hard to come by.
