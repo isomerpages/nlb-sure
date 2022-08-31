@@ -15,7 +15,7 @@ However, in recent times, portrayals of the spread of false information in popul
 
 *spoilers ahead!*
 
-![](../../../images/blog-tech4.jpg)
+![](../../../images/blog-tech4a.jpg)
 
 Image by Alexander Jawfox, retrieved from [Unsplash](https://unsplash.com/photos/V0zU9A_Zq9A)
 
