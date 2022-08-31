@@ -34,14 +34,6 @@ sections:
           alt: 'alt text'
           button: 'Sign up now, and stand a chance to win the S.U.R.E. Bingo!'
     - infopic:
-          title: 'Read to be SURE Issue #4: Who can help us filter the truth?'
-          subtitle: 'For everyone'
-          description: null
-          url: /read-to-be-sure/issue4-ukraine/
-          image: /images/rtbs4-hot-button-ukraine.JPG
-          alt: 'alt text'
-          button: 'Read Issue #4 now, and share your thoughts with us!'
-    - infopic:
           title: 'Be S.U.R.E. before you “add to cart”'
           subtitle: 'For everyone'
           description: null
@@ -65,6 +57,14 @@ sections:
           image: /images/blog-tech4a.jpg
           alt: 'alt text'
           button: 'Read it now!'
+    - infopic:
+          title: 'Read to be SURE Issue #4: Who can help us filter the truth?'
+          subtitle: 'For everyone'
+          description: null
+          url: /read-to-be-sure/issue4-ukraine/
+          image: /images/rtbs4-hot-button-ukraine.JPG
+          alt: 'alt text'
+          button: 'Read Issue #4 now, and share your thoughts with us!'
     - infopic:
           title: 'Digital Resources of the National Library and National Archives of Singapore'
           subtitle: 'For secondary school students'
@@ -129,13 +129,6 @@ sections:
           image: /images/sure-activity-5-feature-image-fb.jpg
           alt: 'alt text'
           button: 'Check them out now!'
-    - infopic:
-          title: 'The News Gallery - Primary School Activity 3'
-          subtitle: 'For primary school students'
-          description: 'Behind Every Story'
-          url: /tng/pri-activity3/
-          image: /images/tng-pri-activity3.jpg
-          alt: 'alt text'
-          button: 'Check them out now!'
 notification: "\n"
 ---
+
