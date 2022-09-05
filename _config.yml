@@ -31,7 +31,7 @@ collections:
         output: true
     sure-for-work:
         output: true
-    sure-for-life
+    sure-for-life:
         output: true
     tours-and-workshops:
         output: true
