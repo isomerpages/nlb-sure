@@ -25,4 +25,3 @@ CLICK ON THE PROGRAMME TITLES TO REGISTER!
 | [**New News: Online Journalism Today**](https://www.eventbrite.sg/e/new-news-online-journalism-today-sure-celebrates-mil-tickets-413824749967) | How does information overload affect journalism? Has researching and reporting for journalism changed in the digital age? What does it take to be a broadcast journalist or investigative reporter in today’s world? | 27 Oct Thursday 6:00pm-7:00pm  | Zoom |
 
 
-
