@@ -26,3 +26,4 @@ This year’s theme is “***Be S.U.R.E., Stay Connected***” and you can learn
 **About S.U.R.E.**
 
 S.U.R.E. stands for Source, Understand, Research and Evaluate, and is an initiative of the National Library Board to educate the public on information literacy. Find out more [**here**](/about-us/sure-campaign/).
+
