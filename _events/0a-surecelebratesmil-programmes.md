@@ -8,6 +8,8 @@ third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ## PROGRAMME CALENDAR
 
+![](../images/sure-celebrates-mil1.jpg)
+
 CLICK ON THE PROGRAMME TITLES TO REGISTER!
 
 |                                                              |                                                              |                                |      |
