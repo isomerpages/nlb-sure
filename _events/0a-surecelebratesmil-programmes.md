@@ -1,7 +1,7 @@
 ---
-title: 'S.U.R.E. Celebrates M.I.L.'
-permalink: /events/surecelebratesmil/
-breadcrumb: 'Programmes'
+title: 'Programme Calendar'
+permalink: /events/surecelebratesmil-programmes/
+breadcrumb: 'Programme Calendar'
 third_nav_title: ''S.U.R.E. Celebrates M.I.L.
 
 ---

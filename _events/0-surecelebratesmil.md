@@ -1,5 +1,5 @@
 ---
-title: 'S.U.R.E. Celebrates M.I.L.'
+title: 'Introduction'
 permalink: /events/surecelebratesmil/
 breadcrumb: 'Introduction'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
