@@ -27,7 +27,11 @@ exclude:
 collections:
     about-us:
         output: true
-    covid19:
+    sure-for-school:
+        output: true
+    sure-for-work:
+        output: true
+    sure-for-life
         output: true
     tours-and-workshops:
         output: true
@@ -62,14 +66,6 @@ collections:
     resources-by-topics:
         output: true
     events:
-        output: true
-    ongoing-events:
-        output: true
-    past-events:
-        output: true
-    school-resources:
-        output: true
-    engage-us:
         output: true
 resources_name: blog
 paginate: 12
