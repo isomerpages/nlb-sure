@@ -4,14 +4,8 @@ links:
       url: /about-us/sure-campaign/
       false_collection: true
       sublinks:
-            - title: 'S.U.R.E. (Information Literacy) Campaign'
+            - title: 'SURE (Information Literacy) Campaign'
               url: /about-us/sure-campaign/
-            - title: 'S.U.R.E. for School'
-              url: /about-us/sure-for-school/
-            - title: 'S.U.R.E. for Work
-              url: /about-us/sure-for-work/
-            - title: 'S.U.R.E. for Life'
-              url: /about-us/sure-for-life/
     - title: 'Tours & Workshops'
       url: /tours-and-workshops/learn/
       false_collection: true
@@ -54,8 +48,6 @@ links:
       sublinks:
             - title: 'S.U.R.E. Celebrates M.I.L.'
               url: /events/surecelebratesmil/
-            - title: 'Programme Calendar'
-              url: /events/surecelebratesmil-programmes/
             - title: 'Prove It!'
               url: /events/proveit2021/
             - title: 'Historical Scene Investigation'
