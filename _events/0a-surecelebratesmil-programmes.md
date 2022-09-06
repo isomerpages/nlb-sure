@@ -1,16 +1,49 @@
 ---
-title: 'Programme Calendar'
+
+title: 'Bingo Activities'
 permalink: /events/surecelebratesmil-programmes/
-breadcrumb: 'Programme Calendar'
+breadcrumb: 'Bingo Activities'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ---
 
-## PROGRAMME CALENDAR
+# S.U.R.E Celebrates M.I.L. BINGO Activities
+
+Want to learn how to “Be S.U.R.E., Stay Connected” in this digital age? Explore the activities below and find out more about how to:
+
+·    Discern and use online information sources
+
+·    Unpack and avoid scams
+
+·    Avoid online harms 
+
+·    Understand new literacy 
+
+Discover and explore bite-sized content, visit our book displays and The News Gallery, and participate in the learning programmes, quiz and game below!
+
+
+
+## CONTENT
+
+![](../images/SURE-MIL-Week-header3.jpg)
+
+|                                                              | About                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Watch:**<BR> [Total Defence Interactive Video](https://go.gov.sg/watdinteractive) | Check out the Total Defence Interactive Video where you can make choices that will determine the outcome of the character’s day. Understand how your choices and actions could create a greater impact in the larger national context, and how you can play your part for Singapore! Remember to be discerning of information you receive online and keep your eye out for fake news!<BR> |
+| **Read**:<br/>[Blog: Be S.U.R.E. before you “add to cart”](https://sure.nlb.gov.sg/blog/tech/tech0002 ) | Whether you’re shopping online for groceries or a piece of furniture for your new home, the internet is a shopping haven to many. <br>From mini-games and enticing discount coupons to reel consumers in, to endless online platforms to shop at, read on to discover how you can be S.U.R.E. before you add to cart!<BR> |
+| **Read:**<br>[Blog: What Popular Culture Teaches Us About the Spread of False Information](https://sure.nlb.gov.sg/blog/tech/tech0004 ) | Books, films and television may be works of fiction, but they can often be a mirror to society, offering a striking reflection to the state of the world today.  <br>Read this article to find out how an action-packed blockbuster film tells the story of fake news in the world today. |
+|                                                              |                                                              |
+| **Read**:<br>[Blog: How I almost got hooked into a scam](https://sure.nlb.gov.sg/blog/tech/tech0003 ) | With a rise of scam cases in Singapore by 16% from 2020 to 2021, it’s no wonder that we’ve of heard friends or families who have had a brush with scams. <br>Read this article of a close encounter with a scammer. |
+|                                                              |                                                              |
+|                                                              |                                                              |
+
+
+
+## PROGRAMMES
 
 ![](../images/SURE-MIL-Week-header2.png)
 
-CLICK ON THE PROGRAMME TITLES TO REGISTER!
+All our programmes are held online via Zoom. Please register in the links provided.
 
 |                                                              |                                                              |                                |      |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------ | ---- |
@@ -24,4 +57,16 @@ CLICK ON THE PROGRAMME TITLES TO REGISTER!
 | **[News and Laughter in a Meme World](https://www.eventbrite.sg/e/news-and-laughter-in-a-meme-world-sure-celebrates-mil-tickets-413823626607)** | Join the conversation to find out how news, current affairs and pop culture are crafted and consumed in memes, and why we find it relatable. Learn how memes are created and why they are a popular medium for news and information in today’s world. | 26 Oct Wednesday 6:00pm-7:00pm | Zoom |
 | [**New News: Online Journalism Today**](https://www.eventbrite.sg/e/new-news-online-journalism-today-sure-celebrates-mil-tickets-413824749967) | How does information overload affect journalism? Has researching and reporting for journalism changed in the digital age? What does it take to be a broadcast journalist or investigative reporter in today’s world? | 27 Oct Thursday 6:00pm-7:00pm  | Zoom |
 
+
+
+## PLAY
+
+![](../images/SURE-MIL-Week-header1.png)
+
+Are you game to test your M.I.L. skills? Take part in the quiz or game below!
+
+| **About**                                                    | **Play here!**                                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| These days, creating a social media account is extremely easy, and bad actors have leveraged this to create fake accounts to either artificially boost certain sentiments or spread misinformation. <BR>This quiz will test individuals on how well they're able to tell a legitimate social media user from a bot.<BR> | [**“Bot or Not”** **Quiz**](https://bdresearch.typeform.com/to/GF1x9fKg) |
+| Go on an adventure and learn fact-finding skills in IN-cube’s Fake News Detective game. <BR>Fake News Detective is part of a Nanyang Technological University project funded by the Singapore Social Science Research Council (SSRC) grant. | [**Fake News Detective Online Game**](https://fakenewsdetective.com/) |
 
