@@ -1,7 +1,7 @@
 ---
-title: 'FAQs'
+title: 'How to play'
 permalink: /events/surecelebratesmil-bingo-howtoplay/
-breadcrumb: 'FAQs'
+breadcrumb: 'How to play'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ---
