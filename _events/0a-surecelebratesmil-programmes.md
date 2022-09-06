@@ -8,7 +8,7 @@ third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ## PROGRAMME CALENDAR
 
-![](../../../GitHub/nlb-sure/images/SURE-MIL-Week-header2.png)
+![](../images/SURE-MIL-Week-header2.png)
 
 CLICK ON THE PROGRAMME TITLES TO REGISTER!
 
