@@ -8,7 +8,7 @@ third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 **How to enter S.U.R.E. BINGO Lucky Draw**
 
-1. Complete any 5 different activities for one chance in the Lucky Draw. 
+1. Complete any 5 [different activities](/events/surecelebratesmil-programmes/) for one chance in the Lucky Draw. 
 
 2. Scan the unique QR code for each activity to submit your details via FormSG. 
 3. You can find the QR codes here:
