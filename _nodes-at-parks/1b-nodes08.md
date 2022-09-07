@@ -6,3 +6,4 @@ third_nav_title: 'Nodes at Parks
 
 ---
 
+![](../images/nodes-at-parks-13-min.jpg)
