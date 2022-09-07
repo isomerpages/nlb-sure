@@ -22,7 +22,7 @@ The S.U.R.E. BINGO Lucky Draw will take place from 1 October 2022 to 31 October 
 
 **Who can participate in the S.U.R.E. BINGO Lucky Draw?**
 
-The Lucky Draw is open to citizens and permanent residents of Singapore who have their own NLB library membership and myLibrary account. Sign up at https://account.nlb.gov.sg/ if you do not yet have an account.
+The Lucky Draw is open to citizens and permanent residents of Singapore who have their own NLB library membership and myLibrary account. Sign up at [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/) if you do not yet have an account.
 
  
 
@@ -34,7 +34,7 @@ NLB staff and NLB contractors involved in this Lucky Draw, as well as their imme
 
 All participants:
 
-(a) must complete 5 unique activities listed in the S.U.R.E. Celebrates M.I.L. page at https://sure.nlb.gov.sg/events/surecelebratesmil  to earn one (1) chance at the Lucky Draw. 
+(a) must complete 5 unique activities listed in the S.U.R.E. Celebrates M.I.L. page at the [Bingo Activities page](/events/surecelebratesmil-bingo-activities/) to earn one (1) chance at the Lucky Draw. 
 
 (b) only have a maximum of three (3) chances at the Lucky Draw and can only win a maximum of one (1) prize.
 

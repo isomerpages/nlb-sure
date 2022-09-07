@@ -1,7 +1,7 @@
 ---
 
 title: 'Bingo Activities'
-permalink: /events/surecelebratesmil-programmes/
+permalink: /events/surecelebratesmil-bingo-activities/
 breadcrumb: 'Bingo Activities'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
@@ -21,6 +21,8 @@ Want to learn how to “Be S.U.R.E., Stay Connected” in this digital age? Expl
 
 Discover and explore bite-sized content, visit our book displays and The News Gallery, and participate in the learning programmes, quiz and game below!
 
+**Complete 5 different S.U.R.E BINGO activities and stand a chance to win a prize in our Lucky Draw!**
+
 
 
 ## CONTENT
@@ -29,7 +31,7 @@ Discover and explore bite-sized content, visit our book displays and The News Ga
 
 |                                                              | About                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Watch:**<BR> [Total Defence Interactive Video](https://go.gov.sg/watdinteractive) | Check out the Total Defence Interactive Video where you can make choices that will determine the outcome of the character’s day. Understand how your choices and actions could create a greater impact in the larger national context, and how you can play your part for Singapore! Remember to be discerning of information you receive online and keep your eye out for fake news!<BR> |
+| **Watch:**<BR> [Total Defence Interactive Video](https://go.gov.sg/watdinteractive)<br><br />*[Note: Link will go live on 1 Oct 2022]* | Check out the Total Defence Interactive Video where you can make choices that will determine the outcome of the character’s day. Understand how your choices and actions could create a greater impact in the larger national context, and how you can play your part for Singapore! Remember to be discerning of information you receive online and keep your eye out for fake news!<BR> |
 | **Read**:<br/>[Blog: Be S.U.R.E. before you “add to cart”](https://sure.nlb.gov.sg/blog/tech/tech0002 ) | Whether you’re shopping online for groceries or a piece of furniture for your new home, the internet is a shopping haven to many. <br>From mini-games and enticing discount coupons to reel consumers in, to endless online platforms to shop at, read on to discover how you can be S.U.R.E. before you add to cart!<BR> |
 | **Read:**<br>[Blog: What Popular Culture Teaches Us About the Spread of False Information](https://sure.nlb.gov.sg/blog/tech/tech0004 ) | Books, films and television may be works of fiction, but they can often be a mirror to society, offering a striking reflection to the state of the world today.  <br>Read this article to find out how an action-packed blockbuster film tells the story of fake news in the world today. |
 |                                                              |                                                              |
