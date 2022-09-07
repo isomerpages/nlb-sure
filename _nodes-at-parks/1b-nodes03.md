@@ -2,7 +2,7 @@
 title: 'Upcycling'
 permalink: /nodes-at-parks/nodes-at-parks4/
 breadcrumb: 'Upcycling'
-third_nav_title: 'Nodes at Parks
+third_nav_title: 'Nodes at Parks'
 
 ---
 

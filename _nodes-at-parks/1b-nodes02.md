@@ -2,7 +2,7 @@
 title: 'Disposable Chopsticks'
 permalink: /nodes-at-parks/nodes-at-parks3/
 breadcrumb: 'Disposable Chopsticks'
-third_nav_title: 'Nodes at Parks
+third_nav_title: 'Nodes at Parks'
 
 ---
 
