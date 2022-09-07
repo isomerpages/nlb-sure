@@ -9,6 +9,8 @@ sections:
               options:
                     - title: 'find out more about S.U.R.E. Celebrates M.I.L.'
                       url: /events/surecelebratesmil/
+                    - title: 'explore Nodes at Parks'
+                      url: /nodes-at-parks/nodes-at-parks/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
                     - title: 'find resources on combating fake news'
