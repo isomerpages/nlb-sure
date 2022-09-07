@@ -11,6 +11,8 @@ third_nav_title: 'Nodes at Parks'
 
 ![](../images/nodes-at-parks-01-min.png)
 
+
+
 Encounter eResources on Sustainability at a park near you! From 14 October 2022 to 26 February 2023, NLB is presenting a brand-new initiative called “Nodes at Parks”. Come interact with NLB’s exciting eResources on Sustainability. This initiative is co-funded by the Ministry of Sustainability and Environment under the SG EcoFund. It consists of two parts: The Sustainability Showcase, and Sustainable Benches. Don’t miss the opportunity to visit us at:
 
 **1)**   **Gardens by the Bay** at the foyer outside Visitor Services**:** 14 October to 14 November 2022
@@ -40,7 +42,7 @@ As part of the suite of activities at the Showcase you will also be able to cont
 
 On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. 
 
-Click here to view our schedule (updated monthly) 
+Click **here** to view our schedule (updated monthly) 
 
 **eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz**
 
@@ -63,31 +65,31 @@ Look out for our specially curated upcycled Benches around the Park! Placed in t
 
 Schools:
 
-\1.    Admiralty Secondary School
+1. Admiralty Secondary School
 
-\2.    Chua Chu Kang Secondary School
+2. Chua Chu Kang Secondary School
 
-\3.    Kuo Chuan Presbyterian Secondary School
+3. Kuo Chuan Presbyterian Secondary School
 
-\4.    Ngee Ann Secondary School
+4. Ngee Ann Secondary School
 
-\5.    Spectra Secondary School
+5. Spectra Secondary School
 
-\6.    Yusof Ishak Secondary School
+6. Yusof Ishak Secondary School
 
-\7.    Zhonghua Secondary School
+7. Zhonghua Secondary School
 
  
 
 Our benches are located here:
 
-\1.    Gardens by the Bay: Beside Visitor Service Centre and at the Golden Garden
+1. Gardens by the Bay: Beside Visitor Service Centre and at the Golden Garden
 
-\2.    Jurong Lake Gardens: Viewing decks and Eco-pond
+2. Jurong Lake Gardens: Viewing decks and Eco-pond
 
-\3.    East Coast Park: Lawn next to Marine Cove and Lawn next to Siglap Canal
+3. East Coast Park: Lawn next to Marine Cove and Lawn next to Siglap Canal
 
-\4.    Pasir Ris Park: Lawn near Carpark D
+4. Pasir Ris Park: Lawn near Carpark D
 
  
 
