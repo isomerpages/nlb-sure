@@ -54,7 +54,7 @@ The Lucky Draw winners will be picked on 23 November 2022, at 1500 hours, at the
 
 **When will the winners be announced?**
 
-Results will be posted on S.U.R.E. Celebrates M.I.L. page at https://sure.nlb.gov.sg/events/surecelebratesmil  on 24 November 2022, 6pm. Winners will be contacted via email and/or telephone stated in their Lucky Draw form. 
+Results will be posted on [S.U.R.E. Celebrates M.I.L. page](https://sure.nlb.gov.sg/events/surecelebratesmil) on 24 November 2022, 6pm. Winners will be contacted via email and/or telephone stated in their Lucky Draw form. 
 
  
 
@@ -70,7 +70,7 @@ Results will be posted on S.U.R.E. Celebrates M.I.L. page at https://sure.nlb.go
 
 **Rights**
 
-(a) Check the S.U.R.E. Celebrates M.I.L page at  https://sure.nlb.gov.sg/events/surecelebratesmil  for updates. Unexpected circumstances may require NLB to change the rules or prizes at any time or to cancel the Lucky Draw at NLB’s sole discretion. 
+(a) Check the [S.U.R.E. Celebrates M.I.L page](https://sure.nlb.gov.sg/events/surecelebratesmil ) for updates. Unexpected circumstances may require NLB to change the rules or prizes at any time or to cancel the Lucky Draw at NLB’s sole discretion. 
 
 (b) Prizes are not exchangeable for other benefits or cash. 
 
