@@ -10,7 +10,7 @@ third_nav_title: 'Nodes at Parks'
 
 Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/plastic-pollution?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-<h2>Are single-use plastics just misunderstood?
+<h2>Are single-use plastics just misunderstood?</h2>
 
 We all know that plastics are non-biodegradable and last for hundreds of years in the ecosystem. Plastic pollution is one of the biggest threats to marine ecosystems, with the prevalence of microplastics in the ocean. Yet, there are still instances where plastics are deemed essential to human activity, playing an important role in our daily lives, as well as in business supply chains. Is plastic use a necessary evil?
 
