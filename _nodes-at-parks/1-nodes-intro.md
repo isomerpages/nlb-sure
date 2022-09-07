@@ -1,6 +1,6 @@
 ---
 title: 'Overview'
-permalink: /read-to-be-sure/notes-at-parks/
+permalink: /nodes-at-parks/nodes-at-parks/
 breadcrumb: 'Overview'
 third_nav_title: 'Nodes at Parks'
 ---

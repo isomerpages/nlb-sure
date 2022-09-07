@@ -1,6 +1,6 @@
 ---
 title: 'Single-use Plastics'
-permalink: /read-to-be-sure/notes-at-parks2/
+permalink: /nodes-at-parks/nodes-at-parks2/
 breadcrumb: 'Single-use Plastics'
 third_nav_title: 'Nodes at Parks
 
