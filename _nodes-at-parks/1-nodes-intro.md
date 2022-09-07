@@ -54,10 +54,13 @@ Click here to start!
 
 <h2> Sustainable Benches</h2>
 
+|                                          |                                          |
+| ---------------------------------------- | ---------------------------------------- |
+| ![](../images/nodes-at-parks-05-min.jpg) | ![](../images/nodes-at-parks-04-min.jpg) |
 
-![](../images/nodes-at-parks-04-min.jpg)
 
-![](../images/nodes-at-parks-05-min.jpg)
+
+
 
 Look out for our specially curated upcycled Benches around the Park! Placed in the vicinity of the Sustainability Showcase, these benches are 3D installations with interactive elements such as videos for you to discover and directly experience the topic of Sustainability through NLB’s e-collection. Do you know, 7 secondary schools have come on board to paint their own designs on the Sustainable benches, rendering their creative interpretations of NLB’s sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.
 
