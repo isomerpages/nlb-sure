@@ -36,6 +36,8 @@ We all know that plastics are non-biodegradable and last for hundreds of years i
 </p>
 </details>
 
+<p></p>
+
 <details><summary><b>Perspective 2: Perspective 2: Plastic use is a necessary evil in various supply chains (e.g. food, medical).</b></summary>
     <p>Plastics are used in complex international food supply chains where food needs to be wrapped and transported safely, due to its durability and long lifespan.</p>
     <p>In light of the pandemic, single-used plastic products such as gloves and masks were used to minimise contamination. Additionally, other important key healthcare equipment such as syringes utilize plastic. </p>
@@ -51,6 +53,8 @@ We all know that plastics are non-biodegradable and last for hundreds of years i
 <p>
     <a href="https://qz.com/1189422/in-defense-of-plastic-the-worlds-most-wasteful-hazardous-downright-useful-material/">https://qz.com/1189422/in-defense-of-plastic-the-worlds-most-wasteful-hazardous-downright-useful-material/</a>
     </p></details>
+
+<p></p>
 
 <details><summary><b>Perspective 3: There are alternatives to plastic packaging in food production.</b></summary>
     <p>While cost may be a factor, there are indeed alternatives to packaging food in a more sustainable fashion such as bio-based food contact materials such as paper, wheat-based or seaweed-based materials and beeswax wraps.</p>
