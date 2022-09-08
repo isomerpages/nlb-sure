@@ -17,16 +17,18 @@ We all know that plastics are non-biodegradable and last for hundreds of years i
 
 
 
-<details><summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Perspective 1: Plastic pollution affects the environment, wildlife, and at-risk communities.</span></summary>
-<br><span style="font-weight: 400; font-size: 20px; font-style: normal>Single-use or disposable plastics are not biodegradable and break down into micro particles that contaminate our environment, such as our oceans, and may persist for decades to come, affecting the wildlife and disrupting the ecosystem.Plastic pollution also disproportionately affects poorer and disadvantaged communities, especially in countries with low recycling rates and difficulties in proper collection of discarded plastics.
-    <br>
-    Single-use or disposable plastics are not biodegradable and break down into micro particles that contaminate our environment, such as our oceans, and may persist for decades to come, affecting the wildlife and disrupting the ecosystem. 
+```
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Perspective 1: Plastic pollution affects the environment, wildlife, and at-risk communities.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">Single-use or disposable plastics are not biodegradable and break down into micro particles that contaminate our environment, such as our oceans, and may persist for decades to come, affecting the wildlife and disrupting the ecosystem. 
 Plastic pollution also disproportionately affects poorer and disadvantaged communities, especially in countries with low recycling rates and difficulties in proper collection of discarded plastics.
   
 URL: https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/ 
 URL: https://www.nationalgeographic.com/environment/article/plastic-pollution 
 URL: https://www.cnbc.com/2021/05/18/20-companies-responsible-for-55percent-of-single-use-plastic-waste-study.html 
 URL: https://www.sciencedirect.com/science/article/pii/S0304389421018537?via%3Dihub
-
-    </span></details>
-
+</span>
+	
+</details>
+```
