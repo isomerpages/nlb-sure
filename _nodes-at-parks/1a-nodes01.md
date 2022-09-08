@@ -38,7 +38,7 @@ We all know that plastics are non-biodegradable and last for hundreds of years i
 
 <p></p>
 
-<details><summary><b>Perspective 2: Perspective 2: Plastic use is a necessary evil in various supply chains (e.g. food, medical).</b></summary>
+<details><summary><b>Perspective 2: Plastic use is a necessary evil in various supply chains (e.g. food, medical).</b></summary>
     <p>Plastics are used in complex international food supply chains where food needs to be wrapped and transported safely, due to its durability and long lifespan.</p>
     <p>In light of the pandemic, single-used plastic products such as gloves and masks were used to minimise contamination. Additionally, other important key healthcare equipment such as syringes utilize plastic. </p>
 <p>
