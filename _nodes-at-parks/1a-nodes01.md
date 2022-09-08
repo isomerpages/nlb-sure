@@ -25,9 +25,5 @@ Plastic pollution also disproportionately affects poorer and disadvantaged commu
 <br>  
 <a href="https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/">https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/ 
 <p> <a href="https://www.nationalgeographic.com/environment/article/plastic-pollution">https://www.nationalgeographic.com/environment/article/plastic-pollution</a> 
-URL: https://www.cnbc.com/2021/05/18/20-companies-responsible-for-55percent-of-single-use-plastic-waste-study.html 
-URL: https://www.sciencedirect.com/science/article/pii/S0304389421018537?via%3Dihub
-</span>
-	
-</details>
+</span></details>
 ```
