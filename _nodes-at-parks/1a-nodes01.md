@@ -24,6 +24,5 @@ We all know that plastics are non-biodegradable and last for hundreds of years i
 Plastic pollution also disproportionately affects poorer and disadvantaged communities, especially in countries with low recycling rates and difficulties in proper collection of discarded plastics.
 <br>  
 <a href="https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/">https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/ 
-<p> <a href="https://www.nationalgeographic.com/environment/article/plastic-pollution">https://www.nationalgeographic.com/environment/article/plastic-pollution</a> 
-</span></details>
+<p> <a href="https://www.nationalgeographic.com/environment/article/plastic-pollution">https://www.nationalgeographic.com/environment/article/plastic-pollution</a></span></details>
 ```
