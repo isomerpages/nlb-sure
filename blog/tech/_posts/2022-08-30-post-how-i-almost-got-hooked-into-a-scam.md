@@ -72,3 +72,15 @@ Wang, Q., Liu, Z., Bernat, E. M., Vivino, A. A., Liang, Z., Bai, S., Liu, C., Ya
 What is a Job Scam? (n.d.). *Scam Alert Singapore*. [https://scamalert.sg/scam-details/job-scam](https://scamalert.sg/scam-details/job-scam)
 
 Zalizan, T. (2022, January 27). I responded to scammers offering me lucrative 'job offers'. This was what happened. *Today Online.* [https://www.todayonline.com/singapore/i-responded-scammers-offering-me-lucrative-job-offers-was-what-happened-1795246](https://www.todayonline.com/singapore/i-responded-scammers-offering-me-lucrative-job-offers-was-what-happened-1795246)
+
+
+
+We hope you enjoyed reading this blog post and picked up some useful tips on media and information literacy (M.I.L.).
+
+ 
+
+Take part in the National Library Board’s [“S.U.R.E. BINGO Lucky Draw”](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/)  by scanning the QR code or clicking on this link:
+
+https://go.gov.sg/surecelebratesmil-read-hookedintoascam ![](../../../images/https___go.gov.sg_surecelebratesmil-read-hookedintoascam.png)
+
+*[Note: Link will go live on 1 Oct 2022]*
