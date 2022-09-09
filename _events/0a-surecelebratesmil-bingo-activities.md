@@ -35,8 +35,7 @@ Discover and explore bite-sized content, visit our book displays and The News Ga
 | **Read**:<br/>[Blog: Be S.U.R.E. before you “add to cart”](https://sure.nlb.gov.sg/blog/tech/tech0002 ) | Whether you’re shopping online for groceries or a piece of furniture for your new home, the internet is a shopping haven to many. <br>From mini-games and enticing discount coupons to reel consumers in, to endless online platforms to shop at, read on to discover how you can be S.U.R.E. before you add to cart!<BR> |
 | **Read:**<br>[Blog: What Popular Culture Teaches Us About the Spread of False Information](https://sure.nlb.gov.sg/blog/tech/tech0004 ) | Books, films and television may be works of fiction, but they can often be a mirror to society, offering a striking reflection to the state of the world today.  <br>Read this article to find out how an action-packed blockbuster film tells the story of fake news in the world today. |
 | **Read**:<br>[Blog: How I almost got hooked into a scam](https://sure.nlb.gov.sg/blog/tech/tech0003 ) | With a rise of scam cases in Singapore by 16% from 2020 to 2021, it’s no wonder that we’ve of heard friends or families who have had a brush with scams. <br>Read this article of a close encounter with a scammer. |
-
-
+| [**Read** <br>Infographic: Stay safe and S.U.R.E. on social media](/blog/information-literacy/il00007) | Ever had a friend share a post on your social media feed, and you re-shared it immediately after only reading the alarming headlines or clickbait titles? <br>Fret not, check out this infographic on how to be S.U.R.E. before you share! |
 
 ## PROGRAMMES
 

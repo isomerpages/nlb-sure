@@ -80,3 +80,17 @@ Watts, J. (Director). (2021). [*Spider-Man: No Way Home*](https://www.rottentoma
  
 
 *Sean was an intern with the Programmes & Services (Outreach) department in 2022. As an intern, he was primarily involved in the S.U.R.E./ Informed Citizenry Project and assisted with the running of programmes. In his spare time, he enjoys reading books and watching films from a wide range of genres. His favourite films of all time are* Lady Bird*,* Titanic *and* City Lights*.*
+
+
+
+We hope you enjoyed reading this blog post on the spread of misinformation in pop culture and pick up some tips on discerning information.  
+
+ 
+
+Take part in the National Library Board’s [“S.U.R.E. BINGO Lucky Draw”](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/) by scanning the QR code or clicking on this link:
+
+https://go.gov.sg/surecelebratesmil-read-popculture-falseinfo
+
+ ![](../../../images/https___go.gov.sg_surecelebratesmil-read-popculture-falseinfo.png)
+
+*[Note: Link will go live on 1 Oct 2022]*
