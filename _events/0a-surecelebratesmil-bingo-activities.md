@@ -67,6 +67,6 @@ Are you game to test your M.I.L. skills? Take part in the quiz or game below!
 
 | **About**                                                    | **Play here!**                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| These days, creating a social media account is extremely easy, and bad actors have leveraged this to create fake accounts to either artificially boost certain sentiments or spread misinformation. <BR>This quiz by [Black Dot Research](https://blackdotresearch.sg/)) will test individuals on how well they’re able to tell a legitimate social media user from a bot.<BR> | [**“Bot or Not”** **Quiz**](https://bdresearch.typeform.com/to/GF1x9fKg) |
+| These days, creating a social media account is extremely easy, and bad actors have leveraged this to create fake accounts to either artificially boost certain sentiments or spread misinformation. <BR>This quiz by [Black Dot Research](https://blackdotresearch.sg/) will test individuals on how well they’re able to tell a legitimate social media user from a bot.<BR> | [**“Bot or Not”** **Quiz**](https://bdresearch.typeform.com/to/GF1x9fKg) |
 | Go on an adventure and learn fact-finding skills in IN-cube’s Fake News Detective game. <BR>Fake News Detective is part of a Nanyang Technological University project funded by the Singapore Social Science Research Council (SSRC) grant. | [**Fake News Detective Online Game**](https://fakenewsdetective.com/) |
 
