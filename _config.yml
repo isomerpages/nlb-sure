@@ -47,8 +47,6 @@ collections:
         output: true
     issue4-ukraine:
         output: true
-    nodes-at-parks:
-        output: true
     tng:
         output: true
     pri-activity:
