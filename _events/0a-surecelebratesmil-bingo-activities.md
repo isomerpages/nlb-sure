@@ -21,7 +21,7 @@ Want to learn how to “Be S.U.R.E., Stay Connected” in this digital age? Expl
 
 Discover and explore bite-sized content, visit our book displays and The News Gallery, and participate in the learning programmes, quiz and game below!
 
-**Complete 5 different S.U.R.E BINGO activities and stand a chance to win a prize in our Lucky Draw!**
+**Complete 5 different S.U.R.E BINGO programmes and activities, and stand a chance to win a prize in our Lucky Draw!**
 
 
 
