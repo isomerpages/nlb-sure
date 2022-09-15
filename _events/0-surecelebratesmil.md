@@ -8,7 +8,7 @@ third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ## About S.U.R.E. Celebrates M.I.L.
 
-![](../images/SURE-MIL-Week-header4.jpg)
+![](../images/FA_NLB_SURE_Eventbrite_1272x424.jpg)
 
 The rapid advancements in technology and global events have greatly impacted the way we stay connected to and understand the world around us. Online information users today encounter a multitude of challenges – information overload, misinformation and disinformation, online scams, and our own personal biases. 
 
