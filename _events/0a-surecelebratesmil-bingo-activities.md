@@ -29,7 +29,7 @@ Discover and explore bite-sized content, visit our book displays and The News Ga
 
 ![](../images/SURE-MIL-Week-header3.jpg)
 
-|                                                              | About                                                        |
+| **Read or Watch here!**                                      | About                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Watch:**<BR> [Total Defence Interactive Video](https://go.gov.sg/watdinteractive)<br><br />*[Note: Link will go live on 1 Oct 2022]* | Check out the Total Defence Interactive Video where you can make choices that will determine the outcome of the character’s day. Understand how your choices and actions could create a greater impact in the larger national context, and how you can play your part for Singapore! Remember to be discerning of information you receive online and keep your eye out for fake news!<BR> |
 | **Read**:<br/>[Blog: Be S.U.R.E. before you “add to cart”](https://sure.nlb.gov.sg/blog/tech/tech0002 ) | Whether you’re shopping online for groceries or a piece of furniture for your new home, the internet is a shopping haven to many. <br>From mini-games and enticing discount coupons to reel consumers in, to endless online platforms to shop at, read on to discover how you can be S.U.R.E. before you add to cart!<BR> |
@@ -43,7 +43,7 @@ Discover and explore bite-sized content, visit our book displays and The News Ga
 
 All our programmes are held online via Zoom. Please register in the links provided.
 
-|                                                              |                                                              |                                 |
+| Register here                                                | Synopsis                                                     | Date & Time                     |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------- |
 | **[Who Are You Gonna Call? How to Become a 'Fake News Buster'](https://www.eventbrite.sg/e/who-are-you-gonna-call-how-to-become-a-fake-news-buster-tickets-413816063987)** | Fact-checking is for everyone! In this talk, participants will find out the most common tactics bad actors use to spread misinformation, and tricks they can use to become ‘fake news busters’. <br>This session will end off with hands-on activities where participants can practice and hone their newly acquired skills. | 5 Oct Wednesday 6:00pm-7:00pm   |
 | **[Fact & Fiction: Behind the Art of Storytelling](https://www.eventbrite.sg/e/fact-fiction-behind-the-art-of-storytelling-sure-celebrates-mil-tickets-413818330767)** | Get insights and thoughts into the world of creating podcasts, films and television programmes. <br>Learn about what sort of research is needed to provide context, narration or footage, and the inspiration for creating stories across these mediums. | 6 Oct Thursday 6:00pm-7:00pm    |
