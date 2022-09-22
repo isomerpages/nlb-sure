@@ -74,7 +74,7 @@ Are you game to test your M.I.L. skills? Take part in the quiz or game below!
 
 ![](../images/undraw_Navigation_re_wxx4.png)
 
-| Date         | About                                                        | Locat                                                        |
+| Date         | About                                                        | Location                                                     |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1-31 October | Check out our book displays featuring titles on media and information literacy! Dive deeper with books on fake news, scams and more! | Lee Kong Chian Reference Library, Level 8 <br/>National Library Building |
 | 1-31 October | Visit The News Gallery and discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media.  <br/> <br/>Gain insights into fake news and learn how you can be more discerning about information and media, through our rich resources on newspapers. | The News Gallery  <br/>Level 11 Promenade <br/>National Library Building |
