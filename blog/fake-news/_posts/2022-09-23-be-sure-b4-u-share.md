@@ -19,6 +19,6 @@ We hope you enjoyed watching this video and picked up some useful tips on how to
 
 Take part in the National Library Board’s “[S.U.R.E. BINGO Lucky Draw](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/)” by scanning the QR code or clicking on this link:
 
-https://go.gov.sg/surecelebratesmil-watch-sure-video
+[https://go.gov.sg/surecelebratesmil-watch-sure-video](https://go.gov.sg/surecelebratesmil-watch-sure-video)
 
 ![](../../../images/https___go.gov.sg_surecelebratesmil-watch-sure-video.png)
