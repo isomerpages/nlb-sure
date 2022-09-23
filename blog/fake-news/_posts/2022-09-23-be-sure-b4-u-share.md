@@ -1,0 +1,24 @@
+---
+title: 'Be S.U.R.E. before you share: Breaking news'
+date: 2022-09-23T00:08:00.000Z
+permalink: /blog/fake-news/FN0027
+image: ../../../images/breaking-news-video.JPG
+---
+
+As more people turn to social media to get the latest updates on breaking news, how can we be S.U.R.E. of what we read online? Watch this video on how to be S.U.R.E. before you share on a story that is still developing.
+
+
+
+
+
+We hope you enjoyed watching this video and picked up some useful tips on how to be S.U.R.E. before you share a news story that is unfolding.
+
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=8ad49a06-58d0-4e1c-8654-af190045d4b3&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe> 
+
+
+
+Take part in the National Library Board’s “[S.U.R.E. BINGO Lucky Draw](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/)” by scanning the QR code or clicking on this link:
+
+https://go.gov.sg/surecelebratesmil-watch-sure-video
+
+![](../../../images/https___go.gov.sg_surecelebratesmil-watch-sure-video.png)
