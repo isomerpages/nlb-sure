@@ -111,19 +111,19 @@ Sexual Violence in Singapore: A Crisis. (2021, September 8). Kontinentalist. Ret
 
 ## PODCASTS
 
-**[Reviewing Essential Feminist Book Titles with Amanda Chong](https://open.spotify.com/episode/5pB9wWqFfeniANlZmN1vS0)**
+**[Reviewing Essential Feminist Book Titles with Amanda Chong](https://open.spotify.com/episode/5pB9wWqFfeniANlZmN1vS0)**<br>
 Something Private. (2022, February 17). Reviewing Essential Feminist Book Titles with Amanda Chong. Retrieved 2022, August 10. 
 
-[**Episode 18: Dismantling Patriarchy – Close Encounters and Imperfect Strategies**](https://open.spotify.com/episode/61IS693vxkxGf8uhUdknuM)
+[**Episode 18: Dismantling Patriarchy – Close Encounters and Imperfect Strategies**](https://open.spotify.com/episode/61IS693vxkxGf8uhUdknuM)<br>
 Batliwala, Srilatha, et al. (2021, August 11). Episode 18: Dismantling Patriarchy – Close Encounters and Imperfect Strategies. Retrieved 2022, July 27. 
 
-**[Breaking Bias to Build a More Gender-Equal World](https://www.ecb.europa.eu/press/tvservices/podcast/html/ecb.pod220305_episode29.en.html)**
+**[Breaking Bias to Build a More Gender-Equal World](https://www.ecb.europa.eu/press/tvservices/podcast/html/ecb.pod220305_episode29.en.html)**<br>
 Lagarde, Christine, & Shafik, Minouche. (2022, March 5). Breaking Bias to Build a More Gender-Equal World. Retrieved 2022, July 27. 
 
-**[How COVID Deepened Gender Inequality](https://www.weforum.org/agenda/2021/03/gender-inequality-covid-radio-davos-podcast-gendergap21/)**
+**[How COVID Deepened Gender Inequality](https://www.weforum.org/agenda/2021/03/gender-inequality-covid-radio-davos-podcast-gendergap21/)**<br>
 Radio Davos. (2021, March 31). How COVID Deepened Gender Inequality. Retrieved 2022, July 27. 
 
-[**YWLChats**](https://open.spotify.com/show/15LZUPKYQMoMgDX3jaQmM0)
+[**YWLChats**](https://open.spotify.com/show/15LZUPKYQMoMgDX3jaQmM0)<br>
 Young Women’s Leadership Connection. (2022). YWLChats playlist. Retrieved 2022, August 22. 
 
 
