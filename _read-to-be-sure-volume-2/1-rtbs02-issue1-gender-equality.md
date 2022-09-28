@@ -96,8 +96,6 @@ Harvard Business Review. (2019, September 24). *When Will We Reach Gender Equali
 
 TEDx Talks. (2019, September 13). Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone. Retrieved 2022, July 27. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a4WuurpnSbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ## WEBSITES
