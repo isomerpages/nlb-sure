@@ -24,4 +24,23 @@ Gender equality is key to a safer and healthier community, equal and inclusive s
 
 Explore the resources below to find out more about gender equality and why we need it. 
 
+<HR>
+
+**Recommended Titles**
+
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](../images/rtbs-vol2-iss1-bookcover01-The-Moment-of-Lift.jpeg) | [The Moment of Lift: How Empowering Women Changes the World](https://go.nlb.gov.sg/m-link/details?type=ebook&id=2317B9BC-0975-4086-9B41-648C15D5B6AE&utm_source=online&utm_campaign=RTBS_Sep22&utm_medium=website&utm_content=the_moment_of_lift)<br/>Gates, Melinda. (2019). The Moment of Lift: How Empowering Women Changes the World. London: Bluebird. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the audiobook).<br/><br/>Call number: English 305.42 GAT |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
