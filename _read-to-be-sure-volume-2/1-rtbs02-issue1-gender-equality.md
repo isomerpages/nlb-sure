@@ -65,7 +65,7 @@ CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieve
 
 **[Women In Asia Defy Norms In Gender Equality Strive | CNA Correspondent](https://www.youtube.com/watch?v=OXyNeU96zaM)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OXyNeU96zaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 CNA Insider. (2022, March). *Women in Asia Defy Norms In Gender Equality Strive | CNA Correspondent.* Retrieved 2022, July 27.
 
@@ -75,7 +75,7 @@ CNA Insider. (2022, March). *Women in Asia Defy Norms In Gender Equality Strive 
 
 TEDx Talks. (2022, June 28). *Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen*. Retrieved 2022, July 27. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XGG0mTgNdRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
@@ -83,7 +83,7 @@ TEDx Talks. (2022, June 28). *Risks of the Gender Equality Business Case | Pasca
 
 Harvard Business Review. (2019, September 24). *When Will We Reach Gender Equality?* Retrieved 2022, July 27. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HchyqPO8K0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
