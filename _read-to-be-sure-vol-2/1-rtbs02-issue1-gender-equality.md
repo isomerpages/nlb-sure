@@ -25,11 +25,3 @@ Gender equality is key to a safer and healthier community, equal and inclusive s
 Explore the resources below to find out more about gender equality and why we need it. 
 
 
-
-------
-
-[[1\]](#_ftnref1) *[Infographic: Update on Singapore's Adjusted Gender Pay Gap](https://stats.mom.gov.sg/Pages/Update-on-Singapores-Adjusted-Gender-Pay-Gap.aspx)*. (2021, October 21). Ministry of Manpower. Retrieved August 10, 2022. 
-
-[[2\]](#_ftnref2) *[Statistics](https://www.aware.org.sg/training/wsh-site/14-statistics/)**. (2022).* Association of Women for Action and Research. Retrieved August 10, 2022. 
-
-[[3\]](#_ftnref3) *[Image-based Sexual Abuse Featured in 7 in 10 Cases of Technology-Facilitated Sexual Violence Seen by AWARE in 2021](https://www.aware.org.sg/2022/04/image-based-sexual-abuse-featured-in-7-in-10-cases-of-technology-facilitated-sexual-violence-seen-by-aware-in-2021/)*. (2022, April 20). Association of Women for Action and Research. Retrieved August 10, 2022.
