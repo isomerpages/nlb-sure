@@ -30,6 +30,10 @@ links:
               url: /read-to-be-sure/issue3-overview/
             - title: 'Issue 4: Russia-Ukraine Information War'
               url: /read-to-be-sure/issue4-ukraine/
+    - title: 'Read to be Sure, Volume 2'
+      url: /read-to-be-sure-volume-2/issue1-gender-equality/
+      false_collection: true
+      sublinks:
             - title: 'Volume 2, Issue 1: Gender Equality'
               url: /read-to-be-sure-volume-2/issue1-gender-equality/
     - title: Resources
