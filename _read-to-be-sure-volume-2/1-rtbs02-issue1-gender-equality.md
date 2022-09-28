@@ -63,13 +63,13 @@ Explore the resources below to find out more about gender equality and why we ne
 
 
 
-**[Women In Asia Defy Norms In Gender Equality Strive | CNA Correspondent](https://www.youtube.com/watch?v=OXyNeU96zaM)**
+**Women In Asia Defy Norms In Gender Equality Strive | CNA Correspondent**
 
 <BR>CNA Insider. (2022, March). *Women in Asia Defy Norms In Gender Equality Strive | CNA Correspondent.* Retrieved 2022, July 27.
 
 
 
-**[Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen](https://www.youtube.com/watch?v=XGG0mTgNdRk)**
+**Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen**
 
 <BR>TEDx Talks. (2022, June 28). *Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen*. Retrieved 2022, July 27. 
 
@@ -77,15 +77,13 @@ Explore the resources below to find out more about gender equality and why we ne
 
 
 
-**[When Will We Reach Gender Equality?](https://www.youtube.com/watch?v=HchyqPO8K0I)**
+**When Will We Reach Gender Equality?**
 
 <BR>Harvard Business Review. (2019, September 24). *When Will We Reach Gender Equality?* Retrieved 2022, July 27. 
 
 
 
-
-
-**[Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone](https://www.youtube.com/watch?v=a4WuurpnSbc)**<BR>
+**Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone**<BR>
 
 TEDx Talks. (2019, September 13). Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone. Retrieved 2022, July 27. 
 
