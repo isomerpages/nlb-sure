@@ -31,6 +31,8 @@ Explore the resources below to find out more about gender equality and why we ne
 
 
 
+## NLB E-BOOKS
+
 |                                                              | **Recommended Titles**                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=2317B9BC-0975-4086-9B41-648C15D5B6AE&utm_source=online&utm_campaign=RTBS_Sep22&utm_medium=website&utm_content=the_moment_of_lift">![](../images/rtbs-vol2-iss1-bookcover01-The-Moment-of-Lift.jpeg)</a> | [**The Moment of Lift: How Empowering Women Changes the World**](https://go.nlb.gov.sg/m-link/details?type=ebook&id=2317B9BC-0975-4086-9B41-648C15D5B6AE&utm_source=online&utm_campaign=RTBS_Sep22&utm_medium=website&utm_content=the_moment_of_lift)<br/>Gates, Melinda. (2019). The Moment of Lift: How Empowering Women Changes the World. London: Bluebird. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the audiobook).<br/><br/>Call number: English 305.42 GAT |
@@ -49,4 +51,87 @@ Explore the resources below to find out more about gender equality and why we ne
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=91115E7D-9D96-434F-9996-E60D55BDF481&utm_source=online&utm_campaign=RTBS_Sep22&utm_medium=website&utm_content=invisible_women">![](../images/rtbs-vol2-iss1-bookcover14-Invisible-women.jpg)</a> | **[Invisible Women: Exposing data bias in a world designed for men.](https://go.nlb.gov.sg/m-link/details?type=ebook&id=91115E7D-9D96-434F-9996-E60D55BDF481&utm_source=online&utm_campaign=RTBS_Sep22&utm_medium=website&utm_content=invisible_women)** <br/>Perez, Caroline C. (2019). Invisible Women: Exposing data bias in a world designed for men. Random House. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=E9D17C01-5FB0-4603-9042-C86D1BA56571&utm_source=online&utm_campaign=RTBS_Sep22&utm_medium=website&utm_content=why_we_march">![](../images/rtbs-vol2-iss1-bookcover15-Why-We-March.jpg)</a> | **[Why we march: Signs of protests and hope – Voices from the Women’s March](https://go.nlb.gov.sg/m-link/details?type=ebook&id=E9D17C01-5FB0-4603-9042-C86D1BA56571&utm_source=online&utm_campaign=RTBS_Sep22&utm_medium=website&utm_content=why_we_march)**<br/>Artisan. (2017). Why we march: Signs of protests and hope – Voices from Women’s March. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 |                                                              |                                                              |
+
+
+
+## VIDEOS
+
+**[Gender Equality Starts at Home: Masagos Zulkifli](https://www.youtube.com/watch?v=4WH9U07girQ)**
+
+CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieved 2022, July 27
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4WH9U07girQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+****
+
+
+
+**[Women In Asia Defy Norms In Gender Equality Strive | CNA Correspondent](https://www.youtube.com/watch?v=OXyNeU96zaM)**
+
+CNA Insider. (2022, March). *Women in Asia Defy Norms In Gender Equality Strive | CNA Correspondent.* Retrieved 2022, July 27. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OXyNeU96zaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+**[Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen](https://www.youtube.com/watch?v=XGG0mTgNdRk)**
+
+TEDx Talks. (2022, June 28). *Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen*. Retrieved 2022, July 27. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XGG0mTgNdRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+**[When Will We Reach Gender Equality?](https://www.youtube.com/watch?v=HchyqPO8K0I)**
+
+Harvard Business Review. (2019, September 24). *When Will We Reach Gender Equality?* Retrieved 2022, July 27. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HchyqPO8K0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+**[Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone](https://www.youtube.com/watch?v=a4WuurpnSbc)**
+
+TEDx Talks. (2019, September 13). Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone. Retrieved 2022, July 27. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4WuurpnSbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## WEBSITES
+
+[**Global Gender Gap Narrowing, But Still 132 Years to Reach Parity**](https://www.internationalwomensday.com/Missions/18487/Global-gender-gap-narrowing-but-still-132-years-to-reach-parity)
+Global Gender Gap Narrowing, But Still 132 Years to Reach Parity. (2022, July). International Women’s Day. Retrieved 2022, July 27. 
+
+[**Ten Things to Know About Gender Equality**](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/ten-things-to-know-about-gender-equality)
+Krishnan, Mekala, et al. (2020, September 21). Ten Things to Know About Gender Equality. McKinsey & Company. Retrieved 2022, July 27. 
+
+[**Commentary: What’s Behind Varying Attitudes About Gender Equality in Singapore**](https://kontinentalist.com/stories/sexual-assault-and-abuse-in-singapore-need-more-than-the-law)
+Mathews, Matthew. (2021, October 3). Commentary: What’s Behind Varying Attitudes About Gender Equality in Singapore. Institute of Policy Studies. Retrieved 2022, July 27. 
+
+[**Sexual Violence in Singapore: A Crisis**](https://kontinentalist.com/stories/sexual-assault-and-abuse-in-singapore-need-more-than-the-law)
+Sexual Violence in Singapore: A Crisis. (2021, September 8). Kontinentalist. Retrieved 2022, August 10.
+
+
+
+## PODCASTS
+
+**[Reviewing Essential Feminist Book Titles with Amanda Chong](https://open.spotify.com/episode/5pB9wWqFfeniANlZmN1vS0)**
+Something Private. (2022, February 17). Reviewing Essential Feminist Book Titles with Amanda Chong. Retrieved 2022, August 10. 
+
+[**Episode 18: Dismantling Patriarchy – Close Encounters and Imperfect Strategies**](https://open.spotify.com/episode/61IS693vxkxGf8uhUdknuM)
+Batliwala, Srilatha, et al. (2021, August 11). Episode 18: Dismantling Patriarchy – Close Encounters and Imperfect Strategies. Retrieved 2022, July 27. 
+
+**[Breaking Bias to Build a More Gender-Equal World](https://www.ecb.europa.eu/press/tvservices/podcast/html/ecb.pod220305_episode29.en.html)**
+Lagarde, Christine, & Shafik, Minouche. (2022, March 5). Breaking Bias to Build a More Gender-Equal World. Retrieved 2022, July 27. 
+
+**[How COVID Deepened Gender Inequality](https://www.weforum.org/agenda/2021/03/gender-inequality-covid-radio-davos-podcast-gendergap21/)**
+Radio Davos. (2021, March 31). How COVID Deepened Gender Inequality. Retrieved 2022, July 27. 
+
+[**YWLChats**](https://open.spotify.com/show/15LZUPKYQMoMgDX3jaQmM0)
+Young Women’s Leadership Connection. (2022). YWLChats playlist. Retrieved 2022, August 22. 
+
+
 
