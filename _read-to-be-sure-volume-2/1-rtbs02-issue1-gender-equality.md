@@ -24,8 +24,6 @@ Gender equality is key to a safer and healthier community, equal and inclusive s
 
 Explore the resources below to find out more about gender equality and why we need it. 
 
-<HR>
-
 
 
 |                                                              | **Recommended Titles**                                       |
