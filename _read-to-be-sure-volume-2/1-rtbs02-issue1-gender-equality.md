@@ -63,11 +63,12 @@ CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieve
 
 
 
-**[Women In Asia Defy Norms In Gender Equality Strive | CNA Correspondent](https://www.youtube.com/watch?v=OXyNeU96zaM)**
+**[Women In Asia Defy Norms In Gender Equality Strive | CNA Correspondent](https://www.youtube.com/watch?v=OXyNeU96zaM)**<br>A Insider. (2022, March). *Women in Asia Defy Norms In Gender Equality Strive | CNA Correspondent.* Retrieved 2022, July 27.
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OXyNeU96zaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-CNA Insider. (2022, March). *Women in Asia Defy Norms In Gender Equality Strive | CNA Correspondent.* Retrieved 2022, July 27.
+CN
 
 
 
