@@ -47,6 +47,8 @@ collections:
         output: true
     issue4-ukraine:
         output: true
+    issue1-gender-equality:
+        output: true
     tng:
         output: true
     pri-activity:
