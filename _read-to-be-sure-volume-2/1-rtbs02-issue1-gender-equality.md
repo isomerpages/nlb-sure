@@ -8,7 +8,7 @@ In this issue of Read to be SURE, explore multiple perspectives on the topic of 
 
 This resource guide is produced in accompaniment to the Read to be SURE video:
 
-[ PLACEHOLDER FOR VIDEO]
+[ PLACEHOLDER FOR MAIN VIDEO]
 
 Gender equality provides equal rights, opportunities and responsibilities to people regardless of gender. Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world. 
 
