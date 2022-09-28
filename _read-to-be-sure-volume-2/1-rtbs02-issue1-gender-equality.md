@@ -55,15 +55,9 @@ Explore the resources below to find out more about gender equality and why we ne
 
 ## VIDEOS
 
-**[Gender Equality Starts at Home: Masagos Zulkifli](https://www.youtube.com/watch?v=4WH9U07girQ)**
-
-CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieved 2022, July 27
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4WH9U07girQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OXyNeU96zaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
