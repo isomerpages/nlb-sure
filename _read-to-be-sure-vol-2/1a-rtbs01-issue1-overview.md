@@ -1,6 +1,6 @@
 ---
 title: 'Gender Equality'
-permalink: /read-to-be-sure-volume_2/issue1/
+permalink: /read-to-be-sure-volume-2/issue1/
 breadcrumb: 'Gender Eqaulity'
 third_nav_title: 'Issue #1: How Can True Gender Equality Be Achieved?'
 
