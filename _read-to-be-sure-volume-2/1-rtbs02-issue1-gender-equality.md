@@ -55,7 +55,7 @@ Explore the resources below to find out more about gender equality and why we ne
 
 **[Gender Equality Starts at Home: Masagos Zulkifli](https://www.youtube.com/watch?v=4WH9U07girQ)**
 
-CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieved 2022, July 27
+<BR>CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieved 2022, July 27
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4WH9U07girQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -65,15 +65,13 @@ CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieve
 
 **[Women In Asia Defy Norms In Gender Equality Strive | CNA Correspondent](https://www.youtube.com/watch?v=OXyNeU96zaM)**
 
-
-
-CNA Insider. (2022, March). *Women in Asia Defy Norms In Gender Equality Strive | CNA Correspondent.* Retrieved 2022, July 27.
+<BR>CNA Insider. (2022, March). *Women in Asia Defy Norms In Gender Equality Strive | CNA Correspondent.* Retrieved 2022, July 27.
 
 
 
 **[Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen](https://www.youtube.com/watch?v=XGG0mTgNdRk)**
 
-TEDx Talks. (2022, June 28). *Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen*. Retrieved 2022, July 27. 
+<BR>TEDx Talks. (2022, June 28). *Risks of the Gender Equality Business Case | Pascal Kornfuehrer | TEDxIntlSchoolDüsseldorfWomen*. Retrieved 2022, July 27. 
 
 
 
@@ -81,13 +79,13 @@ TEDx Talks. (2022, June 28). *Risks of the Gender Equality Business Case | Pasca
 
 **[When Will We Reach Gender Equality?](https://www.youtube.com/watch?v=HchyqPO8K0I)**
 
-Harvard Business Review. (2019, September 24). *When Will We Reach Gender Equality?* Retrieved 2022, July 27. 
+<BR>Harvard Business Review. (2019, September 24). *When Will We Reach Gender Equality?* Retrieved 2022, July 27. 
 
 
 
 
 
-**[Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone](https://www.youtube.com/watch?v=a4WuurpnSbc)**
+**[Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone](https://www.youtube.com/watch?v=a4WuurpnSbc)**<BR>
 
 TEDx Talks. (2019, September 13). Why Gender Equality is Not Just About Women | Caroline Strachan | TEDxFolkestone. Retrieved 2022, July 27. 
 
@@ -95,16 +93,16 @@ TEDx Talks. (2019, September 13). Why Gender Equality is Not Just About Women | 
 
 ## WEBSITES
 
-[**Global Gender Gap Narrowing, But Still 132 Years to Reach Parity**](https://www.internationalwomensday.com/Missions/18487/Global-gender-gap-narrowing-but-still-132-years-to-reach-parity)
+[**Global Gender Gap Narrowing, But Still 132 Years to Reach Parity**](https://www.internationalwomensday.com/Missions/18487/Global-gender-gap-narrowing-but-still-132-years-to-reach-parity)<BR>
 Global Gender Gap Narrowing, But Still 132 Years to Reach Parity. (2022, July). International Women’s Day. Retrieved 2022, July 27. 
 
-[**Ten Things to Know About Gender Equality**](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/ten-things-to-know-about-gender-equality)
+[**Ten Things to Know About Gender Equality**](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/ten-things-to-know-about-gender-equality)<BR>
 Krishnan, Mekala, et al. (2020, September 21). Ten Things to Know About Gender Equality. McKinsey & Company. Retrieved 2022, July 27. 
 
-[**Commentary: What’s Behind Varying Attitudes About Gender Equality in Singapore**](https://kontinentalist.com/stories/sexual-assault-and-abuse-in-singapore-need-more-than-the-law)
+[**Commentary: What’s Behind Varying Attitudes About Gender Equality in Singapore**](https://kontinentalist.com/stories/sexual-assault-and-abuse-in-singapore-need-more-than-the-law)<BR>
 Mathews, Matthew. (2021, October 3). Commentary: What’s Behind Varying Attitudes About Gender Equality in Singapore. Institute of Policy Studies. Retrieved 2022, July 27. 
 
-[**Sexual Violence in Singapore: A Crisis**](https://kontinentalist.com/stories/sexual-assault-and-abuse-in-singapore-need-more-than-the-law)
+[**Sexual Violence in Singapore: A Crisis**](https://kontinentalist.com/stories/sexual-assault-and-abuse-in-singapore-need-more-than-the-law)<BR>
 Sexual Violence in Singapore: A Crisis. (2021, September 8). Kontinentalist. Retrieved 2022, August 10.
 
 
