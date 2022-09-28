@@ -2,8 +2,6 @@
 title: 'Gender Equality'
 permalink: /read-to-be-sure-volume-2/issue1-gender-equality/
 breadcrumb: 'Gender Equality'
-third_nav_title: 'Issue #1: How Can True Gender Equality Be Achieved?'
-
 ---
 
 In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where is it not *just* a women’s issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and girls everywhere. 
