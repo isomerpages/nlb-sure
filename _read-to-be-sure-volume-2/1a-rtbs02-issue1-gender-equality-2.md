@@ -2,10 +2,10 @@
 title: 'Gender Equality 2'
 permalink: /read-to-be-sure-volume-2/issue1-gender-equality2/
 breadcrumb: 'Issue 1 - Gender Equality'
-image: ../images/rtbs-vol2-web-banner.JPG
+image: ../images/rtbs-vol2-web-banner.png
 ---
 
-![](../images/rtbs-vol2-web-banner.JPG)
+![](../images/rtbs-vol2-web-banner.png)
 
 In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where is it not *just* a women’s issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and girls everywhere. 
 
