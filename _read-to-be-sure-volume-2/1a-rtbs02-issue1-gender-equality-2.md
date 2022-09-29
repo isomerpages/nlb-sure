@@ -1,6 +1,6 @@
 ---
 title: 'Gender Equality'
-permalink: /read-to-be-sure-volume-2/issue1-gender-equality/
+permalink: /read-to-be-sure-volume-2/issue1-gender-equality2/
 breadcrumb: 'Issue 1 - Gender Equality'
 image: ../images/rtbs-vol2-web-banner.JPG
 ---
