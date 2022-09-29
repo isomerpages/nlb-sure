@@ -1,5 +1,5 @@
 ---
-title: 'Gender Equality'
+title: 'Gender Equality 2'
 permalink: /read-to-be-sure-volume-2/issue1-gender-equality2/
 breadcrumb: 'Issue 1 - Gender Equality'
 image: ../images/rtbs-vol2-web-banner.JPG
