@@ -2,12 +2,12 @@
 title: 'Gender Equality'
 permalink: /read-to-be-sure-volume-2/issue1-gender-equality/
 breadcrumb: 'Issue 1 - Gender Equality'
-image: ../images/NLB-RTBS-Web-Banner-220929.png
+image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 ---
 
 ![](../images/NLB-RTBS-Web-Banner-220929.png)
 
-In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where is it not *just* a women’s or men's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and girls everywhere. 
+In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where it is not *just* a women's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere. 
 
 
 
