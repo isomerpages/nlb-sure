@@ -2,7 +2,7 @@
 title: 'Gender Equality'
 permalink: /read-to-be-sure-volume-2/issue1-gender-equality/
 breadcrumb: 'Issue 1 - Gender Equality'
-image: ../images/NLB-RTBS-Web-Banner-220929.png
+image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 ---
 
 ![](../images/NLB-RTBS-Web-Banner-220929.png)
