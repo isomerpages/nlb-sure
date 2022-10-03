@@ -28,11 +28,9 @@ Encounter eResources on Sustainability at a park near you! From 14 October 2022 
 | :-----------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                                             |                                                              |                                                              |                                      |                                                              |                                                              |
 
+<a name="1"></a>
 
-
-<hr>
-
-<a name="1"></a><h2>The Sustainability Showcase</h2></a>
+<h2>The Sustainability Showcase</h2>
 
 
 ![](../images/nodes-at-parks-02-min.jpg)
@@ -47,17 +45,9 @@ As part of the suite of activities at the Showcase you will also be able to cont
 
 
 
-## <a name="3">**Partner “Show and Tell” Schedule at The Sustainability Showcase**</a>
+<a name="2"></a>
 
-![](../images/nodes-at-parks-04-min.png)
-
-On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. 
-
-Click **[here](https://go.gov.sg/showandtell-monthlyschedule)** to view our schedule (updated monthly).
-
-
-
-## <a name="2">**eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz**</a>
+## **eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz**
 
 Have you read up on all 8 Sustainability questions and accompanying eResources at our Showcase? How well informed are you about the topic of Sustainability now? Put your knowledge to the test by participating in our quiz. Participants who score 6 out of 8 questions correctly will get access to promo codes for our Sustainability Showcase participating partner’s products. Try our quiz today! 
 
@@ -67,7 +57,21 @@ Click **[here](https://go.gov.sg/sustainabilityshowcasequiz4)** to start!
 
 
 
-<h2> <a name="4"></a>Sustainable Benches</h2></a>
+<a name="3"></a>
+
+## **Partner “Show and Tell” Schedule at The Sustainability Showcase**
+
+![](../images/nodes-at-parks-04-min.png)
+
+On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. 
+
+Click **[here](https://go.gov.sg/showandtell-monthlyschedule)** to view our schedule (updated monthly).
+
+
+
+<a name="4"></a>
+
+<h2>Sustainable Benches</h2>
 
 ![](../images/nodes-at-parks-05-min.png)
 
@@ -107,9 +111,11 @@ Participating schools:
 
 7. Zhonghua Secondary School
 
- 
 
-## <a name="5">**Unscramble & Win!** **$500 worth of shopping vouchers up for grabs!**</a>
+
+<a name="5"></a> 
+
+## **Unscramble & Win!** **$500 worth of shopping vouchers up for grabs!**
 
 Ready to hunt down the sustainable benches in the park? Scan the QR codes on the benches to find 14 hidden letters. Unscramble them and submit your answer. $100 worth of shopping evouchers are up for grabs! Click **[here](https://go.gov.sg/seekandunscramble4)** to find out more. **[Terms and conditions](https://go.gov.sg/susbenchtc)** apply.
 
@@ -117,7 +123,9 @@ Ready to hunt down the sustainable benches in the park? Scan the QR codes on the
 
 <hr>
 
-## **<a name="6">All Things on “Sustainability”**</a>
+<a name="6"></a>
+
+## **All Things on “Sustainability”**
 
 Keen to learn more about Sustainability? Find more eResources, programmes and activities on NLB’s learning community’s platform **[LearnX Sustainability](https://learning.nlb.gov.sg/sustainability/overview)**. 
 
