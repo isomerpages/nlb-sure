@@ -76,4 +76,7 @@ We all know that plastics are non-biodegradable and last for hundreds of years i
 
 **Which perspective do you agree with?**
 
-This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote here. 
+This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **[here](https://forms.gle/DoPHtiEYhVxkPL3w8)**. 
+
+![](../images/nodes-at-parks-poll1.JPG)
+

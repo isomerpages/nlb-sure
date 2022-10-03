@@ -50,4 +50,6 @@ The use of disposable chopsticks has evolved to become an integral part of our t
 
 ## **Which perspective do you agree with?**
 
-This bar chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote here.
+This bar chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **[here](https://forms.gle/EJJZ6C6UUjjeCbDc7)**.
+
+![](../images/nodes-at-parks-poll2.JPG)
