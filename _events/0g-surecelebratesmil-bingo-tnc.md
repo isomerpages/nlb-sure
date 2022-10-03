@@ -1,14 +1,14 @@
 ---
-title: 'Terms and Conditions'
+title: 'Bingo - Terms and Conditions'
 permalink: /events/surecelebratesmil-bingo-tnc/
-breadcrumb: 'Terms and Conditions'
+breadcrumb: 'Bingo - Terms and Conditions'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ---
 
 **S.U.R.E. BINGO Lucky Draw – Rules**
 
-This document introduces the S.U.R.E. BINGO Lucky Draw (**“Lucky Draw”**) organised by the National Library Board (**NLB**) and sets out the rules. By entering the Lucky Draw, participants agree to all the rules set out (**Rules**). 
+This document introduces the S.U.R.E. BINGO Lucky Draw (**“Lucky Draw”**) organised by the National Library Board (**NLB**) and sets out the rules. By entering the Lucky D	raw, participants agree to all the rules set out (**Rules**). 
 
  
 
