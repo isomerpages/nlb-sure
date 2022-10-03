@@ -25,7 +25,7 @@ The use of disposable chopsticks has evolved to become an integral part of our t
     <a href="https://www.prunderground.com/why-disposable-chopsticks-are-difficult-to-recycle-source-bestchopsticks-com/00161795/ ">https://www.prunderground.com/why-disposable-chopsticks-are-difficult-to-recycle-source-bestchopsticks-com/00161795/</a>
 </p>
 </details>
-<br>
+
 
 
 <details><summary><b>Perspective 2: Lifecycle carbon emissions of disposable wooden chopsticks are dependent on the production process.</b></summary>
@@ -37,7 +37,7 @@ The use of disposable chopsticks has evolved to become an integral part of our t
     <a href="https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-021-00101-y">https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-021-00101-y</a>
 </p>
 </details>
-<br>
+
 
 
 <details><summary><b>Perspective 3: Perspective 3: Reusable chopsticks are affordable and have lower environmental impact.</b></summary>
