@@ -49,6 +49,8 @@ collections:
         output: true
     read-to-be-sure-volume-2:
         output: true
+    nodes-at-parks:
+        output: true
     issue1-gender-equality:
         output: true
     tng:
