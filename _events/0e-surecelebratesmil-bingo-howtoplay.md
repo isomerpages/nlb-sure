@@ -1,5 +1,5 @@
 ---
-title: 'How to play'
+title: 'Bingo - How to play'
 permalink: /events/surecelebratesmil-bingo-howtoplay/
 breadcrumb: 'How to play'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
