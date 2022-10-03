@@ -9,6 +9,8 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where it is not *just* a women's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPhX9ocUEOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 Gender equality provides equal rights, opportunities and responsibilities to people regardless of gender. Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world. 
