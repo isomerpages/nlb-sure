@@ -135,7 +135,7 @@ Want to have quick read on Sustainability before coming down to our Showcase? Ch
 
 <hr>
 
-## Acknowledgements 
+## **Acknowledgements** 
 
 **Supported by**: [SG Eco Fund](https://www.mse.gov.sg/sgecofund/) and [NParks](https://www.nparks.gov.sg/)
 
