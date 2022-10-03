@@ -28,7 +28,7 @@ Encounter eResources on Sustainability at a park near you! From 14 October 2022 
 | :-----------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                                             |                                                              |                                                              |                                      |                                                              |                                                              |
 
-<a name="1"></a>
+<a name="#1"></a>
 
 <h2>The Sustainability Showcase</h2>
 
@@ -45,7 +45,7 @@ As part of the suite of activities at the Showcase you will also be able to cont
 
 
 
-<a name="2"></a>
+<a name="#2"></a>
 
 ## **eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz**
 
@@ -57,7 +57,7 @@ Click **[here](https://go.gov.sg/sustainabilityshowcasequiz4)** to start!
 
 
 
-<a name="3"></a>
+<a name="#3"></a>
 
 ## **Partner “Show and Tell” Schedule at The Sustainability Showcase**
 
@@ -69,7 +69,7 @@ Click **[here](https://go.gov.sg/showandtell-monthlyschedule)** to view our sche
 
 
 
-<a name="4"></a>
+<a name="#4"></a>
 
 <h2>Sustainable Benches</h2>
 
@@ -113,7 +113,7 @@ Participating schools:
 
 
 
-<a name="5"></a> 
+<a name="#5"></a> 
 
 ## **Unscramble & Win!** **$500 worth of shopping vouchers up for grabs!**
 
@@ -123,7 +123,7 @@ Ready to hunt down the sustainable benches in the park? Scan the QR codes on the
 
 <hr>
 
-<a name="6"></a>
+<a name="#6"></a>
 
 ## **All Things on “Sustainability”**
 
