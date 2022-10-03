@@ -1,7 +1,7 @@
 ---
 title: 'Giveaway Contest on Social Media - Terms and Conditions'
-permalink: /events/surecelebratesmil-bingo-tnc/
-breadcrumb: 'Bingo - Giveaway Contest on Social Media - Terms and Conditions'
+permalink: /events/surecelebratesmil-plfb-giveaway-tnc/
+breadcrumb: 'Giveaway Contest on Social Media - Terms and Conditions'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ---
