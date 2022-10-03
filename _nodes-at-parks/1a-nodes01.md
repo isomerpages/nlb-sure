@@ -71,3 +71,9 @@ We all know that plastics are non-biodegradable and last for hundreds of years i
     <a href="https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic">https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic</a>
 </p></details>
 
+
+
+
+**Which perspective do you agree with?**
+
+This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote here. 
