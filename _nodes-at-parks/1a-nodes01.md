@@ -4,7 +4,6 @@ permalink: /nodes-at-parks/nodes-at-parks2/
 breadcrumb: 'Single-use Plastics'
 third_nav_title: 'Nodes at Parks'
 
-
 ---
 
 ![](../images/nodes-at-parks-06-min.jpg)
