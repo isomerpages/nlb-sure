@@ -1,7 +1,7 @@
 ---
-title: 'Circular Economy'
+title: '#5 Circular Economy'
 permalink: /nodes-at-parks/nodes-at-parks6/
-breadcrumb: 'Circular Economy'
+breadcrumb: '#5 Circular Economy'
 third_nav_title: 'Nodes at Parks'
 
 ---

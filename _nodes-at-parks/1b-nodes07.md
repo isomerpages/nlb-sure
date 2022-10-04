@@ -1,7 +1,7 @@
 ---
-title: 'Food Choices'
+title: '#7 Food Choices'
 permalink: /nodes-at-parks/nodes-at-parks8/
-breadcrumb: 'Food Choices'
+breadcrumb: '#7 Food Choices'
 third_nav_title: 'Nodes at Parks'
 
 ---

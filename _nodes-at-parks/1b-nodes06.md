@@ -1,7 +1,7 @@
 ---
-title: 'Critters in composting'
+title: '#6 Critters in composting'
 permalink: /nodes-at-parks/nodes-at-parks7/
-breadcrumb: 'Critters in composting'
+breadcrumb: '#6 Critters in composting'
 third_nav_title: 'Nodes at Parks'
 
 ---
