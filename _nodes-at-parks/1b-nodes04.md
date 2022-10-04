@@ -46,5 +46,5 @@ Approximately one-fifth of imported and locally farmed fresh product is lost in 
 
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
-This bar chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote [**here**](https://forms.gle/rkoabLsiRgBJiu2JA).
+Which perspective do you agree with the most? Vote [**here**](https://forms.gle/rkoabLsiRgBJiu2JA).
 

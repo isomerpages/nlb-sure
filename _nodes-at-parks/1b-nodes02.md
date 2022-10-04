@@ -60,6 +60,6 @@ The ubiquitous Korean flat metal chopsticks can be made from cheaper materials s
 
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
-This bar chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **[here](https://forms.gle/EJJZ6C6UUjjeCbDc7)**.
+This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **[here](https://forms.gle/EJJZ6C6UUjjeCbDc7)**.
 
 ![](../images/nodes-at-parks-poll2.JPG)
