@@ -20,7 +20,8 @@ Encounter eResources on Sustainability at a park near you! From 14 October 2022 
 
 <div>
 <div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
+    <div class="col is-half-desktop is-half-ta
+blet">
 <a href="#1"><img src="../images/rtbs-nodes-button1.jpg" alt="nodes button 1"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
@@ -34,11 +35,10 @@ Encounter eResources on Sustainability at a park near you! From 14 October 2022 
 </div>	
     <div class="col is-half-desktop is-half-tablet">
 <a href="#5"><img src="../images/rtbs-nodes-button5.jpg" alt="nodes button 5"></a></div>
-</div>	
-    <div class="col is-half-desktop is-half-tablet">
-<a href="#6"><img src="../images/rtbs-nodes-button6.jpg" alt="nodes button 6"></a></div>
-</div>	
 </div>
+<div class="col is-half-desktop is-half-tablet"><a href="#6"><img src="../images/rtbs-nodes-button6.jpg" alt="nodes button 6"></a></div></div></div>	
+
+
 
 <a name="1"></a>
 
