@@ -38,7 +38,7 @@ blet">
 </div>    
 	<div class="col is-half-desktop is-half-tablet">
 <a href="#6"><img src="../images/rtbs-nodes-button6.jpg" alt="nodes button 6"></a>
-    </div></div>
+    </div></div></div>
 
 
 <a name="1"></a>
