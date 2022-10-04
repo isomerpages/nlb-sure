@@ -21,7 +21,9 @@ This year’s theme is “***Be S.U.R.E., Stay Connected***” and you can learn
 - Avoid online harms 
 - Understand news literacy 
 
- 
+Explore our [S.U.R.E. BINGO programmes and activities](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-activities/). Complete 5 different S.U.R.E. BINGO programmes and activities, and stand a chance to win a prize in our Lucky Draw!
+
+
 
 **About S.U.R.E.**
 
