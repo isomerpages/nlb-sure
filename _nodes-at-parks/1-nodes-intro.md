@@ -41,8 +41,6 @@ blet">
     </div></div>
 
 
-<hr>
-
 <a name="1"></a>
 
 **<font size=5>The Sustainability Showcase</font>**
@@ -60,10 +58,6 @@ As part of the suite of activities at the Showcase you will also be able to cont
 
 
 
-<hr>
-
-
-
 <a name="2"></a>
 
 **<font size=5>eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz</font>**
@@ -76,9 +70,6 @@ Click **[here](https://go.gov.sg/sustainabilityshowcasequiz4)** to start!
 
 
 
-<hr>
-
-
 <a name="3"></a>
 
 **<font size=5>Partner “Show and Tell” Schedule at The Sustainability Showcase</font>**
@@ -88,8 +79,6 @@ On selected weekends, come join our partners as they share stories about their g
 Click **[here](https://go.gov.sg/showandtell-monthlyschedule)** to view our schedule (updated monthly).
 
 
-
-<hr>
 
 <a name="4"></a>
 
@@ -129,7 +118,6 @@ Participating schools:
 
 
 
-<HR>
 <a name="5"></a> 
 
 **<font size=5>Unscramble & Win! $500 worth of shopping vouchers up for grabs!</font>**
@@ -138,7 +126,8 @@ Ready to hunt down the sustainable benches in the park? Scan the QR codes on the
 
  
 
-<hr>
+
+
 <a name="6"></a>
 
 <font size=5>**All Things on “Sustainability”**</font>
@@ -149,7 +138,8 @@ Want to have quick read on Sustainability before coming down to our Showcase? Ch
 
 
 
-<hr>
+
+
 **<font size=5>Acknowledgements</font>** 
 
 **Supported by**: [SG Eco Fund](https://www.mse.gov.sg/sgecofund/) and [NParks](https://www.nparks.gov.sg/)
