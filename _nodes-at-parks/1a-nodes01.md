@@ -16,7 +16,9 @@ We all know that plastics are non-biodegradable and last for hundreds of years i
 
 
 
-<h3>Perspective 1: Plastic pollution affects the environment, wildlife, and at-risk communities</h3>
+<HR>
+
+**<FONT SIZE ="5">Perspective 1: Plastic pollution affects the environment, wildlife, and at-risk communities</FONT>**
 
 Single-use or disposable plastics are not biodegradable and break down into micro particles that contaminate our environment, such as our oceans, and may persist for decades to come, affecting the wildlife and disrupting the ecosystem. 
 
@@ -32,7 +34,7 @@ Plastic pollution also disproportionately affects poorer and disadvantaged commu
 
 
 
-<H3>Perspective 2: Plastic use is a necessary evil in various supply chains (e.g. food, medical).</H3>
+**<FONT SIZE ="5">Perspective 2: Plastic use is a necessary evil in various supply chains (e.g. food, medical).</FONT>**
 
 Plastics are used in complex international food supply chains where food needs to be wrapped and transported safely, due to its durability and long lifespan.
 
@@ -49,7 +51,7 @@ In light of the pandemic, single-used plastic products such as gloves and masks 
 
 <p></p>
 
-<h3>Perspective 3: There are alternatives to plastic packaging in food production.</h3>
+**<FONT SIZE ="5">Perspective 3: There are alternatives to plastic packaging in food production.</FONT>**
 
 While cost may be a factor, there are indeed alternatives to packaging food in a more sustainable fashion such as bio-based food contact materials such as paper, wheat-based or seaweed-based materials and beeswax wraps.
 

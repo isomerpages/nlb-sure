@@ -12,9 +12,13 @@ Photo by [Lana Mattice](https://unsplash.com/es/@lanamattice?utm_source=unsplash
 
 
 
-## **Should our disposable chopsticks be given the “chop”?**
+**<FONT SIZE ="5">Should our disposable chopsticks be given the “chop”?</FONT>**
 
 The use of disposable chopsticks has evolved to become an integral part of our takeaway food culture. We find them given out at hawker centres, restaurants or used even at home. Have you ever wondered if the use of disposable chopsticks is sustainable in the long run? 
+
+
+
+<HR>
 
 **<font size="5">Perspective 1: Disposable chopsticks are not sustainable and fuels deforestation.</font>**
 
@@ -52,7 +56,9 @@ The ubiquitous Korean flat metal chopsticks can be made from cheaper materials s
 
 
 
-**Which perspective do you agree with?**
+<hr>
+
+**<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
 This bar chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **[here](https://forms.gle/EJJZ6C6UUjjeCbDc7)**.
 
