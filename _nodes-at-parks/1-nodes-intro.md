@@ -18,13 +18,27 @@ Encounter eResources on Sustainability at a park near you! From 14 October 2022 
 
 
 
- 
-
-| <a href="#1">The Sustainability Showcase</a> | <a href="#2">Sustainability Showcase Quiz – eCoupon Giveaway!</a> | <a href="#3">Sustainability Partner Show and Tell Schedule</a> | <a href="#4">Sustainable Benches </a> | <a href="#5">Seek and Unscramble to Win Big – Shopping eVouchers up for grabs!</a> | <a href="#6">All Things “Sustainable” – Programmes, Events, eResources and  Learning Packages</a> |
-| :------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                                              |                                                              |                                                              |                                       |                                                              |                                                              |
-
-<hr>
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<a href="#1"><img src="../images/rtbs-nodes-button1.jpg" alt="nodes button 1"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="#2"><img src="../images/rtbs-nodes-button2.jpg" alt="nodes button 2"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="#3"><img src="../images/rtbs-nodes-button3.jpg" alt="nodes button 3"></a>
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="#4"><img src="../images/rtbs-nodes-button4.jpg" alt="nodes button 4"></a></div>
+</div>	
+    <div class="col is-half-desktop is-half-tablet">
+<a href="#5"><img src="../images/rtbs-nodes-button5.jpg" alt="nodes button 5"></a></div>
+</div>	
+    <div class="col is-half-desktop is-half-tablet">
+<a href="#6"><img src="../images/rtbs-nodes-button6.jpg" alt="nodes button 6"></a></div>
+</div>	
+</div>
 
 <a name="1"></a>
 
@@ -60,7 +74,6 @@ Click **[here](https://go.gov.sg/sustainabilityshowcasequiz4)** to start!
 
 
 <hr>
-
 
 
 <a name="3"></a>
