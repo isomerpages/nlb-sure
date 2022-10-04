@@ -129,7 +129,7 @@ Ready to hunt down the sustainable benches in the park? Scan the QR codes on the
 
 <a name="6"></a>
 
-<font size=5>**All Things on “Sustainability”**</font>
+**<font size=5>All Things on “Sustainability”</font>**
 
 Keen to learn more about Sustainability? Find more eResources, programmes and activities on NLB’s learning community’s platform **[LearnX Sustainability](https://learning.nlb.gov.sg/sustainability/overview)**. 
 
