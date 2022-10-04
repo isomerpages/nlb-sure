@@ -9,7 +9,10 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where it is not *just* a women's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NPhX9ocUEOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPhX9ocUEOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 *Watch the trailer [here](https://fb.watch/fSHelrDaFJ/).*
 
