@@ -29,18 +29,19 @@ blet">
 </div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="#3"><img src="../images/rtbs-nodes-button3.jpg" alt="nodes button 3"></a>
-</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="#4"><img src="../images/rtbs-nodes-button4.jpg" alt="nodes button 4"></a></div>
-</div>	
-    <div class="col is-half-desktop is-half-tablet">
-<a href="#5"><img src="../images/rtbs-nodes-button5.jpg" alt="nodes button 5"></a></div>
 </div>    
-<div class="col is-one-third-desktop is-one-third-tablet"</div> 
+    <div class="col is-half-desktop is-half-tablet">
+<a href="#4"><img src="../images/rtbs-nodes-button4.jpg" alt="nodes button 4"></a>
+</div>    
+	<div class="col is-half-desktop is-half-tablet">
+<a href="53"><img src="../images/rtbs-nodes-button5.jpg" alt="nodes button 5"></a>
+</div>    
+	<div class="col is-half-desktop is-half-tablet">
+<a href="#6"><img src="../images/rtbs-nodes-button6.jpg" alt="nodes button 6"></a>
+    </div></div>
 
 
-
-
+<hr>
 
 <a name="1"></a>
 
