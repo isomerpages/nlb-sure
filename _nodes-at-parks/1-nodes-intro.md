@@ -6,14 +6,10 @@ third_nav_title: 'Nodes at Parks'
 
 ---
 
-<h1>Nodes at Parks</h1>
-
 
 ![](../images/nodes-at-parks-01-min.png)
 
-
-
-Encounter eResources on Sustainability at a park near you! From 14 October 2022 to 26 February 2023, NLB is presenting a brand-new initiative called “Nodes at Parks”. Come interact with NLB’s exciting eResources on Sustainability. It consists of two parts: The Sustainability Showcase, and Sustainable Benches. Don’t miss the opportunity to visit us at:
+Encounter eResources on Sustainability at a park near you! From 14 October 2022 to 26 February 2023, NLB is presenting a brand-new initiative called “Nodes at Parks”. Come interact with NLB’s exciting eResources on Sustainability. It consists of two parts: **[The Sustainability Showcase](https://go.gov.sg/rtbs-nodes-showcase)**, and **[Sustainable Benches](https://go.gov.sg/rtbs-nodes-bench)**. Don’t miss the opportunity to visit us at:
 
 1. **Gardens by the Bay** beside the Ticketing Office (near Flower Dome)**:** 14 October to 22 November 2022
 2. **Jurong Lake Gardens** at the Entrance Pavilion**:** 25 November to 18 December 2022
@@ -28,9 +24,11 @@ Encounter eResources on Sustainability at a park near you! From 14 October 2022 
 | :------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                                              |                                                              |                                                              |                                       |                                                              |                                                              |
 
+<hr>
+
 <a name="1"></a>
 
-<h2>The Sustainability Showcase</h2>
+**The Sustainability Showcase**
 
 
 ![](../images/nodes-at-parks-02-min.jpg)
@@ -39,15 +37,19 @@ Encounter eResources on Sustainability at a park near you! From 14 October 2022 
 
 Ever wondered how your daily purchasing decisions impact the environment? Don’t miss this opportunity to browse our “supermarket” aisles and learn about 8 different topics on Sustainability. The items on display showcase interesting products that are conceptual ideas or existing products by green entrepreneurs. Learn about topics such as single-use plastics, composting, sustainable food production and more. 
 
-The **[Read to be Sure](/read-to-be-sure/intro/)** component of the Sustainability Showcase provides multiple perspectives to sustainability issues so you can see the big picture. Don’t forget to vote for your preferred perspective too! 
+The **[Read to be Sure](/read-to-be-sure/intro/)** component of the **[Sustainability Showcase](https://go.gov.sg/rtbs-nodes-showcase)** provides multiple perspectives to sustainability issues so you can see the big picture. Don’t forget to vote for your preferred perspective too! 
 
 As part of the suite of activities at the Showcase you will also be able to contribute an environmental memory, collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways. 
 
 
 
+<hr>
+
+
+
 <a name="2"></a>
 
-## **eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz**
+**eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz**
 
 Have you read up on all 8 Sustainability questions and accompanying eResources at our Showcase? How well informed are you about the topic of Sustainability now? Put your knowledge to the test by participating in our quiz. Participants who score 6 out of 8 questions correctly will get access to promo codes for our Sustainability Showcase participating partner’s products. Try our quiz today! 
 
@@ -57,11 +59,13 @@ Click **[here](https://go.gov.sg/sustainabilityshowcasequiz4)** to start!
 
 
 
+<hr>
+
+
+
 <a name="3"></a>
 
-## **Partner “Show and Tell” Schedule at The Sustainability Showcase**
-
-![](../images/nodes-at-parks-04-min.png)
+**Partner “Show and Tell” Schedule at The Sustainability Showcase**
 
 On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. 
 
@@ -69,21 +73,23 @@ Click **[here](https://go.gov.sg/showandtell-monthlyschedule)** to view our sche
 
 
 
+<hr>
+
 <a name="4"></a>
 
-<h2>Sustainable Benches</h2>
+**Sustainable Benches**
 
 ![](../images/nodes-at-parks-05-min.png)
 
 
 
-Look out for our specially curated upcycled Benches around the Park! Placed in the vicinity of the Sustainability Showcase, these benches are 3D installations with interactive elements such as videos for you to discover and directly experience the topic of Sustainability through NLB’s eCollection. 7 secondary schools have come on board to paint their own designs on the Sustainable benches, rendering their creative interpretations of NLB’s sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.
+Look out for our specially curated upcycled [Benches around the Park](https://go.gov.sg/rtbs-nodes-bench)! Placed in the vicinity of the [Sustainability Showcase](https://go.gov.sg/rtbs-nodes-showcase), these benches are 3D installations with interactive elements such as videos for you to discover and directly experience the topic of Sustainability through NLB’s eCollection. 7 secondary schools have come on board to paint their own designs on the Sustainable benches, rendering their creative interpretations of NLB’s sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.
 
  
 
  
 
-Our benches are located here:
+Our benches are [located here](https://go.gov.sg/rtbs-nodes-bench):
 
 1. **Gardens by the Bay**: Opposite Visitor Service Office and at the Golden Garden (near drop-off point)
 
@@ -97,25 +103,21 @@ Our benches are located here:
 
 Participating schools:
 
-1. Admiralty Secondary School
-
-2. Chua Chu Kang Secondary School
-
-3. Kuo Chuan Presbyterian Secondary School
-
-4. Ngee Ann Secondary School
-
-5. Spectra Secondary School
-
-6. Yusof Ishak Secondary School
-
-7. Zhonghua Secondary School
+1. [Admiralty Secondary School](https://admiraltysec.moe.edu.sg/)
+2. [Chua Chu Kang Secondary School](https://chuachukangsec.moe.edu.sg/)
+3. [Kuo Chuan Presbyterian Secondary School](https://kuochuanpresbyteriansec.moe.edu.sg/)
+4. [Ngee Ann Secondary School](https://ngeeannsec.moe.edu.sg/)
+5. [Spectra Secondary School](https://www.spectra.edu.sg/)
+6. [Yusof Ishak Secondary School](https://yusofishaksec.moe.edu.sg/)
+7. [Zhonghua Secondary School](https://www.zhonghuasec.moe.edu.sg/)
 
 
+
+<HR>
 
 <a name="5"></a> 
 
-## **Unscramble & Win!** **$500 worth of shopping vouchers up for grabs!**
+**Unscramble & Win!** **$500 worth of shopping vouchers up for grabs!**
 
 Ready to hunt down the sustainable benches in the park? Scan the QR codes on the benches to find 14 hidden letters. Unscramble them and submit your answer. $100 worth of shopping evouchers are up for grabs! Click **[here](https://go.gov.sg/seekandunscramble4)** to find out more. **[Terms and conditions](https://go.gov.sg/susbenchtc)** apply.
 
@@ -125,7 +127,7 @@ Ready to hunt down the sustainable benches in the park? Scan the QR codes on the
 
 <a name="6"></a>
 
-## **All Things on “Sustainability”**
+**All Things on “Sustainability”**
 
 Keen to learn more about Sustainability? Find more eResources, programmes and activities on NLB’s learning community’s platform **[LearnX Sustainability](https://learning.nlb.gov.sg/sustainability/overview)**. 
 
@@ -165,11 +167,11 @@ Want to have quick read on Sustainability before coming down to our Showcase? Ch
 
 **Participating schools:**
 
-- Admiralty Secondary School
-- Chua Chu Kang Secondary School
-- Kuo Chuan Presbyterian Secondary School
-- Ngee Ann Secondary School
-- Republic Polytechnic
-- Spectra Secondary School
-- Yusof Ishak Secondary School
-- Zhonghua Secondary School
+- [Admiralty Secondary School](https://admiraltysec.moe.edu.sg/)
+- [Chua Chu Kang Secondary School](https://chuachukangsec.moe.edu.sg/)
+- [Kuo Chuan Presbyterian Secondary School](https://kuochuanpresbyteriansec.moe.edu.sg/)
+- [Ngee Ann Secondary School](https://ngeeannsec.moe.edu.sg/)
+- [Republic Polytechnic](https://www.rp.edu.sg/)
+- [Spectra Secondary School](https://www.spectra.edu.sg/)
+- [Yusof Ishak Secondary School](https://yusofishaksec.moe.edu.sg/)
+- [Zhonghua Secondary School](https://www.zhonghuasec.moe.edu.sg/)
