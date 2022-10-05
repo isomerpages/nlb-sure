@@ -22,13 +22,14 @@ At each stage of food production, pollutants and greenhouse gas emissions are ge
 
 Organisations such as the World Wildlife Foundation are helping producers to improve the production of everyday food with the largest environmental impact by identifying and adopting more sustainable practices. 
 
-[https://www.wwf.org.au/what-we-do/food](https://www.wwf.org.au/what-we-do/food)
+<a href="https://www.wwf.org.au/what-we-do/food"  target="_blank">https://www.wwf.org.au/what-we-do/food</a>
 
-[https://ec.europa.eu/research-and-innovation/en/horizon-magazine/five-key-questions-answer-about-resilient-and-sustainable-food-systems](https://ec.europa.eu/research-and-innovation/en/horizon-magazine/five-key-questions-answer-about-resilient-and-sustainable-food-systems)
+<a href="https://ec.europa.eu/research-and-innovation/en/horizon-magazine/five-key-questions-answer-about-resilient-and-sustainable-food-systems"  target="_blank">https://ec.europa.eu/research-and-innovation/en/horizon-magazine/five-key-questions-answer-about-resilient-and-sustainable-food-systems </a>
 
-[https://ourworldindata.org/environmental-impacts-of-food](https://ourworldindata.org/environmental-impacts-of-food)
+<a href="https://ourworldindata.org/environmental-impacts-of-food"  target="_blank">https://ourworldindata.org/environmental-impacts-of-food</a>
 
-[https://www.bbc.com/future/article/20210629-the-australian-tree-cutting-brazilian-beefs-emissions](https://www.bbc.com/future/article/20210629-the-australian-tree-cutting-brazilian-beefs-emissions)
+<a href="https://www.bbc.com/future/article/20210629-the-australian-tree-cutting-brazilian-beefs-emissions"  target="_blank">https://www.bbc.com/future/article/20210629-the-australian-tree-cutting-brazilian-beefs-emissions </a>
+
 
 
 
@@ -37,19 +38,20 @@ Organisations such as the World Wildlife Foundation are helping producers to imp
 While some parts of the world cannot be fully self-sufficient in food supply, eating food grown and produced locally may mitigate emissions associate with food transport. A recent study published in *Nature* journal showed that “global food-miles account for nearly 20% of total food system emissions”. 
 
 We can do our part in Singapore, where local food production utilises less fuel and other resources. Local produce remain fresher and edible longer and can enhance our food supply resilience. 
+<a href="https://www.nature.com/articles/s43016-022-00531-w"  target="_blank">https://www.nature.com/articles/s43016-022-00531-w</a>
 
-[https://www.nature.com/articles/s43016-022-00531-w](https://www.nature.com/articles/s43016-022-00531-w)
+<a href="https://safef.org.sg/blog/how-buying-local-produce-supports-singapores-future/"  target="_blank">https://safef.org.sg/blog/how-buying-local-produce-supports-singapores-future/</a>
 
-[https://safef.org.sg/blog/how-buying-local-produce-supports-singapores-future/](https://safef.org.sg/blog/how-buying-local-produce-supports-singapores-future/)
+<a href="https://safef.org.sg/blog/how-buying-local-produce-supports-singapores-future/
+"  target="_blank">https://safef.org.sg/blog/how-buying-local-produce-supports-singapores-future/
+</a>
+<a href="https://www.bbc.com/future/bespoke/follow-the-food/how-to-grow-food-in-a-concrete-jungle/"  target="_blank"> https://www.bbc.com/future/bespoke/follow-the-food/how-to-grow-food-in-a-concrete-jungle/</a>
 
-[https://www.bbc.com/future/bespoke/follow-the-food/how-to-grow-food-in-a-concrete-jungle/](https://www.bbc.com/future/bespoke/follow-the-food/how-to-grow-food-in-a-concrete-jungle/)
-
-[https://theconversation.com/the-worlds-affluent-must-start-eating-local-food-to-tackle-the-climate-crisis-new-research-shows-185410](https://theconversation.com/the-worlds-affluent-must-start-eating-local-food-to-tackle-the-climate-crisis-new-research-shows-185410)
+<a href="https://theconversation.com/the-worlds-affluent-must-start-eating-local-food-to-tackle-the-climate-crisis-new-research-shows-185410"  target="_blank"> https://theconversation.com/the-worlds-affluent-must-start-eating-local-food-to-tackle-the-climate-crisis-new-research-shows-185410</a>
 
  
 
 <HR>
-
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
 Which perspective do you agree with the most? Vote [**here**](https://forms.gle/NVCs2yKCJxe3YMUA9).
