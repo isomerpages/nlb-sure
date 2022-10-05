@@ -26,9 +26,10 @@ Demand for disposable chopsticks in food delivery is responsible for an annual p
 
 Efforts to wash or recycle disposable wood chopsticks face operational and logistic challenges for companies. 
 
-[https://thediplomat.com/2019/05/cutting-chopsticks-from-chinas-food-delivery-waste/](https://thediplomat.com/2019/05/cutting-chopsticks-from-chinas-food-delivery-waste/ ) 
+<a href="https://thediplomat.com/2019/05/cutting-chopsticks-from-chinas-food-delivery-waste/"  target="_blank">https://thediplomat.com/2019/05/cutting-chopsticks-from-chinas-food-delivery-waste/</a>
 
-[https://www.prunderground.com/why-disposable-chopsticks-are-difficult-to-recycle-source-bestchopsticks-com/00161795/](https://www.prunderground.com/why-disposable-chopsticks-are-difficult-to-recycle-source-bestchopsticks-com/00161795/)
+<a href="https://www.prunderground.com/why-disposable-chopsticks-are-difficult-to-recycle-source-bestchopsticks-com/00161795/"  target="_blank">
+https://www.prunderground.com/why-disposable-chopsticks-are-difficult-to-recycle-source-bestchopsticks-com/00161795/</a>
 
 
 
@@ -38,9 +39,11 @@ The carbon emissions from the production of disposable wooden chopsticks are dep
 
 In 2021, Japan’s use and import of disposable chopsticks reduced to just over half of the peak usage in mid-2000s. The factors that attribute to the decline include using reusable chopsticks, increased concerns about damaging the environment and the pandemic restrictions in dining out. 
 
-[https://www.asahi.com/ajw/articles/14549212](https://www.asahi.com/ajw/articles/14549212)
+<a href="https://www.asahi.com/ajw/articles/14549212"  target="_blank">
+https://www.asahi.com/ajw/articles/14549212</a>
 
-[https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-021-00101-y](https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-021-00101-y) 
+<a href="https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-021-00101-y "  target="_blank">
+https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-021-00101-y </a>
 
 
 
@@ -50,14 +53,16 @@ Metal or bamboo chopsticks can be an affordable and sustainable alternative to d
 
 The ubiquitous Korean flat metal chopsticks can be made from cheaper materials such as stainless steel making it accessible for many. Its design requires fewer steps and raw materials than traditional rounded design. Additionally, it is much easier to clean than wooden or plastic chopsticks, making it easy to reuse. 
 
-[https://chopsticksaroundtheworld.com/why-are-korean-chopsticks-metal/](https://chopsticksaroundtheworld.com/why-are-korean-chopsticks-metal/)
+<a href="https://chopsticksaroundtheworld.com/why-are-korean-chopsticks-metal/"  target="_blank">
+https://chopsticksaroundtheworld.com/why-are-korean-chopsticks-metal/</a>
 
-[https://www.ecoandbeyond.co/articles/is-bamboo-sustainable/](https://www.ecoandbeyond.co/articles/is-bamboo-sustainable/)
+<a href="
+https://www.ecoandbeyond.co/articles/is-bamboo-sustainable/"  target="_blank">
+https://www.ecoandbeyond.co/articles/is-bamboo-sustainable/</a>
 
 
 
 <hr>
-
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
 This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **[here](https://forms.gle/EJJZ6C6UUjjeCbDc7)**.
