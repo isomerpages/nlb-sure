@@ -55,11 +55,11 @@ While cost may be a factor, there are indeed alternatives to packaging food in a
 
 Companies such as Nestle, have pledged to ensure all their packaging to be either reusable, recyclable or compostable by 2025.
 
-<a href="https://www.asianscientist.com/2022/02/in-the-lab/food-packaging-shelf-life-smart-sustainable-antimicrobial/ " target="blank">https://[www.asianscientist.com](www.asianscientist.com)/2022/02/in-the-lab/food-packaging-shelf-life-smart-sustainable-antimicrobial/</a>
+<a href="https://www.asianscientist.com/2022/02/in-the-lab/food-packaging-shelf-life-smart-sustainable-antimicrobial/ " target="blank">https://(www.asianscientist.com/2022/02/in-the-lab/food-packaging-shelf-life-smart-sustainable-antimicrobial/</a>
 
 <a href="https://cot.food.gov.uk/sites/default/files/2020-10/Tox%202020%2024%20Alternatives%20to%20conventional%20plastics%20for%20foods%20and%20drinks.pdf" target="_blank">https://cot.food.gov.uk/sites/default/files/2020-10/Tox%202020%2024%20Alternatives%20to%20conventional%20plastics%20for%20foods%20and%20drinks.pdf</a>
 
-<a href="https://www.bbc.com/worklife/article/20180705-whats-the-real-price-of-getting-rid-of-plastic-packaging" target="_blank">https://[www.bbc.com](www.bbc.com)/worklife/article/20180705-whats-the-real-price-of-getting-rid-of-plastic-packaging</a>
+<a href="https://www.bbc.com/worklife/article/20180705-whats-the-real-price-of-getting-rid-of-plastic-packaging" target="_blank">https://www.bbc.com/worklife/article/20180705-whats-the-real-price-of-getting-rid-of-plastic-packaging</a>
 
 <a href="https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic" target="_blank">https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic</a>
 
