@@ -24,17 +24,18 @@ Lab-grown meat has the potential to feed a growing population in a more sustaina
 
 Given that global production and consumption of meat is rising steadily, the cutting age technology of cultivated meats can diversify the supply to meet the demand. 
 
-<a href="https://time.com/6109450/sustainable-lab-grown-mosa-meat/"  target="_blank">https://time.com/6109450/sustainable-lab-grown-mosa-meat/ </a>
+<a href="https://time.com/6109450/sustainable-lab-grown-mosa-meat/" target="_blank">https://time.com/6109450/sustainable-lab-grown-mosa-meat/ </a>
 
-https://www.frontiersin.org/articles/10.3389/fnut.2021.749298/full
+<a href="https://www.frontiersin.org/articles/10.3389/fnut.2021.749298/full"  target="_blank">https://www.frontiersin.org/articles/10.3389/fnut.2021.749298/full</a>
 
-https://www.theguardian.com/news/2021/jul/29/lab-grown-meat-factory-farms-industrial-agriculture-animals
+<a href="https://www.theguardian.com/news/2021/jul/29/lab-grown-meat-factory-farms-industrial-agriculture-animals"  target="_blank">https://www.theguardian.com/news/2021/jul/29/lab-grown-meat-factory-farms-industrial-agriculture-animals</a>
 
-https://www.bbc.com/news/science-environment-61182294
+<a href="https://www.bbc.com/news/science-environment-61182294"  target="_blank">https://www.bbc.com/news/science-environment-61182294</a>
 
-https://www.theguardian.com/environment/2021/sep/13/meat-greenhouses-gases-food-production-study
+<a href="https://www.theguardian.com/environment/2021/sep/13/meat-greenhouses-gases-food-production-study"  target="_blank">https://www.theguardian.com/environment/2021/sep/13/meat-greenhouses-gases-food-production-study</a>
 
-https://www.channelnewsasia.com/listen/climate-conversations/ep-5-feeding-planet-and-heating-it-how-agriculture-impacts-our-environment-1436501
+<a href="https://www.channelnewsasia.com/listen/climate-conversations/ep-5-feeding-planet-and-heating-it-how-agriculture-impacts-our-environment-1436501"  target="_blank">https://www.channelnewsasia.com/listen/climate-conversations/ep-5-feeding-planet-and-heating-it-how-agriculture-impacts-our-environment-1436501 </a>
+
 
 
 
@@ -47,8 +48,7 @@ Some examples of greener practices include adoption of regenerative agriculture 
 <a href="https://ourworldindata.org/environmental-impacts-of-food"  target="_blank">https://ourworldindata.org/environmental-impacts-of-food </a>
 
 
-<a href="https://www.bbc.com/future/article/20210629-the-australian-tree-cutting-brazilian-beefs-emissions"  target="_blank">https://www.bbc.com/future/article/20210629-the-australian-tree-cutting-brazilian-beefs-emissions
-</a>
+<a href="https://www.bbc.com/future/article/20210629-the-australian-tree-cutting-brazilian-beefs-emissions"  target="_blank">https://www.bbc.com/future/article/20210629-the-australian-tree-cutting-brazilian-beefs-emissions</a>
 
 <a href="https://www.wwf.org.au/what-we-do/food"  target="_blank"> https://www.wwf.org.au/what-we-do/food</a>
 
