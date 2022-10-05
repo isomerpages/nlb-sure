@@ -36,8 +36,6 @@ links:
       sublinks:
             - title: 'Volume 2, Issue 1: Gender Equality'
               url: /read-to-be-sure-volume-2/issue1-gender-equality/
-            - title: 'Nodes at Parks'
-              url: /nodes-at-parks/overview/
     - title: Resources
       url: /resources/audience/
       false_collection: true
