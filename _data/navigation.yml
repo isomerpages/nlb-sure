@@ -6,6 +6,12 @@ links:
       sublinks:
             - title: 'SURE (Information Literacy) Campaign'
               url: /about-us/sure-campaign/
+            - title: 'SURE for School'
+              url: /about-us/sure-for-school/
+            - title: 'SURE for Work
+              url: /about-us/sure-for-work/
+            - title: 'SURE for Life
+              url: /about-us/sure-for-life/
     - title: 'Tours & Workshops'
       url: /tours-and-workshops/learn/
       false_collection: true

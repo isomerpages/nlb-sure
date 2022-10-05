@@ -27,6 +27,12 @@ exclude:
 collections:
     about-us:
         output: true
+    sure-for-school:
+        output: true
+    sure-for-work
+        output: true
+    sure-for-life:
+        output: true
     covid19:
         output: true
     tours-and-workshops:
