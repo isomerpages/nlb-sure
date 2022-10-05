@@ -32,7 +32,7 @@ Plastic pollution also disproportionately affects poorer and disadvantaged commu
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0304389421018537?via%3Dihub"  target="_blank">https://www.sciencedirect.com/science/article/pii/S0304389421018537?via%3Dihub</a>
 
-
+<p></p>
 
 **<FONT SIZE ="5">Perspective 2: Plastic use is a necessary evil in various supply chains (e.g. food, medical).</FONT>**
 

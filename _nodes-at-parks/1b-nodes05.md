@@ -24,13 +24,13 @@ By exploring ways to minimise waste consciously when designing processes or oper
 
 Urban wastes such as wood from trees felled in urban areas or reclaimed wood from demolition can be kept in circulation for use by creating made-to-order products, made-to-stock furniture, flooring or beams. 
 
-[https://www.bwf.org.uk/toolkit/environmental-waste-management/circular-economy/](https://www.bwf.org.uk/toolkit/environmental-waste-management/circular-economy/)
+<a href="https://www.bwf.org.uk/toolkit/environmental-waste-management/circular-economy/"  target="_blank">https://www.bwf.org.uk/toolkit/environmental-waste-management/circular-economy/</a>
 
-[https://bioresources.cnr.ncsu.edu/resources/the-case-for-urban-and-reclaimed-wood-in-the-circular-economy/](https://bioresources.cnr.ncsu.edu/resources/the-case-for-urban-and-reclaimed-wood-in-the-circular-economy/ ) 
+<a href="https://bioresources.cnr.ncsu.edu/resources/the-case-for-urban-and-reclaimed-wood-in-the-circular-economy/"  target="_blank">https://bioresources.cnr.ncsu.edu/resources/the-case-for-urban-and-reclaimed-wood-in-the-circular-economy/</a> 
 
-[https://ellenmacarthurfoundation.org/articles/recycling-and-the-circular-seconomy-whats-the-difference](https://ellenmacarthurfoundation.org/articles/recycling-and-the-circular-economy-whats-the-difference ) 
+<a href="https://ellenmacarthurfoundation.org/articles/recycling-and-the-circular-seconomy-whats-the-difference"  target="_blank">https://ellenmacarthurfoundation.org/articles/recycling-and-the-circular-seconomy-whats-the-difference</a> 
 
-[https://www.channelnewsasia.com/business/money-mind-circular-economy-linear-recycle-make-use-throw-invest-965446](https://www.channelnewsasia.com/business/money-mind-circular-economy-linear-recycle-make-use-throw-invest-965446)
+<a href="https://www.channelnewsasia.com/business/money-mind-circular-economy-linear-recycle-make-use-throw-invest-965446"  target="_blank">https://www.channelnewsasia.com/business/money-mind-circular-economy-linear-recycle-make-use-throw-invest-965446</a>
 
 
 
@@ -40,21 +40,20 @@ The circular economy has critics questioning its effectiveness, given practical 
 
 For instance, collecting and restoring end-of-life products requires energy inputs and new materials. Industries that adopt the closed-loop approach may include returning materials to original factories that are far away.
 
-[https://hbr.org/2021/06/the-limits-of-the-sustainable-economy](https://hbr.org/2021/06/the-limits-of-the-sustainable-economy)
+<a href="https://hbr.org/2021/06/the-limits-of-the-sustainable-economy"  target="_blank">https://hbr.org/2021/06/the-limits-of-the-sustainable-economy</a>
 
-[https://www.tandfonline.com/doi/full/10.1080/09640568.2020.1857226](https://www.tandfonline.com/doi/full/10.1080/09640568.2020.1857226)
+<a href="https://www.tandfonline.com/doi/full/10.1080/09640568.2020.1857226"  target="_blank">https://www.tandfonline.com/doi/full/10.1080/09640568.2020.1857226</a>
 
-[https://www.sciencedirect.com/science/article/pii/S0921344919303349](https://www.sciencedirect.com/science/article/pii/S0921344919303349 ) 
+<a href="https://www.sciencedirect.com/science/article/pii/S0921344919303349"  target="_blank">https://www.sciencedirect.com/science/article/pii/S0921344919303349 </a>
 
-[https://www.forbes.com/sites/thebakersinstitute/2021/08/03/a-circular-economy-does-not-necessarily-translate-to-sustainability/?sh=7ddec61a7f53](https://www.forbes.com/sites/thebakersinstitute/2021/08/03/a-circular-economy-does-not-necessarily-translate-to-sustainability/?sh=7ddec61a7f53 ) 
+<a href="https://www.forbes.com/sites/thebakersinstitute/2021/08/03/a-circular-economy-does-not-necessarily-translate-to-sustainability/?sh=7ddec61a7f53 "  target="_blank">https://www.forbes.com/sites/thebakersinstitute/2021/08/03/a-circular-economy-does-not-necessarily-translate-to-sustainability/?sh=7ddec61a7f53 </a>
 
-[https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13187](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13187 ) 
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13187"  target="_blank">https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13187</a> 
 
 
 
 <HR>
-
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
-Which perspective do you agree with the most? Vote [**here**](https://forms.gle/eQi7M8EFgeqvKTt18).
+Which perspective do you agree with the most? Vote **<a href="https://forms.gle/eQi7M8EFgeqvKTt18" target=_blank>here</a>**.
 

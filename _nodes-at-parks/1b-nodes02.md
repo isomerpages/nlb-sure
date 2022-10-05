@@ -31,7 +31,7 @@ Efforts to wash or recycle disposable wood chopsticks face operational and logis
 <a href="https://www.prunderground.com/why-disposable-chopsticks-are-difficult-to-recycle-source-bestchopsticks-com/00161795/"  target="_blank">
 https://www.prunderground.com/why-disposable-chopsticks-are-difficult-to-recycle-source-bestchopsticks-com/00161795/</a>
 
-
+<p></p>
 
 **<font size="5">Perspective 2: Lifecycle carbon emissions of disposable wooden chopsticks are dependent on the production process.</font>**
 

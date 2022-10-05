@@ -24,9 +24,9 @@ Every single piece of food that is on our plate generates greenhouse gases. With
 
 In Singapore, a 2015 survey showed that the top three reasons for throwing away food was because it had expired, gone mouldy or looked, smelled or taste bad. 
 
-[https://www.bbc.com/future/article/20200224-how-cutting-your-food-waste-can-help-the-climate](https://www.bbc.com/future/article/20200224-how-cutting-your-food-waste-can-help-the-climate ) 
+<a href="https://www.bbc.com/future/article/20200224-how-cutting-your-food-waste-can-help-the-climate"  target="_blank">https://www.bbc.com/future/article/20200224-how-cutting-your-food-waste-can-help-the-climate </a>
 
-[https://www.todayonline.com/features/trash-talk-battle-food-waste-bulge-why-you-should-throw-away-less-food](https://www.todayonline.com/features/trash-talk-battle-food-waste-bulge-why-you-should-throw-away-less-food)
+<a href="https://www.todayonline.com/features/trash-talk-battle-food-waste-bulge-why-you-should-throw-away-less-food"  target="_blank">https://www.todayonline.com/features/trash-talk-battle-food-waste-bulge-why-you-should-throw-away-less-food</a>
 
 
 
@@ -36,9 +36,9 @@ Businesses such as supermarkets and food suppliers play a role in managing food 
 
 Approximately one-fifth of imported and locally farmed fresh product is lost in the supply chain due to logistical and business processes such as packaging, transportation, poor inventory management and cosmetic filtering of blemished products. 
 
-[https://www.straitstimes.com/singapore/unsold-but-not-unwanted](https://www.straitstimes.com/singapore/unsold-but-not-unwanted)
+<a href="https://www.straitstimes.com/singapore/unsold-but-not-unwanted"  target="_blank">https://www.straitstimes.com/singapore/unsold-but-not-unwanted</a>
 
-[https://www.straitstimes.com/singapore/calls-to-change-eating-habits-and-overhaul-in-food-supply-chain-to-cut-singapores-food](https://www.straitstimes.com/singapore/calls-to-change-eating-habits-and-overhaul-in-food-supply-chain-to-cut-singapores-food)
+<a href="https://www.straitstimes.com/singapore/calls-to-change-eating-habits-and-overhaul-in-food-supply-chain-to-cut-singapores-food"  target="_blank">https://www.straitstimes.com/singapore/calls-to-change-eating-habits-and-overhaul-in-food-supply-chain-to-cut-singapores-food</a>
 
 
 
@@ -46,5 +46,5 @@ Approximately one-fifth of imported and locally farmed fresh product is lost in 
 
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
-Which perspective do you agree with the most? Vote [**here**](https://forms.gle/rkoabLsiRgBJiu2JA).
+Which perspective do you agree with the most? Vote **<a href="https://forms.gle/rkoabLsiRgBJiu2JA" target=_blank>here</a>**.
 
