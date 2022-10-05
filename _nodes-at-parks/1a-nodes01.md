@@ -42,8 +42,6 @@ In light of the pandemic, single-used plastic products such as gloves and masks 
 
 [https://www.gep.com/blog/mind/single-use-plastics-a-necessary-evil-during-the-pandemic](https://www.gep.com/blog/mind/single-use-plastics-a-necessary-evil-during-the-pandemic)
 
-[https://www.channelnewsasia.com/commentary/ome-plastic-food-packaging-necessary-alternative-waste-874771](https://www.channelnewsasia.com/commentary/ome-plastic-food-packaging-necessary-alternative-waste-874771)
-
 [www.weforum.org/agenda/2018/05/plastic-asset-legal-policy-responsible-use-sadhguru/](http://www.weforum.org/agenda/2018/05/plastic-asset-legal-policy-responsible-use-sadhguru/)
 
 [https://qz.com/1189422/in-defense-of-plastic-the-worlds-most-wasteful-hazardous-downright-useful-material/](https://qz.com/1189422/in-defense-of-plastic-the-worlds-most-wasteful-hazardous-downright-useful-material/)

@@ -26,8 +26,6 @@ Urban wastes such as wood from trees felled in urban areas or reclaimed wood fro
 
 [https://www.bwf.org.uk/toolkit/environmental-waste-management/circular-economy/](https://www.bwf.org.uk/toolkit/environmental-waste-management/circular-economy/)
 
-[https://www.fastcompany.com/90710638/danes-dont-want-their-vintage-furniture-this-company-has-upcycled-10000-pieces-of-it-for-americans](https://www.fastcompany.com/90710638/danes-dont-want-their-vintage-furniture-this-company-has-upcycled-10000-pieces-of-it-for-americans)
-
 [https://bioresources.cnr.ncsu.edu/resources/the-case-for-urban-and-reclaimed-wood-in-the-circular-economy/](https://bioresources.cnr.ncsu.edu/resources/the-case-for-urban-and-reclaimed-wood-in-the-circular-economy/ ) 
 
 [https://ellenmacarthurfoundation.org/articles/recycling-and-the-circular-seconomy-whats-the-difference](https://ellenmacarthurfoundation.org/articles/recycling-and-the-circular-economy-whats-the-difference ) 
