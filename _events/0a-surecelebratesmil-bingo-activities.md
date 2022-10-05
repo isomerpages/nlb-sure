@@ -9,40 +9,13 @@ third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 # Bingo Programmes and Activities
 
-Want to learn how to “Be S.U.R.E., Stay Connected” in this digital age? Explore the activities below and find out more about how to:
-
-·    Discern and use online information sources
-
-·    Unpack and avoid scams
-
-·    Avoid online harms 
-
-·    Understand new literacy 
+Want to learn how to “Be S.U.R.E., Stay Connected” in this digital age? 
 
 Discover and explore bite-sized content, visit our book displays and The News Gallery, and participate in the learning programmes, quiz and game below!
 
 **Complete 5 different S.U.R.E BINGO programmes and activities, and stand a chance to win a prize in our Lucky Draw!**
 
-
-
-## CONTENT
-
-![](../images/SURE-MIL-Week-header3.jpg)
-
-| **Read or Watch here!**                                      | About                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Watch:**<BR> [Total Defence Interactive Video](https://go.gov.sg/watdinteractive)<br><br />*[Note: Link will go live on 1 Oct 2022]* | Check out the Total Defence Interactive Video where you can make choices that will determine the outcome of the character’s day. Understand how your choices and actions could create a greater impact in the larger national context, and how you can play your part for Singapore! Remember to be discerning of information you receive online and keep your eye out for fake news!<BR> |
-| **Watch:**<br>[Be S.U.R.E. before you share: Breaking news](/blog/fake-news/FN0027) | As more people turn to social media to get the latest updates on breaking news, how can we be S.U.R.E. of what we read online? Watch this video on how to be S.U.R.E. before you share on a story that is still developing. |
-| **Read**:<br/>[Blog: Be S.U.R.E. before you “add to cart”](https://sure.nlb.gov.sg/blog/tech/tech0002 ) | Whether you’re shopping online for groceries or a piece of furniture for your new home, the internet is a shopping haven to many. <br>From mini-games and enticing discount coupons to reel consumers in, to endless online platforms to shop at, read on to discover how you can be S.U.R.E. before you add to cart!<BR> |
-| **Read:**<br>[Blog: What Popular Culture Teaches Us About the Spread of False Information](https://sure.nlb.gov.sg/blog/tech/tech0004 ) | Books, films and television may be works of fiction, but they can often be a mirror to society, offering a striking reflection to the state of the world today.  <br>Read this article to find out how an action-packed blockbuster film tells the story of fake news in the world today. |
-| **Read**:<br>[Blog: How I almost got hooked into a scam](https://sure.nlb.gov.sg/blog/tech/tech0003 ) | With a rise of scam cases in Singapore by 16% from 2020 to 2021, it’s no wonder that we’ve of heard friends or families who have had a brush with scams. <br>Read this article of a close encounter with a scammer. |
-| **Read:** <br>[Infographic: Stay safe and S.U.R.E. on social media](/blog/information-literacy/il00007) | Ever had a friend share a post on your social media feed, and you re-shared it immediately after only reading the alarming headlines or clickbait titles? <br>Fret not, check out this infographic on how to be S.U.R.E. before you share! |
-| **Read:**<br>[LearnX Digital (Tweens)](https://learning.nlb.gov.sg/digital/tweens/content) | Do you know what memes are? Learn about the history of memes, why they matter, and how to ensure you stay safe online by being informed and fact-checking information. |
-| **Read:**<br>[LearnX Digital (Children)](https://learning.nlb.gov.sg/digital/children/content/) | Are you curious about memes? Learn the history of memetic culture, how to make your very own meme, and how to ensure you stay safe online by being informed and fact-checking information. |
-
 ## PROGRAMMES
-
-![](../images/SURE-MIL-Week-header2.png)
 
 All our programmes are held online via Zoom. Please register in the links provided.
 
@@ -58,12 +31,26 @@ All our programmes are held online via Zoom. Please register in the links provid
 | **[Parenting for Good: Raising screen smart kids](https://www.eventbrite.sg/e/parenting-for-good-raising-screen-smart-kids-sure-celebrates-mil-tickets-415781984107)** | Beyond the concern of excessive screen time and addiction lies an equally and yet often overlooked danger in our children’s social media interactions.<br/><br/> Learn how to safeguard your child's social media interactions via the latest trends and guidelines | 22 Oct <br/>Saturday <br/>10:30am-12:00pm |
 | **[News and Laughter in a Meme World](https://www.eventbrite.sg/e/news-and-laughter-in-a-meme-world-sure-celebrates-mil-tickets-413823626607)** | Join the conversation to find out how news, current affairs and pop culture are crafted and consumed in memes, and why we find it relatable. <br/><br/>Learn how memes are created and why they are a popular medium for news and information in today’s world. | 26 Oct <br/>Wednesday<br/> 6:00pm-7:00pm  |
 | [**New News: Online Journalism Today**](https://www.eventbrite.sg/e/new-news-online-journalism-today-sure-celebrates-mil-tickets-413824749967) | How does information overload affect journalism? Has researching and reporting for journalism changed in the digital age? What does it take to be a broadcast journalist or investigative reporter in today’s world? | 27 Oct <br/>Thursday <br/>6:00pm-7:00pm   |
+| **[Machines Against Misinformation](https://www.eventbrite.sg/e/machines-against-misinformation-sure-celebrates-mil-tickets-431554129017)** | As AI (Artificial Intelligence) has become increasingly sophisticated, organisations have harnessed machine learning to detect and tackle misinformation.<br>Join this panel discussion to hear more about how humans and machines can work together in this era of fake news and the collective efforts to address the issue. | 28 Oct <br/>Friday <br/>3:00pm-4:30pm     |
+
+
+
+## CONTENT
+
+| **Read or Watch here!**                                      | About                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Watch:**<BR> [Total Defence Interactive Video](https://go.gov.sg/watdinteractive)<br><br />*[Note: Link will go live on 1 Oct 2022]* | Check out the Total Defence Interactive Video where you can make choices that will determine the outcome of the character’s day. Understand how your choices and actions could create a greater impact in the larger national context, and how you can play your part for Singapore! Remember to be discerning of information you receive online and keep your eye out for fake news!<BR> |
+| **Watch:**<br>[Be S.U.R.E. before you share: Breaking news](/blog/fake-news/FN0027) | As more people turn to social media to get the latest updates on breaking news, how can we be S.U.R.E. of what we read online? Watch this video on how to be S.U.R.E. before you share on a story that is still developing. |
+| **Read**:<br/>[Blog: Be S.U.R.E. before you “add to cart”](https://sure.nlb.gov.sg/blog/tech/tech0002 ) | Whether you’re shopping online for groceries or a piece of furniture for your new home, the internet is a shopping haven to many. <br>From mini-games and enticing discount coupons to reel consumers in, to endless online platforms to shop at, read on to discover how you can be S.U.R.E. before you add to cart!<BR> |
+| **Read:**<br>[Blog: What Popular Culture Teaches Us About the Spread of False Information](https://sure.nlb.gov.sg/blog/tech/tech0004 ) | Books, films and television may be works of fiction, but they can often be a mirror to society, offering a striking reflection to the state of the world today.  <br>Read this article to find out how an action-packed blockbuster film tells the story of fake news in the world today. |
+| **Read**:<br>[Blog: How I almost got hooked into a scam](https://sure.nlb.gov.sg/blog/tech/tech0003 ) | With a rise of scam cases in Singapore by 16% from 2020 to 2021, it’s no wonder that we’ve of heard friends or families who have had a brush with scams. <br>Read this article of a close encounter with a scammer. |
+| **Read:** <br>[Infographic: Stay safe and S.U.R.E. on social media](/blog/information-literacy/il00007) | Ever had a friend share a post on your social media feed, and you re-shared it immediately after only reading the alarming headlines or clickbait titles? <br>Fret not, check out this infographic on how to be S.U.R.E. before you share! |
+| **Read:**<br>[LearnX Digital (Tweens)](https://learning.nlb.gov.sg/digital/tweens/content) | Do you know what memes are? Learn about the history of memes, why they matter, and how to ensure you stay safe online by being informed and fact-checking information. |
+| **Read:**<br>[LearnX Digital (Children)](https://learning.nlb.gov.sg/digital/children/content/) | Are you curious about memes? Learn the history of memetic culture, how to make your very own meme, and how to ensure you stay safe online by being informed and fact-checking information. |
 
 
 
 ## PLAY
-
-![](../images/SURE-MIL-Week-header1.png)
 
 Are you game to test your M.I.L. skills? Take part in the quiz or game below!
 
@@ -74,7 +61,7 @@ Are you game to test your M.I.L. skills? Take part in the quiz or game below!
 
 ## VISIT
 
-![](../images/undraw_Navigation_re_wxx4.png)
+
 
 | Date          | About                                                        | Location                                                     |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
