@@ -1,8 +1,8 @@
 ---
-title: 'About Us'
+title: 'SURE Campaign'
 permalink: /about-us/sure-campaign/
-breadcrumb: 'About Us'
-third_nav_title: 'SURE Campaign'
+breadcrumb: 'SURE Campaign'
+third_nav_title: 'About Us'
 
 ---
 

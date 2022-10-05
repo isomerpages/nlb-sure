@@ -2,7 +2,7 @@
 title: 'SURE for School'
 permalink: /about-us/sure-for-school/
 breadcrumb: 'SURE for School'
-third_nav_title: 'SURE Campaign'
+third_nav_title: 'About Us'
 
 ---
 
