@@ -24,7 +24,7 @@ Single-use or disposable plastics are not biodegradable and break down into micr
 
 Plastic pollution also disproportionately affects poorer and disadvantaged communities, especially in countries with low recycling rates and difficulties in proper collection of discarded plastics.
 
-[https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/](https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/ ) 
+<a href="https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/"  target="_blank">https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/ </a>
 
 [https://www.nationalgeographic.com/environment/article/plastic-pollution](https://www.nationalgeographic.com/environment/article/plastic-pollution) 
 
