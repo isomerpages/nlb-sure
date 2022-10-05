@@ -26,11 +26,11 @@ Plastic pollution also disproportionately affects poorer and disadvantaged commu
 
 <a href="https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/"  target="_blank">https://www.greenpeace.org/africa/en/blogs/14052/everything-you-should-know-about-single-use-plastic/ </a>
 
-[https://www.nationalgeographic.com/environment/article/plastic-pollution](https://www.nationalgeographic.com/environment/article/plastic-pollution) 
+<a href="https://www.nationalgeographic.com/environment/article/plastic-pollution" target="_blank">https://www.nationalgeographic.com/environment/article/plastic-pollution</a> 
 
-[https://www.cnbc.com/2021/05/18/20-companies-responsible-for-55percent-of-single-use-plastic-waste-study.html](https://www.cnbc.com/2021/05/18/20-companies-responsible-for-55percent-of-single-use-plastic-waste-study.html)
+<a href="https://www.cnbc.com/2021/05/18/20-companies-responsible-for-55percent-of-single-use-plastic-waste-study.html"  target="_blank">https://www.cnbc.com/2021/05/18/20-companies-responsible-for-55percent-of-single-use-plastic-waste-study.html</a>
 
-[https://www.sciencedirect.com/science/article/pii/S0304389421018537?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0304389421018537?via%3Dihub)
+<a href="https://www.sciencedirect.com/science/article/pii/S0304389421018537?via%3Dihub"  target="_blank">https://www.sciencedirect.com/science/article/pii/S0304389421018537?via%3Dihub</a>
 
 
 
@@ -40,11 +40,11 @@ Plastics are used in complex international food supply chains where food needs t
 
 In light of the pandemic, single-used plastic products such as gloves and masks were used to minimise contamination. Additionally, other important key healthcare equipment such as syringes utilize plastic.
 
-[https://www.gep.com/blog/mind/single-use-plastics-a-necessary-evil-during-the-pandemic](https://www.gep.com/blog/mind/single-use-plastics-a-necessary-evil-during-the-pandemic)
+<a href="https://www.gep.com/blog/mind/single-use-plastics-a-necessary-evil-during-the-pandemic"  target="_blank">https://www.gep.com/blog/mind/single-use-plastics-a-necessary-evil-during-the-pandemic</a>
 
-[www.weforum.org/agenda/2018/05/plastic-asset-legal-policy-responsible-use-sadhguru/](http://www.weforum.org/agenda/2018/05/plastic-asset-legal-policy-responsible-use-sadhguru/)
+<a href="www.weforum.org/agenda/2018/05/plastic-asset-legal-policy-responsible-use-sadhguru/"  target="_blank">www.weforum.org/agenda/2018/05/plastic-asset-legal-policy-responsible-use-sadhguru/</a>
 
-[https://qz.com/1189422/in-defense-of-plastic-the-worlds-most-wasteful-hazardous-downright-useful-material/](https://qz.com/1189422/in-defense-of-plastic-the-worlds-most-wasteful-hazardous-downright-useful-material/)
+<a href="https://qz.com/1189422/in-defense-of-plastic-the-worlds-most-wasteful-hazardous-downright-useful-material/"  target="_blank">https://qz.com/1189422/in-defense-of-plastic-the-worlds-most-wasteful-hazardous-downright-useful-material/</a>
 
 
 <p></p>
@@ -55,21 +55,21 @@ While cost may be a factor, there are indeed alternatives to packaging food in a
 
 Companies such as Nestle, have pledged to ensure all their packaging to be either reusable, recyclable or compostable by 2025.
 
-<a href="https://www.asianscientist.com/2022/02/in-the-lab/food-packaging-shelf-life-smart-sustainable-antimicrobial/ ">https://www.asianscientist.com/2022/02/in-the-lab/food-packaging-shelf-life-smart-sustainable-antimicrobial/</a>
+<a href="https://www.asianscientist.com/2022/02/in-the-lab/food-packaging-shelf-life-smart-sustainable-antimicrobial/ " target="blank">https://[www.asianscientist.com](www.asianscientist.com)/2022/02/in-the-lab/food-packaging-shelf-life-smart-sustainable-antimicrobial/</a>
 
-<a href="https://cot.food.gov.uk/sites/default/files/2020-10/Tox%202020%2024%20Alternatives%20to%20conventional%20plastics%20for%20foods%20and%20drinks.pdf">https://cot.food.gov.uk/sites/default/files/2020-10/Tox%202020%2024%20Alternatives%20to%20conventional%20plastics%20for%20foods%20and%20drinks.pdf</a>
+<a href="https://cot.food.gov.uk/sites/default/files/2020-10/Tox%202020%2024%20Alternatives%20to%20conventional%20plastics%20for%20foods%20and%20drinks.pdf" target="_blank">https://cot.food.gov.uk/sites/default/files/2020-10/Tox%202020%2024%20Alternatives%20to%20conventional%20plastics%20for%20foods%20and%20drinks.pdf</a>
 
-<a href="https://www.bbc.com/worklife/article/20180705-whats-the-real-price-of-getting-rid-of-plastic-packaging">https://www.bbc.com/worklife/article/20180705-whats-the-real-price-of-getting-rid-of-plastic-packaging</a>
+<a href="https://www.bbc.com/worklife/article/20180705-whats-the-real-price-of-getting-rid-of-plastic-packaging" target="_blank">https://[www.bbc.com](www.bbc.com)/worklife/article/20180705-whats-the-real-price-of-getting-rid-of-plastic-packaging</a>
 
-<a href="https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic">https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic</a>
+<a href="https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic" target="_blank">https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic</a>
 
 
 
 <HR>
-
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
-This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **[here](https://forms.gle/DoPHtiEYhVxkPL3w8)**. 
+This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **<a href="https://forms.gle/DoPHtiEYhVxkPL3w8"  target="_blank">
+here</a>**. 
 
 ![](../images/nodes-at-parks-poll1.JPG)
 
