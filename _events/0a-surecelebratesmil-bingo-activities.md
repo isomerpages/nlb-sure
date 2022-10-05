@@ -52,8 +52,6 @@ All our programmes are held online via Zoom. Please register in the links provid
 
 ## PLAY
 
-![](../images/SURE-MIL-Week-header1.png)
-
 Are you game to test your M.I.L. skills? Take part in the quiz or game below!
 
 | **About**                                                    | **Play here!**                                               |
@@ -63,7 +61,7 @@ Are you game to test your M.I.L. skills? Take part in the quiz or game below!
 
 ## VISIT
 
-![](../images/undraw_Navigation_re_wxx4.png)
+
 
 | Date          | About                                                        | Location                                                     |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
