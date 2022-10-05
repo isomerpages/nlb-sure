@@ -22,15 +22,15 @@ Insects can eliminate food waste in a cleaner and greener way, and for some, con
 
 The black soldier fly is an ally in conserving the environment, given that it grows fast, eats food waste quickly and creates valuable biomaterials for organic farming. The waste-filled maggots can even be used as protein-rich animal feed. 
 
-URL: https://www.straitstimes.com/singapore/turning-trash-to-treasure-0
+<a href="https://www.straitstimes.com/singapore/turning-trash-to-treasure-0"  target="_blank">https://www.straitstimes.com/singapore/turning-trash-to-treasure-0</a>
 
-URL: https://www.esquiremag.ph/long-reads/features/black-solider-fly-waste-a00293-20210804-lfrm
+<a href="https://www.esquiremag.ph/long-reads/features/black-solider-fly-waste-a00293-20210804-lfrm"  target="_blank">https://www.esquiremag.ph/long-reads/features/black-solider-fly-waste-a00293-20210804-lfrm</a>
 
-[https://www.treehugger.com/china-maggots-munch-away-mountains-food-waste-4866603](https://www.treehugger.com/china-maggots-munch-away-mountains-food-waste-4866603)
+<a href="https://www.treehugger.com/china-maggots-munch-away-mountains-food-waste-4866603"  target="_blank">https://www.treehugger.com/china-maggots-munch-away-mountains-food-waste-4866603</a>
 
-[https://www.science.nus.edu.sg/blog/2022/02/07/interdisciplinary-team-to-develop-blueprint-for-sustainable-urban-food-waste-management-and-food-systems-using-black-soldier-flies/](https://www.science.nus.edu.sg/blog/2022/02/07/interdisciplinary-team-to-develop-blueprint-for-sustainable-urban-food-waste-management-and-food-systems-using-black-soldier-flies/)
+<a href="https://www.science.nus.edu.sg/blog/2022/02/07/interdisciplinary-team-to-develop-blueprint-for-sustainable-urban-food-waste-management-and-food-systems-using-black-soldier-flies/"  target="_blank">https://www.science.nus.edu.sg/blog/2022/02/07/interdisciplinary-team-to-develop-blueprint-for-sustainable-urban-food-waste-management-and-food-systems-using-black-soldier-flies/</a>
 
-[https://www.channelnewsasia.com/singapore/insects-solution-food-waste-money-mind-310351](https://www.channelnewsasia.com/singapore/insects-solution-food-waste-money-mind-310351)
+<a href="https://www.channelnewsasia.com/singapore/insects-solution-food-waste-money-mind-310351"  target="_blank">https://www.channelnewsasia.com/singapore/insects-solution-food-waste-money-mind-310351</a>
 
 
 
@@ -40,19 +40,19 @@ Composting at home does not require harvesting insects. Reducing our carbon impa
 
 Do-it-yourself composting at home can be done easily with composting bins, where the food waste is broken down by bacteria and other microorganisms via decomposition. 
 
-[https://www.channelnewsasia.com/watch/more-singaporeans-interested-growing-food-composting-video-2725866](https://www.channelnewsasia.com/watch/more-singaporeans-interested-growing-food-composting-video-2725866)
+<a href="https://www.channelnewsasia.com/watch/more-singaporeans-interested-growing-food-composting-video-2725866"  target="_blank">https://www.channelnewsasia.com/watch/more-singaporeans-interested-growing-food-composting-video-2725866</a>
 
-[https://www.super-farmers.com/blogs/news/can-we-practice-composting-in-space-strapped-hdbs-in-singapore](https://www.super-farmers.com/blogs/news/can-we-practice-composting-in-space-strapped-hdbs-in-singapore)
+<a href="https://www.super-farmers.com/blogs/news/can-we-practice-composting-in-space-strapped-hdbs-in-singapore"  target="_blank">https://www.super-farmers.com/blogs/news/can-we-practice-composting-in-space-strapped-hdbs-in-singapore</a>
 
-[https://www.nparks.gov.sg/gardening/gardening-resources/caring-for-plants/composting](https://www.nparks.gov.sg/gardening/gardening-resources/caring-for-plants/composting)
+<a href="https://www.nparks.gov.sg/gardening/gardening-resources/caring-for-plants/composting"  target="_blank">https://www.nparks.gov.sg/gardening/gardening-resources/caring-for-plants/composting</a>
 
-[http://www.zerowastesg.com/2009/02/04/start-composting-at-home/](http://www.zerowastesg.com/2009/02/04/start-composting-at-home/)
+<a href="http://www.zerowastesg.com/2009/02/04/start-composting-at-home"  target="_blank">http://www.zerowastesg.com/2009/02/04/start-composting-at-home/</a>
 
-[https://us.cnn.com/2022/01/13/cnn-underscored/how-to-compost-at-home/index.html](https://us.cnn.com/2022/01/13/cnn-underscored/how-to-compost-at-home/index.html)
+<a href="https://us.cnn.com/2022/01/13/cnn-underscored/how-to-compost-at-home/index.html"  target="_blank">https://us.cnn.com/2022/01/13/cnn-underscored/how-to-compost-at-home/index.html</a>
 
 
 
 <HR>
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
-Which perspective do you agree with the most? Vote [**here**](https://forms.gle/YgUqtqRDHg9fZ8a48).
+Which perspective do you agree with the most? Vote **<a href="https://forms.gle/YgUqtqRDHg9fZ8a48" target=_blank>here</a>**.
