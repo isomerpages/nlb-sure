@@ -2,7 +2,7 @@
 title: 'SURE for Life'
 permalink: /about-us/sure-for-life/
 breadcrumb: 'SURE for Life'
-third_nav_title: 'About Us'
+third_nav_title: 'SURE Campaign'
 
 ---
 

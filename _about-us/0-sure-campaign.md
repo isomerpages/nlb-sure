@@ -1,8 +1,7 @@
 ---
-title: 'SURE Campaign'
+title: 'About Us'
 permalink: /about-us/sure-campaign/
-breadcrumb: 'SURE Campaign'
-third_nav_title: 'About Us'
+breadcrumb: 'About Us'
 
 ---
 
@@ -36,7 +35,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 </div>
 
 
-#### Who we are and What we do
+#### **	Who we are and What we do**
 
 ![S.U.R.E. poster for brochure](../images/aboutsureheader-600x318.png)
 
