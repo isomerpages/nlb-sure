@@ -67,9 +67,10 @@ Companies such as Nestle, have pledged to ensure all their packaging to be eithe
 
 <HR>
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
-
 This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **<a href="https://forms.gle/DoPHtiEYhVxkPL3w8"  target="_blank">
-here</a>**. 
+here</a>**.  
+
+View latest poll results **<a href="https://docs.google.com/forms/d/1l6cjLNnWZScVmzt_aHre3uBHt4wvcsS20RjPHl_Nydk/viewanalytics?usp=forms_home&ths=true" target="_blank">here</a>**.
 
 ![](../images/nodes-at-parks-poll1.JPG)
 
