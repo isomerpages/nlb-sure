@@ -14,7 +14,7 @@ In this issue of Read to be SURE, explore multiple perspectives on the topic of 
 
 
 
-*Watch the trailer [here](https://fb.watch/fSHelrDaFJ/).*
+*Watch the trailer [**here**](https://forms.gle/mvqFSwbN2suDPVx5A).*  *Try the Gender Equality Quiz **<a href="https://forms.gle/EJJZ6C6UUjjeCbDc7" target="blank">here</a>**.*
 
 
 
