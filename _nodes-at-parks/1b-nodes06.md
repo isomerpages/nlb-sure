@@ -58,3 +58,5 @@ Do-it-yourself composting at home can be done easily with composting bins, where
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
 Which perspective do you agree with the most? Vote **<a href="https://forms.gle/YgUqtqRDHg9fZ8a48" target=_blank>here</a>**.
+
+View latest poll results **<a href="https://docs.google.com/forms/d/1HL7JJHVch6vYghpVp6grYCsyWswtUXmPHEXH50ukTfE/viewanalytics?usp=forms_home&ths=true" target="_blank">here</a>**.

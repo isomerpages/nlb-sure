@@ -54,7 +54,10 @@ We can do our part in Singapore, where local food production utilises less fuel 
  
 
 <HR>
+
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
+
 
 Which perspective do you agree with the most? Vote **<a href="https://forms.gle/NVCs2yKCJxe3YMUA9" target="_blank">here</a>**.
 
+View latest poll results **<a href="https://docs.google.com/forms/d/1O9GOnLSZubkPl1JLIB_gmOEOe_TTlXAjpI_093YQyCs/viewanalytics?usp=forms_home&ths=true" target="_blank">here</a>**.

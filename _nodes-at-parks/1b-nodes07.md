@@ -78,7 +78,10 @@ Some deliberate and sustainable food choices can include eating nutritious plant
 
 
 <HR>
+
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
+
 
 Which perspective do you agree with the most? Vote **<a href="https://forms.gle/yqqng6rMNuwGPuL49" target=_blank>here</a>**.
 
+View latest poll results **<a href="https://docs.google.com/forms/d/1a_sulpAAMfNuFzsUnllIs7ibfiVyC9rhE4g24E2LpqI/viewanalytics?usp=forms_home&ths=true" target="_blank">here</a>**.

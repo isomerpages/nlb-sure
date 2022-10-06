@@ -63,8 +63,12 @@ https://www.ecoandbeyond.co/articles/is-bamboo-sustainable/</a>
 
 
 <hr>
+
 **<FONT SIZE ="5">Which perspective do you agree with?</FONT>**
 
 This chart shows the number of public votes for each perspective. Which perspective do you agree with the most? Vote **<a href="https://forms.gle/EJJZ6C6UUjjeCbDc7" target="blank">here</a>**.
 
-![](../images/nodes-at-parks-poll2.JPG)
+View latest poll results **<a href="https://docs.google.com/forms/d/1l3qpYe7W9sguZedf0HUTEjs5bWDxM-O4qi4QvcSIqIk/viewanalytics?usp=forms_home&ths=true" target="_blank">here</a>**.
+
+
+

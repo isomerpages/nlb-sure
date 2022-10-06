@@ -50,3 +50,5 @@ Approximately one-fifth of imported and locally farmed fresh product is lost in 
 
 Which perspective do you agree with the most? Vote **<a href="https://forms.gle/rkoabLsiRgBJiu2JA" target=_blank>here</a>**.
 
+View latest poll results **<a href="https://docs.google.com/forms/d/11EPvWVAoQUPEdoWAV6R9o90VW1_teQ9P9oHf1s5fL8Y/viewanalytics?usp=forms_home&ths=true" target="_blank">here</a>**.
+
