@@ -8,6 +8,8 @@ third_nav_title: 'Nodes at Parks'
 
 ![](../images/nodes-at-parks-13-min.jpg)
 
+Photo by [Richard Bell](https://unsplash.com/@maplerockdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/farming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 
 **<font size="5">Is it (im)possible for food production be environmentally sustainable?</font>**

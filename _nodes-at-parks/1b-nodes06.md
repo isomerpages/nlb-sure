@@ -8,6 +8,8 @@ third_nav_title: 'Nodes at Parks'
 
 ![]()![nodes-at-parks-11-min](../images/nodes-at-parks-11-min.jpg)
 
+Photo by [James Tiono](https://unsplash.com/@jamestiono?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/black-soldier-fly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 
 **<font size="5">Critters in composting: A buzzing potential?</font>**

@@ -8,6 +8,8 @@ third_nav_title: 'Nodes at Parks'
 
 ![](../images/nodes-at-parks-12-min.jpg)
 
+Photo by [Louis Hansel](https://unsplash.com/@louishansel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/eat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 
 **<font size="5">Can we eat our way to a better planet?</font>** 

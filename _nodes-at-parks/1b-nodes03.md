@@ -8,6 +8,8 @@ third_nav_title: 'Nodes at Parks'
 
 ![](../images/nodes-at-parks-08-min.jpg)
 
+Photo by [Johnny Briggs](https://unsplash.com/@johnnyboylee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/upcycling?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 
 **<FONT SIZE="5">Is upcycling really helping the planet’s waste problem?</FONT>**

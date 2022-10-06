@@ -8,6 +8,8 @@ third_nav_title: 'Nodes at Parks'
 
 ![](../images/nodes-at-parks-10-min.jpg)
 
+Photo by [Matt Seymour](https://unsplash.com/@mattseymour?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/circular-economy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 
 **<font size="5">Circular economy: Does it really take less, make more?</font>**

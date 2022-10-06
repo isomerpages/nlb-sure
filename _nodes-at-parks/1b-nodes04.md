@@ -8,6 +8,8 @@ third_nav_title: 'Nodes at Parks'
 
 ![](../images/nodes-at-parks-09-min.jpg)
 
+Photo by [Marek Studzinski](https://unsplash.com/@jccards?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/food-waste?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 
 **<font size="5">Can you reduce the food waste on your plate?</font>**
