@@ -32,7 +32,7 @@ In Singapore, a 2015 survey showed that the top three reasons for throwing away 
 
 
 
-**<FONT SIZE="5">Perspective 2: Food supply chains have a bigger part to play on managing food waste.</FONT>**
+**<FONT SIZE="5">Perspective 2: Food supply chains have a bigger part to play in managing food waste.</FONT>**
 
 Businesses such as supermarkets and food suppliers play a role in managing food waste. 
 
