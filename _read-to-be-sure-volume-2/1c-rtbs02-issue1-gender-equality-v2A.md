@@ -1,7 +1,7 @@
 ---
-title: 'Gender Equality v2A'
+title: 'Gender Equality v2'
 permalink: /read-to-be-sure-volume-2/issue1-gender-equality-v2/
-breadcrumb: 'Issue 1 - Gender Equality v2A'
+breadcrumb: 'Issue 1 - Gender Equality v2'
 image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 ---
 
@@ -23,7 +23,12 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 
 
 <hr>
-![](../images/rtbs-vol2-iss1-no-banner.JPG)
+
+
+
+**<font size="5" color=red>No: It’s a long way to go before gender equality can be achieved</font>**
+
+
 
 **1. Gendered expectations affect mindsets and behaviours**
 
@@ -59,7 +64,7 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 <hr>
 
 
-![](../images/rtbs-vol2-iss1-yes-banner.JPG)
+**<font size="5" color=blue>Yes: Policies are in place to promote gender equality, which is an ongoing process</font>**
 
 **1. Advocacy and Legislation** 
 
