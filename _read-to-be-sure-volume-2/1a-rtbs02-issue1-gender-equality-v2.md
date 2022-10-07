@@ -22,7 +22,7 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 
 
 
-<font size="5" color=red>**No: It’s a long way to go before gender equality can be achieved**</font>
+**<font size="5" color=red>No: It’s a long way to go before gender equality can be achieved</font>**
 
 
 
@@ -60,7 +60,7 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 <hr>
 
 
-<font size="5" color=blue>**Yes: Policies are in place to promote gender equality, which is an ongoing process**</font>
+**<font size="5" color=blue>Yes: Policies are in place to promote gender equality, which is an ongoing process</font>**
 
 **1. Advocacy and Legislation** 
 
