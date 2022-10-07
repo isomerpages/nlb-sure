@@ -7,7 +7,7 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 <a name="top"></a>
 
-[ **<a href="#perspectives">Perspectives</a>** ]	[ **<a href="#poll">Poll</a>** ]	[ **<a href="#dialogue">Dialogue</a>** ]  [ **<a href="#evacomics">Evacomics</a>** ]  [ **<a href="#resources">Recommended Resources</a>** ]	
+ **<a href="#perspectives">Perspectives</a>**  /  **<a href="#poll">Poll</a>**   /  **<a href="#dialogue">Dialogue</a>**  /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>** 
 
 ![](../images/NLB-RTBS-Web-Banner-220929.png)
 
@@ -26,7 +26,9 @@ Can you do better than our guest speakers? Try the **<a href="https://forms.gle/
 
 <a name="perspectives"></a>
 
-## So, can gender equality be achieved?
+## So, can gender equality be achieved? 
+
+[<a href="#top">Back to top</a>]
 
 | NO, LONG WAY TO GO! <br>                                     | YES, IT CAN BE ACHIEVED!<br>                                 |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
@@ -63,6 +65,8 @@ Can you do better than our guest speakers? Try the **<a href="https://forms.gle/
 
 ## Poll: Your views matter!
 
+[<a href="#top">Back to top</a>]
+
 If you are unable to view the embedded form below, please click **<a href="https://forms.gle/EMfzJCqisS1EH2fB8" target="_blank">here</a>**.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -77,6 +81,8 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ## Dialogue
 
+[<a href="#top">Back to top</a>]
+
 Let's hear our guest speakers weigh in on this issue:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
@@ -88,6 +94,8 @@ Let's hear our guest speakers weigh in on this issue:
 <a name="evacomics"></a>
 
 ## Evacomics
+
+[<a href="#top">Back to top</a>]
 
 What does gender equality look like to you?   Join the discussion in Evangeline's **<a href="https://www.instagram.com/p/CjVSKCwBSbv/?utm_source=ig_web_copy_link" target="_blank">Instagram</a>** and **<a href="https://www.facebook.com/evacomics/posts/pfbid022HqT9r3eF2ARxEi9NNgHMg3L3pZ3GdzrJnDwFTjtVhe14QyyAtjUYkNf2yTHVVPGl" target="_blank">Facebook</a>** now!
 
@@ -114,10 +122,11 @@ Here are some thoughts shared by netizens:
 <hr>
 <a name="resources"></a>
 
-
 ## Recommended Resources
 
-Explore the resources below to find out more about gender equality.
+[<a href="#top">Back to top</a>]
+
+*Explore the resources below to find out more about gender equality.*
 
 
 
