@@ -77,11 +77,11 @@ Let's hear our guest speakers weigh in on this issue:
 
 ## Evacomics
 
-Join the discussion in Evangeline's **<a href="https://www.instagram.com/p/CjVSKCwBSbv/?utm_source=ig_web_copy_link" target="_blank">Instagram post</a>** and **<a href="https://www.facebook.com/evacomics/posts/pfbid022HqT9r3eF2ARxEi9NNgHMg3L3pZ3GdzrJnDwFTjtVhe14QyyAtjUYkNf2yTHVVPGl" target="_blank">Facebook post</a>** now!
+What does gender equality look like to you?   Join the discussion in Evangeline's **<a href="https://www.instagram.com/p/CjVSKCwBSbv/?utm_source=ig_web_copy_link" target="_blank">Instagram</a>** and **<a href="https://www.facebook.com/evacomics/posts/pfbid022HqT9r3eF2ARxEi9NNgHMg3L3pZ3GdzrJnDwFTjtVhe14QyyAtjUYkNf2yTHVVPGl" target="_blank">Facebook</a>** now!
 
 ![](../images/rtbs-vol2-iss1-evacomics-gender01A.jpg)
 
-What does gender equality look like to you? Eva has joined in the conversation, and here are some thoughts shared by netizens:
+Here are some thoughts shared by netizens:
 
 ![](../images/rtbs-vol2-iss1-evacomics-gender01A1.JPG)
 
