@@ -24,7 +24,7 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 
 ## No: It’s a long way to go before gender equality can be achieved
 
-##  
+
 
 ### 1. Gendered expectations affect mindsets and behaviours
 
@@ -39,17 +39,15 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 - In Singapore, [women earned 4.3 percent less](https://stats.mom.gov.sg/Pages/Update-on-Singapores-Adjusted-Gender-Pay-Gap.aspx) than men in 2020. Women also face various types of physical, sexual, and online harm. A 2021 survey showed that [2 in 5 workers](https://www.aware.org.sg/training/wsh-site/14-statistics/) encountered some form of workplace sexual harassment in the preceding five years. Such harassment has extended to the online space as well, with [163 new cases](https://www.aware.org.sg/2022/04/image-based-sexual-abuse-featured-in-7-in-10-cases-of-technology-facilitated-sexual-violence-seen-by-aware-in-2021/) of technology-facilitated sexual violence against women reported in 2021.
 
 - Wage gaps remain, even in emerging industries like influencer marketing where women make up the majority of social media influencers, women often [charge less or have less negotiating power](https://qz.com/work/1618808/theres-even-a-gender-pay-gap-for-social-media-influencers/) when it comes to rates. Men get paid up to [49% more than women](https://www.forbes.com/sites/heatherleighton/2020/01/16/study-finds-a-pay-gap-between-male-and-female-influencers/?sh=7a22b534602f) for sponsored content on Instagram.
-   
-
+  
 - Women in the modern economy cope with a “triple shift”: apart from work, there is raising kids and caring for elderly parents. A Mckinsey study found that the [‘double shift’ of housework and childcare on top of work](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal/the-double-shift-of-working-mothers-now-even-longer) is increasing for women and mothers are three times as likely as fathers to do most of the housework and caregiving.  Locally, we have higher labour-force participation rates from women and Singapore’s full-time female employment rate has been rising steadily over the past 10 years, but [women still bear the bulk of the caregiving burden](https://www.msf.gov.sg/media-room/Pages/Welcome-Remarks-By-Minister-Of-State-Sun-Xueling-at-Closing-Session-of-Conversations-on-Singapore-Women's-Development.aspx#:~:text=Our survey showed that women,for caregiving compared to men.), at the expense of their careers, income and savings.
   
-
 - Men face stigma when they choose to be a stay-at-home father, and many stay silent when they [experience abuse or harassment because they are afraid to admit their vulnerability](https://www.straitstimes.com/opinion/forum/forum-men-can-also-be-victims-of-domestic-abuse).
 
    
 
 - In female-dominated fields like nursing, [male nurses face stigma](https://www.todayonline.com/world/male-nurses-explain-why-nursing-job-future-men), while female nurses still struggle with a gender pay gap even though they make up the majority of staff.
-   
+  
 
 <hr>
 
@@ -80,7 +78,7 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 
 <hr>
 
- 
+
 
 ### CONCLUSION
 
