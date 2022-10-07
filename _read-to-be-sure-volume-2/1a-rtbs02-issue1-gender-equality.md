@@ -66,7 +66,7 @@ Explore the resources below to find out more about gender equality.
 
 
 
-## VIDEOS
+### Videos
 
 CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieved 2022, July 27. 
 
@@ -100,7 +100,7 @@ TEDx Talks. (2019, September 13). Why Gender Equality is Not Just About Women . 
 
 
 
-## Websites
+### Websites
 
 [**Global Gender Gap Narrowing, But Still 132 Years to Reach Parity**](https://www.internationalwomensday.com/Missions/18487/Global-gender-gap-narrowing-but-still-132-years-to-reach-parity)<BR>
 Global Gender Gap Narrowing, But Still 132 Years to Reach Parity. (2022, July). International Women’s Day. Retrieved 2022, July 27. 
@@ -116,7 +116,7 @@ Sexual Violence in Singapore: A Crisis. (2021, September 8). Kontinentalist. Ret
 
 
 
-## Podcasts
+### Podcasts
 
 **[Reviewing Essential Feminist Book Titles with Amanda Chong](https://open.spotify.com/episode/5pB9wWqFfeniANlZmN1vS0)**<br>
 Something Private. (2022, February 17). Reviewing Essential Feminist Book Titles with Amanda Chong. Retrieved 2022, August 10. 
@@ -135,7 +135,7 @@ Young Women’s Leadership Connection. (2022). YWLChats playlist. Retrieved 2022
 
 
 
-## NLB eBooks
+### NLB eBooks
 
 |                                                              | **Recommended Titles**                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
