@@ -1,6 +1,6 @@
 ---
 title: 'Gender Equality v2A'
-permalink: /read-to-be-sure-volume-2/issue1-gender-equality-v2/
+permalink: /read-to-be-sure-volume-2/issue1-gender-equality-v2A/
 breadcrumb: 'Issue 1 - Gender Equality v2A'
 image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 ---
