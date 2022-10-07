@@ -16,6 +16,10 @@ However, men face challenges too. Locally, male pre-school teachers make up only
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pXdPY15pSjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+Can you do better than our guest speakers? Try the **<a href="https://forms.gle/YpDfWBT8xa4PNqpG8" target="_blank">Gender Equality Quiz</a>** now!
+
+
+
 ## So, can gender equality be achieved?
 
 | NO, LONG WAY TO GO! <br>                                     | YES, IT CAN BE ACHIEVED!<br>                                 |
@@ -43,9 +47,19 @@ However, men face challenges too. Locally, male pre-school teachers make up only
 
 
 
-**<FONT SIZE="5">CONCLUSION</FONT>**
+**<FONT SIZE="5">Conclusion</FONT>**
 
 <BR>Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world.<br><br>Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="675" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
+## Poll: Your views matter!
+
+
+
+
 
 ![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
 
@@ -57,6 +71,16 @@ Let's hear our guest speakers weigh in on this issue:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPhX9ocUEOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
+
+<hr>
+
+## Evacomics 
+
+![](../images/rtbs-vol2-iss1-evacomics-gender01.jpg)
+
+
+
+<hr>
 
 
 
