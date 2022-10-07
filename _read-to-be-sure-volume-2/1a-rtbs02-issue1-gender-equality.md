@@ -55,6 +55,8 @@ Can you do better than our guest speakers? Try the **<a href="https://forms.gle/
 
 ## Poll: Your views matter!
 
+If you are unable to view the embedded form below, please click **<a href="https://forms.gle/EMfzJCqisS1EH2fB8" target="_blank">here</a>**.
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ​	
