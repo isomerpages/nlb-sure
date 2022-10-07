@@ -18,12 +18,14 @@ However, men face challenges too. Locally, male pre-school teachers make up only
 
 <p>
 
-<br><br>
+<hr>
+
+<p></p>
 
 | **NO, LONG WAY TO GO! **                                     | **YES, IT CAN BE ACHIEVED!**                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **1.**   **Not everyone is supportive.** <BR>[1 in 3 Singaporean men](https://www.ipsos.com/en-sg/singaporeans-attitudes-towards-gender-equality-feminism-and-online-behaviour) believe feminism does more harm than good and that traditional masculinity is under threat. A quarter of Singaporeans do not believe that gender inequality exists. | **1. Advocacy and Legislation** <BR>Singapore launched the [Conversations on Singapore Women's Development in 2020](https://www.msf.gov.sg/media-room/Pages/Conversations-on-Women-Development.aspx) and the [2022 White Paper on Women’s Development](https://www.scwo.org.sg/white-paper-on-singapore-womens-development-2022-scwos-board-president-ms-junie-foo-welcomes-the-recommendations/), which covered issues from [elective egg freezing](https://www.todayonline.com/singapore/parliament-endorses-first-ever-white-paper-addressing-womens-issues-1865326) to having more Women in various fields. |
-| **2. Gendered expectations affect mindsets and behaviours**<br>One [survey](https://www.herworld.com/life/sex-love/pay-first-date-dating-singapore/) showed that 2 in 5 people (both men and women) believe that men should pay for their dates.<br><br>Approximately [only 2% of women surveyed](https://www.zola.com/expert-advice/addressing-the-stigma-around-women-proposing-to-men) propose to their male partners, and two thirds of women feel they must wait for their partner to make their engagement official, even though 98% think of themselves as completely equal to their partners. | **2. Promoting gender equality at the workplace**<br>- In industries like STEM, where gender imbalance is highly skewed, [less than 30 percent of all researchers worldwide are women](https://www.asianscientist.com/2021/02/topnews/international-day-women-girls-in-science-yougov-survey-singapore/). One possibility to overcome this to [encourage more women to pursue education and careers in STEM](https://www.straitstimes.com/singapore/spore-must-do-more-to-empower-women-to-pursue-stem-careers-heng-swee-keat).<br><br>Some companies support policies which incentivise diversity hiring. For example, [Facebook rewarded its recruiters extra for “diversity hires” and Microsoft is tying managers’ bonuses to their diversity hiring](https://www.bloomberg.com/news/articles/2017-01-10/some-tech-companies-are-trying-affirmative-action-hiring-but-don-t-call-it-that#xj4y7vzkg). |
+| **2. Gendered expectations affect mindsets and behaviours**<br>One [survey](https://www.herworld.com/life/sex-love/pay-first-date-dating-singapore/) showed that 2 in 5 people (both men and women) believe that men should pay for their dates.<br><br>Approximately [only 2% of women surveyed](https://www.zola.com/expert-advice/addressing-the-stigma-around-women-proposing-to-men) propose to their male partners, and two thirds of women feel they must wait for their partner to make their engagement official, even though 98% think of themselves as completely equal to their partners. | **2. Promoting gender equality at the workplace**<br>In industries like STEM, where gender imbalance is highly skewed, [less than 30 percent of all researchers worldwide are women](https://www.asianscientist.com/2021/02/topnews/international-day-women-girls-in-science-yougov-survey-singapore/). One possibility to overcome this to [encourage more women to pursue education and careers in STEM](https://www.straitstimes.com/singapore/spore-must-do-more-to-empower-women-to-pursue-stem-careers-heng-swee-keat).<br><br>Some companies support policies which incentivise diversity hiring. For example, [Facebook rewarded its recruiters extra for “diversity hires” and Microsoft is tying managers’ bonuses to their diversity hiring](https://www.bloomberg.com/news/articles/2017-01-10/some-tech-companies-are-trying-affirmative-action-hiring-but-don-t-call-it-that#xj4y7vzkg). |
 
 
 
@@ -45,7 +47,9 @@ However, men face challenges too. Locally, male pre-school teachers make up only
 
 
 
-| **CONCLUSION**                                               |                                                  |
+**CONCLUSION**
+
+|                                                              |                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------ |
 | Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world.<br><br>Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women. | ![](../images/rtbs-vol2-iss1-splash-graphic.JPG) |
 
