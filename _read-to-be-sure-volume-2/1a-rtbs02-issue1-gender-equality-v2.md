@@ -22,6 +22,10 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 
 
 
+<hr>
+
+
+
 **<font size="5" color=red>No: It’s a long way to go before gender equality can be achieved</font>**
 
 
