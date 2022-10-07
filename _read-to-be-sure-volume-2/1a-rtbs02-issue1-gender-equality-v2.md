@@ -7,28 +7,32 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 ![](../images/NLB-RTBS-Web-Banner-220929.png)
 
-Today, [over 70% of women in Singapore](https://www.humanresourcesonline.net/71-of-women-surveyed-in-singapore-agree-gender-inequality-exists-at-the-workplace) agree that gender discrimination exists in the workplace.
-
-However, men face challenges too. Locally, male pre-school teachers make up only [1% of the total pool of early childhood educators](https://www.channelnewsasia.com/cnainsider/stigma-distrust-male-preschool-teachers-shaping-minds-singapore-1329536). 
-
-In this issue of Read to be SURE, take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere.
+In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where it is not *just* a women's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere. 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPhX9ocUEOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+
+
 *Watch the trailer [**here**](https://fb.watch/fSHelrDaFJ/).*  *Try the Gender Equality Quiz **<a href="https://forms.gle/cpSJ7rKV3GTZR2GLA" target="blank">here</a>**.*
 
-| No: It’s a long way to go before gender equality can be achieved | **Yes: Policies are in place to promote gender equality, which is an ongoing process** |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **1. Gendered expectations affect mindsets and behaviours**<br>One [survey](https://www.herworld.com/life/sex-love/pay-first-date-dating-singapore/) showed that 2 in 5 people (both men and women) believe that men should pay for their dates. In [another survey](https://mothership.sg/2021/12/cmb-survey-women-dating-picky/), 23% of female respondents preferred for their partners to earn more than them, compared to 3% of male respondents.<br></br>In relationships, there are also antiquated gender roles: the man is expected to propose; the woman shouldn’t take initiative in planning for proposals. Approximately [only 2% of women surveyed](https://www.zola.com/expert-advice/addressing-the-stigma-around-women-proposing-to-men) propose to their male partners, and two thirds of women feel they must wait for their partner to make their engagement official, even though 98% think of themselves as completely equal to their partners.<br></br>**2. Gender discrimination affects both men and women**<br>·    In Singapore, [women earned 4.3 percent less](https://stats.mom.gov.sg/Pages/Update-on-Singapores-Adjusted-Gender-Pay-Gap.aspx) than men in 2020. Women also face various types of physical, sexual, and online harm. A 2021 survey showed that [2 in 5 workers](https://www.aware.org.sg/training/wsh-site/14-statistics/) encountered some form of workplace sexual harassment in the preceding five years. Such harassment has extended to the online space as well, with [163 new cases](https://www.aware.org.sg/2022/04/image-based-sexual-abuse-featured-in-7-in-10-cases-of-technology-facilitated-sexual-violence-seen-by-aware-in-2021/) of technology-facilitated sexual violence against women reported in 2021.<br></br>Wage gaps remain, even in emerging industries like influencer marketing where women make up the majority of social media influencers, women often [charge less or have less negotiating power](https://qz.com/work/1618808/theres-even-a-gender-pay-gap-for-social-media-influencers/) when it comes to rates. Men get paid up to [49% more than women](https://www.forbes.com/sites/heatherleighton/2020/01/16/study-finds-a-pay-gap-between-male-and-female-influencers/?sh=7a22b534602f) for sponsored content on Instagram.<br></br>Women in the modern economy cope with a “triple shift”: apart from work, there is raising kids and caring for elderly parents. A Mckinsey study found that the [‘double shift’ of housework and childcare on top of work](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal/the-double-shift-of-working-mothers-now-even-longer) is increasing for women and mothers are three times as likely as fathers to do most of the housework and caregiving.  Locally, we have higher labour-force participation rates from women and Singapore’s full-time female employment rate has been rising steadily over the past 10 years, but [women still bear the bulk of the caregiving burden](https://www.msf.gov.sg/media-room/Pages/Welcome-Remarks-By-Minister-Of-State-Sun-Xueling-at-Closing-Session-of-Conversations-on-Singapore-Women's-Development.aspx#:~:text=Our survey showed that women,for caregiving compared to men.), at the expense of their careers, income and savings.<br></br>Men face stigma when they choose to be a stay-at-home father, and many stay silent when they [experience abuse or harassment because they are afraid to admit their vulnerability](https://www.straitstimes.com/opinion/forum/forum-men-can-also-be-victims-of-domestic-abuse).<br></br>In female-dominated fields like nursing, [male nurses face stigma](https://www.todayonline.com/world/male-nurses-explain-why-nursing-job-future-men), while female nurses still struggle with a gender pay gap even though they make up the majority of staff. | **1. Advocacy and Legislation** <br>Advocacy has led to legislation, giving women recourse under the law when they are harassed or abused. For instance, the Protection from Harassment Act was amended in 2019 to include doxxing (i.e. the revealing and circulating of personal information about someone to the public without the person’s permission), and in 2020, marital rape also recognised as a crime.<br>/<br>**2. Promoting gender equality at the workplace**<br In industries like STEM, where gender imbalance is highly skewed, [less than 30 percent of all researchers worldwide are women](https://www.asianscientist.com/2021/02/topnews/international-day-women-girls-in-science-yougov-survey-singapore/). One possibility to overcome this to  [encourage more women to pursue education and careers in STEM](https://www.straitstimes.com/singapore/spore-must-do-more-to-empower-women-to-pursue-stem-careers-heng-swee-keat).<br></br>Some companies turn to more proactive policies or affirmative action in hiring to encourage diversity or gender equalityFor example, [Facebook rewarded its recruiters extra for “diversity hires” and Microsoft is tying managers’ bonuses to their diversity hiring](https://www.bloomberg.com/news/articles/2017-01-10/some-tech-companies-are-trying-affirmative-action-hiring-but-don-t-call-it-that#xj4y7vzkg). |
 
-![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
 
-**CONCLUSION**
+Gender equality provides equal rights, opportunities and responsibilities to people regardless of gender. Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world. 
 
-Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world.
 
-Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women. While it is encouraging that some companies support policies which incentivise diversity hiring could backfire if handled insensitively: other employees can grow resentful and a woman’s capability or talent when she is hired could be questioned if she is seen as a token diversity dire.
+
+In Singapore, [women earned 4.3 percent less](https://stats.mom.gov.sg/Pages/Update-on-Singapores-Adjusted-Gender-Pay-Gap.aspx) than men in 2020. Women also face various types of physical, sexual, and online harm. A 2021 survey showed that [2 in 5 workers](https://www.aware.org.sg/training/wsh-site/14-statistics/) encountered some form of workplace sexual harassment in the preceding five years. Such harassment has extended to the online space as well, with [163 new cases](https://www.aware.org.sg/2022/04/image-based-sexual-abuse-featured-in-7-in-10-cases-of-technology-facilitated-sexual-violence-seen-by-aware-in-2021/) of technology-facilitated sexual violence against women reported in 2021.  
+
+ 
+
+Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower women.
+
+ 
+
+Explore the resources below to find out more about gender equality and why we need it. 
+
+
 
 ## VIDEOS
 
@@ -120,3 +124,5 @@ Young Women’s Leadership Connection. (2022). YWLChats playlist. Retrieved 2022
 |                                                              |                                                              |
 
 
+
+## 
