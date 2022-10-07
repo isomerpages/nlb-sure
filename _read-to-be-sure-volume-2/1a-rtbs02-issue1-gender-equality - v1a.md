@@ -1,6 +1,6 @@
 ---
 title: 'Gender Equality V1A'
-permalink: /read-to-be-sure-volume-2/issue1-gender-equality/
+permalink: /read-to-be-sure-volume-2/issue1-gender-equality-V1A/
 breadcrumb: 'Issue 1 - Gender Equality V1A'
 image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 ---
@@ -31,8 +31,6 @@ In this issue of Read to be SURE, take a moment to read, watch and listen to the
 Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world.
 
 Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women. 
-
-
 
 
 
