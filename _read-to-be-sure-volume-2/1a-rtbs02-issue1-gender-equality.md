@@ -51,15 +51,13 @@ Can you do better than our guest speakers? Try the **<a href="https://forms.gle/
 
 <BR>Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world.<br><br>Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="675" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 
 
 ## Poll: Your views matter!
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-
-
+​	
 
 ![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
 
