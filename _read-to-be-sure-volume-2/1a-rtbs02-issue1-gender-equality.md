@@ -25,7 +25,7 @@ However, men face challenges too. Locally, male pre-school teachers make up only
 
 
 
-**Gender discrimination affects both men and women**
+**<FONT SIZE=5>Gender discrimination affects both men and women</FONT>**
 
 - In Singapore, [women earned 4.3 percent less](https://stats.mom.gov.sg/Pages/Update-on-Singapores-Adjusted-Gender-Pay-Gap.aspx) than men in 2020. Women also face various types of physical, sexual, and online harm. A 2021 survey showed that [2 in 5 workers](https://www.aware.org.sg/training/wsh-site/14-statistics/) encountered some form of workplace sexual harassment in the preceding five years. Such harassment has extended to the online space as well, with [163 new cases](https://www.aware.org.sg/2022/04/image-based-sexual-abuse-featured-in-7-in-10-cases-of-technology-facilitated-sexual-violence-seen-by-aware-in-2021/) of technology-facilitated sexual violence against women reported in 2021.
 
@@ -43,11 +43,11 @@ However, men face challenges too. Locally, male pre-school teachers make up only
 
 
 
-**CONCLUSION**
+**<FONT SIZE="5">CONCLUSION</FONT>**
 
-|                                                              |                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------ |
-| Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world.<br><br>Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women. | ![](../images/rtbs-vol2-iss1-splash-graphic.JPG) |
+<BR>Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world.<br><br>Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women.
+
+![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
 
 
 
