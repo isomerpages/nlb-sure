@@ -1,7 +1,7 @@
 ---
-title: 'Gender Equality'
-permalink: /read-to-be-sure-volume-2/issue1-gender-equality/
-breadcrumb: 'Issue 1 - Gender Equality'
+title: 'Gender Equality v2'
+permalink: /read-to-be-sure-volume-2/issue1-gender-equality-v2/
+breadcrumb: 'Issue 1 - Gender Equality v2'
 image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 ---
 
