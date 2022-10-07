@@ -30,6 +30,18 @@ Although there has been progress over the years, the challenges remain with a pe
 
 Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women. While it is encouraging that some companies support policies which incentivise diversity hiring could backfire if handled insensitively: other employees can grow resentful and a woman’s capability or talent when she is hired could be questioned if she is seen as a token diversity dire.
 
+
+
+
+
+
+
+## Recommended Resources
+
+Explore the resources below to find out more about gender equality.
+
+
+
 ## VIDEOS
 
 CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieved 2022, July 27. 
