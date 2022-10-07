@@ -61,6 +61,12 @@ As part of the suite of activities at the Showcase you will also be able to coll
 
 
 
+**Share a Memory**
+
+Do you have a memorable experience with nature, from past or present? Share them with us and be part of a memory campaign based on personal stories about our encounters with Singapore’s environment. Your stories will be the inspiration behind an eBook that explores Singapore’s changing natural environment, examines our evolving perspectives and explores our relationships with nature. Share your memory <a href="https://go.gov.sg/nodesatparks-memory/" target="_blank">**here**</a>.
+
+
+
 <HR>
 
 <a name="2"></a>
@@ -171,7 +177,7 @@ Want to have quick read on Sustainability before coming down to our Showcase? Ch
 - <a href="https://instagram.com/theplasticproject.sg/shop"  target="_blank">The Plastic Project</a>
 
 
-  
+
 
 **Participating schools:**
 
