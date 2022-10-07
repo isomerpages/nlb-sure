@@ -16,12 +16,6 @@ However, men face challenges too. Locally, male pre-school teachers make up only
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pXdPY15pSjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<p>
-
-<hr>
-
-<p></p>
-
 | **NO, LONG WAY TO GO! **                                     | **YES, IT CAN BE ACHIEVED!**                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **1.**   **Not everyone is supportive.** <BR>[1 in 3 Singaporean men](https://www.ipsos.com/en-sg/singaporeans-attitudes-towards-gender-equality-feminism-and-online-behaviour) believe feminism does more harm than good and that traditional masculinity is under threat. A quarter of Singaporeans do not believe that gender inequality exists. | **1. Advocacy and Legislation** <BR>Singapore launched the [Conversations on Singapore Women's Development in 2020](https://www.msf.gov.sg/media-room/Pages/Conversations-on-Women-Development.aspx) and the [2022 White Paper on Women’s Development](https://www.scwo.org.sg/white-paper-on-singapore-womens-development-2022-scwos-board-president-ms-junie-foo-welcomes-the-recommendations/), which covered issues from [elective egg freezing](https://www.todayonline.com/singapore/parliament-endorses-first-ever-white-paper-addressing-womens-issues-1865326) to having more Women in various fields. |
