@@ -5,36 +5,114 @@ breadcrumb: 'Issue 1 - Gender Equality'
 image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 ---
 
+<a name="top"></a>
+
+ **<a href="#perspectives">Perspectives</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#poll">Poll</a>**  /  **<a href="#resources">Recommended Resources</a>** 
+
 ![](../images/NLB-RTBS-Web-Banner-220929.png)
 
-In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where it is not *just* a women's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere. 
+Today, [over 70% of women in Singapore](https://www.humanresourcesonline.net/71-of-women-surveyed-in-singapore-agree-gender-inequality-exists-at-the-workplace) agree that gender discrimination exists in the workplace. However, men face challenges too. Locally, male pre-school teachers make up only [1% of the total pool of early childhood educators](https://www.channelnewsasia.com/cnainsider/stigma-distrust-male-preschool-teachers-shaping-minds-singapore-1329536). 
+
+*How much do you know about gender equality? Test your knowledge in the video below.*
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pXdPY15pSjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Can you do better? Try the **<a href="https://forms.gle/YpDfWBT8xa4PNqpG8" target="_blank">Gender Equality Quiz</a>** now!
+
+
+
+<a name="perspectives"></a>
+
+## So, can gender equality be achieved in Singapore? 
+
+[<a href="#top">Back to top</a>]
+
+| NO, LONG WAY TO GO! <br>                                     | YES, WE ARE ON TRACK TO ACHIEVE IT!<br>                      |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| **1.**   **Not everyone is supportive.** <BR>[1 in 3 Singaporean men](https://www.ipsos.com/en-sg/singaporeans-attitudes-towards-gender-equality-feminism-and-online-behaviour) believe feminism does more harm than good and that traditional masculinity is under threat. A quarter of Singaporeans do not believe that gender inequality exists. | **1. Advocacy and Legislation** <BR>Singapore launched the [Conversations on Singapore Women's Development in 2020](https://www.msf.gov.sg/media-room/Pages/Conversations-on-Women-Development.aspx) and the [2022 White Paper on Women’s Development](https://www.scwo.org.sg/white-paper-on-singapore-womens-development-2022-scwos-board-president-ms-junie-foo-welcomes-the-recommendations/), which covered issues from [elective egg freezing](https://www.todayonline.com/singapore/parliament-endorses-first-ever-white-paper-addressing-womens-issues-1865326) to having more Women in various fields.<br> |
+| **2. Gendered expectations affect mindsets and behaviours**<br>One [survey](https://www.herworld.com/life/sex-love/pay-first-date-dating-singapore/) showed that 2 in 5 people (both men and women) believe that men should pay for their dates.<br><br>Approximately [only 2% of women surveyed](https://www.zola.com/expert-advice/addressing-the-stigma-around-women-proposing-to-men) proposed to their male partners, and two thirds of women feel they must wait for their partner to make their engagement official, even though 98% think of themselves as completely equal to their partners. | **2. Promoting gender equality at the workplace**<br>Currently, [less than 30 percent of all researchers worldwide are women](https://www.asianscientist.com/2021/02/topnews/international-day-women-girls-in-science-yougov-survey-singapore/). In Singapore, [women form 41% of the total STEM intake](https://research.smu.edu.sg/news/2021/apr/29/stemming-leaky-pipeline-females-stem) in autonomous universities.  However, only [58% of women](https://www.straitstimes.com/singapore/parenting-education/only-58-of-women-with-stem-qualifications-work-in-related-jobs) with STEM qualifications work in related jobs, compared with 70% for men.  More  can be done to spotlight the [achievements of Singaporean women](https://www.sginnovate.com/blog/singapore-women-tech-championing-future-generations-females-stem) in [Science](https://www.singaporewomeninscience.org/) and [Technology](https://www.a-star.edu.sg/News/faces-of-a-star/faces/faces/singapore-100-women-in-tech-2021).<br><br>Some companies support policies which incentivise diversity hiring, such as [Facebook and Microsoft](https://www.bloomberg.com/news/articles/2017-01-10/some-tech-companies-are-trying-affirmative-action-hiring-but-don-t-call-it-that#xj4y7vzkg). |
+
+
+
+**<FONT SIZE=5>Gender discrimination affects both men and women</FONT>**
+
+- In Singapore, [women earned 4.3 percent less](https://stats.mom.gov.sg/Pages/Update-on-Singapores-Adjusted-Gender-Pay-Gap.aspx) than men in 2020. Women also face various types of physical, sexual, and online harm. A 2021 survey showed that [2 in 5 workers](https://www.aware.org.sg/training/wsh-site/14-statistics/) encountered some form of workplace sexual harassment in the preceding five years. Such harassment has extended to the online space as well, with [163 new cases](https://www.aware.org.sg/2022/04/image-based-sexual-abuse-featured-in-7-in-10-cases-of-technology-facilitated-sexual-violence-seen-by-aware-in-2021/) of technology-facilitated sexual violence against women reported in 2021.
+
+  
+
+- Women in the modern economy cope with a “triple shift”: apart from work, there is raising kids and caring for elderly parents. A Mckinsey study found that the [‘double shift’ of housework and childcare on top of work](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal/the-double-shift-of-working-mothers-now-even-longer) is increasing for women and mothers are three times as likely as fathers to do most of the housework and caregiving. Locally, we have higher labour-force participation rates from women and Singapore’s full-time female employment rate has been rising steadily over the past 10 years, but [women still bear the bulk of the caregiving burden](https://www.msf.gov.sg/media-room/Pages/Welcome-Remarks-By-Minister-Of-State-Sun-Xueling-at-Closing-Session-of-Conversations-on-Singapore-Women's-Development.aspx#:~:text=Our survey showed that women,for caregiving compared to men.), at the expense of their careers, income and savings.
+
+  
+
+- In female-dominated fields like nursing, [male nurses face stigma](https://www.todayonline.com/world/male-nurses-explain-why-nursing-job-future-men), while female nurses still struggle with a gender pay gap even though they make up the majority of staff.
+
+  
+
+- [Stay-at-home fathers](https://www.todayonline.com/singapore/stay-home-fathers-spore-face-stigma-amid-persistent-belief-mothers-are-best-caregivers) in Singapore face stigma. Family policies in Singapore continue to signal that [childcare](https://mothership.sg/2022/03/louis-ng-paternity-leave-childcare-sick-leave/) is a woman’s responsibility and reinforce gender stereotypes. 
+
+Let's hear our guest speakers weigh in on this issue:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPhX9ocUEOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
-*Watch the trailer [**here**](https://fb.watch/fSHelrDaFJ/).*  *Try the Gender Equality Quiz **<a href="https://forms.gle/cpSJ7rKV3GTZR2GLA" target="blank">here</a>**.*
+<hr>
+<a name="evacomics"></a>
+
+## Evacomics
+
+[<a href="#top">Back to top</a>]
+
+What does gender equality look like to you?   Join the discussion in Evangeline's **<a href="https://www.instagram.com/p/CjVSKCwBSbv/?utm_source=ig_web_copy_link" target="_blank">Instagram</a>** and **<a href="https://www.facebook.com/evacomics/posts/pfbid022HqT9r3eF2ARxEi9NNgHMg3L3pZ3GdzrJnDwFTjtVhe14QyyAtjUYkNf2yTHVVPGl" target="_blank">Facebook</a>** now!
+
+![](../images/rtbs-vol2-iss1-evacomics-gender01A.jpg)
+
+Here are some experiences shared by others:
+
+- *"I don't face very extreme gender inequality, but I also work in a Japanese company. So, yes! Ladies are expected to prep the meeting rooms, serve tea and do misc tasks.  And many times, when someone is looking for a staff, if it's a lady, it's often "oh maybe toilet?" But if it's a gentleman, everyone be like, "oh maybe in a meeting?"  Recently, I replied, "well, maybe smoking break downstairs". That drew some laughter among colleagues whom I'm closer with. (smoking breaks take up much more time than pee breaks! true but usually unspoken! ) "*
+
+- *"In Italy I have heard many students complaining about gender inequality at work"*
+
+- *"I think gender inequality feels like a woman is always expected to manage the household chores, be the primary caregiver to young children, elderly parents, and also be expected to give 100% at work? (my hubby helps out, but sometimes I feel the balance is still a bit off. haha maybe it's because women has higher expectations!) And to add, in general, women probably are frowned upon if she takes childcare leave to bring a kid for scheduled meet-the-parents day, or urgent leave to take care of a sick child who's rejected at childcare facility. And of course, taking regular leave when going for pregnancy checks, maternity etc. But of course, men also have their experiences of gender inequality too. It's hard on both sides."*
+
+- *"Recently i had to prepare presentation slides for my team. One of my teammates a guy he's very meticulous and checked through them and pointed out some parts where he wanted to revise (summarize and grammatical errors). I found him to be rather 细心, pays attention to details, so I thanked him and said he's just like a school teacher, nurturing vibes! Then he told me he likes working with children, but many people are wary of males in early childhood education in the end he pursued a different career path. He's an engineer in our company maybe many males are unfairly viewed in this aspect? Hope this will slowly change in future."*
+
+- *"I always get really angry if anybody say, men are just general worse at being tidy. And women should generally be the ones in charge of keeping the household chores. Like. I am having troubles keeping up at work, at home it is a total mess. Who in the world would, with a sane mind, say that I should be in charge of cleanliness? It's an excuse, because it's boring. And i face it in Germany."*
+
+  
+
+
+<hr>
+<a name="resources"></a>
+<a name="poll"></a>
+
+## Poll: Your views matter!
+
+[<a href="#top">Back to top</a>]
+
+If you are unable to view the embedded form below, please click **<a href="https://forms.gle/EMfzJCqisS1EH2fB8" target="_blank">here</a>**.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+​	
+
+![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
 
 
 
-Gender equality provides equal rights, opportunities and responsibilities to people regardless of gender. Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world. 
+<HR>
+
+## Recommended Resources
+
+[<a href="#top">Back to top</a>]
+
+*Explore the resources below to find out more about gender equality.*
 
 
 
-In Singapore, [women earned 4.3 percent less](https://stats.mom.gov.sg/Pages/Update-on-Singapores-Adjusted-Gender-Pay-Gap.aspx) than men in 2020. Women also face various types of physical, sexual, and online harm. A 2021 survey showed that [2 in 5 workers](https://www.aware.org.sg/training/wsh-site/14-statistics/) encountered some form of workplace sexual harassment in the preceding five years. Such harassment has extended to the online space as well, with [163 new cases](https://www.aware.org.sg/2022/04/image-based-sexual-abuse-featured-in-7-in-10-cases-of-technology-facilitated-sexual-violence-seen-by-aware-in-2021/) of technology-facilitated sexual violence against women reported in 2021.  
-
- 
-
-Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower women.
-
- 
-
-Explore the resources below to find out more about gender equality and why we need it. 
-
-
-
-## VIDEOS
+### Videos
 
 CNA. (2022, March). *Gender Equality Starts at Home: Masagos Zulkifli.* Retrieved 2022, July 27. 
 
@@ -68,7 +146,7 @@ TEDx Talks. (2019, September 13). Why Gender Equality is Not Just About Women . 
 
 
 
-## Websites
+### Websites
 
 [**Global Gender Gap Narrowing, But Still 132 Years to Reach Parity**](https://www.internationalwomensday.com/Missions/18487/Global-gender-gap-narrowing-but-still-132-years-to-reach-parity)<BR>
 Global Gender Gap Narrowing, But Still 132 Years to Reach Parity. (2022, July). International Women’s Day. Retrieved 2022, July 27. 
@@ -84,7 +162,7 @@ Sexual Violence in Singapore: A Crisis. (2021, September 8). Kontinentalist. Ret
 
 
 
-## Podcasts
+### Podcasts
 
 **[Reviewing Essential Feminist Book Titles with Amanda Chong](https://open.spotify.com/episode/5pB9wWqFfeniANlZmN1vS0)**<br>
 Something Private. (2022, February 17). Reviewing Essential Feminist Book Titles with Amanda Chong. Retrieved 2022, August 10. 
@@ -103,7 +181,7 @@ Young Women’s Leadership Connection. (2022). YWLChats playlist. Retrieved 2022
 
 
 
-## NLB eBooks
+### NLB eBooks
 
 |                                                              | **Recommended Titles**                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -124,5 +202,3 @@ Young Women’s Leadership Connection. (2022). YWLChats playlist. Retrieved 2022
 |                                                              |                                                              |
 
 
-
-## 
