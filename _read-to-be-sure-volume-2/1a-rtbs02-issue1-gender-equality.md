@@ -7,13 +7,11 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 <a name="top"></a>
 
- **<a href="#perspectives">Perspectives</a>**  /  **<a href="#poll">Poll</a>**   /  **<a href="#dialogue">Dialogue</a>**  /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>** 
+ **<a href="#perspectives">Perspectives</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#poll">Poll</a>**  /  **<a href="#resources">Recommended Resources</a>** 
 
 ![](../images/NLB-RTBS-Web-Banner-220929.png)
 
-Today, [over 70% of women in Singapore](https://www.humanresourcesonline.net/71-of-women-surveyed-in-singapore-agree-gender-inequality-exists-at-the-workplace) agree that gender discrimination exists in the workplace.
-
-However, men face challenges too. Locally, male pre-school teachers make up only [1% of the total pool of early childhood educators](https://www.channelnewsasia.com/cnainsider/stigma-distrust-male-preschool-teachers-shaping-minds-singapore-1329536). 
+Today, [over 70% of women in Singapore](https://www.humanresourcesonline.net/71-of-women-surveyed-in-singapore-agree-gender-inequality-exists-at-the-workplace) agree that gender discrimination exists in the workplace. However, men face challenges too. Locally, male pre-school teachers make up only [1% of the total pool of early childhood educators](https://www.channelnewsasia.com/cnainsider/stigma-distrust-male-preschool-teachers-shaping-minds-singapore-1329536). 
 
 *How much do you know about gender equality? Test your knowledge here:*
 
@@ -26,14 +24,14 @@ Can you do better than our guest speakers? Try the **<a href="https://forms.gle/
 
 <a name="perspectives"></a>
 
-## So, can gender equality be achieved? 
+## So, can gender equality be achieved in Singapore? 
 
 [<a href="#top">Back to top</a>]
 
-| NO, LONG WAY TO GO! <br>                                     | YES, IT CAN BE ACHIEVED!<br>                                 |
+| NO, LONG WAY TO GO! <br>                                     | YES, WE ARE ON TRACK TO ACHIEVE IT!<br>                      |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | **1.**   **Not everyone is supportive.** <BR>[1 in 3 Singaporean men](https://www.ipsos.com/en-sg/singaporeans-attitudes-towards-gender-equality-feminism-and-online-behaviour) believe feminism does more harm than good and that traditional masculinity is under threat. A quarter of Singaporeans do not believe that gender inequality exists. | **1. Advocacy and Legislation** <BR>Singapore launched the [Conversations on Singapore Women's Development in 2020](https://www.msf.gov.sg/media-room/Pages/Conversations-on-Women-Development.aspx) and the [2022 White Paper on Women’s Development](https://www.scwo.org.sg/white-paper-on-singapore-womens-development-2022-scwos-board-president-ms-junie-foo-welcomes-the-recommendations/), which covered issues from [elective egg freezing](https://www.todayonline.com/singapore/parliament-endorses-first-ever-white-paper-addressing-womens-issues-1865326) to having more Women in various fields.<br> |
-| **2. Gendered expectations affect mindsets and behaviours**<br>One [survey](https://www.herworld.com/life/sex-love/pay-first-date-dating-singapore/) showed that 2 in 5 people (both men and women) believe that men should pay for their dates.<br><br>Approximately [only 2% of women surveyed](https://www.zola.com/expert-advice/addressing-the-stigma-around-women-proposing-to-men) propose to their male partners, and two thirds of women feel they must wait for their partner to make their engagement official, even though 98% think of themselves as completely equal to their partners. | **2. Promoting gender equality at the workplace**<br>In industries like STEM, where gender imbalance is highly skewed, [less than 30 percent of all researchers worldwide are women](https://www.asianscientist.com/2021/02/topnews/international-day-women-girls-in-science-yougov-survey-singapore/). One possibility to overcome this to [encourage more women to pursue education and careers in STEM](https://www.straitstimes.com/singapore/spore-must-do-more-to-empower-women-to-pursue-stem-careers-heng-swee-keat).<br><br>Some companies support policies which incentivise diversity hiring. For example, [Facebook rewarded its recruiters extra for “diversity hires” and Microsoft is tying managers’ bonuses to their diversity hiring](https://www.bloomberg.com/news/articles/2017-01-10/some-tech-companies-are-trying-affirmative-action-hiring-but-don-t-call-it-that#xj4y7vzkg). |
+| **2. Gendered expectations affect mindsets and behaviours**<br>One [survey](https://www.herworld.com/life/sex-love/pay-first-date-dating-singapore/) showed that 2 in 5 people (both men and women) believe that men should pay for their dates.<br><br>Approximately [only 2% of women surveyed](https://www.zola.com/expert-advice/addressing-the-stigma-around-women-proposing-to-men) proposed to their male partners, and two thirds of women feel they must wait for their partner to make their engagement official, even though 98% think of themselves as completely equal to their partners. | **2. Promoting gender equality at the workplace**<br>In industries like STEM, where gender imbalance is highly skewed, [less than 30 percent of all researchers worldwide are women](https://www.asianscientist.com/2021/02/topnews/international-day-women-girls-in-science-yougov-survey-singapore/). One possibility to overcome this is to [encourage more women to pursue education and careers in STEM](https://www.straitstimes.com/singapore/spore-must-do-more-to-empower-women-to-pursue-stem-careers-heng-swee-keat).<br><br>Some companies support policies which incentivise diversity hiring. For example, [Facebook rewarded its recruiters extra for “diversity hires” and Microsoft is tying managers’ bonuses to their diversity hiring](https://www.bloomberg.com/news/articles/2017-01-10/some-tech-companies-are-trying-affirmative-action-hiring-but-don-t-call-it-that#xj4y7vzkg). |
 
 
 
@@ -53,38 +51,6 @@ Can you do better than our guest speakers? Try the **<a href="https://forms.gle/
 
 - [Stay-at-home fathers](https://www.todayonline.com/singapore/stay-home-fathers-spore-face-stigma-amid-persistent-belief-mothers-are-best-caregivers) in Singapore face stigma. Family policies in Singapore continue to signal that [childcare](https://mothership.sg/2022/03/louis-ng-paternity-leave-childcare-sick-leave/) is a woman’s responsibility and reinforce gender stereotypes. 
 
-
-
-**<FONT SIZE="5">Conclusion</FONT>**
-
-<BR>Although there has been progress over the years, the challenges remain with a persistent gap in access to opportunities and empowerment between men and women across the world.<br><br>Gender equality is key to a safer and healthier community, equal and inclusive society, and economic prosperity. To achieve this, we need to shift our mindsets, abolish patriarchal values, and empower both men and women.
-
-
-
-<a name="poll"></a>
-
-## Poll: Your views matter!
-
-[<a href="#top">Back to top</a>]
-
-If you are unable to view the embedded form below, please click **<a href="https://forms.gle/EMfzJCqisS1EH2fB8" target="_blank">here</a>**.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-​	
-
-![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
-
-
-
-<a name="dialogue"></a>
-
-## Dialogue
-
-[<a href="#top">Back to top</a>]
-
-Let's hear our guest speakers weigh in on this issue:
-
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPhX9ocUEOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -103,24 +69,40 @@ What does gender equality look like to you?   Join the discussion in Evangeline'
 
 Here are some thoughts shared by netizens:
 
-![](../images/rtbs-vol2-iss1-evacomics-gender01A1.JPG)
+- "*Gender inequality is no stereotypes that women are weaker and not as capable as men. So when doing anything, I strive for the best and not let genders stereotypes judge me.*"
 
-![](../images/rtbs-vol2-iss1-evacomics-gender01A2.JPG)
+- *"Gender equality is giving everyone equal opportunities regardless of what gender they are.  The most recent thing i did to level the playing field was to give equal opportunities to my juniors regardless of gender, even when a person of the male gender was more favoured to do the job by a senior leader as he was more outspoken."*
 
+- *"How is it possible to not face any gender inequality in any country? Sorry but I find it extremely hard to believe."*
 
+- *""Gender inequality in Singapore is when women don’t burn two years of their lives going through compulsory National Service like men.*
 
-![](../images/rtbs-vol2-iss1-evacomics-gender01A3.JPG)
+- *"Same in America. It's terrible situation btw which also pays differently in race. It's a sad thing but hopefully we do all get paid the same."*
 
+- *"I heard male employees get higher pay than the female employees because they are the main income resource of the family, I beg your pardon?"*
 
+  
 
-![](../images/rtbs-vol2-iss1-evacomics-gender01B1-FB.JPG)
-
-
-
-![](../images/rtbs-vol2-iss1-evacomics-gender01B2-FB.JPG)
 
 <hr>
 <a name="resources"></a>
+<a name="poll"></a>
+
+## Poll: Your views matter!
+
+[<a href="#top">Back to top</a>]
+
+If you are unable to view the embedded form below, please click **<a href="https://forms.gle/EMfzJCqisS1EH2fB8" target="_blank">here</a>**.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+​	
+
+![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
+
+
+
+<HR>
 
 ## Recommended Resources
 
