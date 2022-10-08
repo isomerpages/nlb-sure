@@ -13,12 +13,12 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 Today, [over 70% of women in Singapore](https://www.humanresourcesonline.net/71-of-women-surveyed-in-singapore-agree-gender-inequality-exists-at-the-workplace) agree that gender discrimination exists in the workplace. However, men face challenges too. Locally, male pre-school teachers make up only [1% of the total pool of early childhood educators](https://www.channelnewsasia.com/cnainsider/stigma-distrust-male-preschool-teachers-shaping-minds-singapore-1329536). 
 
-*How much do you know about gender equality? Test your knowledge here:*
+*How much do you know about gender equality? Test your knowledge in the video below.*
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pXdPY15pSjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Can you do better than our guest speakers? Try the **<a href="https://forms.gle/YpDfWBT8xa4PNqpG8" target="_blank">Gender Equality Quiz</a>** now!
+Can you do better? Try the **<a href="https://forms.gle/YpDfWBT8xa4PNqpG8" target="_blank">Gender Equality Quiz</a>** now!
 
 
 
