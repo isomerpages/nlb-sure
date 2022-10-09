@@ -26,14 +26,6 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'S.U.R.E. Celebrates M.I.L.'
-          subtitle: 'For everyone'
-          description: null
-          url: /events/surecelebratesmil/
-          image: /images/FA_NLB_SURE_Eventbrite_1272x424.jpg
-          alt: 'alt text'
-          button: 'Sign up now, and stand a chance to win the S.U.R.E. Bingo!'
-    - infopic:
           title: 'Read to be SURE, Volume 2 Issue 1 - Gender Equality'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where it is not *just* a women's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere. 
@@ -41,6 +33,14 @@ sections:
           image: /images/NLB-RTBS-Web-Banner-220929.jpg
           alt: 'alt text'
           button: 'Read it now!'
+    - infopic:
+          title: 'S.U.R.E. Celebrates M.I.L.'
+          subtitle: 'For everyone'
+          description: null
+          url: /events/surecelebratesmil/
+          image: /images/FA_NLB_SURE_Eventbrite_1272x424.jpg
+          alt: 'alt text'
+          button: 'Sign up now, and stand a chance to win the S.U.R.E. Bingo!'
     - infopic:
           title: 'Nodes at Parks'
           subtitle: 'For everyone'
