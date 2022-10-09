@@ -18,18 +18,6 @@ links:
               url: /tours-and-workshops/academic-skills-workshop/
             - title: 'Teachers’ workshop'
               url: /tours-and-workshops/teachers-cfn-workshop/
-    - title: 'Read to be Sure'
-      url: /read-to-be-sure/intro/
-      false_collection: true
-      sublinks:
-            - title: 'Issue 1: Fast Fashion'
-              url: /read-to-be-sure/issue1-introduction/
-            - title: 'Issue 2: COVID-19 Restrictions'
-              url: /read-to-be-sure/issue2-overview/
-            - title: 'Issue 3: Cryptocurrencies & NFTs'
-              url: /read-to-be-sure/issue3-overview/
-            - title: 'Issue 4: Russia-Ukraine Information War'
-              url: /read-to-be-sure/issue4-ukraine/
     - title: 'Read to be Sure, Volume 2'
       url: /read-to-be-sure-volume-2/issue1-gender-equality/
       false_collection: true
@@ -38,6 +26,14 @@ links:
               url: /read-to-be-sure-volume-2/issue1-gender-equality/
             - title: 'Nodes at Parks'
               url: /nodes-at-parks/overview/
+            - title: 'Volume 1, Issue 1: Fast Fashion'
+              url: /read-to-be-sure/issue1-introduction/
+            - title: 'Volume 1, Issue 2: COVID-19 Restrictions'
+              url: /read-to-be-sure/issue2-overview/
+            - title: 'Volume 1, Issue 3: Cryptocurrencies & NFTs'
+              url: /read-to-be-sure/issue3-overview/
+            - title: 'Volume 1, Issue 4: Russia-Ukraine Information War'
+              url: /read-to-be-sure/issue4-ukraine/
     - title: Resources
       url: /resources/audience/
       false_collection: true
