@@ -22,12 +22,12 @@ links:
       url: /read-to-be-sure-volume-2/issue1-gender-equality/
       false_collection: true
       sublinks:
+            - title: 'What is Read to be SURE?'
+              url: /read-to-be-sure/intro/
             - title: 'Volume 2, Issue 1: Gender Equality'
               url: /read-to-be-sure-volume-2/issue1-gender-equality/
             - title: 'RTBS x Nodes at Parks'
               url: /nodes-at-parks/overview/
-            - title: 'What is Read to be SURE?'
-              url: /read-to-be-sure/intro/
             - title: 'Volume 1, Issue 1: Fast Fashion'
               url: /read-to-be-sure/issue1-introduction/
             - title: 'Volume 1, Issue 2: COVID-19 Restrictions'
