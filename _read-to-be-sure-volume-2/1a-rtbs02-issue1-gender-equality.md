@@ -7,7 +7,7 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 <a name="top"></a>
 
- **<a href="#perspectives">Perspectives</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#poll">Poll</a>**  /  **<a href="#resources">Recommended Resources</a>** 
+ **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>** 
 
 ![](../images/NLB-RTBS-Web-Banner-220929.png)
 
@@ -59,7 +59,25 @@ Let's hear our guest speakers weigh in on this issue:
 
 
 <hr>
+<a name="poll"></a>
+
+## Poll: Your views matter!
+
+[<a href="#top">Back to top</a>]
+
+If you are unable to view the embedded form below, please click **<a href="https://forms.gle/EMfzJCqisS1EH2fB8" target="_blank">here</a>**.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+​	
+
+![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
+
+
+
+<HR>
 <a name="evacomics"></a>
+
 
 ## Evacomics
 
@@ -83,26 +101,11 @@ Here are some experiences shared by others:
 
   
 
-
 <hr>
+
+
 <a name="resources"></a>
-<a name="poll"></a>
 
-## Poll: Your views matter!
-
-[<a href="#top">Back to top</a>]
-
-If you are unable to view the embedded form below, please click **<a href="https://forms.gle/EMfzJCqisS1EH2fB8" target="_blank">here</a>**.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-​	
-
-![](../images/rtbs-vol2-iss1-splash-graphic.JPG)
-
-
-
-<HR>
 
 ## Recommended Resources
 
