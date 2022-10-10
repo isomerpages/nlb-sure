@@ -101,10 +101,11 @@ Here are some experiences shared by others:
 
   
 
-
 <hr>
+
+
 <a name="resources"></a>
-<a name="poll"></a>
+
 
 ## Recommended Resources
 
