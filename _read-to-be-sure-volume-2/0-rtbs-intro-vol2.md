@@ -23,12 +23,11 @@ breadcrumb: 'What is Read to be SURE?'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/erOZVTrw5Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
-
 We hope you enjoyed watching this video and exploring our Read To Be SURE issues.
+
+ 
 
 Take part in the National Library Board’s “[S.U.R.E. BINGO Lucky Draw](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/)” by scanning the QR code or clicking on this link: [https://go.gov.sg/surecelebratesmil-watch-rtbs-video](https://go.gov.sg/surecelebratesmil-watch-rtbs-video).
 
+![](../images/https___go.gov.sg_surecelebratesmil-watch-rtbs-video.png)
 
-
-![](../images/go.gov.sg_surecelebratesmil-watch-sure-video.png)
