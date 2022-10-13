@@ -9,9 +9,9 @@ This programme is part of the National Library Board’s S.U.R.E. Celebrates Med
 
 To listen to the podcasts featured in this talk, visit:
 
-- [https://www.melisten.sg/podcast](https://www.melisten.sg/podcast)
+- <a href="https://www.melisten.sg/podcast" target="_blank">https://www.melisten.sg/podcast</a>
 
-- [https://aware.org.sg/saga/](https://aware.org.sg/saga/)
+- <a href="https://aware.org.sg/saga/" target="_blank">https://aware.org.sg/saga/</a>
 
   
 
