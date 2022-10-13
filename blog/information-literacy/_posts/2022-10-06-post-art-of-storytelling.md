@@ -13,7 +13,7 @@ To listen to the podcasts featured in this talk, visit:
 
 - <a href="https://aware.org.sg/saga/" target="_blank">https://aware.org.sg/saga/</a>
 
-  
 
-<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=f5d48d2f-0455-4da3-b348-af2b0090d139&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
+
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=f5d48d2f-0455-4da3-b348-af2b0090d139&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
