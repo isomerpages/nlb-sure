@@ -9,5 +9,5 @@ This programme is part of the National Library Board’s S.U.R.E. Celebrates Med
 
 Visit https://fakenewsdetective.com/#/ to play the game and fight fake news!
 
-<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=f5d48d2f-0455-4da3-b348-af2b0090d139&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=be563add-a454-4edc-9220-af2b00bb8783&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
