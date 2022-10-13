@@ -49,9 +49,9 @@ blet">
 **<font size=5>The Sustainability Showcase</font>**
 
 
-![](../images/nodes-at-parks-02-min.jpg)
+![](../images/rtbs-nodes-sustainability-showcase1.jpg)
 
-![](../images/nodes-at-parks-03-min.png)
+![](../images/rtbs-nodes-sustainability-showcase2.jpg)
 
 Ever wondered how your daily purchasing decisions impact the environment? Don’t miss this opportunity to browse our “supermarket” aisles and learn about 8 different topics on Sustainability. The items on display showcase interesting products that are conceptual ideas or existing products by green entrepreneurs. Learn about topics such as single-use plastics, composting, sustainable food production and more. 
 
@@ -104,9 +104,11 @@ Look out for our specially curated Sustainable Benches <a href="https://go.gov.s
 
 Placed in the vicinity of the<a href="https://go.gov.sg/rtbs-nodes-showcase"  target="_blank"> Sustainability Showcase</a>, these benches allow you to access a wide range of sustainability-themed eResources without having to step foot in the library!  Scan their QR codes to access enriching eReads and watch videos created by Republic Polytechnic students!
 
+![](../images/rtbs-nodes-sustainability-benches1.jpg)
+
 7 secondary schools have come on board to paint their own designs on the Sustainable benches, rendering their creative interpretations of NLB’s sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.
 
- 
+ ![](../images/rtbs-nodes-sustainability-benches2.jpg)
 
  
 
