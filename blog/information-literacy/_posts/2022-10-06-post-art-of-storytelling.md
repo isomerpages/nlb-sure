@@ -20,6 +20,6 @@ To listen to the podcasts featured in this talk, visit:
 
 We hope you enjoyed watching this programme and learned more about the research and inspiration behind creating podcasts and films.
 
-Take part in the National Library Board’s [“S.U.R.E. BINGO Lucky Draw”](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/) by scanning the QR code or clicking on this [link](https://go.gov.sg/surecelebratesmil-prog-fakenewsbuster).
+Take part in the National Library Board’s [“S.U.R.E. BINGO Lucky Draw”](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/) by scanning the QR code or clicking on this [link](https://go.gov.sg/surecelebratesmil-prog-factandfiction).
 
 ![](../../../images/https___go.gov.sg_surecelebratesmil-prog-factandfiction.png)
