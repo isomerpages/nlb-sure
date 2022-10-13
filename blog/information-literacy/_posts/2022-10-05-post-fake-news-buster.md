@@ -7,5 +7,4 @@ permalink: /blog/information-literacy/IL00008
 
 This programme is part of the National Library Board’s S.U.R.E. Celebrates Media and Information Literacy (or M.I.L.) event. In this talk, we have Nicholas Fang, Managing Director of market and social research agency Black Dot Research, sharing on the common tactics bad actors use to spread misinformation and tips on how to become a 'fake news buster'.
 
-<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=55eebaa5-7152-463f-881a-af2b0088a26c&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=55eebaa5-7152-463f-881a-af2b0088a26c&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
