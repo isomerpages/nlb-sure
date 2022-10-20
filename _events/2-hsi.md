@@ -43,7 +43,7 @@ We would like to congratulate the following school teams for achieving the top 3
 
   
 
-**2nd runner-up: School of the Arts (SOTA) **
+**2nd runner-up: School of the Arts (SOTA)**
 
 - Natalie Chua Wen Xi
 - Or Gin Ling
