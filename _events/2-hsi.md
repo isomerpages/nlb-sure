@@ -24,7 +24,12 @@ We would like to congratulate the following school teams for achieving the top 3
 
 - Nurul Batrisyia Mawasi
 
-  <iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=faf80075-5f72-4938-824b-af25007ab101&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+  
+  
+  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+  <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=faf80075-5f72-4938-824b-af25007ab101&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div>
+  
+  
 
 **1st runner-up: Raffles Girls’ School**
 
