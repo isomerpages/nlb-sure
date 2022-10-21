@@ -2,7 +2,7 @@
 title: 'Historical Scene Investigation Challenge 2022'
 permalink: /events/hsi2022/
 breadcrumb: 'Historical Scene Investigation 2022'
-image: ../../../images/hsi2021-logo.JPG
+image: ../../../images/HSI-2022-logo.png
 
 ---
 
@@ -13,6 +13,10 @@ Organised by the National Library Board and supported by the Ministry of Educati
 Opened to lower secondary school students, 2022’s theme commemorated the 80th anniversary of the Fall of Singapore, in which students investigated the historical significance of the Second World War in Singapore between 1942 to 1945. Each team was required to create a video to highlight their historical investigation findings, along with a written report with cited sources.
 
 A record participation of 170 teams from 82 schools participated in the contest and the submissions showcased the students’ creativity and aptitude in their historical research.
+
+On 19 October 2022, the top 10 school teams were invited to the National Library for the awards ceremony.
+
+![](../images/HSI-2022-Group-Photo.jpg)
 
 We would like to congratulate the following school teams for achieving the top 3 positions, along with being awarded the Young Historians’ Award by MOE:
 
