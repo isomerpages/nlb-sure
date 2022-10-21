@@ -14,7 +14,7 @@ Opened to lower secondary school students, 2022’s theme commemorated the 80th 
 
 A record participation of 170 teams from 82 schools participated in the contest and the submissions showcased the students’ creativity and aptitude in their historical research.
 
-On 19 October 2022, the top 10 school teams were invited to the National Library for the award ceremony.
+On 19 October 2022, the top 10 school teams were invited to the National Library for the awards ceremony.
 
 ![](../images/HSI-2022-Group-Photo.jpg)
 
