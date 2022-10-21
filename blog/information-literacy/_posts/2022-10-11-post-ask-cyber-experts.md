@@ -18,6 +18,5 @@ We hope you enjoyed watching this programme and picked up some useful tips on ho
 
 Take part in the National Library Board’s [“S.U.R.E. BINGO Lucky Draw”](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/) by scanning the QR code or clicking on this link.
 
- ![](../../../images/https___go.gov.sg_surecelebratesmil-prog-cyberexperts.png)
+ [https://go.gov.sg/surecelebratesmil-prog-cyberexperts](https://go.gov.sg/surecelebratesmil-prog-cyberexperts)![](../../../images/https___go.gov.sg_surecelebratesmil-prog-cyberexperts.png)
 
-[https://go.gov.sg/surecelebratesmil-prog-cyberexperts](https://go.gov.sg/surecelebratesmil-prog-cyberexperts)
