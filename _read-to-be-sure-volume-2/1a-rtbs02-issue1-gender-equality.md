@@ -13,7 +13,7 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 Today, [over 70% of women in Singapore](https://www.humanresourcesonline.net/71-of-women-surveyed-in-singapore-agree-gender-inequality-exists-at-the-workplace) agree that gender discrimination exists in the workplace. However, men face challenges too. Locally, male pre-school teachers make up only [1% of the total pool of early childhood educators](https://www.channelnewsasia.com/cnainsider/stigma-distrust-male-preschool-teachers-shaping-minds-singapore-1329536). 
 
-*How much do you know about gender equality? Test your knowledge in the video below.*
+*How much do you know about gender equality? Test your knowledge 	in the video below.*
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pXdPY15pSjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -89,17 +89,15 @@ What does gender equality look like to you?   Join the discussion in Evangeline'
 
 Here are some experiences shared by others:
 
-- *"I don't face very extreme gender inequality, but I also work in a Japanese company. So, yes! Ladies are expected to prep the meeting rooms, serve tea and do misc tasks.  And many times, when someone is looking for a staff, if it's a lady, it's often "oh maybe toilet?" But if it's a gentleman, everyone be like, "oh maybe in a meeting?"  Recently, I replied, "well, maybe smoking break downstairs". That drew some laughter among colleagues whom I'm closer with. (smoking breaks take up much more time than pee breaks! true but usually unspoken! ) "*
+![](../images/rtbs-vol2-iss1-fb-winners1.JPG)
 
-- *"In Italy I have heard many students complaining about gender inequality at work"*
+![](../images/rtbs-vol2-iss1-fb-winners2.JPG)
 
-- *"I think gender inequality feels like a woman is always expected to manage the household chores, be the primary caregiver to young children, elderly parents, and also be expected to give 100% at work? (my hubby helps out, but sometimes I feel the balance is still a bit off. haha maybe it's because women has higher expectations!) And to add, in general, women probably are frowned upon if she takes childcare leave to bring a kid for scheduled meet-the-parents day, or urgent leave to take care of a sick child who's rejected at childcare facility. And of course, taking regular leave when going for pregnancy checks, maternity etc. But of course, men also have their experiences of gender inequality too. It's hard on both sides."*
+![](../images/rtbs-vol2-iss1-ig-winners1.JPG)
 
-- *"Recently i had to prepare presentation slides for my team. One of my teammates a guy he's very meticulous and checked through them and pointed out some parts where he wanted to revise (summarize and grammatical errors). I found him to be rather 细心, pays attention to details, so I thanked him and said he's just like a school teacher, nurturing vibes! Then he told me he likes working with children, but many people are wary of males in early childhood education in the end he pursued a different career path. He's an engineer in our company maybe many males are unfairly viewed in this aspect? Hope this will slowly change in future."*
+![](../images/rtbs-vol2-iss1-ig-winners2.jpg)
 
-- *"I always get really angry if anybody say, men are just general worse at being tidy. And women should generally be the ones in charge of keeping the household chores. Like. I am having troubles keeping up at work, at home it is a total mess. Who in the world would, with a sane mind, say that I should be in charge of cleanliness? It's an excuse, because it's boring. And i face it in Germany."*
 
-  
 
 <hr>
 
