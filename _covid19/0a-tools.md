@@ -48,6 +48,8 @@ Local fact-checking groups have also risen to the occasion:
 
 - [Sure Anot](https://www.facebook.com/SureAnotSG/) - is a ground-up campaign started by a group of NTU students that hopes to educate Singaporeans on fake news. You can sign up for their WhatsApp chat group [HERE](https://chat.whatsapp.com/ETW4jTdfiJP5XibO6ctZ6V).
 
+- [Let's Check](https://letscheck.nus.edu.sg/) - This platform by NUS allows you to explore claims circulating in Twitter, and you can choose to check against scientific articles or news.
+
 <hr> 
 ### INTERNATIONAL
 
