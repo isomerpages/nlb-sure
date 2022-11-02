@@ -105,14 +105,3 @@ And that’s how you can apply the S.U.R.E. steps to your online shopping and av
 
 *This article was written by Amelia Yew.*  Amelia participated in the NLB Work Experience Programme with the Programmes and Exhibition Division in December 2021.* 
 
-We hope you enjoyed reading this blog post and picked up some useful tips on how to be S.U.R.E. before you shop online.
-
- 
-
-Take part in the National Library Board’s [“S.U.R.E. BINGO Lucky Draw”](https://sure.nlb.gov.sg/events/surecelebratesmil-bingo-howtoplay/)  by scanning the QR code or clicking on this link:
-
-https://go.gov.sg/surecelebratesmil-read-addtocart
-
- ![](../../../images/https___go.gov.sg_surecelebratesmil-read-addtocart.png)
-
-*[Note: Link will go live on 1 Oct 2022]*
