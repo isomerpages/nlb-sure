@@ -7,8 +7,6 @@ sections:
           dropdown:
               title: null
               options:
-                    - title: 'find out more about S.U.R.E. Celebrates M.I.L.'
-                      url: /events/surecelebratesmil/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
                     - title: 'find resources on combating fake news'
@@ -34,13 +32,13 @@ sections:
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
-          title: 'S.U.R.E. Celebrates M.I.L.'
+          title: 'Reading The News: An Interactive Tour and Workshop for Kids Aged 9 to 12'
           subtitle: 'For everyone'
           description: null
-          url: /events/surecelebratesmil/
-          image: /images/FA_NLB_SURE_Eventbrite_1272x424.jpg
+          url: /blog/information-literacy/IL00018
+          image: /images/TNG-Nov-Dec-2022.png
           alt: 'alt text'
-          button: 'Sign up now, and stand a chance to win the S.U.R.E. Bingo!'
+          button: 'Sign up now!'
     - infopic:
           title: 'Nodes at Parks'
           subtitle: 'For everyone'

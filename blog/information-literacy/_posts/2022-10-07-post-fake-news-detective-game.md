@@ -10,4 +10,4 @@ This programme is part of the National Library Board’s S.U.R.E. Celebrates Med
 Visit <a href="https://fakenewsdetective.com/#/" target="_blank">https://fakenewsdetective.com/#/</a> to play the game and fight fake news!
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=be563add-a454-4edc-9220-af2b00bb8783&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div>\
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=be563add-a454-4edc-9220-af2b00bb8783&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div>
