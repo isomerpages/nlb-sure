@@ -32,13 +32,13 @@ sections:
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
-          title: 'Reading The News: An Interactive Tour and Workshop for Kids Aged 9 to 12'
+          title: 'Results of the S.U.R.E. Bingo Lucky Draw'
           subtitle: 'For everyone'
           description: null
-          url: /blog/information-literacy/IL00018
-          image: /images/TNG-Nov-Dec-2022.png
+          url: /events/surecelebratesmil/
+          image: /images/FA_NLB_SURE_Eventbrite_1272x424.jpg
           alt: 'alt text'
-          button: 'Sign up now!'
+          button: 'View winners now!'
     - infopic:
           title: 'Nodes at Parks'
           subtitle: 'For everyone'
