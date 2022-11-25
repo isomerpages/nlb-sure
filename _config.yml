@@ -51,6 +51,8 @@ collections:
         output: true
     issue1-gender-equality:
         output: true
+    issue2-metaverse:
+        output: true
     nodes-at-parks:
         output: true
     tng:
