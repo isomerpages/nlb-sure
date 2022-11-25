@@ -7,8 +7,6 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 <a name="top"></a>
 
-## Will metaverse be a virtual paradise or nightmare?
-
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>** 
 
 ![](../images/rtbs-vol2-iss2-web-banner.PNG)
