@@ -11,7 +11,7 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>** 
 
-[PLACEHOLDER FOR WEB BANNER]
+![](../images/rtbs-vol2-iss2-web-banner.PNG)
 
 The term [metaverse](https://www.wired.com/story/what-is-the-metaverse/) can broadly include virtual reality, which is characterised by persistent virtual worlds, as well as augmented reality that combines aspects of the digital and physical worlds. The metaverse enables people to have real time interactions and experiences across distance. 
 
