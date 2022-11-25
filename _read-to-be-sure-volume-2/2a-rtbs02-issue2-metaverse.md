@@ -197,32 +197,29 @@ McKinsey Digital. (2022, March 29). *Innovative and Practical Applications of th
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=4A25CAE4-C871-4475-BEFC-28B0FF7CF87A&utm_source=online&utm_campaign=RTBS_Dec22&utm_medium=website&utm_content=metaverse_beginners ">![](../images/rtbs-vol2-iss2-bookcover09-Metaverse_Beginners.jpg)</a> | **[Metaverse for Beginners: A Complete Guide on How to Invest in the Metaverse](https://go.nlb.gov.sg/m-link/details?type=ebook&id=4A25CAE4-C871-4475-BEFC-28B0FF7CF87A&utm_source=online&utm_campaign=RTBS_Dec22&utm_medium=website&utm_content=metaverse_beginners )**<br/>Russel, John, and Connor, Sullivan. (2021). Metaverse for Beginners: A Complete Guide on How to Invest in the Metaverse. Solon: John Russel.  <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 |                                                              |                                                              |
 
+<hr>
+
 ## Metaverse: A double-edged sword for users
 
 While the metaverse could potentially enhance our lives in many ways, we need to be mindful that it can also negatively impact the quality of our lives. Here are some tips to safeguard yourself:
 
-1. ### Reading before you enter the metaverse
-
-###  
+### 1. Reading before you enter the metaverse
 
 Companies may have public education reminders on privacy and content, take time to read before proceeding. Making [informed consent](https://edition.cnn.com/2022/09/23/opinions/metaverse-transformative-ethics-thomason-spc-intl/index.html) is one way to managing your personal data, funds or IP in the metaverse. Similar to how banks that make users read reminders before making online transactions, be sure of what you read, before taking action. 
 
- 
-
-2. ### Cyber safety should [start young](https://www.commonsensemedia.org/kids-action/articles/what-are-kids-doing-in-the-metaverse)
-
- 
+### 2. Cyber safety should [start young](https://www.commonsensemedia.org/kids-action/articles/what-are-kids-doing-in-the-metaverse)
 
 Prevention is better than cure. Educating the young and other vulnerable groups on cyber threats to look out for online through websites such as [Connect Safely](https://www.connectsafely.org/metaverse-and-vr-tips-for-parents/), [Cyberwise](https://www.cyberwise.org/post/what-the-heck-is-the-metaverse-and-should-you-let-your-children-go-there) and [Common Sense Media](https://www.commonsensemedia.org/sites/default/files/featured-content/files/metaverse-white-paper.pdf). Check out general cyber safety programmes such as [Digital for Life](https://www.digitalforlife.gov.sg/) or [Media Literacy Council Cyber Wellness](https://www.imda.gov.sg/digitalforlife/cyberwellnesschallenge) which can help them stay safe in the online world. 
 
- 
-
-3. ### Managing our screen time
+### 3. Managing our screen time
 
 Children and adults are equally at risk for digital addiction and the myriad of health and mental issues that come with it. 
 
-\-    We can [manage and track our screen time](https://www.cnbc.com/2020/03/13/why-you-should-be-reducing-screen-time-and-3-simple-tips-to-do-it.html) using built-in functions in smartphones or productive apps. 
+- We can [manage and track our screen time](https://www.cnbc.com/2020/03/13/why-you-should-be-reducing-screen-time-and-3-simple-tips-to-do-it.html) using built-in functions in smartphones or productive apps. 
 
-\-    Conversations with the family on limiting the time spent online per day can improve mental health. 
 
-\-    Spend three to four hours daily without any screens, by being active or engaging with people or yourself through hobbies or active rest. 
+- Conversations with the family on limiting the time spent online per day can improve mental health. 
+
+
+- Spend three to four hours daily without any screens, by being active or engaging with people or yourself through hobbies or active rest. 
+
