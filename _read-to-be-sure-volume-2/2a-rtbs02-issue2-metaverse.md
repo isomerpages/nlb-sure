@@ -7,7 +7,7 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 <a name="top"></a>
 
- **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>** 
+ **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>**  /  **<a href="#usefultips">Useful Tips</a>**
 
 ![](../images/rtbs-vol2-iss2-web-banner.PNG)
 
@@ -208,6 +208,7 @@ McKinsey Digital. (2022, March 29). *Innovative and Practical Applications of th
 |                                                              |                                                              |
 
 <hr>
+<a name="usefultips"></a>
 
 ## Metaverse: A double-edged sword for users 
 
