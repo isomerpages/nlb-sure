@@ -28,6 +28,7 @@ However, as there are many [competing platforms](https://www.linkedin.com/pulse/
 
 
 [PLACEHOLDER FOR TRAILER VIDEO]
+![](../images/Thumbnailwebsite0.png)
 
 
 
@@ -48,6 +49,7 @@ However, as there are many [competing platforms](https://www.linkedin.com/pulse/
 Let's hear our guest speakers weigh in on this issue:
 
 [PLACEHOLDER FOR MAIN VIDEO]
+![](../images/ThumbnailMain0.png)
 
 
 
@@ -78,11 +80,13 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 What does the metaverse mean to you?   Join the discussion in Evangeline's **<a href="https://www.instagram.com/p/CjVSKCwBSbv/?utm_source=ig_web_copy_link" target="_blank">Instagram</a>** and **<a href="https://www.facebook.com/evacomics/posts/pfbid022HqT9r3eF2ARxEi9NNgHMg3L3pZ3GdzrJnDwFTjtVhe14QyyAtjUYkNf2yTHVVPGl" target="_blank">Facebook</a>** now!
 
+[PLACEHOLDER FOR SCREENSHOT FROM EVACOMICS
 
+]
 
 Here are some experiences shared by others:
 
-
+[PLACEHOLDER FOR SCREEN SHOTS FROM EVACOMICS SCREENSHOTS]
 
 
 
@@ -205,7 +209,9 @@ McKinsey Digital. (2022, March 29). *Innovative and Practical Applications of th
 
 <hr>
 
-## Metaverse: A double-edged sword for users
+## Metaverse: A double-edged sword for users 
+
+[<a href="#top">Back to top</a>]
 
 While the metaverse could potentially enhance our lives in many ways, we need to be mindful that it can also negatively impact the quality of our lives. Here are some tips to safeguard yourself:
 
