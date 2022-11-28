@@ -7,7 +7,7 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 <a name="top"></a>
 
- **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>**  /  **<a href="#usefultips">Useful Tips</a>**
+**<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>**  /  **<a href="#usefultips">Useful Tips</a>**
 
 ![](../images/rtbs-vol2-iss2-web-banner.PNG)
 
@@ -62,7 +62,7 @@ Let's hear our guest speakers weigh in on this issue:
 
 If you are unable to view the embedded form below, please click **<a href="https://forms.gle/EMfzJCqisS1EH2fB8" target="_blank">here</a>**.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKMjR_hPSy9SDUvKZSfQqs12W66lckc0t17QCyq_nuxroK6w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3U4x8dIPAa6x2yCfdGXzG2fMtvGWKdVPsNUFV4JsInXJjjQ/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
@@ -80,9 +80,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 What does the metaverse mean to you?   Join the discussion in Evangeline's **<a href="https://www.instagram.com/p/CjVSKCwBSbv/?utm_source=ig_web_copy_link" target="_blank">Instagram</a>** and **<a href="https://www.facebook.com/evacomics/posts/pfbid022HqT9r3eF2ARxEi9NNgHMg3L3pZ3GdzrJnDwFTjtVhe14QyyAtjUYkNf2yTHVVPGl" target="_blank">Facebook</a>** now!
 
-[PLACEHOLDER FOR SCREENSHOT FROM EVACOMICS
-
-]
+[PLACEHOLDER FOR SCREENSHOT FROM EVACOMICS]
 
 Here are some experiences shared by others:
 
