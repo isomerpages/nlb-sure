@@ -2,7 +2,7 @@
 title: 'Metaverse'
 permalink: /read-to-be-sure-volume-2/issue2-metaverse/
 breadcrumb: 'Issue 2 - Metaverse'
-image: ../images/NLB-RTBS-Web-Banner-220929.jpg
+image: ../images/rtbs-vol2-iss2-web-banner.PNG
 ---
 
 <a name="top"></a>
