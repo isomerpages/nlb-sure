@@ -27,8 +27,8 @@ However, as there are many [competing platforms](https://www.linkedin.com/pulse/
 
 
 
-[PLACEHOLDER FOR TRAILER VIDEO]
-![](../images/Thumbnailwebsite0.png)
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGYxXX5TDvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
@@ -48,8 +48,8 @@ However, as there are many [competing platforms](https://www.linkedin.com/pulse/
 
 Let's hear our guest speakers weigh in on this issue:
 
-[PLACEHOLDER FOR MAIN VIDEO]
-![](../images/ThumbnailMain0.png)
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MN2pRnV1h2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
@@ -205,8 +205,8 @@ McKinsey Digital. (2022, March 29). *Innovative and Practical Applications of th
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=4A25CAE4-C871-4475-BEFC-28B0FF7CF87A&utm_source=online&utm_campaign=RTBS_Dec22&utm_medium=website&utm_content=metaverse_beginners ">![](../images/rtbs-vol2-iss2-bookcover09-Metaverse_Beginners.jpg)</a> | **[Metaverse for Beginners: A Complete Guide on How to Invest in the Metaverse](https://go.nlb.gov.sg/m-link/details?type=ebook&id=4A25CAE4-C871-4475-BEFC-28B0FF7CF87A&utm_source=online&utm_campaign=RTBS_Dec22&utm_medium=website&utm_content=metaverse_beginners )**<br/>Russel, John, and Connor, Sullivan. (2021). Metaverse for Beginners: A Complete Guide on How to Invest in the Metaverse. Solon: John Russel.  <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 |                                                              |                                                              |
 
-<hr>
 <a name="usefultips"></a>
+
 
 ## Metaverse: A double-edged sword for users 
 
