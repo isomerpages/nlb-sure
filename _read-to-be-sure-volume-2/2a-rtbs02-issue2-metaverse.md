@@ -7,7 +7,7 @@ image: ../images/NLB-RTBS-Web-Banner-220929.jpg
 
 <a name="top"></a>
 
-**<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#evacomics">Evacomics</a>**  /  **<a href="#resources">Recommended Resources</a>**  /  **<a href="#usefultips">Useful Tips</a>**
+**<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#resources">Recommended Resources</a>**  /  **<a href="#usefultips">Useful Tips</a>**
 
 ![](../images/rtbs-vol2-iss2-web-banner.PNG)
 
@@ -72,25 +72,6 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 <HR>
 <a name="evacomics"></a>
-
-
-## Evacomics
-
-[<a href="#top">Back to top</a>]
-
-What does the metaverse mean to you?   Join the discussion in Evangeline's **<a href="https://www.instagram.com/p/CjVSKCwBSbv/?utm_source=ig_web_copy_link" target="_blank">Instagram</a>** and **<a href="https://www.facebook.com/evacomics/posts/pfbid022HqT9r3eF2ARxEi9NNgHMg3L3pZ3GdzrJnDwFTjtVhe14QyyAtjUYkNf2yTHVVPGl" target="_blank">Facebook</a>** now!
-
-[PLACEHOLDER FOR SCREENSHOT FROM EVACOMICS]
-
-Here are some experiences shared by others:
-
-[PLACEHOLDER FOR SCREEN SHOTS FROM EVACOMICS SCREENSHOTS]
-
-
-
-<hr>
-
-
 <a name="resources"></a>
 
 
