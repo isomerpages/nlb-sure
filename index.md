@@ -24,6 +24,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Read to be SURE, Volume 2 Issue 2 - Metaverse'
+          subtitle: 'For everyone'
+          description: In this issue of Read to be SURE, explore multiple perspectives about the Metaverse. 
+          url: /read-to-be-sure-volume-2/issue2-metaverse/
+          image: /images/NLB-RTBS_TOPIC2-MBApp_221123-Socials.png
+          alt: 'alt text'
+          button: 'Read it now!'
+    - infopic:
           title: 'Read to be SURE, Volume 2 Issue 1 - Gender Equality'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where it is not *just* a women's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere. 
