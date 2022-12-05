@@ -9,6 +9,7 @@ breadcrumb: 'What is Read to be SURE?'
 **Volume 2:**
 
 - [Issue 1 - Gender Equality](/read-to-be-sure-volume-2/issue1-gender-equality/)
+- [Issue 2 - Metaverse](/read-to-be-sure-volume-2/issue2-metaverse/)
 
 **Volume 1:**
 
