@@ -10,8 +10,12 @@ breadcrumb: 'What is Read to be SURE?'
 
   - [Issue 1 - Gender Equality](/read-to-be-sure-volume-2/issue1-gender-equality/)
 
-  **Volume 1:**
+  - [Issue 2 - Metaverse](/read-to-be-sure-volume-2/issue2-metaverse/)
 
+    
+  
+  **Volume 1:**
+  
   - [Issue 1: Fast Fashion](/read-to-be-sure/issue1-introduction/)
   - [Issue 2: COVID-19 Curbs](/read-to-be-sure/issue2-overview/)
   - [Issue 3: Cryptocurrencies and NFTs](/read-to-be-sure/issue3-overview/)
