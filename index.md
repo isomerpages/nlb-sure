@@ -28,7 +28,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about the World Cup. Is it just a sporting event?
           url: /read-to-be-sure-volume-2/special-issue1-worldcup/
-          image: ../images/rtbs-vol2-special-issue1-web-banner.PNG
+          image: /images/rtbs-vol2-hottopic1-world-cup.jpg
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:

@@ -52,7 +52,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 
 
-
+![](../images/rtbs-vol2-hottopic1-world-cup.jpg)<br>Photo by [Fauzan Saari](https://unsplash.com/@fznsr_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/world-cup?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
 
 
 
