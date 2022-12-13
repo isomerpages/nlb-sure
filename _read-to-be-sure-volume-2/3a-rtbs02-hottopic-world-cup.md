@@ -46,7 +46,7 @@ However, speculations on [the actual economic gains in the long term](https://th
 
 [<a href="#top">Back to top</a>]
 
-If you are unable to view the embedded form below, please click **<a href="https://forms.gle/https://forms.gle/BQjGD7rPKJUcMUr99" target="_blank">here</a>**.
+If you are unable to view the embedded form below, please click **<a href="https://forms.gle/FTGSAZGPnXFvWd3F8" target="_blank">here</a>**.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeTzhJG7i29T-k4rneCC0qI6ppVCx79MJLIUegllyIo3FCH9A/viewform?embedded=true" width="640" height="1413" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
