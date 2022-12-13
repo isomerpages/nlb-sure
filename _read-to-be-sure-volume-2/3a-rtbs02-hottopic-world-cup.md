@@ -89,12 +89,6 @@ DW News. (2022, December 3). *‘Double standards’ - Is western criticism of Q
 
 <br>
 
-ABC News In-Depth. (2022, October 29). *Qatar 22: Controversy, Corruption, and the Cup.* Retrieved 2022, December 11.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N240i1DZwso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
 The Economist. (2022, November 18). *Why is the World Cup important to Qatar?* Retrieved 2022, December 11.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xyjnDBoJY7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -111,11 +105,11 @@ Al Jazeera English. (2018, July 15). *Politics and the World Cup.* Retrieved 202
 
 |                                                              |
 | ------------------------------------------------------------ |
-| [Hosting the FIFA World Cup: An Economic Analysis of how   the World Cup has Impacted the Economy of a Developed and a Developing Nation](https://digitalshowcase.lynchburg.edu/utcp/157/)[.](https://digitalshowcase.lynchburg.edu/utcp/157/)     Borga, Juan, "Hosting the  FIFA World Cup: An Economic Analysis of how the World Cup has Impacted the  Economy of a Developed and a Developing Nation" (2020). *Undergraduate Theses and Capstone Projects*.  157. Retrieved 2022, December 12.<br> |
-| [A Spectacle of Scoundrels](https://www.theatlantic.com/newsletters/archive/2022/11/scoundrels-world-cup/672152/)     Foer,  Franklin. (2022, November 17). A Spectacle of Scoundrels. *The Atlantic*. Retrieved 2022, December  12.  <br/> |
-| [Why some Arabs and Muslims feel stung by coverage of   the Qatar World Cup](https://edition.cnn.com/2022/11/23/middleeast/why-arabs-are-furious-world-cup-mime-intl/index.html)     Ebrahim,  Nadeen and Al Lawati, Abbas. (2022, November 24). Why some Arabs and Muslims  feel stung by coverage of the Qatar World Cup. *CNN.* Retrieved 2022, December 12.  <br/> |
-| [Football corruption and the remarkable road to Qatar’s   World Cup. ](https://www.theguardian.com/football/2022/oct/08/football-corruption-and-the-remarkable-road-to-qatar-world-cup)     Ronay,  Barney. (2022, October 8). Football corruption and the remarkable road to  Qatar’s World Cup. *The Guardian*.  Retrieved 2022, December 12.  <br/> |
-| [Morocco are rewriting what football means to an African   Muslim like me. ](https://theathletic.com/3988894/2022/12/10/morocco-islam-world-cup/)     Ibrahim,  Mina. (2022, December 11). Morocco are rewriting what football means to an  African Muslim like me. *The Athletic.* Retrieved  2022, December 12.  <br/> |
+| [Hosting the FIFA World Cup: An Economic Analysis of how   the World Cup has Impacted the Economy of a Developed and a Developing Nation](https://digitalshowcase.lynchburg.edu/utcp/157/)[.](https://digitalshowcase.lynchburg.edu/utcp/157/)     <br/>Borga, Juan, "Hosting the  FIFA World Cup: An Economic Analysis of how the World Cup has Impacted the  Economy of a Developed and a Developing Nation" (2020). *Undergraduate Theses and Capstone Projects*.  157. Retrieved 2022, December 12.<br><br/> |
+| [A Spectacle of Scoundrels](https://www.theatlantic.com/newsletters/archive/2022/11/scoundrels-world-cup/672152/)  <br/>Foer,  Franklin. (2022, November 17). A Spectacle of Scoundrels. *The Atlantic*. Retrieved 2022, December  12.  <br/><br/> |
+| [Why some Arabs and Muslims feel stung by coverage of   the Qatar World Cup](https://edition.cnn.com/2022/11/23/middleeast/why-arabs-are-furious-world-cup-mime-intl/index.html)  <br>Ebrahim,  Nadeen and Al Lawati, Abbas. (2022, November 24). Why some Arabs and Muslims  feel stung by coverage of the Qatar World Cup. *CNN.* Retrieved 2022, December 12.  <br/><br/> |
+| [Football corruption and the remarkable road to Qatar’s   World Cup. ](https://www.theguardian.com/football/2022/oct/08/football-corruption-and-the-remarkable-road-to-qatar-world-cup)     <br/>Ronay,  Barney. (2022, October 8). Football corruption and the remarkable road to  Qatar’s World Cup. *The Guardian*.  Retrieved 2022, December 12.  <br/><br/> |
+| [Morocco are rewriting what football means to an African   Muslim like me. ](https://theathletic.com/3988894/2022/12/10/morocco-islam-world-cup/)     <br/>Ibrahim,  Mina. (2022, December 11). Morocco are rewriting what football means to an  African Muslim like me. *The Athletic.* Retrieved  2022, December 12.  <br/> |
 
 
 
@@ -123,11 +117,11 @@ Al Jazeera English. (2018, July 15). *Politics and the World Cup.* Retrieved 202
 
 |                                                              |
 | ------------------------------------------------------------ |
-| Brookings  Podcast Network. (2022, December 5). *The  economics of the World Cup*. Retrieved 2022, December 11. <br> https://www.brookings.edu/podcast-episode/the-economics-of-the-world-cup/<br> |
-| The New  York Times. (2022, November 28). *Qatar’s  big bet on the World Cup.* Retrieved 2022, December 11.      <br/>https://www.nytimes.com/2022/11/28/podcasts/the-daily/qatar-world-cup-2022.html    <br/> |
-| The  Journal. (2022, November 21). *A  controversial World Cup begins in Qatar.* Retrieved 2022, December 11.      <br/>https://www.wsj.com/podcasts/the-journal/a-controversial-world-cup-begins-in-qatar/e5a7536b-0aba-4a1f-8a0a-1f2210d22020    <br/> |
-| BBC. (2022,  November 19). *Qatar and the fall of  FIFA.* Retrieved 2022, December 11.    <br/>https://www.bbc.co.uk/sounds/play/p0dhp38p    <br/> |
-| Crooked  Media. (2022, November 17). *World  Corrupt Episode 1: A toxic love affair between politics and sports*.  Retrieved 2022, December 11.   <br/> https://www.podcastrepublic.net/podcast/1655202888    <br/> |
+| Brookings  Podcast Network. (2022, December 5). *The  economics of the World Cup*. Retrieved 2022, December 11. <br><br/> [https://www.brookings.edu/podcast-episode/the-economics-of-the-world-cup/](https://www.brookings.edu/podcast-episode/the-economics-of-the-world-cup/)<br><br> |
+| The New  York Times. (2022, November 28). *Qatar’s  big bet on the World Cup.* Retrieved 2022, December 11.      <br/>[https://www.nytimes.com/2022/11/28/podcasts/the-daily/qatar-world-cup-2022.html](https://www.nytimes.com/2022/11/28/podcasts/the-daily/qatar-world-cup-2022.html)    <br/><br> |
+| The  Journal. (2022, November 21). *A  controversial World Cup begins in Qatar.* Retrieved 2022, December 11.      <br/>[https://www.wsj.com/podcasts/the-journal/a-controversial-world-cup-begins-in-qatar/e5a7536b-0aba-4a1f-8a0a-1f2210d22020](https://www.wsj.com/podcasts/the-journal/a-controversial-world-cup-begins-in-qatar/e5a7536b-0aba-4a1f-8a0a-1f2210d22020)    <br/><br> |
+| BBC. (2022,  November 19). *Qatar and the fall of  FIFA.* Retrieved 2022, December 11.    <br/>[https://www.bbc.co.uk/sounds/play/p0dhp38p](https://www.bbc.co.uk/sounds/play/p0dhp38p)    <br/><br> |
+| Crooked  Media. (2022, November 17). *World  Corrupt Episode 1: A toxic love affair between politics and sports*.  Retrieved 2022, December 11.   <br/>[https://www.podcastrepublic.net/podcast/1655202888](https://www.podcastrepublic.net/podcast/1655202888)    <br/> |
 
 ### NLB eBooks
 
