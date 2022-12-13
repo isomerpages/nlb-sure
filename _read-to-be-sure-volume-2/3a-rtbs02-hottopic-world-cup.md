@@ -117,7 +117,7 @@ Al Jazeera English. (2018, July 15). *Politics and the World Cup.* Retrieved 202
 
 |                                                              |
 | ------------------------------------------------------------ |
-| Brookings  Podcast Network. (2022, December 5). *The  economics of the World Cup*. Retrieved 2022, December 11. <br><br/> [https://www.brookings.edu/podcast-episode/the-economics-of-the-world-cup/](https://www.brookings.edu/podcast-episode/the-economics-of-the-world-cup/)<br><br> |
+| Brookings  Podcast Network. (2022, December 5). *The  economics of the World Cup*. Retrieved 2022, December 11. <br>[https://www.brookings.edu/podcast-episode/the-economics-of-the-world-cup/](https://www.brookings.edu/podcast-episode/the-economics-of-the-world-cup/)<br><br> |
 | The New  York Times. (2022, November 28). *Qatar’s  big bet on the World Cup.* Retrieved 2022, December 11.      <br/>[https://www.nytimes.com/2022/11/28/podcasts/the-daily/qatar-world-cup-2022.html](https://www.nytimes.com/2022/11/28/podcasts/the-daily/qatar-world-cup-2022.html)    <br/><br> |
 | The  Journal. (2022, November 21). *A  controversial World Cup begins in Qatar.* Retrieved 2022, December 11.      <br/>[https://www.wsj.com/podcasts/the-journal/a-controversial-world-cup-begins-in-qatar/e5a7536b-0aba-4a1f-8a0a-1f2210d22020](https://www.wsj.com/podcasts/the-journal/a-controversial-world-cup-begins-in-qatar/e5a7536b-0aba-4a1f-8a0a-1f2210d22020)    <br/><br> |
 | BBC. (2022,  November 19). *Qatar and the fall of  FIFA.* Retrieved 2022, December 11.    <br/>[https://www.bbc.co.uk/sounds/play/p0dhp38p](https://www.bbc.co.uk/sounds/play/p0dhp38p)    <br/><br> |
