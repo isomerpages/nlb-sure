@@ -23,7 +23,7 @@ Major sporting events like the [Olympics](https://www.cfr.org/backgrounder/econo
 
  
 
-However, some also question the [benefits of hosting such major games](https://theconversation.com/hosting-the-fifa-world-cup-brings-benefits-but-not-as-many-as-politicians-claim-190923). This includes questions on the [infrastructure built](https://youtu.be/C-0CebFpF_s) and if it has longer term benefits, or the issue of “https://theconversation.com/world-cup-2022-qatar-is-accused-of-sportswashing-but-do-the-fans-really-care-193485)”.  
+However, some also question the [benefits of hosting such major games](https://theconversation.com/hosting-the-fifa-world-cup-brings-benefits-but-not-as-many-as-politicians-claim-190923). This includes questions on the [infrastructure built](https://youtu.be/C-0CebFpF_s) and if it has longer term benefits, or the issue of "[sportswashing](https://theconversation.com/world-cup-2022-qatar-is-accused-of-sportswashing-but-do-the-fans-really-care-193485)"”.  
 
 <a name="perspectives"></a>
 
