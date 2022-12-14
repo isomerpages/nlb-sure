@@ -24,7 +24,7 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'Read to be SURE, Special Issue 2 - World Cup 2022'
+          title: 'Read to be SURE, Special Issue - World Cup 2022'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about the World Cup. Is there more to it than football?
           url: /read-to-be-sure-volume-2/special-issue1-worldcup/
