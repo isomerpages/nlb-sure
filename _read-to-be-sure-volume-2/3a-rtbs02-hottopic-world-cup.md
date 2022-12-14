@@ -39,239 +39,83 @@ However, some also question the [benefits of hosting such major games](https://t
 
 
 
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=0
- style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
- mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:5.0pt 5.0pt 5.0pt 5.0pt;
- mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=411 valign=top style='width:308.05pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB>Yes, the World Cup
-  brings benefits to the world <o:p></o:p></span></b></p>
-  </td>
-  <td width=411 valign=top style='width:308.1pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB>No, the World Cup raises
-  problems for the world. <o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=411 valign=top style='width:308.05pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB>The World Cup promises
-  opportunities for economic gains. <o:p></o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB><o:p>&nbsp;</o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>Host countries stand to <u><span style='color:#1155CC'><a
-  href="https://www.project-syndicate.org/commentary/why-host-the-world-cup-by-andrew-zimbalist-2018-06"><span
-  style='color:#1155CC'>gain with investments in sporting and public infrastructure</span></a></span></u>
-  and <u><span style='color:#1155CC'><a
-  href="https://pitjournal.unc.edu/article/assessing-long-term-economic-impacts-world-cup-mega-sport-event"><span
-  style='color:#1155CC'>economic benefits</span></a></span></u> in the long
-  term. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>Some experts are optimistic that economic growth can be sustained
-  by showcasing Qatar�s �<u><span style='color:#1155CC'><a
-  href="https://www.gulf-times.com/article/650224/opinion/hosting-the-fifa-world-cup-2022-impact-on-qatar-and-the-region"><span
-  style='color:#1155CC'>state-of-the-art transportation systems, world class
-  tourism and culinary experiences� and generous hospitality</span></a></span></u>�.</span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>There are <u><span style='color:#1155CC'><a
-  href="https://www.channelnewsasia.com/commentary/fifa-world-cup-effect-qatar-tech-stock-market-app-social-media-food-delivery-3086121"><span
-  style='color:#1155CC'>increased digital marketing opportunities </span></a></span></u>as
-  more viewers are digitally engaged with the World Cup. <u><span
-  style='color:#1155CC'><a
-  href="https://www.straitstimes.com/singapore/fb-outlets-and-food-delivery-platforms-score-big-during-world-cup-2022"><span
-  style='color:#1155CC'>F&amp;B operators and delivery platforms</span></a></span></u>
-  may also reap benefits given the social nature of watching the games.</span></p>
-  </td>
-  <td width=411 valign=top style='width:308.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB>The true cost of the
-  World Cup cannot be ignored. <o:p></o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB><o:p>&nbsp;</o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>Criticisms of t<u><span style='color:#1155CC'><a
-  href="https://www.gov.uk/government/case-studies/the-world-cup-and-human-rights-in-brazil"><span
-  style='color:#1155CC'>he working conditions of those who </span></a></span></u>helped
-  lay the physical infrastructure for the World Cup have been rife. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>The huge expenses incurred by host countries <u><span
-  style='color:#1155CC'><a
-  href="https://www.managementstudyguide.com/effects-of-fifa-world-cup-on-economy.htm"><span
-  style='color:#1155CC'>may not be offset</span></a></span></u> by potential
-  economic gains, such as through tourism. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>Sporting infrastructure built specifically for the event may
-  become <u><span style='color:#1155CC'><a href="https://youtu.be/AOHP0pH0yMA"><span
-  style='color:#1155CC'>�white elephant� structures</span></a></span></u> after
-  the World Cup ends. </span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td width=411 valign=top style='width:308.05pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB>It provides a stage for
-  countries to improve international relations. <o:p></o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>Hosting the World Cup is an opportunity to project a more positive
-  image, and <u><span style='color:#1155CC'><a
-  href="https://moderndiplomacy.eu/2022/10/26/the-qatar-world-cup-footballing-for-soft-power/"><span
-  style='color:#1155CC'>gain soft power</span></a></span></u> and support from
-  the international community. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>From highlighting �<u><span style='color:#1155CC'><a
-  href="https://www.tandfonline.com/doi/full/10.1080/09523367.2021.1988932"><span
-  style='color:#1155CC'>change and progress</span></a></span></u>� within host
-  nations to <a
-  href="https://mothership.sg/2022/12/japan-croatia-fans-clean-stadium/">visiting
-  nations</a> displaying positive traits, countries are able to showcase a
-  favourable image on an international stage. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=411 valign=top style='width:308.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB>Existing socio-political
-  issues may be exacerbated.</span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>The World Cup tournaments over the years have had a <u><span
-  style='color:#1155CC'><a href="https://www.youtube.com/watch?v=eyZ7ULF349M"><span
-  style='color:#1155CC'>history of politics mixing with sports</span></a>.</span></u>
-  </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><u><span
-  lang=EN-GB style='color:#1155CC'><a
-  href="https://www.theweek.in/theweek/cover/2022/11/11/football-players-political-views-qatar-world-cup.html"><span
-  style='color:#1155CC'>Political expressions on the field</span></a></span></u><span
-  lang=EN-GB>, sanctioned or not, and calls for <u><span style='color:#1155CC'><a
-  href="https://www.euronews.com/2022/11/10/fifa-and-qatar-rattled-as-european-world-cup-boycott-gathers-pace"><span
-  style='color:#1155CC'>boycotts</span></a></span></u>, highlight the <u><span
-  style='color:#1155CC'><a
-  href="https://theconversation.com/fifas-mirage-of-unity-why-the-world-cup-is-a-vessel-for-political-protest-195432"><span
-  style='color:#1155CC'>socio-political tensions</span></a></span></u>.</span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><u><span
-  lang=EN-GB style='color:#1155CC'><a
-  href="https://moderndiplomacy.eu/2022/10/26/the-qatar-world-cup-footballing-for-soft-power/"><span
-  style='color:#1155CC'>Mixed public opinion surveys </span></a></span></u><span
-  lang=EN-GB>and <u><span style='color:#1155CC'><a
-  href="https://edition.cnn.com/2022/11/23/middleeast/why-arabs-are-furious-world-cup-mime-intl/index.html"><span
-  style='color:#1155CC'>critical media coverage</span></a></span></u> could
-  impact national reputations. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
-  <td width=411 valign=top style='width:308.05pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB>It serves as a shared
-  experience. <o:p></o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB><o:p>&nbsp;</o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>The <u><span style='color:#1155CC'><a
-  href="https://www.beinsports.com/en/fifa-world-cup-qatar-2022/news/bein-mena-viewership-exceeds-one-billion-for-/1996664"><span
-  style='color:#1155CC'>billions of viewers </span></a></span></u>simultaneously
-  tuning in to the World Cup makes for a truly<u><span style='color:#1155CC'><a
-  href="https://berkleycenter.georgetown.edu/responses/when-globalism-outscores-nationalism"><span
-  style='color:#1155CC'> global shared experience</span></a></span></u> beyond
-  borders. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>An opportunity for solidarity, differences, be it on the <u><span
-  style='color:#1155CC'><a
-  href="https://medium.com/@overtake/more-than-just-a-game-football-brings-people-together-e92802328132"><span
-  style='color:#1155CC'>domestic</span></a></span></u> or <u><span
-  style='color:#1155CC'><a
-  href="https://www.straitstimes.com/sport/football/world-cup-arab-fans-unite-after-surprise-wins-in-qatar"><span
-  style='color:#1155CC'>political</span></a></span></u> front, could be set
-  aside as fans <u><span style='color:#1155CC'><a
-  href="https://www.aljazeera.com/sports/2022/11/7/world-cup-2022-thousands-of-argentina-fans-flock-to-qatar"><span
-  style='color:#1155CC'>unite under one flag</span></a></span></u>. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>Rooting for the �underdogs� in any sporting event has the power to
-  <a
-  href="https://www.nbcnews.com/news/world/moroccos-surprise-world-cup-run-rallied-legion-arab-fans-rcna60907">rally
-  spectators from various countries or cultures</a>, especially if they embody
-  identities that are often <a
-  href="https://www.vox.com/2015/3/20/8260445/underdogs-psychology">under-represented</a>.
-  </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=411 valign=top style='width:308.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB>Not everyone views the
-  game as truly unifying. <o:p></o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-GB><o:p>&nbsp;</o:p></span></b></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>Some critics say that sporting events such as football are just
-  games, with <u><span style='color:#1155CC'><a
-  href="https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1797496"><span
-  style='color:#1155CC'>no real importance</span></a></span></u> to our lives. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>The competition also seems to further support a �<u><span
-  style='color:#1155CC'><a
-  href="https://www.unisg.ch/en/newsdetail/news/world-cup-in-qatar-more-than-a-game/"><span
-  style='color:#1155CC'>nationally divided world</span></a></span></u>�, under
-  the spectacle of entertainment and sporting rivalry. </span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB>Additionally, global sporting events are a hotbed for <u><span
-  style='color:#1155CC'><a
-  href="https://cpb-us-w2.wpmucdn.com/about.illinoisstate.edu/dist/e/34/files/2019/09/Alexander_Nelson_pdf.pdf"><span
-  style='color:#1155CC'>conflicting expressions of nationhood</span></a></span></u>
-  and <u><span style='color:#1155CC'><a
-  href="https://www.tandfonline.com/doi/full/10.1080/09523367.2020.1844188"><span
-  style='color:#1155CC'>belonging</span></a></span></u>.</span></p>
-  <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
-  lang=EN-GB><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
+<p>&nbsp;</p>
+<table border="1" cellpadding="0" cellspacing="0" width="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="50%">
+                <p><strong>Yes, the World Cup brings benefits to the world</strong></p>
+            </td>
+            <td valign="top" width="50%">
+                <p><strong>No, the World Cup raises problems for the world.</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="50%">
+                <p><strong>The World Cup promises opportunities for economic gains.</strong></p>
+                <p><strong>&nbsp;</strong></p>
+                <p>Host countries stand to&nbsp;<u><a href="https://www.project-syndicate.org/commentary/why-host-the-world-cup-by-andrew-zimbalist-2018-06">gain with investments in sporting and public infrastructure</a></u> and&nbsp;<u><a href="https://pitjournal.unc.edu/article/assessing-long-term-economic-impacts-world-cup-mega-sport-event">economic benefits</a></u> in the long term.</p>
+                <p>&nbsp;</p>
+                <p>Some experts are optimistic that economic growth can be sustained by showcasing Qatar&rsquo;s &ldquo;<u><a href="https://www.gulf-times.com/article/650224/opinion/hosting-the-fifa-world-cup-2022-impact-on-qatar-and-the-region">state-of-the-art transportation systems, world class tourism and culinary experiences&hellip; and generous hospitality</a></u>&rdquo;.</p>
+                <p>&nbsp;</p>
+                <p>There are&nbsp;<u><a href="https://www.channelnewsasia.com/commentary/fifa-world-cup-effect-qatar-tech-stock-market-app-social-media-food-delivery-3086121">increased digital marketing opportunities&nbsp;</a></u>as more viewers are digitally engaged with the World Cup.&nbsp;<u><a href="https://www.straitstimes.com/singapore/fb-outlets-and-food-delivery-platforms-score-big-during-world-cup-2022">F&amp;B operators and delivery platforms</a></u> may also reap benefits given the social nature of watching the games.</p>
+            </td>
+            <td valign="top" width="50%">
+                <p><strong>The true cost of the World Cup cannot be ignored.</strong></p>
+                <p><strong>&nbsp;</strong></p>
+                <p>Criticisms of t<u><a href="https://www.gov.uk/government/case-studies/the-world-cup-and-human-rights-in-brazil">he working conditions of those who&nbsp;</a></u>helped lay the physical infrastructure for the World Cup have been rife.</p>
+                <p>&nbsp;</p>
+                <p>The huge expenses incurred by host countries&nbsp;<u><a href="https://www.managementstudyguide.com/effects-of-fifa-world-cup-on-economy.htm">may not be offset</a></u> by potential economic gains, such as through tourism.</p>
+                <p>&nbsp;</p>
+                <p>Sporting infrastructure built specifically for the event may become&nbsp;<u><a href="https://youtu.be/AOHP0pH0yMA">&ldquo;white elephant&rdquo; structures</a></u> after the World Cup ends.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="50%">
+                <p><strong>It provides a stage for countries to improve international relations.</strong></p>
+                <p>&nbsp;</p>
+                <p>Hosting the World Cup is an opportunity to project a more positive image, and&nbsp;<u><a href="https://moderndiplomacy.eu/2022/10/26/the-qatar-world-cup-footballing-for-soft-power/">gain soft power</a></u> and support from the international community.</p>
+                <p>&nbsp;</p>
+                <p>From highlighting &ldquo;<u><a href="https://www.tandfonline.com/doi/full/10.1080/09523367.2021.1988932">change and progress</a></u>&rdquo; within host nations to&nbsp;<a href="https://mothership.sg/2022/12/japan-croatia-fans-clean-stadium/">visiting nations</a> displaying positive traits, countries are able to showcase a favourable image on an international stage.</p>
+                <p>&nbsp;</p>
+            </td>
+            <td valign="top" width="50%">
+                <p><strong>Existing socio-political issues may be exacerbated.</strong></p>
+                <p>&nbsp;</p>
+                <p>The World Cup tournaments over the years have had a&nbsp;<u><a href="https://www.youtube.com/watch?v=eyZ7ULF349M">history of politics mixing with sports</a>.</u></p>
+                <p>&nbsp;</p>
+                <p><u><a href="https://www.theweek.in/theweek/cover/2022/11/11/football-players-political-views-qatar-world-cup.html">Political expressions on the field</a></u>, sanctioned or not, and calls for&nbsp;<u><a href="https://www.euronews.com/2022/11/10/fifa-and-qatar-rattled-as-european-world-cup-boycott-gathers-pace">boycotts</a></u>, highlight the&nbsp;<u><a href="https://theconversation.com/fifas-mirage-of-unity-why-the-world-cup-is-a-vessel-for-political-protest-195432">socio-political tensions</a></u>.</p>
+                <p>&nbsp;</p>
+                <p><u><a href="https://moderndiplomacy.eu/2022/10/26/the-qatar-world-cup-footballing-for-soft-power/">Mixed public opinion surveys&nbsp;</a></u>and&nbsp;<u><a href="https://edition.cnn.com/2022/11/23/middleeast/why-arabs-are-furious-world-cup-mime-intl/index.html">critical media coverage</a></u> could impact national reputations.</p>
+                <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="50%">
+                <p><strong>It serves as a shared experience.</strong></p>
+                <p><strong>&nbsp;</strong></p>
+                <p>The&nbsp;<u><a href="https://www.beinsports.com/en/fifa-world-cup-qatar-2022/news/bein-mena-viewership-exceeds-one-billion-for-/1996664">billions of viewers&nbsp;</a></u>simultaneously tuning in to the World Cup makes for a truly<u><a href="https://berkleycenter.georgetown.edu/responses/when-globalism-outscores-nationalism">&nbsp;global shared experience</a></u> beyond borders.</p>
+                <p>&nbsp;</p>
+                <p>An opportunity for solidarity, differences, be it on the&nbsp;<u><a href="https://medium.com/@overtake/more-than-just-a-game-football-brings-people-together-e92802328132">domestic</a></u> or&nbsp;<u><a href="https://www.straitstimes.com/sport/football/world-cup-arab-fans-unite-after-surprise-wins-in-qatar">political</a></u> front, could be set aside as fans&nbsp;<u><a href="https://www.aljazeera.com/sports/2022/11/7/world-cup-2022-thousands-of-argentina-fans-flock-to-qatar">unite under one flag</a></u>.</p>
+                <p>&nbsp;</p>
+                <p>Rooting for the &ldquo;underdogs&rdquo; in any sporting event has the power to&nbsp;<a href="https://www.nbcnews.com/news/world/moroccos-surprise-world-cup-run-rallied-legion-arab-fans-rcna60907">rally spectators from various countries or cultures</a>, especially if they embody identities that are often&nbsp;<a href="https://www.vox.com/2015/3/20/8260445/underdogs-psychology">under-represented</a>.</p>
+                <p>&nbsp;</p>
+            </td>
+            <td valign="top" width="50%">
+                <p><strong>Not everyone views the game as truly unifying.</strong></p>
+                <p><strong>&nbsp;</strong></p>
+                <p>Some critics say that sporting events such as football are just games, with&nbsp;<u><a href="https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1797496">no real importance</a></u> to our lives.</p>
+                <p>&nbsp;</p>
+                <p>The competition also seems to further support a &ldquo;<u><a href="https://www.unisg.ch/en/newsdetail/news/world-cup-in-qatar-more-than-a-game/">nationally divided world</a></u>&rdquo;, under the spectacle of entertainment and sporting rivalry.</p>
+                <p>&nbsp;</p>
+                <p>Additionally, global sporting events are a hotbed for&nbsp;<u><a href="https://cpb-us-w2.wpmucdn.com/about.illinoisstate.edu/dist/e/34/files/2019/09/Alexander_Nelson_pdf.pdf">conflicting expressions of nationhood</a></u> and&nbsp;<u><a href="https://www.tandfonline.com/doi/full/10.1080/09523367.2020.1844188">belonging</a></u>.</p>
+                <p>&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
 </table>
-
-
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
 
 <hr>
 <a name="poll"></a>
