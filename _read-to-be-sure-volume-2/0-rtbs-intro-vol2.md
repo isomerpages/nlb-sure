@@ -10,6 +10,7 @@ breadcrumb: 'What is Read to be SURE?'
 
 - [Issue 1 - Gender Equality](/read-to-be-sure-volume-2/issue1-gender-equality/)
 - [Issue 2 - Metaverse](/read-to-be-sure-volume-2/issue2-metaverse/)
+- [Special Issue: World Cup](/read-to-be-sure-volume-2/special-issue1-worldcup/)
 
 **Volume 1:**
 
