@@ -31,91 +31,13 @@ However, some also question the [benefits of hosting such major games](https://t
 
 [<a href="#top">Back to top</a>]	
 
-| **YES, THE WORLD CUP BRINGS BENEFITS TO THE WORLD.**<br>     | **NO, THE WORLD CUP RAISES PROBLEMS FOR THE WORLD.**         |
+| **YES, THE WORLD CUP BRINGS BENEFITS TO THE WORLD.**         | **NO, THE WORLD CUP RAISES PROBLEMS FOR THE WORLD.**<br>     |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| **The World Cup promises opportunities for economic gains.**<br><br>Host countries stand to [gain with investments in sporting and public infrastructure](https://www.project-syndicate.org/commentary/why-host-the-world-cup-by-andrew-zimbalist-2018-06) and [economic benefits](https://pitjournal.unc.edu/article/assessing-long-term-economic-impacts-world-cup-mega-sport-event) in the long term. <br/><br/>Some experts are optimistic that economic growth can be sustained by showcasing Qatar’s “[state-of-the-art transportation systems, world class tourism and culinary experiences… and generous hospitality](https://www.gulf-times.com/article/650224/opinion/hosting-the-fifa-world-cup-2022-impact-on-qatar-and-the-region)”. <br/><br/>There are [increased digital marketing opportunities ](https://www.channelnewsasia.com/commentary/fifa-world-cup-effect-qatar-tech-stock-market-app-social-media-food-delivery-3086121)as more viewers are digitally engaged with the World Cup. [F&B operators and delivery platforms](https://www.straitstimes.com/singapore/fb-outlets-and-food-delivery-platforms-score-big-during-world-cup-2022) may also reap benefits given the social nature of watching the games.<br><br> | **The true cost of the World Cup cannot be ignored.**<br><br>Criticisms of t[he working conditions of those who ](https://www.gov.uk/government/case-studies/the-world-cup-and-human-rights-in-brazil)helped lay the physical infrastructure for the World Cup have been rife. <br><br/>The huge expenses incurred by host countries [may not be offset](https://www.managementstudyguide.com/effects-of-fifa-world-cup-on-economy.htm) by potential economic gains, such as through tourism. <br/>Sporting infrastructure built specifically for the event may become [“white elephant” structures](https://youtu.be/AOHP0pH0yMA) after the World Cup ends. <br><br/> |
+| **The World Cup promises opportunities for economic gains.**<br>Host countries stand to [gain with investments in sporting and public infrastructure](https://www.project-syndicate.org/commentary/why-host-the-world-cup-by-andrew-zimbalist-2018-06) and [economic benefits](https://pitjournal.unc.edu/article/assessing-long-term-economic-impacts-world-cup-mega-sport-event) in the long term. <br/><br/>Some experts are optimistic that economic growth can be sustained by showcasing [Qatar’s](https://www.gulf-times.com/article/650224/opinion/hosting-the-fifa-world-cup-2022-impact-on-qatar-and-the-region) “state-of-the-art transportation systems, world class tourism and culinary experiences… and generous hospitality”. <br/><br/>There are [increased digital marketing opportunities ](https://www.channelnewsasia.com/commentary/fifa-world-cup-effect-qatar-tech-stock-market-app-social-media-food-delivery-3086121) as more viewers are digitally engaged with the World Cup. [F&B operators and delivery platforms](https://www.straitstimes.com/singapore/fb-outlets-and-food-delivery-platforms-score-big-during-world-cup-2022) may also reap benefits given the social nature of watching the games.<br><br> | **The true cost of the World Cup cannot be ignored.**<br>Criticisms of t[he working conditions of those who ](https://www.gov.uk/government/case-studies/the-world-cup-and-human-rights-in-brazil)helped lay the physical infrastructure for the World Cup have been rife. <br><br/>The huge expenses incurred by host countries [may not be offset](https://www.managementstudyguide.com/effects-of-fifa-world-cup-on-economy.htm) by potential economic gains, such as through tourism. <br/>Sporting infrastructure built specifically for the event may become [“white elephant” structures](https://youtu.be/AOHP0pH0yMA) after the World Cup ends. <br><br/> |
 | **It provides a stage for countries to improve international relations.** <br><br>Hosting the World Cup is an opportunity to [garner soft power](https://moderndiplomacy.eu/2022/10/26/the-qatar-world-cup-footballing-for-soft-power/) and garner support from the international community. <br><br>From highlighting “[change and progress](https://www.tandfonline.com/doi/full/10.1080/09523367.2021.1988932)” within host nations to [visiting nations](https://mothership.sg/2022/12/japan-croatia-fans-clean-stadium/) displaying positive traits, countries are able to showcase a favourable image on an international stage.<br><br> | **Existing socio-political issues may be exacerbated.** <br/><br/>The World Cup tournaments over the years have had a [history of politics mixing with sports](https://www.youtube.com/watch?v=eyZ7ULF349M). <br><br/>[Political expressions on the field](https://www.theweek.in/theweek/cover/2022/11/11/football-players-political-views-qatar-world-cup.html), sanctioned or not, and calls for [boycotts](https://www.euronews.com/2022/11/10/fifa-and-qatar-rattled-as-european-world-cup-boycott-gathers-pace), highlight the [socio-political tensions](https://theconversation.com/fifas-mirage-of-unity-why-the-world-cup-is-a-vessel-for-political-protest-195432).<br/><br/>[Mixed public opinion surveys ](https://moderndiplomacy.eu/2022/10/26/the-qatar-world-cup-footballing-for-soft-power/)and [critical media coverage](https://edition.cnn.com/2022/11/23/middleeast/why-arabs-are-furious-world-cup-mime-intl/index.html) could impact national reputations.<br/><br/> |
 | **It serves as a shared experience.** <br/><br/>The [billions of viewers ](https://www.beinsports.com/en/fifa-world-cup-qatar-2022/news/bein-mena-viewership-exceeds-one-billion-for-/1996664)simultaneously tuning in to the World Cup makes for a truly [global shared experience](https://berkleycenter.georgetown.edu/responses/when-globalism-outscores-nationalism) beyond borders. <br/><br/>An opportunity for solidarity, differences, be it on the [domestic](https://medium.com/@overtake/more-than-just-a-game-football-brings-people-together-e92802328132) or [political](https://www.straitstimes.com/sport/football/world-cup-arab-fans-unite-after-surprise-wins-in-qatar) front, could be set aside as fans [unite under one flag](https://www.aljazeera.com/sports/2022/11/7/world-cup-2022-thousands-of-argentina-fans-flock-to-qatar).<br><br>Rooting for the “underdogs” in any sporting event has the power to [rally spectators from various countries or cultures](https://www.nbcnews.com/news/world/moroccos-surprise-world-cup-run-rallied-legion-arab-fans-rcna60907), especially if they embody identities that are often [under-represented](https://www.vox.com/2015/3/20/8260445/underdogs-psychology).<br><br> | **Not everyone views the game as truly unifying.**  <br/><br/>Some critics say that sporting events such as football are just games, with [no real importance](https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1797496) to our lives.<br/><br/>The competition also seems to further support a “[nationally divided world](https://www.unisg.ch/en/newsdetail/news/world-cup-in-qatar-more-than-a-game/)”, under the spectacle of entertainment and sporting rivalry.<br/><br/>Additionally, global sporting events are a hotbed for [conflicting expressions of nationhood](https://cpb-us-w2.wpmucdn.com/about.illinoisstate.edu/dist/e/34/files/2019/09/Alexander_Nelson_pdf.pdf) and [belonging](https://www.tandfonline.com/doi/full/10.1080/09523367.2020.1844188). |
 
 
-
-<p>&nbsp;</p>
-<table border="1" cellpadding="0" cellspacing="0" width="0">
-    <tbody>
-        <tr>
-            <td valign="top" width="50%">
-                <p><strong>Yes, the World Cup brings benefits to the world</strong></p>
-            </td>
-            <td valign="top" width="50%">
-                <p><strong>No, the World Cup raises problems for the world.</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" width="50%">
-                <p><strong>The World Cup promises opportunities for economic gains.</strong></p>
-                <p><strong>&nbsp;</strong></p>
-                <p>Host countries stand to&nbsp;<u><a href="https://www.project-syndicate.org/commentary/why-host-the-world-cup-by-andrew-zimbalist-2018-06">gain with investments in sporting and public infrastructure</a></u> and&nbsp;<u><a href="https://pitjournal.unc.edu/article/assessing-long-term-economic-impacts-world-cup-mega-sport-event">economic benefits</a></u> in the long term.</p>
-                <p>&nbsp;</p>
-                <p>Some experts are optimistic that economic growth can be sustained by showcasing Qatar&rsquo;s &ldquo;<u><a href="https://www.gulf-times.com/article/650224/opinion/hosting-the-fifa-world-cup-2022-impact-on-qatar-and-the-region">state-of-the-art transportation systems, world class tourism and culinary experiences&hellip; and generous hospitality</a></u>&rdquo;.</p>
-                <p>&nbsp;</p>
-                <p>There are&nbsp;<u><a href="https://www.channelnewsasia.com/commentary/fifa-world-cup-effect-qatar-tech-stock-market-app-social-media-food-delivery-3086121">increased digital marketing opportunities&nbsp;</a></u>as more viewers are digitally engaged with the World Cup.&nbsp;<u><a href="https://www.straitstimes.com/singapore/fb-outlets-and-food-delivery-platforms-score-big-during-world-cup-2022">F&amp;B operators and delivery platforms</a></u> may also reap benefits given the social nature of watching the games.</p>
-            </td>
-            <td valign="top" width="50%">
-                <p><strong>The true cost of the World Cup cannot be ignored.</strong></p>
-                <p><strong>&nbsp;</strong></p>
-                <p>Criticisms of t<u><a href="https://www.gov.uk/government/case-studies/the-world-cup-and-human-rights-in-brazil">he working conditions of those who&nbsp;</a></u>helped lay the physical infrastructure for the World Cup have been rife.</p>
-                <p>&nbsp;</p>
-                <p>The huge expenses incurred by host countries&nbsp;<u><a href="https://www.managementstudyguide.com/effects-of-fifa-world-cup-on-economy.htm">may not be offset</a></u> by potential economic gains, such as through tourism.</p>
-                <p>&nbsp;</p>
-                <p>Sporting infrastructure built specifically for the event may become&nbsp;<u><a href="https://youtu.be/AOHP0pH0yMA">&ldquo;white elephant&rdquo; structures</a></u> after the World Cup ends.</p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" width="50%">
-                <p><strong>It provides a stage for countries to improve international relations.</strong></p>
-                <p>&nbsp;</p>
-                <p>Hosting the World Cup is an opportunity to project a more positive image, and&nbsp;<u><a href="https://moderndiplomacy.eu/2022/10/26/the-qatar-world-cup-footballing-for-soft-power/">gain soft power</a></u> and support from the international community.</p>
-                <p>&nbsp;</p>
-                <p>From highlighting &ldquo;<u><a href="https://www.tandfonline.com/doi/full/10.1080/09523367.2021.1988932">change and progress</a></u>&rdquo; within host nations to&nbsp;<a href="https://mothership.sg/2022/12/japan-croatia-fans-clean-stadium/">visiting nations</a> displaying positive traits, countries are able to showcase a favourable image on an international stage.</p>
-                <p>&nbsp;</p>
-            </td>
-            <td valign="top" width="50%">
-                <p><strong>Existing socio-political issues may be exacerbated.</strong></p>
-                <p>&nbsp;</p>
-                <p>The World Cup tournaments over the years have had a&nbsp;<u><a href="https://www.youtube.com/watch?v=eyZ7ULF349M">history of politics mixing with sports</a>.</u></p>
-                <p>&nbsp;</p>
-                <p><u><a href="https://www.theweek.in/theweek/cover/2022/11/11/football-players-political-views-qatar-world-cup.html">Political expressions on the field</a></u>, sanctioned or not, and calls for&nbsp;<u><a href="https://www.euronews.com/2022/11/10/fifa-and-qatar-rattled-as-european-world-cup-boycott-gathers-pace">boycotts</a></u>, highlight the&nbsp;<u><a href="https://theconversation.com/fifas-mirage-of-unity-why-the-world-cup-is-a-vessel-for-political-protest-195432">socio-political tensions</a></u>.</p>
-                <p>&nbsp;</p>
-                <p><u><a href="https://moderndiplomacy.eu/2022/10/26/the-qatar-world-cup-footballing-for-soft-power/">Mixed public opinion surveys&nbsp;</a></u>and&nbsp;<u><a href="https://edition.cnn.com/2022/11/23/middleeast/why-arabs-are-furious-world-cup-mime-intl/index.html">critical media coverage</a></u> could impact national reputations.</p>
-                <p>&nbsp;</p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" width="50%">
-                <p><strong>It serves as a shared experience.</strong></p>
-                <p><strong>&nbsp;</strong></p>
-                <p>The&nbsp;<u><a href="https://www.beinsports.com/en/fifa-world-cup-qatar-2022/news/bein-mena-viewership-exceeds-one-billion-for-/1996664">billions of viewers&nbsp;</a></u>simultaneously tuning in to the World Cup makes for a truly<u><a href="https://berkleycenter.georgetown.edu/responses/when-globalism-outscores-nationalism">&nbsp;global shared experience</a></u> beyond borders.</p>
-                <p>&nbsp;</p>
-                <p>An opportunity for solidarity, differences, be it on the&nbsp;<u><a href="https://medium.com/@overtake/more-than-just-a-game-football-brings-people-together-e92802328132">domestic</a></u> or&nbsp;<u><a href="https://www.straitstimes.com/sport/football/world-cup-arab-fans-unite-after-surprise-wins-in-qatar">political</a></u> front, could be set aside as fans&nbsp;<u><a href="https://www.aljazeera.com/sports/2022/11/7/world-cup-2022-thousands-of-argentina-fans-flock-to-qatar">unite under one flag</a></u>.</p>
-                <p>&nbsp;</p>
-                <p>Rooting for the &ldquo;underdogs&rdquo; in any sporting event has the power to&nbsp;<a href="https://www.nbcnews.com/news/world/moroccos-surprise-world-cup-run-rallied-legion-arab-fans-rcna60907">rally spectators from various countries or cultures</a>, especially if they embody identities that are often&nbsp;<a href="https://www.vox.com/2015/3/20/8260445/underdogs-psychology">under-represented</a>.</p>
-                <p>&nbsp;</p>
-            </td>
-            <td valign="top" width="50%">
-                <p><strong>Not everyone views the game as truly unifying.</strong></p>
-                <p><strong>&nbsp;</strong></p>
-                <p>Some critics say that sporting events such as football are just games, with&nbsp;<u><a href="https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1797496">no real importance</a></u> to our lives.</p>
-                <p>&nbsp;</p>
-                <p>The competition also seems to further support a &ldquo;<u><a href="https://www.unisg.ch/en/newsdetail/news/world-cup-in-qatar-more-than-a-game/">nationally divided world</a></u>&rdquo;, under the spectacle of entertainment and sporting rivalry.</p>
-                <p>&nbsp;</p>
-                <p>Additionally, global sporting events are a hotbed for&nbsp;<u><a href="https://cpb-us-w2.wpmucdn.com/about.illinoisstate.edu/dist/e/34/files/2019/09/Alexander_Nelson_pdf.pdf">conflicting expressions of nationhood</a></u> and&nbsp;<u><a href="https://www.tandfonline.com/doi/full/10.1080/09523367.2020.1844188">belonging</a></u>.</p>
-                <p>&nbsp;</p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong></p>
 
 <hr>
 <a name="poll"></a>
