@@ -53,6 +53,8 @@ collections:
         output: true
     issue2-metaverse:
         output: true
+    hottopic-world-cup:
+        output: true
     nodes-at-parks:
         output: true
     tng:

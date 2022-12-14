@@ -24,6 +24,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Read to be SURE, Special Issue 2 - World Cup 2022'
+          subtitle: 'For everyone'
+          description: In this issue of Read to be SURE, explore multiple perspectives about the World Cup. Is there more to it than football?
+          url: /read-to-be-sure-volume-2/special-issue1-worldcup/
+          image: /images/rtbs-vol2-hottopic1-world-cup.jpg
+          alt: 'alt text'
+          button: 'Read it now!'
+    - infopic:
           title: 'Read to be SURE, Volume 2 Issue 2 - Metaverse'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about the Metaverse. Will it become a digital paradise or a virtual nightmare?
