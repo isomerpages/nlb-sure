@@ -11,7 +11,7 @@ image: ../images/rtbs-vol2-special-issue1-web-banner.PNG
 
 ![](../images/rtbs-vol2-special-issue1-web-banner.PNG)
 
-Held every four years, this international football event gets a [global viewership in the billions](https://www.statista.com/chart/28766/global-reach-and-tv-viewership-of-the-fifa-world-cup/) and [Singaporeans](https://safe.menlosecurity.com/https:/www.ipsos.com/en-sg/more-half-adults-singapore-plan-watch-2022-fifa-world-cup) also get caught up in the excitement of the World Cup. However, the World Cup is more than fun and entertainment. This sporting event has offered economic and job opportunities to many, including Singaporeans, from [training match officials](https://safe.menlosecurity.com/https:/www.straitstimes.com/sport/world-cup-meet-m-ganesan-the-man-from-singapore-who-is-a-brother-to-match-officials-in-qatar) to selling [bubble tea](https://safe.menlosecurity.com/https:/www.straitstimes.com/videos/world-cup-the-singaporean-who-took-bubble-tea-to-qatar--dispatches-from-doha/6316614929112). 
+Held every four years, this international football event gets a [global viewership in the billions](https://www.statista.com/chart/28766/global-reach-and-tv-viewership-of-the-fifa-world-cup/) and [Singaporeans](https://www.ipsos.com/en-sg/more-half-adults-singapore-plan-watch-2022-fifa-world-cup) also get caught up in the excitement of the World Cup. However, the World Cup is more than fun and entertainment. This sporting event has offered economic and job opportunities to many, including Singaporeans, from [training match officials](https://www.straitstimes.com/sport/world-cup-meet-m-ganesan-the-man-from-singapore-who-is-a-brother-to-match-officials-in-qatar) to selling [bubble tea](https://www.straitstimes.com/videos/world-cup-the-singaporean-who-took-bubble-tea-to-qatar--dispatches-from-doha/6316614929112). 
 
  
 
@@ -23,7 +23,7 @@ Major sporting events like the [Olympics](https://www.cfr.org/backgrounder/econo
 
  
 
-However, some also question the [benefits of hosting such major games](https://theconversation.com/hosting-the-fifa-world-cup-brings-benefits-but-not-as-many-as-politicians-claim-190923). This includes questions on the [infrastructure built](https://youtu.be/C-0CebFpF_s) and if it has longer term benefits, or the issue of “[sportswashing](https://safe.menlosecurity.com/https:/theconversation.com/world-cup-2022-qatar-is-accused-of-sportswashing-but-do-the-fans-really-care-193485)”.  
+However, some also question the [benefits of hosting such major games](https://theconversation.com/hosting-the-fifa-world-cup-brings-benefits-but-not-as-many-as-politicians-claim-190923). This includes questions on the [infrastructure built](https://youtu.be/C-0CebFpF_s) and if it has longer term benefits, or the issue of "[sportswashing](https://theconversation.com/world-cup-2022-qatar-is-accused-of-sportswashing-but-do-the-fans-really-care-193485)"”.  
 
 <a name="perspectives"></a>
 
