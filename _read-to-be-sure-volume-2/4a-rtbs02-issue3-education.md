@@ -39,7 +39,7 @@ Let's hear our guest speakers weigh in on this issue:
 
 ** Placeholder for Main Video **
 
-![](../images/rtbs-vol2-iss3-video-placeholder.png)
+![](../images/rtbs-vol2-iss3-main-video-placeholder.png)
 
 
 
@@ -50,9 +50,9 @@ Let's hear our guest speakers weigh in on this issue:
 
 [<a href="#top">Back to top</a>]
 
-If you are unable to view the embedded form below, please click **<a href="https://forms.gle/Cim1SMHWSq3GnkiSA" target="_blank">here</a>**.
+If you are unable to view the embedded form below, please click **<a href="https://forms.gle/23nqgvcv5hbCskzA9" target="_blank">here</a>**.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3U4x8dIPAa6x2yCfdGXzG2fMtvGWKdVPsNUFV4JsInXJjjQ/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLMhWcrYEeEq2G1A3HA0wTOcNHIYS-IdnZDNazaD2_uqAezw/viewform?embedded=true" width="640" height="1360" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
@@ -90,9 +90,9 @@ Harvard Business Review. (2022, November 17). *[LinkedIn CEO Ryan Roslansky: Ski
 
 New York Academy of Sciences. (2021, January 8). [*Is Traditional Higher Ed Still Worth it?*](https://www.nyas.org/ebriefings/2021/is-a-traditional-college-degree-still-worth-it/?tab=is%20traditional%20higher%20ed%20still%20worth%20it) Retrieved 2023, January 11. 
 
-<br>''
+<br>
 
-Yahoo! Finance (2021, May 29). *[https://finance.yahoo.com/video/50-recent-college-grads-feel-174628252.html?guccounter=1](https://finance.yahoo.com/video/50-recent-college-grads-feel-174628252.html?guccounter=1)* Retrieved 2023, January 11
+Yahoo! Finance (2021, May 29). **[50% of Recent College Grads Feel Underqualified to Enter the Workforce](https://finance.yahoo.com/video/50-recent-college-grads-feel-174628252.html)** . Retrieved 2023, January 11
 
 
 
