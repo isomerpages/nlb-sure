@@ -7,7 +7,7 @@ image: ../images/rtbs-vol2-iss3-web-banner.PNG
 
 <a name="top"></a>
 
-**<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#resources">Recommended Resources</a>**  /  **<a href="#usefultips">Useful Tips</a>**
+**<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#resources">Recommended Resources</a>** 
 
 ![](../images/rtbs-vol2-iss3-web-banner.PNG)
 
@@ -77,112 +77,89 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 CNBC Make It. (2021, June 25). *Why You Need a College Degree to be Happy.* Retrieved 2023, January 11.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qs6AcZamr4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qs6AcZamr4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 <br>
 
 Harvard Business Review. (2022, November 17). *[LinkedIn CEO Ryan Roslansky: Skills, Not Degrees, Matter Most in Hiring](https://hbr.org/2022/11/linkedin-ceo-ryan-roslansky-skills-not-degrees-matter-most-in-hiring).* Retrieved 2023, January 11
 
-<br>
+
 
 New York Academy of Sciences. (2021, January 8). [*Is Traditional Higher Ed Still Worth it?*](https://www.nyas.org/ebriefings/2021/is-a-traditional-college-degree-still-worth-it/?tab=is%20traditional%20higher%20ed%20still%20worth%20it) Retrieved 2023, January 11. 
 
-<br>
+
 
 Yahoo! Finance (2021, May 29). *[https://finance.yahoo.com/video/50-recent-college-grads-feel-174628252.html?guccounter=1](https://finance.yahoo.com/video/50-recent-college-grads-feel-174628252.html?guccounter=1)* Retrieved 2023, January 11
 
-<br>
-
 Cambridge University Press & Assessment. (2021, June 25). [*How to Build Lifelong Learning Skills for the 21st Century Workplace.*](https://www.cambridgeassessment.org.uk/blogs/lifelong-learning-skills-for-the-21st-century-workplace/) Retrieved 2023, January 11. 
 
-<br>
+
 
 
 
 ### Websites
 
 **[The College Payoff: More Education Doesn’t Always Mean More Earnings](https://cewgeorgetown.wpenginepowered.com/wp-content/uploads/cew-college_payoff_2021-fr.pdf)**
+Carnevale, Anthony P., Ban Cheah, and Emma Wenzinger. (2021). *The College Payoff: More Education Doesn’t Always Mean More Earnings.* Georgetown University. Retrieved 2023, January 11. 
 
-<br>Carnevale, Anthony P., Ban Cheah, and Emma Wenzinger. (2021). *The College Payoff: More Education Doesn’t Always Mean More Earnings.* Georgetown University. Retrieved 2023, January 11. 
 
-<br>
 
 **[The Emerging Degree Reset: How the Shift to Skills-Based Hiring Holds the Keys to Growing the U.S. Workforce at a Time of Talent Shortage](https://www.burningglassinstitute.org/s/The-Emerging-Degree-Reset-2202Final.pdf)**
+Fuller, Joseph B., Christina Langer, Julia Nitschke, Layla O'Kane, Matthew Sigelman, and Bledi Taska. (2022, February). The *Emerging Degree Reset: How the Shift to Skills-Based Hiring Holds the Keys to Growing the U.S. Workforce at a Time of Talent Shortage*. Burning Glass Institute. Retrieved 2023, January 11. 
 
-<br>Fuller, Joseph B., Christina Langer, Julia Nitschke, Layla O'Kane, Matthew Sigelman, and Bledi Taska. (2022, February). The *Emerging Degree Reset: How the Shift to Skills-Based Hiring Holds the Keys to Growing the U.S. Workforce at a Time of Talent Shortage*. Burning Glass Institute. Retrieved 2023, January 11. 
 
-<br>
 
 **[The Rise of Skills-Based Hiring and What it Means for Education](https://www.forbes.com/sites/tomvanderark/2021/06/29/the-rise-of-skills-based-hiring-and-what-it-means-for-education/?sh=604741c84fa7)**
+Ark, Tom Vander (2021, June 21). *The Rise of Skills-Based Hiring and What it Means for Education.* Forbes. Retrieved 2023, January 11. 
 
-<br>Ark, Tom Vander (2021, June 21). *The Rise of Skills-Based Hiring and What it Means for Education.* Forbes. Retrieved 2023, January 11. <br>
+
 
 **[Why Skills - Not Degrees - Will Shape the Future of Work](https://www.weforum.org/agenda/2020/09/reckoning-for-skills/)**
+Kumar, S. Ravi, and Steve George (2020, September 21). *Why Skills - Not Degrees - Will Shape the Future of Work.* World Economic Forum. Retrieved 2023, January 11.
 
-<br>Kumar, S. Ravi, and Steve George (2020, September 21). *Why Skills - Not Degrees - Will Shape the Future of Work.* World Economic Forum. Retrieved 2023, January 11.
 
-<br>
 
 **[The Future of Jobs Report 2020](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)**
+The Future of Jobs Report 2020.* (2020, October). World Economic Forum. Retrieved 2023, January 11. 
 
-<br>*The Future of Jobs Report 2020.* (2020, October). World Economic Forum. Retrieved 2023, January 11. 
 
-<br>
 
 **[Changing Demand for Skills in Digital Economies and Societies](https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---ifp_skills/documents/publication/wcms_831372.pdf)**
-
-<br>*Changing Demand for Skills in Digital Economies and Societies.* (2021, December 9). International Labour Organization. Retrieved 2023, January 11. 
+Changing Demand for Skills in Digital Economies and Societies.* (2021, December 9). International Labour Organization. Retrieved 2023, January 11. 
 
 <br><br>
 
 ### Podcasts
 
 **[No Degree, No Problem for Growing Number of Employers](https://www.wsj.com/podcasts/whats-news/no-degree-no-problem-for-growing-number-of-employers/12f558ed-dabe-44ff-ad0e-f2409f2d106a)**
-
-<br>The Wall Street Journal. (2022, December 2). *No Degree, No Problem for Growing Number of Employers.* Retrieved 2023, January 11.
-
-<br>
+The Wall Street Journal. (2022, December 2). *No Degree, No Problem for Growing Number of Employers.* Retrieved 2023, January 11.
 
 **[Google Expands College-Alternative Tech Skills Training](https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=15654155)** 
+Harvard Business School. (2020, August 18). *Google Expands College-Alternative Tech Skills Training.* Retrieved 2023, January 11.
 
-<br>Harvard Business School. (2020, August 18). *Google Expands College-Alternative Tech Skills Training.* Retrieved 2023, January 11.
+**[More Skipping College Today, What Will that Mean for Tomorrow?](https://www.wsj.com/podcasts/as-we-work/more-skipping-college-today-what-will-that-mean-for-tomorrow/7a8bfe02-e82e-4595-9e35-4e1c8b45087d)**The Wall Street Journal. (2022, August 22). *More Skipping College Today, What Will that Mean for Tomorrow?* Retrieved 2023, January 11.
 
-<br>
-
-**[More Skipping College Today, What Will that Mean for Tomorrow?](https://www.wsj.com/podcasts/as-we-work/more-skipping-college-today-what-will-that-mean-for-tomorrow/7a8bfe02-e82e-4595-9e35-4e1c8b45087d)**
-
-<br>The Wall Street Journal. (2022, August 22). *More Skipping College Today, What Will that Mean for Tomorrow?* Retrieved 2023, January 11.
-
-<br>
-
-[**Joe Fuller on Enrollment Growth University: How Can Colleges Address the Middle Skills Gap While Readying Students for the Job Market?** ](https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=20556926)
-
-<br>Harvard Business School. (2021, September 21). *Joe Fuller on Enrollment Growth University.* Retrieved 2023, January 11.
-
-<br>
+[**Joe Fuller on Enrollment Growth University: How Can Colleges Address the Middle Skills Gap While Readying Students for the Job Market?** ](https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=20556926)<br>Harvard Business School. (2021, September 21). *Joe Fuller on Enrollment Growth University.* Retrieved 2023, January 11.
 
 **[The Rise of Thinking Skills in Higher Education and the Workplace](https://www.cambridgeassessment.org.uk/news/audio/view/the-rise-of-thinking-skills-in-higher-education-and-the-workplace/)**
-
-<br>Cambridge University Press & Assessment (2021, April 27). *The Rise of Thinking Skills in Higher Education and the Workplace*. Retrieved 2023, January 11.
-
-<br>
+Cambridge University Press & Assessment (2021, April 27). *The Rise of Thinking Skills in Higher Education and the Workplace*. Retrieved 2023, January 11.
 
 **[“I Don’t Think the Country is Turning Away from College.”](https://freakonomics.com/podcast/i-dont-think-the-country-is-turning-away-from-college/)**
-
-<br>Freakonomics (2022, May 4). *“I Don’t Think the Country is Turning Away from College.”* Retrieved 2023, January 11. 
+Freakonomics (2022, May 4). *“I Don’t Think the Country is Turning Away from College.”* Retrieved 2023, January 11. 
 
 <br>
 
 
 
 ### NLB eBooks
-
-1. 1. 1. |                                                              | **Recommended Titles**                                       |
-         | ------------------------------------------------------------ | ------------------------------------------------------------ |
-         | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=8045DB8E-B9F0-4185-801D-392D9032FF88&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=skills_gap">![](../images/rtbs-vol2-topic3-bookcover01-greatskillsgap.JPG)</a> | **[The Great Skills Gap: Optimizing Talent for the Future of Work](https://go.nlb.gov.sg/m-link/details?type=ebook&id=8045DB8E-B9F0-4185-801D-392D9032FF88&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=skills_gap )**<br/>Wingard, Jason, and Christine Farrugia. (2021). *The Great Skills Gap: Optimizing Talent for the Future of Work.* Stanford, California*:* Stanford University Press*.*<br/><br/>Retrieved from OverDrive. ([myLibrary ID](https://account.nlb.gov.sg/) is required to access the eBook).<br> |
-         | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=B8C1A94F-479E-4EC4-ACE2-DC96D8B99DA4&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=defense_liberal_education"></a>![](../images/rtbs-vol2-topic3-bookcover02-indefenceofliberaledu.JPG) | [****In Defense of a Liberal Education.****](https://go.nlb.gov.sg/m-link/details?type=ebook&id=B8C1A94F-479E-4EC4-ACE2-DC96D8B99DA4&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=defense_liberal_education )<br/>Zakaria, Fareed. (2015). *In Defense of a Liberal Education.* W.W. Norton & Company. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-         | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=B4D8DF29-DA02-4A2F-9D31-372CD8075903&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=college_devaluation ">![](../images/rtbs-vol2-topic3-bookcover03-collegedevaluation.JPG)</a> | **[The College Devaluation Crisis: Market Disruption, Diminishing ROI, and an Alternative Future of Learning](https://go.nlb.gov.sg/m-link/details?type=ebook&id=B4D8DF29-DA02-4A2F-9D31-372CD8075903&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=college_devaluation)**<br/>Wingard, Jason. (2022). The College Devaluation Crisis: Market Disruption, Diminishing ROI, and an Alternative Future of Learning. Stanford, California: Stanford University Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-         | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=79499621-3B3F-4B36-AE31-A506C5AFB11C&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=redefining_competency">![](../images/rtbs-vol2-topic3-bookcover04-competencybasededu.JPG)!</a> | **[Redefining Competency Based Education: Competence for Life](https://go.nlb.gov.sg/m-link/details?type=ebook&id=79499621-3B3F-4B36-AE31-A506C5AFB11C&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=redefining_competency)**<br/>Morel, Nina Jones, and Bruce Griffiths. (2018). Redefining Competency Based Education: Competence for Life. New York: Business Expert Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-         | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=8CEC292F-8AC2-42FE-895B-A1811332D779&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=higher_expectations">![](../images/rtbs-vol2-topic3-bookcover05-higherexpectations.JPG)</a> | **[Higher Expectations: Can Colleges Teach Students What They Need To Know in the 21st Century?](https://go.nlb.gov.sg/m-link/details?type=ebook&id=8CEC292F-8AC2-42FE-895B-A1811332D779&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=higher_expectations)**<br/>Bok, Derek. (2020). Higher Expectations: Can Colleges Teach Students What They Need To Know in the 21st Century? Princeton: Princeton University Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the Audiobook). |
-         | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=E68FAA8C-3D0A-4F6D-8D4C-BA0F82CE1CAE&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=seven_radical_ideas ">![](../images/rtbs-vol2-topic3-bookcover06-sevenradicalideas.JPG)</a> | **[Seven Radical Ideas for the Future of Higher Education](https://go.nlb.gov.sg/m-link/details?type=ebook&id=E68FAA8C-3D0A-4F6D-8D4C-BA0F82CE1CAE&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=seven_radical_ideas)**<br/>Macken, Claire and Julie Hare. (2021). Seven Radical Ideas for the Future of Higher Education. Singapore: Springer Nature Singapore.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-      
+|                                                              | **Recommended Titles**                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=8045DB8E-B9F0-4185-801D-392D9032FF88&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=skills_gap">![](../images/rtbs-vol2-topic3-bookcover01-greatskillsgap.JPG)</a> | **[The Great Skills Gap: Optimizing Talent for the Future of Work](https://go.nlb.gov.sg/m-link/details?type=ebook&id=8045DB8E-B9F0-4185-801D-392D9032FF88&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=skills_gap )**<br/>Wingard, Jason, and Christine Farrugia. (2021). *The Great Skills Gap: Optimizing Talent for the Future of Work.* Stanford, California*:* Stanford University Press*.*<br/><br/>Retrieved from OverDrive. ([myLibrary ID](https://account.nlb.gov.sg/) is required to access the eBook).<br> |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=B8C1A94F-479E-4EC4-ACE2-DC96D8B99DA4&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=defense_liberal_education"></a>![](../images/rtbs-vol2-topic3-bookcover02-indefenceofliberaledu.JPG) | [****In Defense of a Liberal Education.****](https://go.nlb.gov.sg/m-link/details?type=ebook&id=B8C1A94F-479E-4EC4-ACE2-DC96D8B99DA4&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=defense_liberal_education )<br/>Zakaria, Fareed. (2015). *In Defense of a Liberal Education.* W.W. Norton & Company. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=B4D8DF29-DA02-4A2F-9D31-372CD8075903&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=college_devaluation ">![](../images/rtbs-vol2-topic3-bookcover03-collegedevaluation.JPG)</a> | **[The College Devaluation Crisis: Market Disruption, Diminishing ROI, and an Alternative Future of Learning](https://go.nlb.gov.sg/m-link/details?type=ebook&id=B4D8DF29-DA02-4A2F-9D31-372CD8075903&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=college_devaluation)**<br/>Wingard, Jason. (2022). The College Devaluation Crisis: Market Disruption, Diminishing ROI, and an Alternative Future of Learning. Stanford, California: Stanford University Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=79499621-3B3F-4B36-AE31-A506C5AFB11C&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=redefining_competency">![](../images/rtbs-vol2-topic3-bookcover04-competencybasededu.JPG)!</a> | **[Redefining Competency Based Education: Competence for Life](https://go.nlb.gov.sg/m-link/details?type=ebook&id=79499621-3B3F-4B36-AE31-A506C5AFB11C&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=redefining_competency)**<br/>Morel, Nina Jones, and Bruce Griffiths. (2018). Redefining Competency Based Education: Competence for Life. New York: Business Expert Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=8CEC292F-8AC2-42FE-895B-A1811332D779&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=higher_expectations">![](../images/rtbs-vol2-topic3-bookcover05-higherexpectations.JPG)</a> | **[Higher Expectations: Can Colleges Teach Students What They Need To Know in the 21st Century?](https://go.nlb.gov.sg/m-link/details?type=ebook&id=8CEC292F-8AC2-42FE-895B-A1811332D779&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=higher_expectations)**<br/>Bok, Derek. (2020). Higher Expectations: Can Colleges Teach Students What They Need To Know in the 21st Century? Princeton: Princeton University Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the Audiobook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=E68FAA8C-3D0A-4F6D-8D4C-BA0F82CE1CAE&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=seven_radical_ideas ">![](../images/rtbs-vol2-topic3-bookcover06-sevenradicalideas.JPG)</a> | **[Seven Radical Ideas for the Future of Higher Education](https://go.nlb.gov.sg/m-link/details?type=ebook&id=E68FAA8C-3D0A-4F6D-8D4C-BA0F82CE1CAE&utm_source=online&utm_campaign=RTBS_Jan23&utm_medium=website&utm_content=seven_radical_ideas)**<br/>Macken, Claire and Julie Hare. (2021). Seven Radical Ideas for the Future of Higher Education. Singapore: Springer Nature Singapore.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
