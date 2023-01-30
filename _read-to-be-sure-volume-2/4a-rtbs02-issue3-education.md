@@ -90,9 +90,11 @@ Harvard Business Review. (2022, November 17). *[LinkedIn CEO Ryan Roslansky: Ski
 
 New York Academy of Sciences. (2021, January 8). [*Is Traditional Higher Ed Still Worth it?*](https://www.nyas.org/ebriefings/2021/is-a-traditional-college-degree-still-worth-it/?tab=is%20traditional%20higher%20ed%20still%20worth%20it) Retrieved 2023, January 11. 
 
-
+<br>''
 
 Yahoo! Finance (2021, May 29). *[https://finance.yahoo.com/video/50-recent-college-grads-feel-174628252.html?guccounter=1](https://finance.yahoo.com/video/50-recent-college-grads-feel-174628252.html?guccounter=1)* Retrieved 2023, January 11
+
+
 
 Cambridge University Press & Assessment. (2021, June 25). [*How to Build Lifelong Learning Skills for the 21st Century Workplace.*](https://www.cambridgeassessment.org.uk/blogs/lifelong-learning-skills-for-the-21st-century-workplace/) Retrieved 2023, January 11. 
 
@@ -102,53 +104,53 @@ Cambridge University Press & Assessment. (2021, June 25). [*How to Build Lifelon
 
 ### Websites
 
-**[The College Payoff: More Education Doesn’t Always Mean More Earnings](https://cewgeorgetown.wpenginepowered.com/wp-content/uploads/cew-college_payoff_2021-fr.pdf)**
+**[The College Payoff: More Education Doesn’t Always Mean More Earnings](https://cewgeorgetown.wpenginepowered.com/wp-content/uploads/cew-college_payoff_2021-fr.pdf)**<br>
 Carnevale, Anthony P., Ban Cheah, and Emma Wenzinger. (2021). *The College Payoff: More Education Doesn’t Always Mean More Earnings.* Georgetown University. Retrieved 2023, January 11. 
 
 
 
-**[The Emerging Degree Reset: How the Shift to Skills-Based Hiring Holds the Keys to Growing the U.S. Workforce at a Time of Talent Shortage](https://www.burningglassinstitute.org/s/The-Emerging-Degree-Reset-2202Final.pdf)**
+**[The Emerging Degree Reset: How the Shift to Skills-Based Hiring Holds the Keys to Growing the U.S. Workforce at a Time of Talent Shortage](https://www.burningglassinstitute.org/s/The-Emerging-Degree-Reset-2202Final.pdf)**<br>
 Fuller, Joseph B., Christina Langer, Julia Nitschke, Layla O'Kane, Matthew Sigelman, and Bledi Taska. (2022, February). The *Emerging Degree Reset: How the Shift to Skills-Based Hiring Holds the Keys to Growing the U.S. Workforce at a Time of Talent Shortage*. Burning Glass Institute. Retrieved 2023, January 11. 
 
 
 
-**[The Rise of Skills-Based Hiring and What it Means for Education](https://www.forbes.com/sites/tomvanderark/2021/06/29/the-rise-of-skills-based-hiring-and-what-it-means-for-education/?sh=604741c84fa7)**
+**[The Rise of Skills-Based Hiring and What it Means for Education](https://www.forbes.com/sites/tomvanderark/2021/06/29/the-rise-of-skills-based-hiring-and-what-it-means-for-education/?sh=604741c84fa7)**<br>
 Ark, Tom Vander (2021, June 21). *The Rise of Skills-Based Hiring and What it Means for Education.* Forbes. Retrieved 2023, January 11. 
 
 
 
-**[Why Skills - Not Degrees - Will Shape the Future of Work](https://www.weforum.org/agenda/2020/09/reckoning-for-skills/)**
+**[Why Skills - Not Degrees - Will Shape the Future of Work](https://www.weforum.org/agenda/2020/09/reckoning-for-skills/)**<br>
 Kumar, S. Ravi, and Steve George (2020, September 21). *Why Skills - Not Degrees - Will Shape the Future of Work.* World Economic Forum. Retrieved 2023, January 11.
 
 
 
-**[The Future of Jobs Report 2020](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)**
+**[The Future of Jobs Report 2020](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)**<br>
 The Future of Jobs Report 2020.* (2020, October). World Economic Forum. Retrieved 2023, January 11. 
 
 
 
-**[Changing Demand for Skills in Digital Economies and Societies](https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---ifp_skills/documents/publication/wcms_831372.pdf)**
+**[Changing Demand for Skills in Digital Economies and Societies](https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---ifp_skills/documents/publication/wcms_831372.pdf)**<br>
 Changing Demand for Skills in Digital Economies and Societies.* (2021, December 9). International Labour Organization. Retrieved 2023, January 11. 
 
 <br><br>
 
 ### Podcasts
 
-**[No Degree, No Problem for Growing Number of Employers](https://www.wsj.com/podcasts/whats-news/no-degree-no-problem-for-growing-number-of-employers/12f558ed-dabe-44ff-ad0e-f2409f2d106a)**
+**[No Degree, No Problem for Growing Number of Employers](https://www.wsj.com/podcasts/whats-news/no-degree-no-problem-for-growing-number-of-employers/12f558ed-dabe-44ff-ad0e-f2409f2d106a)**<br>
 The Wall Street Journal. (2022, December 2). *No Degree, No Problem for Growing Number of Employers.* Retrieved 2023, January 11.
 
-**[Google Expands College-Alternative Tech Skills Training](https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=15654155)** 
+**[Google Expands College-Alternative Tech Skills Training](https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=15654155)** <br>
 Harvard Business School. (2020, August 18). *Google Expands College-Alternative Tech Skills Training.* Retrieved 2023, January 11.
 
-**[More Skipping College Today, What Will that Mean for Tomorrow?](https://www.wsj.com/podcasts/as-we-work/more-skipping-college-today-what-will-that-mean-for-tomorrow/7a8bfe02-e82e-4595-9e35-4e1c8b45087d)**The Wall Street Journal. (2022, August 22). *More Skipping College Today, What Will that Mean for Tomorrow?* Retrieved 2023, January 11.
+**[More Skipping College Today, What Will that Mean for Tomorrow?](https://www.wsj.com/podcasts/as-we-work/more-skipping-college-today-what-will-that-mean-for-tomorrow/7a8bfe02-e82e-4595-9e35-4e1c8b45087d)**<br>The Wall Street Journal. (2022, August 22). *More Skipping College Today, What Will that Mean for Tomorrow?* Retrieved 2023, January 11.
 
 [**Joe Fuller on Enrollment Growth University: How Can Colleges Address the Middle Skills Gap While Readying Students for the Job Market?** ](https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=20556926)<br>Harvard Business School. (2021, September 21). *Joe Fuller on Enrollment Growth University.* Retrieved 2023, January 11.
 
-**[The Rise of Thinking Skills in Higher Education and the Workplace](https://www.cambridgeassessment.org.uk/news/audio/view/the-rise-of-thinking-skills-in-higher-education-and-the-workplace/)**
-Cambridge University Press & Assessment (2021, April 27). *The Rise of Thinking Skills in Higher Education and the Workplace*. Retrieved 2023, January 11.
+**[The Rise of Thinking Skills in Higher Education and the Workplace](https://www.cambridgeassessment.org.uk/news/audio/view/the-rise-of-thinking-skills-in-higher-education-and-the-workplace/)**<br>Cambridge University Press & Assessment (2021, April 27). *The Rise of Thinking Skills in Higher Education and the Workplace*. Retrieved 2023, January 11.
 
-**[“I Don’t Think the Country is Turning Away from College.”](https://freakonomics.com/podcast/i-dont-think-the-country-is-turning-away-from-college/)**
-Freakonomics (2022, May 4). *“I Don’t Think the Country is Turning Away from College.”* Retrieved 2023, January 11. 
+
+
+**[“I Don’t Think the Country is Turning Away from College.”](https://freakonomics.com/podcast/i-dont-think-the-country-is-turning-away-from-college/)**<br>Freakonomics (2022, May 4). *“I Don’t Think the Country is Turning Away from College.”* Retrieved 2023, January 11. 
 
 <br>
 
