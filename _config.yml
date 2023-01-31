@@ -55,6 +55,8 @@ collections:
         output: true
     hottopic-world-cup:
         output: true
+    issue3-education:
+        output: true
     nodes-at-parks:
         output: true
     tng:
