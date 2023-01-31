@@ -28,7 +28,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Education. What is the value of a university degree today? Is a degree still needed to succeed in the modern economy?
           url: /read-to-be-sure-volume-2/issue3-education/
-          image: /images/rtbs-vol2-iss3-web-banner.PNG
+          image: /images/rtbs-vol2-topic3-KV.PNG
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
