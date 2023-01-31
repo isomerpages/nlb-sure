@@ -24,13 +24,29 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'Read to be SURE, Volume 2 Issue 3 - Education'
+          title: 'Read to be SURE, Volume 2 Issue 3 - Higher Education'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Education. What is the value of a university degree today? Is a degree still needed to succeed in the modern economy?
           url: /read-to-be-sure-volume-2/issue3-education/
           image: /images/rtbs-vol2-topic3-KV.PNG
           alt: 'alt text'
           button: 'Read it now!'
+    - infopic:
+          title: 'NLB X ACJC Exhibition Debate: This House regrets the Metaverse'
+          subtitle: 'For everyone'
+          description: Join the debaters representing Anglo-Chinese Junior College (ACJC) West Zone Centre For Language Excellence as they hash it out so that you can make an informed decision before stepping into the metaverse.
+          url: /read-to-be-sure-volume-2/school-debate/
+          image: /images/RTBS-School-Debate-Header.png
+          alt: 'alt text'
+          button: 'Register now!'
+    - infopic:
+          title: 'Public Debate: Metaverse: A Welcome Possibility or Unrealistic Utopia?'
+          subtitle: 'For everyone'
+          description: Join our speakers as they deliberate and debate on the metaverse. Listen to the different perspectives and vote for the winning side!
+          url: /read-to-be-sure-volume-2/mainstage-debate/
+          image: /images/rtbs-vol2-mainstage-debate.PNG
+          alt: 'alt text'
+          button: 'Register now!'
     - infopic:
           title: 'Read to be SURE, Special Issue - World Cup 2022'
           subtitle: 'For everyone'
