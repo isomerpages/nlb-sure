@@ -1,7 +1,7 @@
 ---
-title: 'Education'
+title: 'Higher Education'
 permalink: /read-to-be-sure-volume-2/issue3-education/
-breadcrumb: 'Issue 3 - Education'
+breadcrumb: 'Issue 3 - Higher Education'
 image: ../images/rtbs-vol2-iss3-web-banner.PNG
 ---
 
