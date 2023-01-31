@@ -37,9 +37,8 @@ Workers need a holistic skill set composed of [cognitive skills, socio-emotional
 
 Let's hear our guest speakers weigh in on this issue:
 
-** Placeholder for Main Video **
-
-![](../images/rtbs-vol2-iss3-main-video-placeholder.png)
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oTRg_XZbUYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 
 
