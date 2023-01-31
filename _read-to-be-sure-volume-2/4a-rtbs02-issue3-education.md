@@ -17,9 +17,8 @@ Many individuals who obtain a degree acquire both [economic and social benefits]
 
 However, having higher education qualifications is not a guarantee of success or careers in desired fields. There are signs of [skill mismatch](https://www.econstor.eu/bitstream/10419/202692/1/dp12346.pdf) in the job market with instances of graduates being [over-educated and over-skilled](https://wol.iza.org/articles/overeducation-skill-mismatches-and-labor-market-outcomes-for-college-graduates/long) for the jobs they eventually take on. Some employers have started to [distrust university qualifications](https://www.oecd-ilibrary.org/sites/a44c9bad-en/index.html?itemId=/content/component/a44c9bad-en) due to changing skill demand accelerated by automation, digitisation, and artificial intelligence while the information and communication technology sector has developed its own [alternative credentialing system](https://www.oecd-ilibrary.org/sites/a44c9bad-en/index.html?itemId=/content/component/a44c9bad-en). It also seems that thriving in the new economy or finding success may not be entirely dependent on a university qualifications with [more jobs opening up to those without a bachelor’s degree](https://www.washingtonpost.com/education/2022/07/08/jobs-no-college-degrees/). 
 
-** Placeholder for trailer video **
-
-![](../images/rtbs-vol2-iss3-video-placeholder.png)
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XxDrSHLIF94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <a name="perspectives"></a>
 
