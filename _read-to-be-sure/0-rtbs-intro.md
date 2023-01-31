@@ -12,6 +12,10 @@ breadcrumb: 'What is Read to be SURE?'
 
   - [Issue 2 - Metaverse](/read-to-be-sure-volume-2/issue2-metaverse/)
 
+  - [Special Issue: World Cup](/read-to-be-sure-volume-2/special-issue1-worldcup/)
+  
+  - [Issue 3 - Higher Education](/read-to-be-sure-volume-2/issue3-education/)
+  
     
   
   **Volume 1:**

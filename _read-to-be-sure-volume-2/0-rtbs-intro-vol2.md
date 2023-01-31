@@ -9,8 +9,18 @@ breadcrumb: 'What is Read to be SURE?'
 **Volume 2:**
 
 - [Issue 1 - Gender Equality](/read-to-be-sure-volume-2/issue1-gender-equality/)
+
 - [Issue 2 - Metaverse](/read-to-be-sure-volume-2/issue2-metaverse/)
+
 - [Special Issue: World Cup](/read-to-be-sure-volume-2/special-issue1-worldcup/)
+
+- [Issue 3 - Higher Education](/read-to-be-sure-volume-2/issue3-education/)
+
+- [NLB X ACJC Exhibition Debate: This House regrets the Metaverse](/read-to-be-sure-volume-2/school-debate/)
+
+- [[Public Debate] Metaverse: A Welcome Possibility or Unrealistic Utopia?](/read-to-be-sure-volume-2/school-debate/)
+
+  
 
 **Volume 1:**
 
@@ -21,7 +31,8 @@ breadcrumb: 'What is Read to be SURE?'
 
 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/erOZVTrw5Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
