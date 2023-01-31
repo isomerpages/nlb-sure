@@ -24,6 +24,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Read to be SURE, Volume 2 Issue 3 - Education'
+          subtitle: 'For everyone'
+          description: In this issue of Read to be SURE, explore multiple perspectives about Education. What is the value of a university degree today? Is a degree still needed to succeed in the modern economy?
+          url: /read-to-be-sure-volume-2/issue3-education/
+          image: /images/rtbs-vol2-iss3-web-banner.PNG
+          alt: 'alt text'
+          button: 'Read it now!'
+    - infopic:
           title: 'Read to be SURE, Special Issue - World Cup 2022'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about the World Cup. Is there more to it than football?
