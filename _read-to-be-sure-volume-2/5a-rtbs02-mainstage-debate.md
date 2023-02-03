@@ -9,7 +9,11 @@ image: ../images/rtbs-vol2-mainstage-debate.PNG
 
 **Join our speakers as they deliberate and debate on the metaverse. Listen to the different perspectives and vote for the winning side!**
 
-***REGISTER FOR THE IN-PERSON EVENT AT LIBRARY@HARBOURFRONT [HERE](https://www.eventbrite.sg/e/metaverse-a-welcome-possibility-or-unrealistic-utopia-in-person-tickets-528903924877).***
+***REGISTER FOR:***
+
+***THE IN-PERSON EVENT AT LIBRARY@HARBOURFRONT [HERE](https://www.eventbrite.sg/e/metaverse-a-welcome-possibility-or-unrealistic-utopia-in-person-tickets-528903924877);***
+
+***THE VIRTUAL EVENT VIA ZOOM [HERE](https://www.eventbrite.sg/e/virtual-metaverse-a-welcome-possibility-or-unrealistic-utopia-tickets-529949702827?aff=odcleoeventsincollection)***
 
 
 
