@@ -91,11 +91,12 @@ Enjoy reading with a cup of coffee at our BookNodes! From 8 March 2023, head dow
 
 **Locations:**
 
-Yong Siew Toh Conservatory of Music: 3 Conservatory Drive. Level 1 Lounge. Singapore 117376
+- Yong Siew Toh Conservatory of Music: 3 Conservatory Drive. Level 1 Lounge. Singapore 117376
 
-Temasek Shophouse: 28 Orchard Road Level 1 Singapore 238832
+- Temasek Shophouse: 28 Orchard Road Level 1 Singapore 238832
 
-First Story: 149 Serangoon North Avenue 1, #01-917, Singapore 550149
+- First Story: 149 Serangoon North Avenue 1, #01-917, Singapore 550149
+
 
 
 
