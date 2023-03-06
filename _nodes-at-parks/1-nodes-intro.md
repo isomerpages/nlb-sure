@@ -24,13 +24,12 @@ Look out for it and scan the QR codes to read more about the different perspecti
 
 
 <hr>
-
-
 <div>
 <div class="row is-multiline">
     <div class="col is-one-third-desktop is-one-third-ta
 blet">
 <a href="#1"><img src="../images/rtbs-nodes-button1.jpg" alt="nodes button 1"></a>
+</div>
 	<div class="col is-one-third-desktop is-one-third-tablet"><a href="#6"><img src="../images/rtbs-nodes-button6.jpg" alt="nodes button 6"></a>
     </div>
     <div class="col is-one-third-desktop is-one-third-tablet">
