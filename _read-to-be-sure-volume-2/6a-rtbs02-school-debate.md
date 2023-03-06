@@ -9,7 +9,7 @@ image: ../images/RTBS-School-Debate-Header.png
 
 
 
-***Register for this event held at Anglo-Chinese Junior College [HERE](https://form.gov.sg/63bbe70ee5155d0012f82301).***
+***This event has ended***
 
 Is the metaverse a virtual paradise?
 

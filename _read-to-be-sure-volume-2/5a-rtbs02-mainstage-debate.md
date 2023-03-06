@@ -12,12 +12,15 @@ image: ../images/rtbs-vol2-mainstage-debate.PNG
 Register for:
 
 - The in-person event at library@harbourfront [HERE](https://www.eventbrite.sg/e/metaverse-a-welcome-possibility-or-unrealistic-utopia-in-person-tickets-528903924877)
-
 - The virtual event held via Zoom  [HERE](https://www.eventbrite.sg/e/virtual-metaverse-a-welcome-possibility-or-unrealistic-utopia-tickets-529949702827?aff=odcleoeventsincollection)
 
-  
 
-  <hr>
+
+***Note: Due to unforeseen circumstances, we have a new speaker, Soh Wan Wei, who will be joining us in this debate programme in place of Winston Ng.***
+
+
+
+<hr>
 
 The metaverse promises a greater convergence of our physical and digital worlds as well as a potential social equaliser.
 
@@ -29,13 +32,17 @@ Join our speakers as they deliberate and debate on the metaverse. Listen to the 
 
 **About the debaters:**
 
+**Soh Wan Wei**          
+
+Soh Wan Wei is a Singaporean tech futurist, ecosystem builder and thought leader in the Web3.0 and Metaverse space. Passionate about open source movements and education, she is also the founder and CEO of IKIGUIDE Metaverse Collective (IMC) and Openmetaverse.asia. IKIGUIDE Metaverse Collective counts NYSE-listed Nutanix, Hitachi, Crypto.com and non-profit alliance ChangemakersXchange as some of the key partners and clients in its portfolio.  Wan Wei identifies herself as a global citizen and has previously spent four years living in Europe and a year in Japan. An experienced community advocate, Wan Wei has spoken at more than 100 reputable Web3.0, metaverse and A.I. industry conferences and hackathons globally.
+
+
+
 **Dr Khoo Eng Tat**
 
 Dr Khoo is a principal investigator of the Immersive Reality Lab at the National University of Singapore. Beyond his academic interest in virtual, augmented and mixed reality, his wide industry experience includes serving as a founding member of the Holomedicine Association and being a startup mentor at Pixel.
 
-**Winston Ng**
 
-Winston is the Co-founder & CEO of Finute, an award-winning metaverse technology edutainment company that develops immersive virtual experiences. Winston led the development of the National Day Parade metaverse in 2022, garnering over 156,000 users in under 3 months.
 
 **Keith B. Carter**
 
