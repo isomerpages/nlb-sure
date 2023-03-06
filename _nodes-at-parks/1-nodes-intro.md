@@ -25,6 +25,7 @@ Look out for it and scan the QR codes to read more about the different perspecti
 
 <hr>
 
+
 <div>
 <div class="row is-multiline">
     <div class="col is-one-third-desktop is-one-third-ta
@@ -35,6 +36,7 @@ blet">
     <div class="col is-one-third-desktop is-one-third-tablet">
 <a href="#7"><img src="../images/rtbs-nodes-button7.jpg" alt="nodes button 2"></a>
 </div></div></div>
+
 
 
 
