@@ -30,10 +30,6 @@ Look out for it and scan the QR codes to read more about the different perspecti
     <div class="col is-one-third-desktop is-one-third-ta
 blet">
 <a href="#1"><img src="../images/rtbs-nodes-button1.jpg" alt="nodes button 1"></a>
-</div>
-    <div class="col is-one-third-desktop is-one-third-tablet">
-<a href="#2"><img src="../images/rtbs-nodes-button2.jpg" alt="nodes button 2"></a>
-</div>
 	<div class="col is-one-third-desktop is-one-third-tablet"><a href="#6"><img src="../images/rtbs-nodes-button6.jpg" alt="nodes button 6"></a>
     </div>
     <div class="col is-one-third-desktop is-one-third-tablet">
@@ -57,18 +53,6 @@ blet">
 Ever wondered how your daily purchasing decisions impact the environment? Don’t miss this opportunity to browse our “supermarket” aisles and learn about 8 different topics on Sustainability. The items on display showcase interesting products that are conceptual ideas or existing products by green entrepreneurs. Learn about topics such as single-use plastics, composting, sustainable food production and more. 
 
 The **[Read to be Sure](/read-to-be-sure/intro/)** component of the Sustainability Showcase provides multiple perspectives to sustainability issues so you can see the big picture. Don’t forget to vote for your preferred perspective too!  Scan the QR codes on the display panels to read more.
-
-<HR>
-
-<a name="2"></a>
-
-**<font size=5>eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz</font>**
-
-Have you read up on all 8 Sustainability questions and accompanying eResources at our Showcase? How well informed are you about the topic of Sustainability now? Put your knowledge to the test by participating in our quiz. Participants who score 6 out of 8 questions correctly will get access to promo codes for our Sustainability Showcase participating partner’s products. Try our quiz today! 
-
-The quiz is open from 14 October 2022 to 26 February 2023. <a href="https://go.gov.sg/sustainabilityshowcasequiz-tcs"  target="_blank">Terms and Conditions</a> apply.
-
-Click **<a href="https://go.gov.sg/sustainabilityshowcasequiz4"  target="_blank"> here</A>** to start! 
 
 
 
