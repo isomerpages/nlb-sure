@@ -24,6 +24,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Read to be SURE, Volume 2 Issue 4 - Work Revolution'
+          subtitle: 'For everyone'
+          description: In this issue of Read to be SURE, explore multiple perspectives about the workplace. Are we experiencing a work revolution? Will AI replace human workers? Are flexible working arrangements here to stay?
+          url: /read-to-be-sure-volume-2/issue4-workrevolution/
+          image: /images/rtbs-vol2-topic4-KV.PNG
+          alt: 'alt text'
+          button: 'Read it now!'
+    - infopic:
           title: 'Read to be SURE, Volume 2 Issue 3 - Higher Education'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Education. What is the value of a university degree today? Is a degree still needed to succeed in the modern economy?
@@ -31,14 +39,6 @@ sections:
           image: /images/rtbs-vol2-topic3-KV.PNG
           alt: 'alt text'
           button: 'Read it now!'
-    - infopic:
-          title: 'Public Debate: Metaverse: A Welcome Possibility or Unrealistic Utopia?'
-          subtitle: 'For everyone'
-          description: Join our speakers as they deliberate and debate on the metaverse. Listen to the different perspectives and vote for the winning side!
-          url: /read-to-be-sure-volume-2/mainstage-debate/
-          image: /images/rtbs-vol2-mainstage-debate.PNG
-          alt: 'alt text'
-          button: 'Register now!'
     - infopic:
           title: 'Read to be SURE, Special Issue - World Cup 2022'
           subtitle: 'For everyone'
