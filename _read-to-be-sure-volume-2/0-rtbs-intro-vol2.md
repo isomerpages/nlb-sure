@@ -16,6 +16,8 @@ breadcrumb: 'What is Read to be SURE?'
 
 - [Issue 3 - Higher Education](/read-to-be-sure-volume-2/issue3-education/)
 
+- [Issue 4 - Work Revolution](/read-to-be-sure-volume-2/issue4-workrevolution/)
+
 - [NLB X ACJC Exhibition Debate: This House regrets the Metaverse](/read-to-be-sure-volume-2/school-debate/)
 
 - [[Public Debate] Metaverse: A Welcome Possibility or Unrealistic Utopia?](/read-to-be-sure-volume-2/school-debate/)
