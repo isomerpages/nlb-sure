@@ -19,7 +19,7 @@ An [alarming 85% of employees](https://www.hcamag.com/asia/news/general/85-of-si
 
  
 
-So, what’s behind this troubling trend? Some have point to the [persistence of traditional 9-to-5 office culture](https://vulcanpost.com/818086/four-day-work-week-catch-on-in-singapore/) in Singapore and challenges of balancing [organisational and employee needs](https://www.businesstimes.com.sg/videos/is-a-four-day-work-week-ever-possible-in-singapore/6322070094112). As [hustle culture](https://www.mili.eu/milieu-conversations/finding-the-balance-understanding-hustle-culture-and-its-impact-on-mental-health-and-well-being) and quiet quitting continue to rise, the call to action for companies to prioritize employee mental health and establish work-life balance has never been more urgent. A revolution at work is brewing, and only time will tell if companies will rise to the challenge.
+So, what’s behind this troubling trend? Some have pointed to the [persistence of traditional 9-to-5 office culture](https://vulcanpost.com/818086/four-day-work-week-catch-on-in-singapore/) in Singapore and challenges of balancing [organisational and employee needs](https://www.businesstimes.com.sg/videos/is-a-four-day-work-week-ever-possible-in-singapore/6322070094112). As [hustle culture](https://www.mili.eu/milieu-conversations/finding-the-balance-understanding-hustle-culture-and-its-impact-on-mental-health-and-well-being) and quiet quitting continue to rise, the call to action for companies to prioritise employee mental health and establish work-life balance has never been more urgent. A revolution at work is brewing, and only time will tell if companies will rise to the challenge.
 
  
 
