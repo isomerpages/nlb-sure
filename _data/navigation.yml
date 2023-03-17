@@ -19,7 +19,7 @@ links:
             - title: 'Teachers’ workshop'
               url: /tours-and-workshops/teachers-cfn-workshop/
     - title: 'Read to be Sure'
-      url: /read-to-be-sure-volume-2/issue3-education/
+      url: /read-to-be-sure-volume-2/issue4-workrevolution/
       false_collection: true
       sublinks:
             - title: 'What is Read to be SURE?'
@@ -32,6 +32,8 @@ links:
               url: /read-to-be-sure-volume-2/special-issue1-worldcup/
             - title: 'Volume 2, Issue 3: Higher Education'
               url: /read-to-be-sure-volume-2/issue3-education/
+            - title: 'Volume 2, Issue 4: Work Revolution'
+              url: /read-to-be-sure-volume-2/issue4-workrevolution/
             - title: 'Volume 2, NLB X ACJC Exhibition Debate'
               url: /read-to-be-sure-volume-2/school-debate/
             - title: 'Volume 2, Public Debate'
