@@ -17,7 +17,7 @@ Due to popular demand, the Nodes at Parks: Sustainability Showcase will be exten
 
 1) **Changi General Hospital** Main Building atrium: 27 February to 13 March 2023, Integrated Building atrium: 14 to 22 March 2023
 
-2) **Plaza Singapura** Near Oldham Lane Entrance: 24 March to 16 April 2023
+2) **Plaza Singapura** Near Oldham Lane Entrance: 24 March to 13 April 2023
 
 Look out for it and scan the QR codes to read more about the different perspectives of Sustainability issues! 
 
