@@ -24,11 +24,11 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'Read to be SURE, Volume 2 Issue 4 - Work Revolution'
+          title: 'A.I. Chatbots: The Good, The Bad, and The Future'
           subtitle: 'For everyone'
-          description: In this issue of Read to be SURE, explore multiple perspectives about the workplace. Are we experiencing a work revolution? Will AI replace human workers? Are flexible working arrangements here to stay?
-          url: /read-to-be-sure-volume-2/issue4-workrevolution/
-          image: /images/rtbs-vol2-topic4-KV.PNG
+          description: In this panel discussion organised by NLB, learn from industry experts on the role of A.I. chatbots in the current and future world.
+          url: /blog/tech/TECH0005
+          image: /images/banner-26Apr2023-AI-webinar.png
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
