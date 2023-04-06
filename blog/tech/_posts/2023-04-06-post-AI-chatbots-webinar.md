@@ -1,6 +1,6 @@
 ---
 title: 'A.I. Chatbots: The Good, The Bad, and The Future'
-date: 2023-04-06T10:00:00.000Z
+date: 2023-04-06T08:00:00.000Z
 permalink: /blog/tech/TECH0005
 image: ../../../images/banner-26Apr2023-AI-webinar.png
 ---
