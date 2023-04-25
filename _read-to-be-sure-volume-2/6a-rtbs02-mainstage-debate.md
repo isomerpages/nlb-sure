@@ -9,12 +9,7 @@ image: ../images/rtbs-vol2-mainstage-debate.PNG
 
 **Join our speakers as they deliberate and debate on the metaverse. Listen to the different perspectives and vote for the winning side!**
 
-Register for:
-
-- The in-person event at library@harbourfront [HERE](https://www.eventbrite.sg/e/metaverse-a-welcome-possibility-or-unrealistic-utopia-in-person-tickets-528903924877)
-- The virtual event held via Zoom  [HERE](https://www.eventbrite.sg/e/virtual-metaverse-a-welcome-possibility-or-unrealistic-utopia-tickets-529949702827?aff=odcleoeventsincollection)
-
-
+This event has ended.
 
 ***Note: Due to unforeseen circumstances, we have a new speaker, Soh Wan Wei, who will be joining us in this debate programme in place of Winston Ng.***
 
