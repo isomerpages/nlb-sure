@@ -17,7 +17,7 @@ Download the Infographic **[HERE](https://go.gov.sg/sure-phase1-adv-info)**.
 
 ![](../images/curriculum-part1-infographic-adv.PNG)
 
-## 
+
 
 ### Module IL2 - Understand
 
