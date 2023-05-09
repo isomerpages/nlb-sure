@@ -7,6 +7,8 @@ sections:
           dropdown:
               title: null
               options:
+                    - title: 'check out the new S.U.R.E. Curriculum for Schools'
+                      url: /resources/school-curriculum/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
                     - title: 'find resources on combating fake news'
