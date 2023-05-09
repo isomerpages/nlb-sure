@@ -1,8 +1,8 @@
 ---
-title: 'Intermediate Level'
+title: 'S.U.R.E. framework (Intermediate)'
 permalink: /resources/school-curriculum/intermediate/part1-sure/
-breadcrumb: 'Intermediate Level'
-third_nav_title: 'Intermediate Level'
+breadcrumb: 'S.U.R.E. framework (Intermediate)'
+third_nav_title: 'S.U.R.E. framework (Intermediate)'
 
 ---
 

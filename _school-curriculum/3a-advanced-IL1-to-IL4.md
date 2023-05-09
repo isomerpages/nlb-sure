@@ -1,8 +1,8 @@
 ---
-title: 'Advanced Level'
+title: 'S.U.R.E. framework (Advanced)'
 permalink: /resources/school-curriculum/advanced/part1-sure/
-breadcrumb: 'Advanced Level'
-third_nav_title: 'Advanced Level'
+breadcrumb: 'S.U.R.E. framework (Advanced)'
+third_nav_title: 'S.U.R.E. framework (Advanced)'
 
 ---
 

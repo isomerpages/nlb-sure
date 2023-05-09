@@ -1,8 +1,8 @@
 ---
-title: 'Basic Level'
+title: 'S.U.R.E. framework (Basic)'
 permalink: /resources/school-curriculum/basic/part1-sure/
-breadcrumb: 'Basic Level'
-third_nav_title: 'Basic Level'
+breadcrumb: 'S.U.R.E. framework (Basic)'
+third_nav_title: 'S.U.R.E. framework (Basic)'
 
 ---
 
