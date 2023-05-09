@@ -1,7 +1,7 @@
 ---
 title: 'What Popular Culture Teaches Us About the Spread of False Information'
 date: 2022-08-30T08:00:00.000Z
-permalink: /blog/tech/TECH0004
+permalink: /blog/tech/tech0004/
 image: ../../../images/blog-tech4a.jpg
 ---
 

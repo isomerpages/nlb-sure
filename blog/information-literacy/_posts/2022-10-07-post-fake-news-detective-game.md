@@ -1,7 +1,7 @@
 ---
 title: '(Video) Inside video game creation: IN-cube’s Fake News Detective game'
 date: 2022-10-07T00:00:00.000Z
-permalink: /blog/information-literacy/IL00010
+permalink: /blog/information-literacy/il00010/
 
 ---
 

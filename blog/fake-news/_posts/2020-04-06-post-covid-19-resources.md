@@ -1,7 +1,7 @@
 ---
 title: 'COVID-19 Resources'
 date: 2020-04-05T00:00:00.000Z
-permalink: /blog/fake-news/FN0001
+permalink: /blog/fake-news/fn0001/
 
 ---
 

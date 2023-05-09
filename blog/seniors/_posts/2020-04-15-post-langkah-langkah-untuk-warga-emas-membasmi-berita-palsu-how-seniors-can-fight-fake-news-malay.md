@@ -1,7 +1,7 @@
 ---
 title: 'Langkah-langkah untuk warga emas membasmi berita palsu - How seniors can fight fake news (Malay)'
 date: 2020-04-15T00:00:00.000Z
-permalink: /blog/seniors/SN0019
+permalink: /blog/seniors/sn0019/
 
 ---
 

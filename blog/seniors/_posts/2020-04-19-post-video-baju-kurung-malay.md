@@ -1,7 +1,7 @@
 ---
 title: 'Video - Baju Kurung (Malay)'
 date: 2020-04-19T00:00:00.000Z
-permalink: /blog/seniors/SN0011
+permalink: /blog/seniors/sn0011/
 
 ---
 

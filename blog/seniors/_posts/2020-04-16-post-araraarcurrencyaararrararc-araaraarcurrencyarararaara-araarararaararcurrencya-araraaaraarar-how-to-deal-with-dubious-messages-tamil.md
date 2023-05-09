@@ -1,7 +1,7 @@
 ---
 title: 'சந்தேகமான செய்திகளைக் கையாள்வது எப்படி - How To Deal With Dubious Messages (Tamil)'
 date: 2020-04-16T00:00:00.000Z
-permalink: /blog/seniors/SN0016
+permalink: /blog/seniors/sn0016/
 
 ---
 

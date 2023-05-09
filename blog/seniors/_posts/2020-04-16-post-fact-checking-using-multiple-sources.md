@@ -1,7 +1,7 @@
 ---
 title: 'Fact-Checking Using Multiple Sources'
 date: 2020-04-16T00:00:00.000Z
-permalink: /blog/seniors/SN0004
+permalink: /blog/seniors/sn0004/
 
 ---
 

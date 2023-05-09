@@ -1,6 +1,6 @@
 ---
 title: Audience
-permalink: /resources/audience
+permalink: /resources/audience/
 breadcrumb: Audience
 
 ---

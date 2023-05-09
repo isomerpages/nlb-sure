@@ -1,7 +1,7 @@
 ---
 title: '(Video) Machines Against Misinformation'
 date: 2022-10-28T00:00:00.000Z
-permalink: /blog/information-literacy/IL00017
+permalink: /blog/information-literacy/il00017/
 
 ---
 

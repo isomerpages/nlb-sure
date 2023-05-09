@@ -1,7 +1,7 @@
 ---
 title: '银发族 S.U.R.E. 技能系列: 如何避免受假信息影响'
 date: 2021-07-29T00:00:00.000Z
-permalink: /blog/fake-news/FN0011
+permalink: /blog/fake-news/fn0011/
 image: ../../../images/sure-skills-seriesseniors1-chinese.jpg
 ---
 

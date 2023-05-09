@@ -1,7 +1,7 @@
 ---
 title: 'News Literacy (infographic)'
 date: 2022-09-09T00:00:00.000Z
-permalink: /blog/information-literacy/IL00007
+permalink: /blog/information-literacy/il00007/
 
 ---
 

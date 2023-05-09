@@ -1,7 +1,7 @@
 ---
 title: 'S.U.R.E. Skills Series for Seniors: Safeguarding Your Mind From Fake News'
 date: 2021-07-28T00:00:00.000Z
-permalink: /blog/fake-news/FN0010
+permalink: /blog/fake-news/fn0010/
 image: ../../../images//sure-skills-series-seniors1.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'S.U.R.E Skills Series workshop - Safeguarding Your Mind Against Fake News'
 date: 2021-08-24T00:00:00.000Z
-permalink: /blog/fake-news/FN0012
+permalink: /blog/fake-news/fn0012/
 image: ../../../images/sure-skills-series-Sep2021.JPG
 ---
 

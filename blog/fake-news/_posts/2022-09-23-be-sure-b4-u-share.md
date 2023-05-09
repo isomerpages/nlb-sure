@@ -1,7 +1,7 @@
 ---
 title: 'Be S.U.R.E. before you share: Breaking news'
 date: 2022-09-23T00:08:00.000Z
-permalink: /blog/fake-news/FN0027
+permalink: /blog/fake-news/fn0027/
 image: ../../../images/breaking-news-video.JPG
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Identifying Credible Health Information (Malay)'
 date: 2020-08-21T00:00:00.000Z
-permalink: /blog/information-literacy/IL00005
+permalink: /blog/information-literacy/il00005/
 
 ---
 

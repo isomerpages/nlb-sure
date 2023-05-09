@@ -1,7 +1,7 @@
 ---
 title: 'Know Your Festival - Christmas'
 date: 2020-07-01T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00009
+permalink: /blog/home-based-learning/dd00009/
 
 ---
 

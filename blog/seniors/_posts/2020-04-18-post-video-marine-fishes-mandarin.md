@@ -1,7 +1,7 @@
 ---
 title: 'Video - Marine Fishes (Mandarin)'
 date: 2020-04-18T00:00:00.000Z
-permalink: /blog/seniors/SN0008
+permalink: /blog/seniors/sn0008/
 
 ---
 

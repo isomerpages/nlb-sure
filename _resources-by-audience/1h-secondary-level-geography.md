@@ -1,6 +1,6 @@
 ---
 title: 'Secondary Level - Geography'
-permalink: /resources/audience/teachers-and-students/secondary-level-geography
+permalink: /resources/audience/teachers-and-students/secondary-level-geography/
 breadcrumb: 'Secondary Level - Geography'
 third_nav_title: 'For Teachers & Students'
 

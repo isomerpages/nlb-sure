@@ -1,7 +1,7 @@
 ---
 title: 'COVID-19 Quiz'
 date: 2020-04-23T00:00:00.000Z
-permalink: /blog/fake-news/FN0003
+permalink: /blog/fake-news/fn0003/
 
 ---
 

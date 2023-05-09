@@ -1,12 +1,12 @@
 ---
 title: Presentations
-permalink: /resources/format/presentations
+permalink: /resources/format/presentations/
 breadcrumb: Presentations
 
 ---
 
 
-**[How to be S.U.R.E. of your COVID-19 Information](/blog/fake-news/FN0005)**
+**[How to be S.U.R.E. of your COVID-19 Information](/blog/fake-news/fn0005)**
 
 Learn how to apply the S.U.R.E. steps to dubious health advice about COVID-19. 
 

@@ -1,7 +1,7 @@
 ---
 title: 'What is the truth behind Chinese New Year superstitions?'
 date: 2020-07-01T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00007
+permalink: /blog/home-based-learning/dd00007/
 
 ---
 

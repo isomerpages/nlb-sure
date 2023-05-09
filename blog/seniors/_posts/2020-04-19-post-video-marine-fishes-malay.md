@@ -1,7 +1,7 @@
 ---
 title: 'Video - Marine Fishes (Malay)'
 date: 2020-04-19T00:00:00.000Z
-permalink: /blog/seniors/SN0010
+permalink: /blog/seniors/sn0010/
 
 ---
 

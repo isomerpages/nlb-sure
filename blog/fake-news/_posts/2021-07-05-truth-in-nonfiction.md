@@ -1,7 +1,7 @@
 ---
 title: 'Story Books: What’s “Truth” in a Non-Fiction Text?'
 date: 2021-07-05T00:00:00.000Z
-permalink: /blog/fake-news/FN0009
+permalink: /blog/fake-news/fn0009/
 image: ../../../images/102503256_s.jpg
 
 ---

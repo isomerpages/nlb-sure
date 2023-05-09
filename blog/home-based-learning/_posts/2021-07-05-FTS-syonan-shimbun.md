@@ -1,7 +1,7 @@
 ---
 title: 'The Syonan Shimbun'
 date: 2021-07-05T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00014
+permalink: /blog/home-based-learning/dd00014/
 
 ---
 

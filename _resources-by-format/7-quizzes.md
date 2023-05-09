@@ -1,6 +1,6 @@
 ---
 title: Quizzes
-permalink: /resources/format/quizzes
+permalink: /resources/format/quizzes/
 breadcrumb: Quizzes
 
 ---

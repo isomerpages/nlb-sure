@@ -1,6 +1,6 @@
 ---
 title: 'Secondary Level- Social Studies'
-permalink: /resources/audience/teachers-and-students/secondary-level-social-studies
+permalink: /resources/audience/teachers-and-students/secondary-level-social-studies/
 breadcrumb: 'Secondary Level - Social Studies'
 third_nav_title: 'For Teachers & Students'
 

@@ -1,7 +1,7 @@
 ---
 title: '银发族S.U.R.E技能系列：如何查证图像和影像的真伪'
 date: 2021-10-21T00:00:00.000Z
-permalink: /blog/fake-news/FN0016
+permalink: /blog/fake-news/fn0016/
 image: ../../../images/sure-skills-seriesseniors3-chinese.jpg
 ---
 

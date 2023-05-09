@@ -1,7 +1,7 @@
 ---
 title: 'Ace Your Project Work'
 date: 2020-04-07T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00003
+permalink: /blog/home-based-learning/dd00003/
 
 ---
 

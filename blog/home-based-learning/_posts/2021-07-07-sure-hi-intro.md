@@ -1,7 +1,7 @@
 ---
 title: 'Be a S.U.R.E. Historical Investigator'
 date: 2021-07-07T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00016
+permalink: /blog/home-based-learning/dd00016/
 
 ---
 

@@ -30,7 +30,7 @@ For more information about our public runs, please refer to the following:
 
 
 - **银发族S.U.R.E.技能系列**
-  - [第一部分:  如何查证电邮和短信的真伪 （2022年6月16日，下午三时至四时）](/blog/fake-news/FN0023)
+  - [第一部分:  如何查证电邮和短信的真伪 （2022年6月16日，下午三时至四时）](/blog/fake-news/fn0023)
   - [第二部分:  如何查证图像和影像的真伪（2022年7月20日，下午三时至四时）](../../blog/fake-news/FN0024)
   - [第三部分:  如何识破 “深度伪造” 图像和影像（2022年8月18日，下午三时至四时)](../../blog/fake-news/FN0025)
 

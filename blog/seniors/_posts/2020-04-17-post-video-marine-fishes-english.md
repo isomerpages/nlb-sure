@@ -1,7 +1,7 @@
 ---
 title: 'Video - Marine Fishes (English)'
 date: 2020-04-17T00:00:00.000Z
-permalink: /blog/seniors/SN0006
+permalink: /blog/seniors/sn0006/
 
 ---
 

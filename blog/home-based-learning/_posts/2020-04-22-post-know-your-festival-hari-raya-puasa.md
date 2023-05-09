@@ -1,7 +1,7 @@
 ---
 title: 'Know Your Festival - Hari Raya Puasa'
 date: 2020-04-22T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00004
+permalink: /blog/home-based-learning/dd00004/
 
 ---
 

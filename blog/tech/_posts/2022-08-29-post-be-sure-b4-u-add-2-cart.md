@@ -1,7 +1,7 @@
 ---
 title: 'Be S.U.R.E. before you “add to cart”'
 date: 2022-08-29T00:00:00.000Z
-permalink: /blog/tech/TECH0002
+permalink: /blog/tech/tech0002/
 image: ../../../images/ecommerce-g0a4095276_1920.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Primary Level - Social Studies'
-permalink: /resources/audience/teachers-and-students/primary-level-social-studies
+permalink: /resources/audience/teachers-and-students/primary-level-social-studies/
 breadcrumb: 'Social Studies'
 third_nav_title: 'For Teachers & Students'
 
@@ -11,13 +11,13 @@ third_nav_title: 'For Teachers & Students'
 
 Learn more about different cultures in the resources below. 
 
-[What is the truth behind Chinese New Year superstitions?](/blog/home-based-learning/DD00007)
+[What is the truth behind Chinese New Year superstitions?](/blog/home-based-learning/dd00007)
 
 [Know Your Festival: Hari Raya Puasa](/blog/home-based-learning/dd00004)
 
-[Know Your Festival: Deepavali](/blog/home-based-learning/DD00008)
+[Know Your Festival: Deepavali](/blog/home-based-learning/dd00008)
 
-[Know Your Festival: Christmas](/blog/home-based-learning/DD00009)
+[Know Your Festival: Christmas](/blog/home-based-learning/dd00009)
 
 [Singapore Costumes](/infographic/UPDATED19 Singapore Costumes.pdf)
 

@@ -1,7 +1,7 @@
 ---
 title: 'Letters from Sir Thomas Stamford Raffles to Lord Lansdowne'
 date: 2021-07-06T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00015
+permalink: /blog/home-based-learning/dd00015/
 
 ---
 

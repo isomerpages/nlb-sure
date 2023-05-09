@@ -1,6 +1,6 @@
 ---
 title: 'Time of Your Life articles'
-permalink: /resources/audience/seniors/time-of-your-life-articles
+permalink: /resources/audience/seniors/time-of-your-life-articles/
 breadcrumb: 'Time of Your Life articles'
 third_nav_title: 'For Seniors'
 

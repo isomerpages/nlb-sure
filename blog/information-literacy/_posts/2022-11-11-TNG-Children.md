@@ -1,7 +1,7 @@
 ---
 title: 'Reading The News: 	An Interactive Tour and Workshop for Kids Aged 9 to 12'
 date: 2022-11-11T00:00:00.000Z
-permalink: /blog/information-literacy/IL00018
+permalink: /blog/information-literacy/il00018/
 
 ---
 

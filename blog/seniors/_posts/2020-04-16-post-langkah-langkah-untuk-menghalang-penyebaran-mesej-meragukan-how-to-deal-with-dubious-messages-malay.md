@@ -1,7 +1,7 @@
 ---
 title: 'Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan - How To Deal With Dubious Messages (Malay)'
 date: 2020-04-16T00:00:00.000Z
-permalink: /blog/seniors/SN0015
+permalink: /blog/seniors/sn0015/
 
 ---
 
