@@ -48,6 +48,16 @@ links:
               url: /read-to-be-sure/issue3-overview/
             - title: 'Volume 1, Issue 4: Russia-Ukraine Information War'
               url: /read-to-be-sure/issue4-ukraine/
+    - title: School Curriculum
+      url: /resources/school-curriculum/
+      false_collection: true
+      sublinks:
+            - title: Basic (Primary)
+              url: /resources/school-curriculum/basic/part1-sure/
+            - title: Intermediate (Secondary)
+              url: /resources/school-curriculum/intermediate/part1-sure/
+            - title: Advanced (Pre-U/JC)
+              url: /resources/school-curriculum/advanced/part1-sure/
     - title: Resources
       url: /resources/audience/
       false_collection: true
