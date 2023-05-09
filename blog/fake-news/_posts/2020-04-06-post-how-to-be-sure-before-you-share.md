@@ -1,7 +1,7 @@
 ---
 title: 'How to be S.U.R.E. before you share (Videos)'
 date: 2020-04-23T00:00:00.000Z
-permalink: /blog/fake-news/FN0004
+permalink: /blog/fake-news/fn0004/
 
 ---
 
@@ -14,11 +14,11 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 
 
-Check out the infographic and e-presentation from the same series **[HERE](/blog/fake-news/FN0002)**.
+Check out the infographic and e-presentation from the same series **[HERE](/blog/fake-news/fn0002)**.
 
 This video is also available in other languages:
 
-- [Mandarin version](/blog/seniors/SN0022)
-- [Malay version](/blog/seniors/SN0023)
-- [Tamil version](/blog/seniors/SN0024)
+- [Mandarin version](/blog/seniors/sn0022)
+- [Malay version](/blog/seniors/sn0023)
+- [Tamil version](/blog/seniors/sn0024)
 

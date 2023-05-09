@@ -1,7 +1,7 @@
 ---
 title: 'SUREvivors Quiz'
 date: 2020-04-17T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00002
+permalink: /blog/home-based-learning/dd00002/
 
 ---
 

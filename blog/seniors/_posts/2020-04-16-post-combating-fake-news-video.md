@@ -1,7 +1,7 @@
 ---
 title: 'Combating Fake News video'
 date: 2020-04-16T00:00:00.000Z
-permalink: /blog/seniors/SN0003
+permalink: /blog/seniors/sn0003/
 
 ---
 

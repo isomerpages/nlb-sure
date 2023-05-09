@@ -1,7 +1,7 @@
 ---
 title: 'A Journey Through Time with the National Library'
 date: 2021-07-07T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00017
+permalink: /blog/home-based-learning/dd00017/
 
 ---
 
@@ -9,13 +9,13 @@ As the lower secondary students embark on the journey of learning more about Sin
 
 The four selected videos from the National Library’s *From the Stacks* collection featured letters, documents, newspapers and a map written or printed during a particular period in the history of Singapore:
 
-1. [Chart of a Skirmish between the Dutch and the Portuguese in the Johor River](/blog/home-based-learning/DD00012) – from 1606, during the era of the Johor Sultanate
+1. [Chart of a Skirmish between the Dutch and the Portuguese in the Johor River](/blog/home-based-learning/dd00012) – from 1606, during the era of the Johor Sultanate
 
-2. [Letters from Sir Thomas Stamford Raffles to Lord Lansdowne](/blog/home-based-learning/DD00015) – from the 1820s, after the British established a trading post in Singapore
+2. [Letters from Sir Thomas Stamford Raffles to Lord Lansdowne](/blog/home-based-learning/dd00015) – from the 1820s, after the British established a trading post in Singapore
 
-3. [Collection of Business Documents on the Seletar Rubber Estates Limited](/blog/home-based-learning/DD00013) – from 1909 to 1921, when Singapore became a major processor and exporter of rubber
+3. [Collection of Business Documents on the Seletar Rubber Estates Limited](/blog/home-based-learning/dd00013) – from 1909 to 1921, when Singapore became a major processor and exporter of rubber
 
-4. [The Syonan Shimbun](/blog/home-based-learning/DD00014) – from 1942 to 1945, during the Japanese Occupation
+4. [The Syonan Shimbun](/blog/home-based-learning/dd00014) – from 1942 to 1945, during the Japanese Occupation
 
  
 

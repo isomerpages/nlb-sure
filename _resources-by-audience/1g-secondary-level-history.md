@@ -1,13 +1,13 @@
 ---
 title: 'Secondary Level - History'
-permalink: /resources/audience/teachers-and-students/secondary-level-history
+permalink: /resources/audience/teachers-and-students/secondary-level-history/
 breadcrumb: 'Secondary Level - History'
 third_nav_title: 'For Teachers & Students'
 
 ---
 
 
-**[Digital Resources of the National Library and National Archives of Singapore](/blog/home-based-learning/DD00010)**
+**[Digital Resources of the National Library and National Archives of Singapore](/blog/home-based-learning/dd00010)**
 
 <iframe src="https://player.vimeo.com/video/467980671" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

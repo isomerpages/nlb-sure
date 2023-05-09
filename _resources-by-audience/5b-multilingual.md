@@ -1,6 +1,6 @@
 ---
 title: 'Multilingual Resources'
-permalink: /resources/audience/seniors/multilingual
+permalink: /resources/audience/seniors/multilingual/
 breadcrumb: 'Multilingual Resources'
 third_nav_title: 'For Seniors'
 
@@ -9,15 +9,15 @@ third_nav_title: 'For Seniors'
 
 ## Videos
 
-#### [**How to be S.U.R.E. before you share**](/blog/fake-news/FN0004)
+#### [**How to be S.U.R.E. before you share**](/blog/fake-news/fn0004)
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
 This video is also available in other languages:
 
-- [Mandarin version](/blog/seniors/SN0022) **[new!]** - 学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。
-- [Malay version](/blog/seniors/SN0023) **[new!]** - Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.
-- [Tamil version](/blog/seniors/SN0024) **[new!]** - தேசிய நூலக வாரியத்தின் S.U.R.E. வழிமுறைகளைப் பின்பற்றி உங்களையும் மற்றவர்களையும் இணையத்தின் போலித்தன்மையிலிருந்து பாதுகாத்துக் கொள்ளுங்கள்.
+- [Mandarin version](/blog/seniors/sn0022) **[new!]** - 学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。
+- [Malay version](/blog/seniors/sn0023) **[new!]** - Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.
+- [Tamil version](/blog/seniors/sn0024) **[new!]** - தேசிய நூலக வாரியத்தின் S.U.R.E. வழிமுறைகளைப் பின்பற்றி உங்களையும் மற்றவர்களையும் இணையத்தின் போலித்தன்மையிலிருந்து பாதுகாத்துக் கொள்ளுங்கள்.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/YML5AOlGLH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>></div>
@@ -132,7 +132,7 @@ Use the S.U.R.E. steps to identify if the health information you read can be tru
 
 **[Download the PDF version HERE](../../../infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
 
-This infographic is also available in **[Chinese](/blog/information-literacy/IL00004)**, **[Malay](/blog/information-literacy/IL00005)** and **[Tamil](/blog/information-literacy/IL00006)** languages.
+This infographic is also available in **[Chinese](/blog/information-literacy/il00004)**, **[Malay](/blog/information-literacy/il00005)** and **[Tamil](/blog/information-literacy/il00006)** languages.
 
 
 

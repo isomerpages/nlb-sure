@@ -1,7 +1,7 @@
 ---
 title: 'மூத்தவர்கள் பொய்யான செய்திகளை எப்படி எதிர்க்கலாம்? - How seniors can fight fake news (Tamil)'
 date: 2020-04-15T00:00:00.000Z
-permalink: /blog/seniors/SN0020
+permalink: /blog/seniors/sn0020/
 
 ---
 

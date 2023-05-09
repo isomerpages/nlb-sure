@@ -1,7 +1,7 @@
 ---
 title: 'Discovereads Stay-Home Activities'
 date: 2020-04-24T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00005
+permalink: /blog/home-based-learning/dd00005/
 
 ---
 

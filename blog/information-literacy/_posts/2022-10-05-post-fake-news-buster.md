@@ -1,7 +1,7 @@
 ---
 title: '(Video) Who are you gonna call? How to become a Fake News Buster'
 date: 2022-10-05T00:00:00.000Z
-permalink: /blog/information-literacy/IL00008
+permalink: /blog/information-literacy/il00008/
 
 ---
 

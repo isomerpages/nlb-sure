@@ -1,7 +1,7 @@
 ---
 title: 'NLB eResources & Setting Up MyLibrary ID'
 date: 2020-04-16T00:00:00.000Z
-permalink: /blog/seniors/SN00002
+permalink: /blog/seniors/sn00002/
 
 ---
 

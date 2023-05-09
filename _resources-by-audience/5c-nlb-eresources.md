@@ -1,6 +1,6 @@
 ---
 title: 'NLB eResources'
-permalink: /resources/audience/seniors/nlb-eresources
+permalink: /resources/audience/seniors/nlb-eresources/
 breadcrumb: 'NLB eResources'
 third_nav_title: 'For Seniors'
 

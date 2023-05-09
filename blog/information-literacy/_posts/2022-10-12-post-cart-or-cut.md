@@ -1,7 +1,7 @@
 ---
 title: '(Video) Cart or Cut? How to Shop Online Safely'
 date: 2022-10-12T00:00:00.000Z
-permalink: /blog/information-literacy/IL00012
+permalink: /blog/information-literacy/il00012/
 
 ---
 

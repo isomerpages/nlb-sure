@@ -1,7 +1,7 @@
 ---
 title: 'Video - Sari (Tamil)'
 date: 2020-04-20T00:00:00.000Z
-permalink: /blog/seniors/SN0013
+permalink: /blog/seniors/sn0013/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'S.U.R.E Skills Series workshop - Detecting Fake Videos and Images'
 date: 2021-06-16T00:00:00.000Z
-permalink: /blog/fake-news/FN0008
+permalink: /blog/fake-news/fn0008/
 image: ../../../images/SURE_Skills_Series1.jpg
 ---
 

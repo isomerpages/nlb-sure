@@ -1,7 +1,7 @@
 ---
 title: 'Safeguarding Yourself From Fake News - 8 Mar 2023 (Video)'
 date: 2023-03-20T00:08:00.000Z
-permalink: /blog/fake-news/FN0028
+permalink: /blog/fake-news/fn0028/
 image: ../../../images/breaking-news-video.JPG
 ---
 

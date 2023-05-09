@@ -1,6 +1,6 @@
 ---
 title: 'Combating Fake News'
-permalink: /resources/audience/adults/combating-fake-news
+permalink: /resources/audience/adults/combating-fake-news/
 breadcrumb: 'Combating Fake News'
 third_nav_title: 'For Adults'
 
@@ -11,21 +11,21 @@ These sources will help you discern the reliability of the information that you�
 
 ## Presentations
 
-[How to be S.U.R.E. of your COVID-19 Information](/blog/fake-news/FN0005)
+[How to be S.U.R.E. of your COVID-19 Information](/blog/fake-news/fn0005)
 
 <hr>
 
 ## Videos
 
-#### [**How to be S.U.R.E. before you share**](/blog/fake-news/FN0004)
+#### [**How to be S.U.R.E. before you share**](/blog/fake-news/fn0004)
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
 This video is also available in other languages:
 
-- [Mandarin version](/blog/seniors/SN0022) **[new!]** - 学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。
-- [Malay version](/blog/seniors/SN0023) **[new!]** - Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.
-- [Tamil version](/blog/seniors/SN0024) **[new!]** - தேசிய நூலக வாரியத்தின் S.U.R.E. வழிமுறைகளைப் பின்பற்றி உங்களையும் மற்றவர்களையும் இணையத்தின் போலித்தன்மையிலிருந்து பாதுகாத்துக் கொள்ளுங்கள்.
+- [Mandarin version](/blog/seniors/sn0022) **[new!]** - 学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。
+- [Malay version](/blog/seniors/sn0023) **[new!]** - Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.
+- [Tamil version](/blog/seniors/sn0024) **[new!]** - தேசிய நூலக வாரியத்தின் S.U.R.E. வழிமுறைகளைப் பின்பற்றி உங்களையும் மற்றவர்களையும் இணையத்தின் போலித்தன்மையிலிருந்து பாதுகாத்துக் கொள்ளுங்கள்.
 
 <hr>
 
@@ -40,7 +40,7 @@ This video is also available in other languages:
 
 
 
-**[Evaluating Images](/blog/information-literacy/IL00003)**
+**[Evaluating Images](/blog/information-literacy/il00003)**
 
 We encounter many images daily – through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.  
 

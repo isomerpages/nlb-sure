@@ -1,7 +1,7 @@
 ---
 title: 'Identifying Credible Health Information'
 date: 2020-04-17T00:00:00.000Z
-permalink: /blog/information-literacy/IL00002
+permalink: /blog/information-literacy/il00002/
 
 ---
 
@@ -13,7 +13,7 @@ Use the S.U.R.E. steps to identify if the health information you read can be tru
 
 **[Download the PDF version HERE](../../../infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
 
-This infographic is also available in **[Chinese](/blog/information-literacy/IL00004)**, **[Malay](/blog/information-literacy/IL00005)** and **[Tamil](/blog/information-literacy/IL00006)** languages.
+This infographic is also available in **[Chinese](/blog/information-literacy/il00004)**, **[Malay](/blog/information-literacy/il00005)** and **[Tamil](/blog/information-literacy/il00006)** languages.
 
 <hr>
 

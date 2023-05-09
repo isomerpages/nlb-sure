@@ -1,7 +1,7 @@
 ---
 title: 'SURE Research Guide'
 date: 2020-04-05T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00006
+permalink: /blog/home-based-learning/dd00006/
 
 ---
 

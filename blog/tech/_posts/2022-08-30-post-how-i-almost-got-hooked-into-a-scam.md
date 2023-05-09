@@ -1,7 +1,7 @@
 ---
 title: 'How I Almost Got Hooked Into a Scam'
 date: 2022-08-30T00:00:00.000Z
-permalink: /blog/tech/TECH0003
+permalink: /blog/tech/tech0003/
 image: ../../../images/blog-tech3-1.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: '如何查证可疑信息 - How To Deal With Dubious Messages (Chinese)'
 date: 2020-04-16T00:00:00.000Z
-permalink: /blog/seniors/SN0014
+permalink: /blog/seniors/sn0014/
 
 ---
 

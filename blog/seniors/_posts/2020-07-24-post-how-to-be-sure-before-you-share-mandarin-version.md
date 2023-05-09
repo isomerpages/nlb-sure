@@ -1,7 +1,7 @@
 ---
 title: 'How to be S.U.R.E. before you share (Mandarin Version)'
 date: 2020-07-24T00:00:00.000Z
-permalink: /blog/seniors/SN0022
+permalink: /blog/seniors/sn0022/
 
 ---
 

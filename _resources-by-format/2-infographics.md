@@ -1,12 +1,12 @@
 ---
 title: Infographics
-permalink: /resources/format/infographics
+permalink: /resources/format/infographics/
 breadcrumb: Infographics
 
 ---
 
 
-**[Evaluating Images](/blog/information-literacy/IL00003)**
+**[Evaluating Images](/blog/information-literacy/il00003)**
 
 We encounter many images daily – through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.  
 
@@ -28,7 +28,7 @@ Use the S.U.R.E. steps to identify if the health information you read can be tru
 
 **[Download the PDF version HERE](../../../infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
 
-This infographic is also available in **[Chinese](/blog/information-literacy/IL00004)**, **[Malay](/blog/information-literacy/IL00005)** and **[Tamil](/blog/information-literacy/IL00006)** languages.
+This infographic is also available in **[Chinese](/blog/information-literacy/il00004)**, **[Malay](/blog/information-literacy/il00005)** and **[Tamil](/blog/information-literacy/il00006)** languages.
 
 
 

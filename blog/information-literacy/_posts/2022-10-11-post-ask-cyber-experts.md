@@ -1,7 +1,7 @@
 ---
 title: '(Video) Ask the Cyber Experts'
 date: 2022-10-11T00:00:00.000Z
-permalink: /blog/information-literacy/IL00011
+permalink: /blog/information-literacy/il00011/
 
 ---
 

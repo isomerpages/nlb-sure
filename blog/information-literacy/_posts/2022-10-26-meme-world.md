@@ -1,7 +1,7 @@
 ---
 title: '(Video) News and Laughter in a Meme World'
 date: 2022-10-26T00:00:00.000Z
-permalink: /blog/information-literacy/IL00015
+permalink: /blog/information-literacy/il00015/
 
 ---
 

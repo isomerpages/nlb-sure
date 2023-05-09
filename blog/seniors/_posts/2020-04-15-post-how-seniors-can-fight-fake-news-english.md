@@ -1,7 +1,7 @@
 ---
 title: 'How seniors can fight fake news (English)'
 date: 2020-04-15T00:00:00.000Z
-permalink: /blog/seniors/SN0017
+permalink: /blog/seniors/sn0017/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Video - Cheongsam (English)'
 date: 2020-04-17T00:00:00.000Z
-permalink: /blog/seniors/SN0007
+permalink: /blog/seniors/sn0007/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Video - Cheongsam (Mandarin)'
 date: 2020-04-18T00:00:00.000Z
-permalink: /blog/seniors/SN0009
+permalink: /blog/seniors/sn0009/
 
 ---
 

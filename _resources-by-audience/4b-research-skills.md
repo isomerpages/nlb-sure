@@ -1,6 +1,6 @@
 ---
 title: 'Research Skills'
-permalink: /resources/audience/adults/research-skills
+permalink: /resources/audience/adults/research-skills/
 breadcrumb: 'Research Skills'
 third_nav_title: 'For Adults'
 

@@ -1,7 +1,7 @@
 ---
 title: '(Video) Complex Connections: Why do we fall for scams?'
 date: 2022-10-13T00:00:00.000Z
-permalink: /blog/information-literacy/IL00013
+permalink: /blog/information-literacy/il00013/
 
 ---
 

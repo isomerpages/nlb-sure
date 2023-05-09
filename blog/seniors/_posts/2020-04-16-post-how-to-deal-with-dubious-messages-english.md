@@ -1,7 +1,7 @@
 ---
 title: 'How To Deal With Dubious Messages (English)'
 date: 2020-04-16T00:00:00.000Z
-permalink: /blog/seniors/SN0005
+permalink: /blog/seniors/sn0005/
 
 ---
 

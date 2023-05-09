@@ -1,6 +1,6 @@
 ---
 title: 'Cheat Sheets'
-permalink: /resources/format/cheat-sheets
+permalink: /resources/format/cheat-sheets/
 breadcrumb: 'Cheat Sheets'
 
 ---

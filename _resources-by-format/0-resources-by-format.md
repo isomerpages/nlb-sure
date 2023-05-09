@@ -1,6 +1,6 @@
 ---
 title: Format
-permalink: /resources/format
+permalink: /resources/format/
 breadcrumb: Format
 
 ---

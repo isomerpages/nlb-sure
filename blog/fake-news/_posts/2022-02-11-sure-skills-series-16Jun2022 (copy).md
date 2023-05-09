@@ -1,7 +1,7 @@
 ---
 title: '银发族S.U.R.E.技能系列 - 如何查证电邮和短信的真伪'
 date: 2022-02-11T00:08:00.000Z
-permalink: /blog/fake-news/FN0023
+permalink: /blog/fake-news/fn0023/
 image: ../../../images/sure-skills-series-seniors-chi1.JPG
 ---
 

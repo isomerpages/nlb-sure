@@ -1,7 +1,7 @@
 ---
 title: 'How to be S.U.R.E. of your COVID-19 Information'
 date: 2020-05-06T00:00:00.000Z
-permalink: /blog/fake-news/FN0005
+permalink: /blog/fake-news/fn0005/
 
 ---
 

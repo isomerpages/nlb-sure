@@ -1,7 +1,7 @@
 ---
 title: '(Video) Fact and Fiction: Behind the Art of Storytelling'
 date: 2022-10-06T00:00:00.000Z
-permalink: /blog/information-literacy/IL00009
+permalink: /blog/information-literacy/il00009/
 
 ---
 

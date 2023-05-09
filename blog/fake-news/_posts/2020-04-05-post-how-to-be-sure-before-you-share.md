@@ -1,7 +1,7 @@
 ---
 title: 'How to be S.U.R.E. before you share (e-Presentation and infographic)' 
 date: 2020-04-06T00:00:00.000Z
-permalink: /blog/fake-news/FN0002
+permalink: /blog/fake-news/fn0002/
 
 ---
 
@@ -34,6 +34,6 @@ Download the full infographic [HERE](/infographic/4-Ways-of-SURE.pdf).
 
 
 
-Check out the SURE animated video **[HERE](/blog/fake-news/FN0004)**.
+Check out the SURE animated video **[HERE](/blog/fake-news/fn0004)**.
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'Secondary Level - CCE, Cyberwellness & ICT'
-permalink: /resources/audience/teachers-and-students/secondary-level-cce
+permalink: /resources/audience/teachers-and-students/secondary-level-cce/
 breadcrumb: 'Secondary Level - CCE, Cyberwellness & ICT'
 third_nav_title: 'For Teachers & Students'
 

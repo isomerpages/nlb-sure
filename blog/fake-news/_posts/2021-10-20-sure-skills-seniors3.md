@@ -1,7 +1,7 @@
 ---
 title: 'S.U.R.E Series for Seniors: Verifying Images & Videos'
 date: 2021-10-20T00:00:00.000Z
-permalink: /blog/fake-news/FN0015
+permalink: /blog/fake-news/fn0015/
 image: ../../../images//sure-skills-series-seniors3.jpg
 ---
 

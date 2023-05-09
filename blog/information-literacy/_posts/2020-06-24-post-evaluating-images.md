@@ -1,7 +1,7 @@
 ---
 title: 'Evaluating Images'
 date: 2020-06-24T00:00:00.000Z
-permalink: /blog/information-literacy/IL00003
+permalink: /blog/information-literacy/il00003/
 image: ../../../images/infographic-eval-photos-3.JPG
 
 ---

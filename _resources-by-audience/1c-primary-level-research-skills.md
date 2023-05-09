@@ -1,6 +1,6 @@
 ---
 title: 'Primary Level - Research Skills'
-permalink: /resources/audience/teachers-and-students/primary-level-research-skills
+permalink: /resources/audience/teachers-and-students/primary-level-research-skills/
 breadcrumb: 'Research Skills'
 third_nav_title: 'For Teachers & Students'
 

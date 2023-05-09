@@ -1,7 +1,7 @@
 ---
 title: '银发族S.U.R.E技能系列：如何识破 “深度伪造” 图像和影像'
 date: 2021-11-24T00:00:00.000Z
-permalink: /blog/fake-news/FN0019
+permalink: /blog/fake-news/fn0019/
 image: ../../../images/sure-skills-seriesseniors4-chinese.jpg
 ---
 

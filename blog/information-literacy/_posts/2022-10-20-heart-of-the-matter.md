@@ -1,7 +1,7 @@
 ---
 title: '(Video) Heart of the matter: How to spot and support survivors of online harms'
 date: 2022-10-20T00:00:00.000Z
-permalink: /blog/information-literacy/IL00014
+permalink: /blog/information-literacy/il00014/
 
 ---
 

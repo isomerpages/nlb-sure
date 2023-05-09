@@ -1,7 +1,7 @@
 ---
 title: 'Newspaper SG'
 date: 2020-04-16T00:00:00.000Z
-permalink: /blog/seniors/SN00001
+permalink: /blog/seniors/sn00001/
 
 ---
 

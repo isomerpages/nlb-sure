@@ -1,7 +1,7 @@
 ---
 title: 'My guilty love affair with food hack videos'
 date: 2020-10-28T00:00:00.000Z
-permalink: /blog/tech/TECH0001
+permalink: /blog/tech/tech0001/
 image: ../../../images/foodhack.jpg
 ---
 

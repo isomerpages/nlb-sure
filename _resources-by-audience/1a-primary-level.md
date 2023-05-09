@@ -1,6 +1,6 @@
 ---
 title: 'Primary Level'
-permalink: /resources/audience/teachers-and-students/primary-level
+permalink: /resources/audience/teachers-and-students/primary-level/
 breadcrumb: 'Primary Level'
 third_nav_title: 'For Teachers & Students'
 

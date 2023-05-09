@@ -1,7 +1,7 @@
 ---
 title: 'Digital Resources of the National Library and National Archives of Singapore'
 date: 2020-10-14T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00010
+permalink: /blog/home-based-learning/dd00010/
 
 ---
 

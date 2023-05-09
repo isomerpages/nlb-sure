@@ -1,7 +1,7 @@
 ---
 title: 'Collection of Business Documents on the Seletar Rubber Estates Limited'
 date: 2021-07-04T00:00:00.000Z
-permalink: /blog/home-based-learning/DD00013
+permalink: /blog/home-based-learning/dd00013/
 
 ---
 

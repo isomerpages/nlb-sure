@@ -1,7 +1,7 @@
 ---
 title: 'Video - Marine Fishes (Tamil)'
 date: 2020-04-20T00:00:00.000Z
-permalink: /blog/seniors/SN0012
+permalink: /blog/seniors/sn0012/
 
 ---
 

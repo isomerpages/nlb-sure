@@ -1,6 +1,6 @@
 ---
 title: Videos
-permalink: /resources/format/videos
+permalink: /resources/format/videos/
 breadcrumb: Videos
 
 ---
@@ -18,9 +18,9 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 This video is also available in other languages:
 
-- [Mandarin version](/blog/seniors/SN0022) **[new!]** - 学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。
-- [Malay version](/blog/seniors/SN0023) **[new!]** - Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.
-- [Tamil version](/blog/seniors/SN0024) **[new!]** - தேசிய நூலக வாரியத்தின் S.U.R.E. வழிமுறைகளைப் பின்பற்றி உங்களையும் மற்றவர்களையும் இணையத்தின் போலித்தன்மையிலிருந்து பாதுகாத்துக் கொள்ளுங்கள்.
+- [Mandarin version](/blog/seniors/sn0022) **[new!]** - 学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。
+- [Malay version](/blog/seniors/sn0023) **[new!]** - Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.
+- [Tamil version](/blog/seniors/sn0024) **[new!]** - தேசிய நூலக வாரியத்தின் S.U.R.E. வழிமுறைகளைப் பின்பற்றி உங்களையும் மற்றவர்களையும் இணையத்தின் போலித்தன்மையிலிருந்து பாதுகாத்துக் கொள்ளுங்கள்.
 
 <hr>
 - [Marine Fishes (English)](/blog/seniors/sn0006) - Find out how a boy and his grandfather use the 4 ways of S.U.R.E. to set up a marine aquarium.

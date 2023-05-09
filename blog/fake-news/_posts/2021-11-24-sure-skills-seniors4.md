@@ -1,7 +1,7 @@
 ---
 title: 'S.U.R.E Series for Seniors: Spotting Deepfake Images and Videos'
 date: 2021-11-24T00:00:00.000Z
-permalink: /blog/fake-news/FN0018
+permalink: /blog/fake-news/fn0018/
 image: ../../../images//sure-skills-series-seniors4.jpg
 ---
 

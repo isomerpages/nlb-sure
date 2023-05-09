@@ -1,22 +1,22 @@
 ---
 title: 'Post-secondary Level'
-permalink: /resources/audience/teachers-and-students/post-secondary-level
+permalink: /resources/audience/teachers-and-students/post-secondary-level/
 breadcrumb: 'Post-secondary Level'
 third_nav_title: 'For Teachers & Students'
 
 ---
 
 
-**[S.U.R.E. Research Guide](/blog/home-based-learning/DD00006)**
+**[S.U.R.E. Research Guide](/blog/home-based-learning/dd00006)**
 
-The S.U.R.E. [Research Guide](/blog/home-based-learning/DD00006) has been developed based on the four steps of S.U.R.E. and will teach students and adult learners about the principles of effective research, how to use NLB’s eResources (readily available online) and guidelines on combating online falsehoods.
+The S.U.R.E. [Research Guide](/blog/home-based-learning/dd00006) has been developed based on the four steps of S.U.R.E. and will teach students and adult learners about the principles of effective research, how to use NLB’s eResources (readily available online) and guidelines on combating online falsehoods.
 
 The content is suitable for secondary and post-secondary students conducting research for their projects and school assignments. Working professionals can also use this guide for their academic and general research needs.
 
 <hr>
 **Academic Research with NLB eResources**
 
-In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/blog/home-based-learning/DD00006)** to complement your learning.
+In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/blog/home-based-learning/dd00006)** to complement your learning.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p2g2JAlRx6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
