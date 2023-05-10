@@ -21,6 +21,8 @@ third_nav_title: 'Basic Level'
 
 ![](../images/curriculum-IL2-basic.PNG)
 
+Now that you understand how to identify various types of sources, join us to learn how to differentiate facts from opinions.
+
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il2-basic-slides)**.
 
 
@@ -29,6 +31,8 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-il2-basic-slides)**.
 
 ![](../images/curriculum-IL3-basic.PNG)
 
+When you have questions about the world, the internet can be a great place to look for answers. Let’s learn how you can answer your questions with good research skills.
+
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il3-basic-slides)**.
 
 
@@ -36,6 +40,8 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-il3-basic-slides)**.
 ### Module IL4 - Evaluate
 
 ![](../images/curriculum-IL4-basic.PNG)
+
+Since you’re all caught up with the basics of research, join us to discover how to judge the usefulness of information.
 
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il4-basic-slides)**.
 

@@ -23,6 +23,11 @@ Download the Infographic [**HERE**](https://go.gov.sg/sure-phase1-inter-info).
 
 ![](../images/curriculum-IL2-intermediate.PNG)
 
+In this topic, you will: 
+
+- Explore the differences between **fact** and **opinion**
+- Identify some of the criteria that we can use to differentiate between the two
+
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il2-inter-slides)**.
 
 
@@ -31,6 +36,8 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-il2-inter-slides)**.
 
 ![](../images/curriculum-IL3-intermediate.PNG)
 
+In this topic, you will learn how to collate relevant information by picking the right keywords and platform
+
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il3-inter-slides)**.
 
 
@@ -38,6 +45,11 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-il3-inter-slides)**.
 ### Module IL4 - Evaluate
 
 ![](../images/curriculum-IL4-intermediate.PNG)
+
+In this topic, you will: 
+
+- Evaluate new information or ideas against prior knowledge
+- Identify the criteria you need to make informed decisions
 
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il4-inter-slides)**.
 

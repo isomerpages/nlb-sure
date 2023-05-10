@@ -23,6 +23,11 @@ Download the Infographic **[HERE](https://go.gov.sg/sure-phase1-adv-info)**.
 
 ![](../images/curriculum-IL2-advanced.PNG)
 
+In this topic, you will:
+
+- Explore the differences between **fact** and **opinion**
+- Identify some of the criteria that we can use to differentiate between the two
+
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il2-adv-slides)**.
 
 
@@ -31,13 +36,28 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-il2-adv-slides)**.
 
 ![](../images/curriculum-IL3-advanced.PNG)
 
-Download the PDF slides **[HERE](https://go.gov.sg/sure-il3-adv-slides)**.
+In this topic, you will: 
+
+
+
+- Learn to investigate topics more effectively by navigating different resources
+
+- Understand how algorithms affect our search results
+
+  
+
+  Download the PDF slides **[HERE](https://go.gov.sg/sure-il3-adv-slides)**.
 
 
 
 ### Module IL4 - Evaluate
 
 ![](../images/curriculum-IL4-advanced.PNG)
+
+In this topic, you will: 
+
+- Learn to investigate topics more effectively by navigating different resources
+- Understand how algorithms affect our search results
 
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il4-adv-slides)**.
 
