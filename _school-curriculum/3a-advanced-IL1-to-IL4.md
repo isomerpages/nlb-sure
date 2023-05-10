@@ -15,7 +15,7 @@ third_nav_title: 'Advanced Level'
 
 Download the Infographic **[HERE](https://go.gov.sg/sure-phase1-adv-info)**.
 
-![](../images/curriculum-part1-infographic-adv.PNG)
+![](../images/curriculum-part1-infographic-adv.jpg)
 
 
 

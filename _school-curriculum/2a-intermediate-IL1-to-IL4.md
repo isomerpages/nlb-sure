@@ -15,7 +15,7 @@ third_nav_title: 'Intermediate Level'
 
 Download the Infographic [**HERE**](https://go.gov.sg/sure-phase1-inter-info).
 
-![](../images/curriculum-part1-infographic.PNG)
+![](../images/curriculum-part1-infographic.jpg)
 
 
 
