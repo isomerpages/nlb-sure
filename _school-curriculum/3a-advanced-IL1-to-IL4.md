@@ -56,8 +56,9 @@ In this topic, you will:
 
 In this topic, you will: 
 
-- Learn to investigate topics more effectively by navigating different resources
-- Understand how algorithms affect our search results
+- Evaluate new information or ideas against prior knowledge
+- Identify the criteria you need to make informed decisions
+- Understand what is algorithmic bias
 
 Download the PDF slides **[HERE](https://go.gov.sg/sure-il4-adv-slides)**.
 
