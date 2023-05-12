@@ -26,6 +26,15 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'New S.U.R.E. Curriculum for Schools'
+          subtitle: 'For students & teachers'
+          description: Introducing a new series of courseware for students in Primary, Secondary and Pre-U/Junior College levels. Topics covered include Information Literacy, Digital Safety and Digital Wellness. 
+          url: /resources/school-curriculum/
+          image: /images/curriculum-cover-pikachu.png
+          alt: 'alt text'
+          button: 'Find out more'
+
+    - infopic:
           title: 'Read to be SURE, Volume 2 Issue 4 - Work Revolution'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about the Work Revolution. Is the future of work changing radically, or only incrementally?
