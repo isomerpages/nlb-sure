@@ -17,9 +17,9 @@ Information is a big part of our lives. Watch this video to get a deeper underst
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=3086fabd-a88c-4abd-9a3b-aff7001b926d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div> 
 
-**Activity:**
-
-Can you tell us if[ this news article about heavy rain in December](https://www.straitstimes.com/singapore/wet-weather-to-continue-with-mercury-to-dip-to-23-deg-c-on-some-days-over-rest-of-december) is a primary, secondary or tertiary source? Write down your thought process and how you identified the source.
+| Activity                                                     |
+| ------------------------------------------------------------ |
+| Can you tell us if[ this news article about heavy rain in December](https://www.straitstimes.com/singapore/wet-weather-to-continue-with-mercury-to-dip-to-23-deg-c-on-some-days-over-rest-of-december) is a primary, secondary or tertiary source? Write down your thought process and how you identified the source. |
 
 
 
