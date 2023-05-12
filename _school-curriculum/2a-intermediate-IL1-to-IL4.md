@@ -10,10 +10,14 @@ third_nav_title: 'Intermediate Level'
 
 ### Module IL1 - Source
 
+We encounter a wide range of information in our day to day lives. Amidst this information overload, it can be difficult to determine which sources are accurate or reliable. Watch this video on how to identify the sources of information and make informed decisions. 
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=7c6428a8-aec2-41d7-acde-aff7001f8fd9&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div> 
 
-Download the Infographic [**HERE**](https://go.gov.sg/sure-phase1-inter-info).
+
+
+Learn the S.U.R.E. steps to more effective research in the infographic below. Download the Infographic [**HERE**](https://go.gov.sg/sure-phase1-inter-info).
 
 ![](../images/curriculum-part1-infographic.jpg)
 

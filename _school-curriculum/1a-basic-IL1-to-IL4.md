@@ -12,6 +12,8 @@ third_nav_title: 'Basic Level'
 
 ### Module IL1 - Source
 
+Information is a big part of our lives. Watch this video to get a deeper understanding of the various sources that provide us with information.
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=3086fabd-a88c-4abd-9a3b-aff7001b926d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div> 
 
