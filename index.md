@@ -7,6 +7,8 @@ sections:
           dropdown:
               title: null
               options:
+                    - title: 'check out the new S.U.R.E. Curriculum for Schools'
+                      url: /resources/school-curriculum/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
                     - title: 'find resources on combating fake news'
@@ -23,6 +25,15 @@ sections:
           background: /images/1747093_s.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
+    - infopic:
+          title: 'New S.U.R.E. Curriculum for Schools'
+          subtitle: 'For students & teachers'
+          description: Introducing a new series of courseware for students in Primary, Secondary and Pre-U/Junior College levels. Topics covered include Information Literacy, Digital Safety and Digital Wellness. 
+          url: /resources/school-curriculum/
+          image: /images/curriculum-cover-pikachu.png
+          alt: 'alt text'
+          button: 'Find out more'
+
     - infopic:
           title: 'Read to be SURE, Volume 2 Issue 4 - Work Revolution'
           subtitle: 'For everyone'

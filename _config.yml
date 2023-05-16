@@ -66,6 +66,8 @@ collections:
         output: true
     nodes-at-parks:
         output: true
+    school-curriculum:
+        output: true
     tng:
         output: true
     pri-activity:
