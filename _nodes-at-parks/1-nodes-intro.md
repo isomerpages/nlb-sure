@@ -13,11 +13,11 @@ From 14 October 2022 to 26 February 2023, the National Library Board (NLB) prese
 
  
 
-Due to popular demand, the Nodes at Parks: Sustainability Showcase will be extending its run in the following locations: 
+Due to popular demand, the Nodes at Parks: Sustainability Showcase will be extending its run in the following location: 
 
-1) **Changi General Hospital** Main Building atrium: 27 February to 13 March 2023, Integrated Building atrium: 14 to 22 March 2023
+- **The Centrepoint** Level 1 Atrium, Facing Watsons: 19 May to 2 July 2023
 
-2) **Plaza Singapura** Near Oldham Lane Entrance: 24 March to 13 April 2023
+
 
 Look out for it and scan the QR codes to read more about the different perspectives of Sustainability issues! 
 
