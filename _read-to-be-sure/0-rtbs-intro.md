@@ -25,10 +25,9 @@ breadcrumb: 'What is Read to be SURE?'
 - **Volume 1:**
 
   - [Issue 1: Fast Fashion](/read-to-be-sure/issue1-introduction/)
-- [Issue 2: COVID-19 Curbs](/read-to-be-sure/issue2-overview/)
-  
+  - [Issue 2: COVID-19 Curbs](/read-to-be-sure/issue2-overview/)
   - [Issue 3: Cryptocurrencies and NFTs](/read-to-be-sure/issue3-overview/)
-- [Issue 4: Russia-Ukraine Information War](/read-to-be-sure/issue4-ukraine/)
+  - [Issue 4: Russia-Ukraine Information War](/read-to-be-sure/issue4-ukraine/)
 
 .
 
