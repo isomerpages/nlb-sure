@@ -7,7 +7,7 @@ sections:
           dropdown:
               title: null
               options:
-                    - title: 'check out the new S.U.R.E. Curriculum for Schools'
+                    - title: 'check out the new S.U.R.E. Coursesware for Schools'
                       url: /resources/school-curriculum/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
@@ -26,7 +26,7 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'New S.U.R.E. Curriculum for Schools'
+          title: 'S.U.R.E. Courseware for Schools'
           subtitle: 'For students & teachers'
           description: Introducing a new series of courseware for students in Primary, Secondary and Pre-U/Junior College levels. Topics covered include Information Literacy, Digital Safety and Digital Wellness. 
           url: /resources/school-curriculum/

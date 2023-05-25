@@ -1,15 +1,15 @@
 ---
-title: School Curriculum
+title: School Courseware
 permalink: /resources/school-curriculum/
-breadcrumb: School Curriculum
+breadcrumb: School Courseware
 
 ---
 
-Welcome to the new S.U.R.E. curriculum on digital media and information literacy, digital safety and digital wellness!
+Welcome to the new S.U.R.E. courseware on digital media and information literacy, digital safety and digital wellness!
 
  
 
-This new curriculum aim to equip our students with essential knowledge and skills to navigate the complex information landscape in today’s digital age. S.U.R.E. stands for Source, Understand, Research and Evaluate, which are key concepts that will be covered in the first part of the curriculum under “Information Literacy”.
+This new courseware aims to equip our students with essential knowledge and skills to navigate the complex information landscape in today’s digital age. S.U.R.E. stands for Source, Understand, Research and Evaluate, which are key concepts that will be covered in the first part of the courseware under “Information Literacy”.
 
  
 
@@ -25,7 +25,7 @@ To facilitate different learning styles, the educational resources cover a range
 
  
 
-Teachers are welcome to contact us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg) if you have queries on the new curriculum as well as for suggested answers to the various activities in each module.
+Teachers are welcome to contact us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg) if you have queries on the new courseware as well as for suggested answers to the various activities in each module.
 
  
 
@@ -33,7 +33,7 @@ Teachers are welcome to contact us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg) 
 
  
 
-We will be introducing new modules related to “Digital Wellness” and “Digital Safety”. These topics include digital identity, online risks, cyber relationships and online ethics. Be sure to stay tuned for these additions to our S.U.R.E. curriculum! You can also email us if you would like to be updated when the modules are ready,
+We will be introducing new modules related to “Digital Wellness” and “Digital Safety”. These topics include digital identity, online risks, cyber relationships and online ethics. Be sure to stay tuned for these additions to our S.U.R.E. courseware! You can also email us if you would like to be updated when the modules are ready,
 
  
 
