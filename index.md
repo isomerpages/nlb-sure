@@ -7,7 +7,7 @@ sections:
           dropdown:
               title: null
               options:
-                    - title: 'check out the new S.U.R.E. Coursesware for Schools'
+                    - title: 'check out the new S.U.R.E. Courseware for Schools'
                       url: /resources/school-curriculum/
                     - title: 'explore "The News Gallery" Learning Activities'
                       url: /tng/the-news-gallery-learning-journey/
