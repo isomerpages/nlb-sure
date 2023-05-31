@@ -15,9 +15,10 @@ This new courseware aims to equip our students with essential knowledge and skil
 
 The learning materials are catered to students at various levels of education:
 
-- Basic Level – For primary schools
-- Intermediate Level – For secondary schools
-- Advanced – For pre-university and junior colleges
+- [Basic Level](/resources/school-curriculum/basic/part1-sure/
+  ) – For primary schools
+- [Intermediate Level](/resources/school-curriculum/intermediate/part1-sure/) – For secondary schools
+- [Advanced Level](/resources/school-curriculum/advanced/part1-sure/) – For pre-university and junior colleges
 
  
 
