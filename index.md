@@ -26,6 +26,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'ChatGPT, A.I. Image Generators and the Dangers of Misinformation'
+          subtitle: 'For everyone'
+          description: Learn about generative A.I. tools and how to safeguard yourselves from online falsehoods created by them.
+          url: /blog/fake-news/fn0029/
+          image: /images/eb-banner-10jun2023-ai.PNG
+          alt: 'alt text'
+          button: 'Find out more'
+    - infopic:
           title: 'S.U.R.E. Courseware for Schools'
           subtitle: 'For students & teachers'
           description: Introducing a new series of courseware for students in Primary, Secondary and Pre-U/Junior College levels. Topics covered include Information Literacy, Digital Safety and Digital Wellness. 
@@ -33,7 +41,6 @@ sections:
           image: /images/curriculum-cover-pikachu.png
           alt: 'alt text'
           button: 'Find out more'
-
     - infopic:
           title: 'Read to be SURE, Volume 2 Issue 4 - Work Revolution'
           subtitle: 'For everyone'
