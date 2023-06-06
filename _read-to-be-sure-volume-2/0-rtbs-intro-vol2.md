@@ -38,7 +38,7 @@ breadcrumb: 'What is Read to be SURE?'
 
 ### Read to be SURE Showcase
 
-NLB’s *Read to be SURE* initiative encourages patrons to explore multiple perspectives on trending topics. This will help readers and participants benefit from a balanced and credible knowledge base.
+NLB’s Read to be SURE initiative encourages patrons to explore multiple perspectives on trending topics. This will help readers and participants benefit from a balanced and credible knowledge base.
 
 The Read to be SURE showcase explores the following topics:
 
