@@ -29,7 +29,30 @@ breadcrumb: 'What is Read to be SURE?'
   - [Issue 3: Cryptocurrencies and NFTs](/read-to-be-sure/issue3-overview/)
   - [Issue 4: Russia-Ukraine Information War](/read-to-be-sure/issue4-ukraine/)
 
-.
+
+
+<hr>
+
+### Read to be SURE Showcase
+
+NLB’s *Read to be SURE* initiative encourages patrons to explore multiple perspectives on trending topics. This will help readers and participants benefit from a balanced and credible knowledge base.
+
+The Read to be SURE showcase explores the following topics:
+
+1. Sustainability: Fast Fashion
+
+2. Social Issues: Gender Equality
+
+3. Technology: Metaverse & Cryptocurrency
+
+
+From now until 14 September 2023, patrons can engage and interact with the various features, including an interactive quiz station, which introduces them to multiple perspectives of the featured topics.
+
+![](../images/RTBS-exhibition.jpg)
+
+
+
+<hr>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/erOZVTrw5Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
