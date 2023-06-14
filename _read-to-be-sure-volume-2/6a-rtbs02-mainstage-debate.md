@@ -1,7 +1,7 @@
 ---
-title: 'Metaverse: A Welcome Possibility or Unrealistic Utopia?'
+title: 'RTBS Debate: Metaverse – A Welcome Possibility or Unrealistic Utopia?'
 permalink: /read-to-be-sure-volume-2/mainstage-debate/
-breadcrumb: 'Metaverse: A Welcome Possibility or Unrealistic Utopia?'
+breadcrumb: 'RTBS Debate: Metaverse – A Welcome Possibility or Unrealistic Utopia?'
 image: ../images/rtbs-vol2-mainstage-debate.PNG
 ---
 
