@@ -7,6 +7,8 @@ sections:
           dropdown:
               title: null
               options:
+                    - title: 'learn more about Generative A.I.'
+                      url: /generative-ai/what-is-generative-ai/
                     - title: 'check out the new S.U.R.E. Courseware for Schools'
                       url: /resources/school-curriculum/
                     - title: 'explore "The News Gallery" Learning Activities'

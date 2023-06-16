@@ -60,6 +60,8 @@ links:
       url: /resources/audience/
       false_collection: true
       sublinks:
+           - title: 'Generative A.I.'
+              url: /generative-ai/what-is-generative-ai/
             - title: 'News Gallery activities'
               url: /tng/the-news-gallery-learning-journey/
             - title: 'SUREvivors Activities'
