@@ -19,6 +19,10 @@ Here are 2 definitions which are more academic:
 
 
 
+and:
+
+
+
 > ”Generative algorithms create data using models of the world to synthesize images, sounds and videos that often look increasingly realistic. 
 >
 > The algorithms begin with **models of what a world must be like** and then they create a **simulated world that fits the model**.”
