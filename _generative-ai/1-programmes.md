@@ -13,13 +13,13 @@ breadcrumb: 'Programmes'
 
 Please refer to the [SURE Programmes collection](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
 
-| Date                    | Time              | Venue                                                 | Language |
-| ----------------------- | ----------------- | ----------------------------------------------------- | -------- |
-| 20 Aug 2023             | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm     | English  |
-| Sep 2023<br> (date TBC) | TBC               | This session will be conducted online via Zoom.       | English  |
-| Oct 2023 <br>(date TBC) | TBC               | TBC                                                   | English  |
-| 25 Nov 2023             | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone   | Mandarin |
-| 13 Jan 2024             | 2.30pm - 3.30pm   | Woodlands Regional Library <br>Level 1 Programme Zone | English  |
+| Date                    | Time              | Venue                                                     | Language |
+| ----------------------- | ----------------- | --------------------------------------------------------- | -------- |
+| 20 Aug 2023             | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm <br>    | English  |
+| 19 Sep 2023             | 7.00pm - 8.00pm   | This session will be conducted online via Zoom.<br>       | English  |
+| Oct 2023 <br>(date TBC) | TBC               | TBC                                                       | English  |
+| 25 Nov 2023             | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone<br>   | Mandarin |
+| 13 Jan 2024             | 2.30pm - 3.30pm   | Woodlands Regional Library <br>Level 1 Programme Zone<br> | English  |
 
 
 
