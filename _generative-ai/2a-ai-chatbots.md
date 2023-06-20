@@ -1,7 +1,7 @@
 ---
 title: 'AI chatbots'
 permalink: /generative-ai/ai-chatbots/
-breadcrumb: 'AI chatbots'
+breadcrumb: 'Chatbots'
 ---
 
 ## (I) AI chatbots and Misinformation

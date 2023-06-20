@@ -1,7 +1,7 @@
 ---
 title: 'AI Image Generators'
 permalink: /generative-ai/ai-image-generators/
-breadcrumb: 'AI Image Generators'
+breadcrumb: 'Image Generators'
 ---
 
 ## AI image generators and misinformation

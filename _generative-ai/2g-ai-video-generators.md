@@ -1,7 +1,7 @@
 ---
 title: 'AI Video Generators'
 permalink: /generative-ai/ai-video-generators/
-breadcrumb: 'AI Video Generators'
+breadcrumb: 'Video Generators'
 ---
 
 ## AI video generators and misinformation

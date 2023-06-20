@@ -1,7 +1,7 @@
 ---
 title: 'AI Search Engines'
 permalink: /generative-ai/ai-search-engines/
-breadcrumb: 'AI Search Engines'
+breadcrumb: 'Search Engines'
 ---
 
 ## AI search engines and misinformation
