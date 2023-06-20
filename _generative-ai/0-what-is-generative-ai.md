@@ -9,7 +9,6 @@ breadcrumb: 'Introduction'
 
 The recent advances in generative artificial intelligence (AI) have garnered significant public attention. We have prepared various **[programmes](/generative-ai/programmes/)** and [**resources**](/generative-ai/resource-toolkit/) to help the public to be aware of Generative AI and its broad applications and to equip the public to use it effectively and safely through the lens of the S.U.R.E. (information literacy) framework.
 
-### 
 
 ## What is generative AI?
 
