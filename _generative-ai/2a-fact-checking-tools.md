@@ -4,6 +4,8 @@ permalink: /generative-ai/fact-checking-tools/
 breadcrumb: 'Fact-checking'
 ---
 
+**[Introduction](/generative-ai/games/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Singapore](/generative-ai/generative-ai-singapore/)**
+
 ## (A)  Detecting AI-generated texts
 
 The tools listed here generally require the user to copy and paste text into a dialogue box to work. Success rates may vary.

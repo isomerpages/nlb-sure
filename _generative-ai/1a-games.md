@@ -4,6 +4,8 @@ permalink: /generative-ai/games/
 breadcrumb: 'Games'
 ---
 
+**[Introduction](/generative-ai/games/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Singapore](/generative-ai/generative-ai-singapore/)**
+
 ### A.I. or  not?
 
 Can you tell the difference between photos and A.I.-generated images? Try our single-player Kahoot quizzes now!

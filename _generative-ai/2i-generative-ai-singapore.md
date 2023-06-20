@@ -5,7 +5,11 @@ breadcrumb: 'In Singapore'
 
 ---
 
-## Research on Generative AI
+**[Introduction](/generative-ai/games/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Singapore](/generative-ai/generative-ai-singapore/)**
+
+
+
+## (I) Research on Generative AI
 
 - [9 in 10 Singapore respondents say Generative AI is important to daily work but knowledge gaps hinder full potential: HubSpot (Economic Times, Jun 20, 2023)](https://ciosea.economictimes.indiatimes.com/news/next-gen-technologies/9-in-10-singapore-respondents-say-generative-ai-is-important-to-daily-work-but-knowledge-gaps-hinder-full-potential-hubspot/101106180) 
 
@@ -15,7 +19,7 @@ breadcrumb: 'In Singapore'
 
   
 
-## Misinformation
+## (II) Misinformation
 
 - [Singapore identifies six generative AI risks, sets up foundation to guide adoption (ZDNET, Jun 8, 2023)](https://www.zdnet.com/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/)
 
@@ -23,7 +27,7 @@ breadcrumb: 'In Singapore'
 
   
 
-## Use cases in Singapore
+## (III) Use cases in Singapore
 
 - [What generative AI means for Singapore businesses ](https://techwireasia.com/2023/05/what-generative-ai-means-for-singapore-businesses/) (Techwire Asia, May 31, 2023)
 

@@ -4,7 +4,9 @@ permalink: /generative-ai/ai-video-generators/
 breadcrumb: 'Video Generators'
 ---
 
-## AI video generators and misinformation
+**[Introduction](/generative-ai/games/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Singapore](/generative-ai/generative-ai-singapore/)**
+
+## (I) AI video generators and misinformation
 
 ### Articles 
 
@@ -47,7 +49,7 @@ breadcrumb: 'Video Generators'
 
 <hr>
 
-## Using AI video generators
+## (II) Using AI video generators
 
 ### Articles 
 
