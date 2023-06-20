@@ -9,13 +9,13 @@ Can you tell the difference between photos and A.I.-generated images? Try our Ka
 
 
 
-### [Set 1 - Photo or AI-generated image](https://kahoot.it/challenge/001881407)?
+### [Quiz #1](https://kahoot.it/challenge/001881407)
 
 ![](../images/gen-ai-kahoot-set1.PNG)
 
 
 
-### [Set 2 - Photo of AI-generated image?](https://kahoot.it/challenge/0090188)
+### [Quiz  #2](https://kahoot.it/challenge/0090188)
 
 ![](../images/gen-ai-kahoot-set2.PNG)
 
