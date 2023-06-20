@@ -57,9 +57,11 @@ links:
             - title: Advanced (Pre-U/JC)
               url: /resources/school-curriculum/advanced/part1-sure/
     - title: Resources
-      url: /resources/audience/
+      url: /generative-ai/what-is-generative-ai/
       false_collection: true
       sublinks:
+            - title: 'Generative A.I.'
+              url: /generative-ai/what-is-generative-ai/
             - title: 'News Gallery activities'
               url: /tng/the-news-gallery-learning-journey/
             - title: 'SUREvivors Activities'

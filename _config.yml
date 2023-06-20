@@ -66,6 +66,8 @@ collections:
         output: true
     school-curriculum:
         output: true
+    generative-ai:
+        output: true
     tng:
         output: true
     pri-activity:

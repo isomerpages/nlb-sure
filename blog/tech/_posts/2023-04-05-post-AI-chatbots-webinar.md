@@ -12,7 +12,7 @@ image: ../../../images/banner-26Apr2023-AI-webinar.png
 Date and time: Wednesday, 26 Apr 2023, 4:00pm - 5:30pm
 <br>Location: **National Library, The Pod**<br> 100 Victoria Street Level 16 Singapore, 188064
 
-Register **[HERE](https://www.eventbrite.sg/e/ai-chatbots-the-good-the-bad-and-the-future-tickets-610327404697)**.
+This event has ended.
 
 ### About the Programme
 
