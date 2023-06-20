@@ -22,6 +22,8 @@ breadcrumb: 'Chatbots'
 
 - [Disinformation Researchers Raise Alarms About A.I. Chatbots](https://www.nytimes.com/2023/02/08/technology/ai-chatbots-disinformation.html) (The New York Times, Feb 8, 2023)
 
+- [What Are The Dangers Of ChatGPT?](https://www.augustman.com/sg/gear/tech/openai-gpt-chatbot-chatgpt-dark-side/) (August Man, Feb 4, 2023)
+
 ### Videos
 
 - [Generative AI spreading fake news](https://www.youtube.com/watch?v=zyhielIGpn4) (DW Shift, May 27, 2023)
