@@ -28,14 +28,6 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'S.U.R.E. generative A.I. resources'
-          subtitle: 'For everyone'
-          description: We have prepared various resources to help the public to be aware of generative AI and its broad applications and to equip them to use it effectively and safely.
-          url: /generative-ai/what-is-generative-ai/
-          image: /images/gen-ai-imagegen.png
-          alt: 'alt text'
-          button: 'Find out more'
-    - infopic:
           title: 'S.U.R.E. Generative A.I. programmes (Aug 2023 - Jan 2024)'
           subtitle: 'For everyone'
           description: Learn about generative A.I. tools and how to safeguard yourselves from online falsehoods created by them.
