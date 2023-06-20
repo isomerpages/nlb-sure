@@ -7,6 +7,8 @@ breadcrumb: 'In Singapore'
 
 [Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Gen AI in SG](/generative-ai/generative-ai-singapore/)
 
+![](../images/gen-ai-sg.png)
+
 ## (I) Research on generative AI
 
 - [9 in 10 Singapore respondents say generative AI is important to daily work but knowledge gaps hinder full potential: HubSpot (Economic Times, Jun 20, 2023)](https://ciosea.economictimes.indiatimes.com/news/next-gen-technologies/9-in-10-singapore-respondents-say-generative-ai-is-important-to-daily-work-but-knowledge-gaps-hinder-full-potential-hubspot/101106180) 
