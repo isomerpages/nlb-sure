@@ -6,7 +6,7 @@ breadcrumb: 'Games'
 
 [Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Singapore](/generative-ai/generative-ai-singapore/)
 
-### A.I. or  not?
+### A.I. or  Not?
 
 Can you tell the difference between photos and A.I.-generated images? Try our single-player Kahoot quizzes now!
 

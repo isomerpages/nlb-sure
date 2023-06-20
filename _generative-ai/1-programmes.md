@@ -42,7 +42,7 @@ Damien is a Senior Librarian with more than 20 years of experience in content cr
 
  
 
-**Mervin Ang (Manager / Librarian)**
+**Mervin Ang (Librarian / Manager)**
 
 Mervin is a librarian and manager with more than 8 years of experience in NLB’s S.U.R.E. team. With his passion and specialty in public education and content creation, he has conducted several talks, workshops and tours to a diverse public audience of more than 40,000 individuals, along with spear-heading various collaborative projects with various agencies and schools.
 
