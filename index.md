@@ -23,21 +23,22 @@ sections:
                       url: /resources/audience/teachers-and-students/primary-level
                       
           title: S.U.R.E.
-          subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
+          subtitle: 'Discover about the National Library's Learning & Information Literacy resources'
           background: /images/1747093_s.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
           title: 'S.U.R.E. generative A.I. resources'
           subtitle: 'For everyone'
-          description: Learn about generative A.I. tools and how to safeguard yourselves from online falsehoods created by them.
+          description: We have prepared various resources to help the public to be aware of generative AI and its broad applications and to equip them to use it effectively and safely.
           url: /generative-ai/what-is-generative-ai/
-          image: /images/gen-ai-whatis.png
+          image: /images/gen-ai-imagegen.png
           alt: 'alt text'
           button: 'Find out more'
-          title: 'ChatGPT, A.I. Image Generators and the Dangers of Misinformation programmes (Aug 2023 - Jan 2024)'
+    - infopic:
+          title: 'S.U.R.E. Generative A.I. programmes (Aug 2023 - Jan 2024)'
           subtitle: 'For everyone'
-          description: We have prepared various resources to help the public to be aware of generative AI and its broad applications and to equip them to use it effectively and safely.
+          description: Learn about generative A.I. tools and how to safeguard yourselves from online falsehoods created by them.
           url: /generative-ai/programmes/
           image: /images/eb-banner-gen-ai-2023.png
           alt: 'alt text'
