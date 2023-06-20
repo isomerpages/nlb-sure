@@ -4,9 +4,9 @@ permalink: /generative-ai/games/
 breadcrumb: 'Games'
 ---
 
-### S.U.R.E. Kahoot! Quizzes
+### A.I. or  not?
 
-Can you tell the difference between photos and A.I.-generated images? Try our single-platyer Kahoot quizzes now!
+Can you tell the difference between photos and A.I.-generated images? Try our single-player Kahoot quizzes now!
 
 ### [Quiz #1](https://kahoot.it/challenge/001881407)
 

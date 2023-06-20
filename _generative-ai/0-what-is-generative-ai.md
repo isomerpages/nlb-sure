@@ -5,9 +5,11 @@ breadcrumb: 'Introduction'
 
 ---
 
-We have prepared the following programmes and resources to help raise public awareness about Generative AI and its broad applications, and to equip the public to use it effectively and safely through the lens of the S.U.R.E. framework.
+The recent advances in generative artificial intelligence (AI) have garnered significant public attention. We have prepared various **[programmes](/generative-ai/programmes/)** and [**resources**](/generative-ai/resource-toolkit/) to help the public to be aware of Generative AI and its broad applications and to equip the public to use it effectively and safely through the lens of the S.U.R.E. (information literacy) framework.
 
-### What is generative AI?
+### 
+
+## What is generative AI?
 
 Here are 2 definitions which are more academic:
 
@@ -15,11 +17,7 @@ Here are 2 definitions which are more academic:
 >
 > Source: [Analytics Insight](https://www.analyticsinsight.net/what-is-generative-ai-its-impacts-and-limitations/)
 
-
-
-and:
-
-
+and
 
 > *”Generative algorithms create data using models of the world to synthesize images, sounds and videos that often look increasingly realistic. The algorithms begin with models of what a world must be like and then they create a simulated world that fits the mode*l.”
 >
