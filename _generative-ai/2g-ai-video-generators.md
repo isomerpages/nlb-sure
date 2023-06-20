@@ -8,29 +8,27 @@ breadcrumb: 'Video Generators'
 
 ### Articles 
 
-- [The people onscreen are fake. The disinformation is real.](https://www.nytimes.com/2023/02/07/technology/artificial-intelligence-training-deepfake.html) (The New York Times, Feb 7, 2023)
+- [What are deepfakes? How fake AI-powered media can warp our perception of reality](https://www.businessinsider.com/guides/tech/what-is-deepfake) (Business Insider, Apr 5, 2023)
 
 - [How generative AI is making fake news worse](https://bootcamp.uxdesign.cc/how-generative-ai-is-making-fake-news-worse-4f3408bfca63) (UX Collective, Apr 2, 2023)
 
-- [Fake news is real — A.I. is going to make it much worse](https://www.cnbc.com/2019/07/12/fake-news-is-real-ai-is-going-to-make-it-much-worse.html) (CNBC, Jul 12, 2019)
-
 - [New AI tools make it easy to create fake video, audio and text](https://www.npr.org/2023/03/23/1165146797/it-takes-a-few-dollars-and-8-minutes-to-create-a-deepfake-and-thats-only-the-sta) (NPR, Mar 23, 2023)
 
-- [What are deepfakes? How fake AI-powered media can warp our perception of reality](https://www.businessinsider.com/guides/tech/what-is-deepfake) (Business Insider, Apr 5, 2023)
+- [The people onscreen are fake. The disinformation is real.](https://www.nytimes.com/2023/02/07/technology/artificial-intelligence-training-deepfake.html) (The New York Times, Feb 7, 2023)
+
+- [Fake news is real — A.I. is going to make it much worse](https://www.cnbc.com/2019/07/12/fake-news-is-real-ai-is-going-to-make-it-much-worse.html) (CNBC, Jul 12, 2019)
 
   
 
 ### Videos
 
-- [AI-generated deepfakes: Can you spot them?](https://www.youtube.com/watch?v=gB7oQZDPa1I) (CBC News: The National, Apr 22, 2023)
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gB7oQZDPa1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- [Artificial Intelligence software used to spread misinformation in Venezuela](https://edition.cnn.com/videos/world/2023/04/09/exp-venezuela-artificial-intelligence-stefano-pozzebon-fst-04091aseg2-cnni-world.cnn) (CNN, Apr 9, 2023) 
 
   
 
-- [It’s Getting Harder to Spot a Deep Fake Video](https://www.youtube.com/watch?v=gLoI9hAX9dw) (Bloomberg Originals, Sept 27, 2023)
+- [AI-generated deepfakes: Can you spot them?](https://www.youtube.com/watch?v=gB7oQZDPa1I) (CBC News: The National, Apr 22, 2023)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gLoI9hAX9dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gB7oQZDPa1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   
 
@@ -40,29 +38,12 @@ breadcrumb: 'Video Generators'
 
   
 
-- [Deep Fake Videos Are Getting Too Realistic - This is Going to Be a HUGE Problem Soon!](https://www.youtube.com/watch?v=0yXHoZo1cNY) (Mark Dice, Mar 1, 2023)
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0yXHoZo1cNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-  
-
-- [Artificial Intelligence software used to spread misinformation in Venezuela](https://edition.cnn.com/videos/world/2023/04/09/exp-venezuela-artificial-intelligence-stefano-pozzebon-fst-04091aseg2-cnni-world.cnn) (CNN, Apr 9, 2023)
-
-
-
 ### Podcasts 
 
-- [Teach, Learn and Grow Your Business With Talk-With-AI: The complete guide to AI-generated fake videos and how they are disrupting the media industry.](https://open.spotify.com/episode/7qy7BD2Ll46qtMonY1JzBh)
-
-- [It’s all Journalism: Misinformation, deepfake videos and the peril of mismanaged AI.](https://open.spotify.com/episode/4whKDWGRsFjh9rJf1EVyCM)
-
-- [Believe: How CGI and AI promote fake news and be used to create fake videos](https://open.spotify.com/episode/3AB3pMfNjn8ada4xfjeeiy)
-
-- [Changelog Masterfeed: Exposing the deception of deepfakes](https://open.spotify.com/episode/67zM71Jf4tf9t1jK2NPkOb)
-
-- [ChatGPT: Google’s plan to catch AI-generated images and deepfakes](https://open.spotify.com/episode/5Cv45NE41hIYuXVIsnlKn8)
+- [ChatGPT: Google’s plan to catch AI-generated images and deepfakes](https://open.spotify.com/episode/5Cv45NE41hIYuXVIsnlKn8) (May 16, 2023)
 
   
+
 
 <hr>
 
@@ -72,13 +53,13 @@ breadcrumb: 'Video Generators'
 
 - [6 Best AI-video generators: In-depth comparison](https://www.synthesia.io/post/best-ai-video-generators) (Synthesia, May 17, 2023)
 
-- [AI Text-To-Video Generators: What Are They, and How Will They Boost Marketing Sales?](https://attentioninsight.com/ai-text-to-video-generators-what-are-they/) (Attention Insight, Oct 19, 2022)
+- [Brace yourselves, the AI-generated video revolution is coming ](https://www.dazeddigital.com/life-culture/article/59785/1/ai-generated-video-revolution-is-coming-runway-nvidia-beer-commercial)(Dazed, May 4, 2023)-
 
 - [AI Video Generators Are Nearing a Crucial Tipping Point](https://www.wired.com/story/ai-video-generators-are-nearing-a-crucial-tipping-point/) (WIRED, Apr 6, 2023)
 
-- [Brace yourselves, the AI-generated video revolution is coming ](https://www.dazeddigital.com/life-culture/article/59785/1/ai-generated-video-revolution-is-coming-runway-nvidia-beer-commercial)(Dazed, May 4, 2023)
-
 - [Best AI Video Generators (2023)](https://www.marktechpost.com/2023/03/15/best-text-to-video-ai-generators-2023/) (MarkTechPost, Mar 15, 2023)
+
+- [AI Text-To-Video Generators: What Are They, and How Will They Boost Marketing Sales?](https://attentioninsight.com/ai-text-to-video-generators-what-are-they/) (Attention Insight, Oct 19, 2022)
 
   
 
@@ -112,14 +93,14 @@ breadcrumb: 'Video Generators'
 
 ### Podcasts 
 
-- [Digital Dreamway - AI prompts and generative AI: Top 8 best AI video generators](https://open.spotify.com/episode/1pniGH7ogVl18vjivNKZ31)
+- [Autocast: The AI-generated podcast: Exploring the world of AI video generators: Transforming content creation](https://open.spotify.com/episode/04ZsRhipP6LpE4iahFwkpZ) (May 16, 2023)
 
-- [What’s new with WIRED: AI video generators are nearing a crucial tipping point](https://open.spotify.com/episode/3vdisFBVTU4cFZ1ggLwkFc)
+- [Digital Dreamway - AI prompts and generative AI: Top 8 best AI video generators](https://open.spotify.com/episode/1pniGH7ogVl18vjivNKZ31) (Apr 19, 2023)
 
-- [Autocast: The AI-generated podcast: Exploring the world of AI video generators: Transforming content creation](https://open.spotify.com/episode/04ZsRhipP6LpE4iahFwkpZ)
+- [The Bad AI Show: Creating AI video masterpieces with Kaiber](https://open.spotify.com/episode/2J14Z9qvIFOo6RaWAHWVT5) (Apr 11, 2023)
 
-- [The Bad AI Show: Creating AI video masterpieces with Kaiber](https://open.spotify.com/episode/2J14Z9qvIFOo6RaWAHWVT5)
+- [What’s new with WIRED: AI video generators are nearing a crucial tipping point](https://open.spotify.com/episode/3vdisFBVTU4cFZ1ggLwkFc) (Apr 7, 2023)
 
-- [Leveraging AI: Discover the magic of AI generated videos](https://open.spotify.com/episode/5CQkgoRShb4CJ2i7N2idpg)
+- [Leveraging AI: Discover the magic of AI generated videos](https://open.spotify.com/episode/5CQkgoRShb4CJ2i7N2idpg) (Apr 6, 2023)
 
   

@@ -1,5 +1,5 @@
 ---
-title: 'What is Generative AI?'
+title: 'What is generative AI?'
 permalink: /generative-ai/what-is-generative-ai/
 breadcrumb: 'Introduction'
 
