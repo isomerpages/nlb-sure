@@ -5,7 +5,7 @@ breadcrumb: 'Introduction'
 
 ---
 
-[Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Singapore](/generative-ai/generative-ai-singapore/)
+[Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Gen AI in SG](/generative-ai/generative-ai-singapore/)
 
 The recent advances in generative artificial intelligence (AI) have garnered significant public attention. We have prepared various **[programmes](/generative-ai/programmes/)** and [**resources**](/generative-ai/resource-toolkit/) to help the public to be aware of generative AI and its broad applications and to equip them to use it effectively and safely through the lens of the S.U.R.E. (information literacy) framework.
 
