@@ -4,9 +4,12 @@ permalink: /generative-ai/resource-toolkit/
 breadcrumb: 'Toolkit'
 ---
 
-This resource toolkit highlights common generative AI tools and practical tips to help you guard against misinformation, disinformation and scams. 
+This resource toolkit highlights common generative AI tools and practical tips to help you guard against misinformation, disinformation and scams.
 
-### Categories:
+You can find lists of free and fee-based generative AI tools **[here](https://www.fastcompany.com/90856183/30-ai-tools-you-can-try-for-free 
+)** and **[here](https://mostpopularaitools.com/)**, but they are non-exhaustive. Given the rapid rate of development, you can expect new AI tools and new versions of existing tools to be introduced.  
+
+### Toolkit Categories:
 
 - [Fact-checking tools](/generative-ai/fact-checking-tools/)
 
