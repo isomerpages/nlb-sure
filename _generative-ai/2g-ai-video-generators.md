@@ -16,11 +16,10 @@ breadcrumb: 'Video Generators'
 
 - [New AI tools make it easy to create fake video, audio and text](https://www.npr.org/2023/03/23/1165146797/it-takes-a-few-dollars-and-8-minutes-to-create-a-deepfake-and-thats-only-the-sta) (NPR, Mar 23, 2023)
 
-- [The people onscreen are fake. The disinformation is real.](https://www.nytimes.com/2023/02/07/technology/artificial-intelligence-training-deepfake.html) (The New York Times, Feb 7, 2023)
-
 - [Fake news is real — A.I. is going to make it much worse](https://www.cnbc.com/2019/07/12/fake-news-is-real-ai-is-going-to-make-it-much-worse.html) (CNBC, Jul 12, 2019)
 
   
+
 
 ### Videos
 

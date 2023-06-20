@@ -7,9 +7,9 @@ breadcrumb: 'In Singapore'
 
 [Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Singapore](/generative-ai/generative-ai-singapore/)
 
-## (I) Research on Generative AI
+## (I) Research on generative AI
 
-- [9 in 10 Singapore respondents say Generative AI is important to daily work but knowledge gaps hinder full potential: HubSpot (Economic Times, Jun 20, 2023)](https://ciosea.economictimes.indiatimes.com/news/next-gen-technologies/9-in-10-singapore-respondents-say-generative-ai-is-important-to-daily-work-but-knowledge-gaps-hinder-full-potential-hubspot/101106180) 
+- [9 in 10 Singapore respondents say generative AI is important to daily work but knowledge gaps hinder full potential: HubSpot (Economic Times, Jun 20, 2023)](https://ciosea.economictimes.indiatimes.com/news/next-gen-technologies/9-in-10-singapore-respondents-say-generative-ai-is-important-to-daily-work-but-knowledge-gaps-hinder-full-potential-hubspot/101106180) 
 
 - [Generative AI: Implications for trust and governance (IMDA, Jun 7, 2023)](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf)
 
@@ -21,6 +21,8 @@ breadcrumb: 'In Singapore'
 
 - [Singapore identifies six generative AI risks, sets up foundation to guide adoption (ZDNET, Jun 8, 2023)](https://www.zdnet.com/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/)
 
+- [Singapore’s Cyber Defenses Against ChatGPT-enabled Hackers](https://aibusiness.com/ml/singapore-s-cyber-defenses-against-chatgpt-enabled-hackers) (AI Business, May 29, 2023)
+
 - [The Straits Times Podcast: How Singapore could use AI tools to deal with fake new, misinformation (The Straits Times, May 8, 2023)](https://open.spotify.com/episode/39dQDyKDBTO98cff2A29gO)
 
   
@@ -28,8 +30,6 @@ breadcrumb: 'In Singapore'
 ## (III) Use cases in Singapore
 
 - [What generative AI means for Singapore businesses ](https://techwireasia.com/2023/05/what-generative-ai-means-for-singapore-businesses/) (Techwire Asia, May 31, 2023)
-
-- [Singapore’s Cyber Defenses Against ChatGPT-enabled Hackers](https://aibusiness.com/ml/singapore-s-cyber-defenses-against-chatgpt-enabled-hackers) (AI Business, May 29, 2023)
 
 - [Public officers can use ChatGPT and similar AI, but must take responsibility for their work: MCI](https://www.straitstimes.com/tech/public-officers-allowed-to-use-chatgpt-and-other-ai-but-must-take-responsibility-for-work-mci) (The Straits Times, May 23, 2023)
 

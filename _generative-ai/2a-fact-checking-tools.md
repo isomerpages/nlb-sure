@@ -1,5 +1,5 @@
 ---
-title: 'AI fact-checking tools'
+title: 'AI Fact-checking Tools'
 permalink: /generative-ai/fact-checking-tools/
 breadcrumb: 'Fact-checking'
 ---

@@ -29,7 +29,7 @@ You can find lists of free and fee-based generative AI tools **[here](https://ww
 
 ## NLB eResources
 
-### Udemy Business courses on Generative AI
+### Udemy Business courses on generative AI
 
 You can access lots of different elearning courses and modules on generative AI tools like ChatGPT and  MidJourney [at NLB's eResources portal](https://eresources.nlb.gov.sg/main/Browse?startsWith=u).
 

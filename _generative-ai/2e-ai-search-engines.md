@@ -24,10 +24,6 @@ breadcrumb: 'Search Engines'
 
 - [AI in Search Engines: Everything You Need to Know](https://www.marketingaiinstitute.com/blog/how-search-engines-use-artificial-intelligence) (Marketing AI Institute, Mar 7, 2023)
 
-- [Everything You Need To Know About Bing Microsoft AI: Your AI-Powered Answer Engine](https://kyleake.medium.com/everything-you-need-to-know-about-bing-microsoft-ai-your-ai-powered-answer-engine-5e2d39e7762a) (Medium, Feb 22, 2023)
-
-- [Best AI search engines: Let AI surf the web for you](https://www.linkedin.com/pulse/best-ai-search-engines-let-surf-web-you-expanz) (Expanz-LinkedIN, Feb 20, 2023)
-
 - [How Artificial Intelligence Is Powering Search Engines](https://www.datasciencecentral.com/how-artificial-intelligence-is-powering-search-engines/) (Data Science Central, Oct 6, 2021)
 
 - [How Search Engines Use Machine Learning: 9 Things We Know For Sure](https://www.searchenginejournal.com/ml-things-we-know/408882/#close) (Search Engine Journal, Aug 13, 2021)
