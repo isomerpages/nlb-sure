@@ -1,7 +1,7 @@
 ---
 title: 'AI Fact-checking Tools'
 permalink: /generative-ai/fact-checking-tools/
-breadcrumb: 'Fact-checking'
+breadcrumb: 'AI Fact-checking Tools'
 ---
 
 [Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Gen AI in SG](/generative-ai/generative-ai-singapore/)

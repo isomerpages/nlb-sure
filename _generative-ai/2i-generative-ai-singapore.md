@@ -1,7 +1,7 @@
 ---
 title: 'Generative AI in Singapore'
 permalink: /generative-ai/generative-ai-singapore/
-breadcrumb: 'In Singapore'
+breadcrumb: 'Gen AI in SG'
 
 ---
 
