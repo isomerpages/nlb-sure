@@ -1,39 +1,52 @@
 ---
 
-title: 'Let's be S.U.R.E. programmes'
-permalink: /events/letsbesure2023-programmes/
-breadcrumb: 'Programmes'
-third_nav_title: 'Let's be S.U.R.E. programmes'
+title: 'S.U.R.E. Activations'
+permalink: /events/letsbesure2023-activations/
+breadcrumb: 'Activations'
+third_nav_title: 'S.U.R.E. Activations'
 
 ---
 
-![](../images/SURE-Eventbrite-KV-Original_230622.jpg)
+### **POP-UP EVENT AT ONE PUNGGOL, CELEBRATION SQUARE II**
 
-“Let’s be S.U.R.E. together!” features talks and workshops on keeping informed, safe and S.U.R.E. while navigating the online world. Take your pick from the range of online and on-site programmes and stay sure together. 
-
-For the most updated information on each programme, please visit the respective event links. 
+19 - 20 August 2023
 
  
 
- 
-
-| *Date/Day**     | **Time**      | **Venue**                        | **Programme**                                                |
-| --------------- | ------------- | -------------------------------- | ------------------------------------------------------------ |
-| 3 Aug,  Thurs   | 7pm-8pm       | Online (Zoom)<br/>               | Building Connections: Safe spaces for a digital childhood    |
-| 5 Aug,  Sat     | 2.30pm-4pm    | Tampines Regional Library  <br/> | RTBS Youth Debates: This House regrets the proliferation of  generative A.I. |
-| 10 Aug,   Thurs | 7pm-8pm       | Online (Zoom)  <br/>             | Growing Up with A.I.: Raising Digitally S.U.R.E. Kids        |
-| 12 Aug, Sat     | 11am-12pm     | Woodlands Regional Library <br/> | Digital Detectives: A Cyber S.U.R.E. Drama Workshop for Kids |
-| 17 Aug, Thurs   | 7pm-8pm       | Online (Zoom)  <br/>             | A.I. 101: Understanding ChatGPT and Other A.I. Tools for Students |
-| 19 Aug, Sat     | 11am-12pm     | Punggol Regional Library  <br/>  | Parenting Workshop: Cybersecurity and Cyber Wellness by CSA and POSB |
-| 19 Aug, Sat     | 2.30pm-3.30pm | Punggol Regional Library  <br/>  | Digital Detectives: A Cyber S.U.R.E. Drama Workshop for Kids |
-| 20 Aug, Sun     | 11am-12pm     | Punggol Regional Library  <br/>  | ChatGPT, A.I. Image Generators and the Dangers of Misinformation |
-| 20 Aug, Sun     | 2pm-5pm       | Punggol Regional Library  <br/>  | Game on! Level Up Your Child’s Online Gaming Safety          |
-| 24 Aug, Thurs   | 7pm-8pm       | Online (Zoom)  <br/>             | GGWP: Staying Safe and Calm in Online Games                  |
-| 26-Aug, Sat     | 4pm-5.30pm    | Jurong Regional Library          | "Seniors Go Safe Online" Workshop                            |
-| 27-Aug, Sun     | 10am-11.30am  | Jurong Regional Library  <br/>   | "Seniors Go Safe Online" Workshop  <br/>                     |
-| 27-Aug, Sun     | 2pm-5pm       | Jurong Regional Library          | Unleash Your Inner Innovator: Creating Solutions with Design  Thinking and A.I.  <br> |
-| 31-Aug, Thurs   | 7pm-8pm       | Online (Zoom)                    | Social MEdia & Online Harms: Empowering Our Children to Navigate  the Thrills and Spills of the Online World  <br> |
+Are you ready to explore the online world together and ensure the safety and well-being of your digitally-savvy family? Join us at our weekend pop-up event and “Let’s be S.U.R.E. together!”. 
 
  
 
-  
+Put your information literacy skills to the test at our info-maze of game stations! Challenge A.I.. image generators with your drawing abilities, and learn valuable tips on staying safe and informed online. 
+
+ 
+
+But wait, there’s more! Don’t forget to collect S.U.R.E. goodies* after participating in our activities at our pop-up. 
+
+ 
+
+**while stocks last*
+
+
+
+### **ACTIVATIONS AT THE LIBRARIES**
+
+1 - 31 August 2023
+
+ 
+
+Are you ready to tackle the misinformation mayhem in our digital world? Don’t miss our eye-opening display at Jurong Regional Library, Woodlands Regional Library and Tampines Regional Library.
+
+ 
+
+Learn to spot the threats of misinformation and scams and discover good digital habits to keep yourself safe and informed. 
+
+ 
+
+Plus, don’t forget to collect your [S.U.R.E.vivors](https://sure.nlb.gov.sg/tng/surevivors/) stickers* at our displays to help you stay informed about the online world. 
+
+ 
+
+**while stocks last*
+
+“
