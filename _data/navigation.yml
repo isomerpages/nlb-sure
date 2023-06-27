@@ -71,7 +71,7 @@ links:
             - title: Formats
               url: /resources/format/
     - title: Events
-      url: //events/letsbesure2023/
+      url: /events/letsbesure2023/
       false_collection: true
       sublinks:
            - title: 'Let's Be S.U.R.E 2023'
