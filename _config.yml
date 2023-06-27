@@ -68,6 +68,8 @@ collections:
         output: true
     generative-ai:
         output: true
+    letsbesure2023:
+        output: true
     tng:
         output: true
     pri-activity:

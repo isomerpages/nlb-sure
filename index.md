@@ -28,6 +28,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Let's Be S.U.R.E. Together'
+          subtitle: 'For everyone'
+          description: A fun-filled extravanganza for the family in Aug 2023!
+          url: /events/letsbesure2023/
+          image: /images/SURE-Eventbrite-KV-3by1_230622.jpg
+          alt: 'alt text'
+          button: 'Find out more'
+    - infopic:
           title: 'S.U.R.E. generative A.I. resources'
           subtitle: 'For everyone'
           description: Resources to help the public to use generative AI effectively and safely
