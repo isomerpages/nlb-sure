@@ -1,10 +1,8 @@
 ---
-
 title: 'Overview'
 permalink: /events/letsbesure2023/
 breadcrumb: 'Overview'
 third_nav_title: 'Let's Be S.U.R.E. Together 2023'
-
 ---
 
 ![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)

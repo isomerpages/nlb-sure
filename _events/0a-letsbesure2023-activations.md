@@ -1,10 +1,8 @@
 ---
-
 title: 'Activations'
 permalink: /events/letsbesure2023-activations/
 breadcrumb: 'Activations'
 third_nav_title: 'S.U.R.E. Activations'
-
 ---
 
 ### **POP-UP EVENT AT ONE PUNGGOL, CELEBRATION SQUARE II**

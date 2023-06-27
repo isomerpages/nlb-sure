@@ -1,10 +1,8 @@
 ---
-
 title: 'Programmes'
 permalink: /events/letsbesure2023-programmes/
 breadcrumb: 'Programmes'
 third_nav_title: 'Let's be S.U.R.E. programmes'
-
 ---
 
 ![](../images/SURE-Eventbrite-KV-Original_230622.jpg)
