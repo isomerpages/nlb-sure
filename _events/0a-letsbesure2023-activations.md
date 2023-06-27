@@ -1,6 +1,6 @@
 ---
 
-title: 'S.U.R.E. Activations'
+title: 'Activations'
 permalink: /events/letsbesure2023-activations/
 breadcrumb: 'Activations'
 third_nav_title: 'S.U.R.E. Activations'
