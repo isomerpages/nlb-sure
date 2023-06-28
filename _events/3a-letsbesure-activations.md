@@ -1,8 +1,8 @@
 ---
-title: 'Activations'
-permalink: /events/letsbesure1/
-breadcrumb: 'Activations'
-
+title: 'Prove It! Contest 2021'
+permalink: /events/proveit2021/
+breadcrumb: '2021 Contest'
+third_nav_title: 'Prove It!'
 ---
 
 
