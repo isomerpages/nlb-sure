@@ -84,6 +84,12 @@ links:
               url: /events/hsi2022/
             - title: 'Prove It! 2021'
               url: /events/proveit2021/
+    - title: Events2
+      url: /events2/lets-be-sure/
+      false_collection: true
+      sublinks:
+            - title: 'Lets be SURE'
+              url: /events2/lets-be-sure/
     - title: Blog
       url: /blog/
       false_collection: true
