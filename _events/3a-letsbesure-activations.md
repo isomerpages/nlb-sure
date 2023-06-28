@@ -1,8 +1,8 @@
 ---
-title: 'Let's Be SURE 2023 Activations'
+title: 'Lets Be SURE 2023 Activations'
 permalink: /events/letsbesure-activations/
 breadcrumb: 'Activations'
-third_nav_title: 'Let's Be SURE Together'
+third_nav_title: 'Lets Be SURE Together'
 ---
 
 ![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
