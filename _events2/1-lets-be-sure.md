@@ -1,8 +1,8 @@
 ---
 title: 'Introduction'
-permalink: /events/surecelebratesmil/
+permalink: /events2/lets-be-sure/
 breadcrumb: 'Introduction'
-third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
+third_nav_title: 'Lets be S.U.R.E.'
 
 ---
 
