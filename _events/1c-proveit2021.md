@@ -1,7 +1,8 @@
 ---
 title: 'Prove It! Contest 2021'
 permalink: /events/proveit2021/
-breadcrumb: 'Prove It! 2021'
+breadcrumb: '2021 Contest'
+third_nav_title: 'Prove It! Contest'
 ---
 
 ![](../images/proveit2021-logo.JPG)

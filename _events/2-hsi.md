@@ -1,7 +1,8 @@
 ---
 title: 'Historical Scene Investigation Challenge 2022'
 permalink: /events/hsi2022/
-breadcrumb: 'Historical Scene Investigation 2022'
+breadcrumb: '2022 Challenge'
+third_nav_title: 'Historical Scene Investigation'
 image: ../../../images/HSI-2022-logo.png
 
 ---
