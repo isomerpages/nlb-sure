@@ -2,7 +2,6 @@
 title: 'SURE Fest'
 permalink: /events/letsbesure/
 breadcrumb: 'Overview'
-third_nav_title: 'Lets Be SURE Together'
 
 ---
 

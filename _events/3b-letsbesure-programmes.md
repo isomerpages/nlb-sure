@@ -2,7 +2,6 @@
 title: 'Programmes'
 permalink: /events/letsbesure-programmes/
 breadcrumb: 'Programmes'
-third_nav_title: 'Lets Be SURE Together'
 
 ---
 
