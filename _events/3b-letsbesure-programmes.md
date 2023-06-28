@@ -1,5 +1,5 @@
 ---
-title: 'Let's Be SURE 2023 Programmes'`
+title: 'Let's Be SURE 2023 Programmes'
 permalink: /events/letsbesure-programmes/
 breadcrumb: 'Programmes'
 third_nav_title: 'Let's Be SURE Together'
