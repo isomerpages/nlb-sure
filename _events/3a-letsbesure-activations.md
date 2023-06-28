@@ -1,11 +1,11 @@
 ---
-title: 'Prove It! Contest 2023 Briefing'
-permalink: /events/proveit2023-briefing/
-breadcrumb: '2023 Contest Briefing'
-third_nav_title: 'Prove It!'
+title: 'Let's Be S.U.R.E. 2023 Activations'
+permalink: /events/letsbesure-activations/
+breadcrumb: 'Activations'
+third_nav_title: 'Let's Be S.U.R.E. Together'
 ---
 
-<img src="../images/ProveIt2023-logo.png" style="zoom:33%;" />
+![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
 
 **Prove It! Contest 2023 Briefing**
 

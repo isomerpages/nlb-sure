@@ -1,11 +1,11 @@
 ---
-title: 'Prove It! Contest 2021'
-permalink: /events/proveit2021/
-breadcrumb: '2021 Contest'
-third_nav_title: 'Prove It!'
+title: 'Let's Be S.U.R.E. 2023 Programmes'`
+permalink: /events/letsbesure-programmes/
+breadcrumb: 'Programmes'
+third_nav_title: 'Let's Be S.U.R.E. Together'
 ---
 
-![](../images/proveit2021-logo.JPG)
+![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
 
 Organised by the National Library Board, the S.U.R.E. Prove It! Contest 2021 aimed to equip students with information literacy skills in the digital age and apply it to current affairs consumed online. 
 

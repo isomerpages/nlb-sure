@@ -1,11 +1,11 @@
 ---
-title: 'Prove It! Contest 2023'
-permalink: /events/proveit2023/
-breadcrumb: '2023 Contest'
-third_nav_title: 'Prove It!'
+title: 'Let's Be S.U.R.E. 2023'
+permalink: /events/letsbesure/
+breadcrumb: 'Overview'
+third_nav_title: 'Let's Be S.U.R.E. Together'
 ---
 
-<img src="../images/ProveIt2023-logo.png" style="zoom:33%;" />
+![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
 
 Organised by the National Library Board, the Prove It! Contest 2023 aims to equip students with news and information literacy (IL) skills, along with instilling the confidence to become effective ambassadors of IL skills in their schools and community.
 
