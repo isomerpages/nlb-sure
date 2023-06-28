@@ -84,8 +84,6 @@ collections:
         output: true
     events:
         output: true
-    letsbesure:
-        output: true
     ongoing-events:
         output: true
     past-events:
