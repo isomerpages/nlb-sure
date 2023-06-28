@@ -1,11 +1,8 @@
 ---
-title: 'Prove It! Contest 2021'
-permalink: /events/proveit2021/
-breadcrumb: '2021 Contest'
-third_nav_title: 'Prove It!'
+title: 'SURE Festival'
+Permalink: /events/SURE Festival/
+breadcrumb: 'Overview`'
 ---
-
-
 
 ![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
 
