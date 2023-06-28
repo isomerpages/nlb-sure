@@ -1,8 +1,8 @@
 ---
-title: 'SURE Fest'
-permalink: /events/surefest/
+title: 'Lets be sure 2023'
+permalink: /events/letsbesure/
 breadcrumb: 'SURE Fest'
-third_nav_title: 'S.U.R.E. Festival'
+third_nav_title: 'S.U.R.E. Event'
 ---
 
 ![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
