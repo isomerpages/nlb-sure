@@ -23,18 +23,10 @@ sections:
                       url: /resources/audience/teachers-and-students/primary-level
                       
           title: S.U.R.E.
-          subtitle: 'Discover about the National Library's Learning & Information Literacy resources'
+          subtitle: 'Discover about the National Library''s Learning & Information Literacy resources'
           background: /images/1747093_s.jpg
           button: 'Learn More'
           url: /about-us/sure-campaign/
-    - infopic:
-          title: 'Let's Be S.U.R.E. Together'
-          subtitle: 'For everyone'
-          description: A fun-filled extravanganza for the family in Aug 2023!
-          url: /events/letsbesure2023/
-          image: /images/SURE-Eventbrite-KV-3by1_230622.jpg
-          alt: 'alt text'
-          button: 'Find out more'
     - infopic:
           title: 'S.U.R.E. generative A.I. resources'
           subtitle: 'For everyone'
