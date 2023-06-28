@@ -1,8 +1,8 @@
 ---
-title: 'Introduction'
+title: 'Lets be SURE'
 permalink: /events2/lets-be-sure/
 breadcrumb: 'Introduction'
-third_nav_title: 'Lets be S.U.R.E.'
+third_nav_title: 'Lets be SURE'
 
 ---
 
