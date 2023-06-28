@@ -1,6 +1,6 @@
 ---
 title: 'Programmes'
-permalink: /events/letsbesure-programmes/
+permalink: /events/letsbesure2/
 breadcrumb: 'Programmes'
 
 ---

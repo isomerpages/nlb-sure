@@ -1,6 +1,6 @@
 ---
 title: 'Activations'
-permalink: /events/letsbesure-activations/
+permalink: /events/letsbesure1/
 breadcrumb: 'Activations'
 
 ---
