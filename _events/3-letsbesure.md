@@ -3,7 +3,10 @@ title: 'Lets be SURE 2023'
 permalink: /events/letsbesure/
 breadcrumb: 'Overview'
 third_nav_title: 'Lets Be SURE Together'
+
 ---
+
+
 
 ![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
 
@@ -16,5 +19,3 @@ Open to lower secondary students, teams can choose to either write or produce an
  
 
 This contest is part of NLB's S.U.R.E. (Source, Understand, Research, Evaluate) programme, and supported by the Ministry of Education.
-
-![](../images/ProveIt2023-EDM.png)
