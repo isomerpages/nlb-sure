@@ -16,7 +16,7 @@ Are you ready to explore the online world together and ensure the safety and wel
 
  
 
-Put your information literacy skills to the test at our info-maze of game stations! Challenge A.I.. image generators with your drawing abilities, and learn valuable tips on staying safe and informed online. 
+Put your information literacy skills to the test at our info-maze of game stations! Challenge A.I. image generators with your drawing abilities, and learn valuable tips on staying safe and informed online. 
 
  
 
@@ -46,5 +46,5 @@ Plus, don’t forget to collect your [S.U.R.E.vivors](https://sure.nlb.gov.sg/tn
 
  
 
-**while stocks last*
+**While stocks last.*
 

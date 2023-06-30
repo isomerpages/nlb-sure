@@ -10,7 +10,7 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 “Let’s be S.U.R.E. together!” features talks and workshops on keeping informed, safe and S.U.R.E. while navigating the online world. Take your pick from the range of online and on-site programmes and stay sure together. 
 
-For the most updated information on each programme, please visit the respective event links. 
+For the most updated information on each programme, please visit the respective event links below or via our [EventBrite collections page](https://www.eventbrite.com/cc/lets-be-sure-together-2280469). 
 
 | Date/Day        | **Time**      | **Venue**                        | **Programme**                                                |
 | --------------- | ------------- | -------------------------------- | ------------------------------------------------------------ |
