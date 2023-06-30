@@ -84,6 +84,8 @@ collections:
         output: true
     events:
         output: true
+    events2:
+        output: true
     ongoing-events:
         output: true
     past-events:
