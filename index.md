@@ -32,7 +32,7 @@ sections:
           subtitle: 'For everyone'
           description: Get ready for a thrilling cyber adventure with your family this August 2023! “Let's be S.U.R.E. together” and explore the online world while ensuring safety and well-being for your digitally savvy family.
           url: /events/lets-be-sure-about/
-          image: /images/SURE-Eventbrite-KV-Original_230622.jpg
+          image: /images/letsbesure-activations.png
           alt: 'Lets be SURE Together 2023'
           button: 'Find out more'
     - infopic:

@@ -6,7 +6,7 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 ---
 
-![](../images/SURE-Eventbrite-KV-Original_230622.jpg)
+![](../images/letsbesure-activations.png)
 
 Get ready for a thrilling cyber adventure with your family this August 2023! “Let's be S.U.R.E. together” and explore the online world while ensuring safety and well-being for your digitally savvy family.
 

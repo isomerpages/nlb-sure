@@ -6,7 +6,7 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 ---
 
-![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
+![](../images/letsbesure-activations.png)
 
 “Let’s be S.U.R.E. together!” features talks and workshops on keeping informed, safe and S.U.R.E. while navigating the online world. Take your pick from the range of online and on-site programmes and stay sure together. 
 
