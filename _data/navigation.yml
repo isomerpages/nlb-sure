@@ -71,11 +71,11 @@ links:
             - title: Formats
               url: /resources/format/
     - title: Events
-      url: /events/lets-be-sure/
+      url: /events/lets-be-sure-about/
       false_collection: true
       sublinks:
             - title: 'Let&#39;s be S.U.R.E. 2023'
-              url: /events/lets-be-sure/
+              url: /events/lets-be-sure-about/
             - title: 'Prove It! 2023'
               url: /events/proveit2023/
             - title: 'Prove It! 2023 Briefing'
