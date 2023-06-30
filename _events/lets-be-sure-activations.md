@@ -10,7 +10,7 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 **19 - 20 August 2023**
 
- ![](../images/SURE-Eventbrite-KV-3by1_230622.jpg)
+ ![](../images/letsbesure-activations.png)
 
 Are you ready to explore the online world together and ensure the safety and well-being of your digitally-savvy family? Join us at our weekend pop-up event and “Let’s be S.U.R.E. together!”. 
 
