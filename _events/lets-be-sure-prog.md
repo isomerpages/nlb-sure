@@ -27,7 +27,7 @@ For the most updated information on each programme, please visit the respective 
 | 26-Aug, Sat     | 4pm-5.30pm    | Jurong Regional Library          | "Seniors Go Safe Online" Workshop                            |
 | 27-Aug, Sun     | 10am-11.30am  | Jurong Regional Library  <br/>   | "Seniors Go Safe Online" Workshop  <br/>                     |
 | 27-Aug, Sun     | 2pm-5pm       | Jurong Regional Library          | Unleash Your Inner Innovator: Creating Solutions with Design  Thinking and A.I.  <br> |
-| 31-Aug, Thurs   | 7pm-8pm       | Online (Zoom)                    | Social MEdia & Online Harms: Empowering Our Children to Navigate  the Thrills and Spills of the Online World  <br> |
+| 31-Aug, Thurs   | 7pm-8pm       | Online (Zoom)                    | Social MEdia & Online Harms: Teaching and Empowering Our Children |
 
  
 
