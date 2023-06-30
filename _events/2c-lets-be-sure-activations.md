@@ -48,4 +48,3 @@ Plus, don’t forget to collect your [S.U.R.E.vivors](https://sure.nlb.gov.sg/tn
 
 **while stocks last*
 
-“
