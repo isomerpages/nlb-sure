@@ -12,7 +12,7 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 For the most updated information on each programme, please visit the respective event links. 
 
-| *Date/Day**     | **Time**      | **Venue**                        | **Programme**                                                |
+| Date/Day        | **Time**      | **Venue**                        | **Programme**                                                |
 | --------------- | ------------- | -------------------------------- | ------------------------------------------------------------ |
 | 3 Aug,  Thurs   | 7pm-8pm       | Online (Zoom)<br/>               | Building Connections: Safe spaces for a digital childhood    |
 | 5 Aug,  Sat     | 2.30pm-4pm    | Tampines Regional Library  <br/> | RTBS Youth Debates: This House regrets the proliferation of  generative A.I. |

@@ -1,6 +1,6 @@
 ---
 title: 'Let&#39;s Be S.U.R.E. 2023'
-permalink: /events/lets-be-sure/
+permalink: /events/lets-be-sure-about/
 breadcrumb: 'Introduction'
 third_nav_title: 'Let&#39;s be S.U.R.E.'
 
