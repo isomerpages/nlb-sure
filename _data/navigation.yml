@@ -74,6 +74,8 @@ links:
       url: /events/surecelebratesmil/
       false_collection: true
       sublinks:
+            - title: 'Lets be S.U.R.E. 2023'
+              url: /events/lets-be-sure/
             - title: 'Prove It! 2023'
               url: /events/proveit2023/
             - title: 'Prove It! 2023 Briefing'
@@ -84,12 +86,6 @@ links:
               url: /events/hsi2022/
             - title: 'Prove It! 2021'
               url: /events/proveit2021/
-    - title: Events2
-      url: /events2/lets-be-sure/
-      false_collection: true
-      sublinks:
-            - title: 'Lets be SURE'
-              url: /events2/lets-be-sure/
     - title: Blog
       url: /blog/
       false_collection: true
