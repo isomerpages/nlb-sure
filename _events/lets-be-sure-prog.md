@@ -1,8 +1,8 @@
 ---
-title: 'Lets Be S.U.R.E. 2023 - Programmes'
+title: 'Let&#39;s Be S.U.R.E. 2023 - Programmes'
 permalink: /events/lets-be-sure-prog/
 breadcrumb: 'Programmes'
-third_nav_title: 'Lets be SURE'
+third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 ---
 

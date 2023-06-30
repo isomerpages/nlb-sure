@@ -1,8 +1,8 @@
 ---
-title: 'Lets Be S.U.R.E. 2023 - Activations'
+title: 'Let&#39;s Be S.U.R.E. 2023 - Activations'
 permalink: /events/lets-be-sure-activations/
 breadcrumb: 'Activations'
-third_nav_title: 'Lets be SURE'
+third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 ---
 
@@ -26,7 +26,7 @@ But wait, there’s more! Don’t forget to collect S.U.R.E. goodies* after part
 
 **while stocks last*
 
-
+<hr>
 
 ### **ACTIVATIONS AT THE LIBRARIES**
 
