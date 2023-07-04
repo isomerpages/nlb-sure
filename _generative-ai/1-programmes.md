@@ -21,7 +21,7 @@ This talk features interactive quizzes and activities conducted via your smartph
 
 ## Schedule
 
-Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
+<a name="101"></a>Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
 
 | Date                                                         | Time              | Venue                                                   | Language |
 | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- | -------- |
@@ -41,7 +41,7 @@ ChatGPT and other generative A.I. tools are increasingly used to generate text, 
 
 In this workshop, find out how you can apply various tools and techniques - as well as NLB’s S.U.R.E. (Source, Understand, Research, Evaluate) steps - to verify and fact-check A.I.-generated content.
 
-***Note to participants: While it is not mandatory, participants are advised to attend one of the 101-level talks (listed above), before attending this workshop.***
+***Note to participants: While it is not mandatory, participants are advised to attend one of the <a href="#101">101-level talks (listed above)</a>, before attending this workshop.***
 
 Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
 
