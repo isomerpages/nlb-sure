@@ -27,7 +27,7 @@ Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure
 | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- | -------- |
 | [20 Aug 2023](https://www.eventbrite.com/e/chatgpt-ai-image-generators-and-the-dangers-of-misinformation-tickets-662081893767?aff=odcleoeventsincollection&keep_tld=1) | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm <br>  | English  |
 | [19 Sep 2023](https://nlb-genai-19sep.eventbrite.sg )        | 7.00pm - 8.00pm   | This session will be conducted online via Zoom.<br>     | English  |
-| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)         | s3.30pm - 4.30pm  | Jurong Regional Library  <br>Level 1 Programme Zone<br> | Mandarin |
+| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)         | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone<br> | Mandarin |
 
 
 
@@ -45,10 +45,10 @@ In this workshop, find out how you can apply various tools and techniques - as w
 
 Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
 
-| Date                                                 | Time            | Venue                                                      | Language |
-| ---------------------------------------------------- | --------------- | ---------------------------------------------------------- | -------- |
-| 17 Oct 2023                                          | 7.00pm - 9.00pm | National Library  Building<br>Level 5 Possibility Room<br> | English  |
-| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg) | 2.30pm - 3.30pm | Woodlands Regional Library <br>Level 1 Programme Zone<br>  | English  |
+| Date                                                   | Time            | Venue                                                      | Language |
+| ------------------------------------------------------ | --------------- | ---------------------------------------------------------- | -------- |
+| [17 Oct 2023](https://sure-genai-17oct.eventbrite.sg/) | 7.00pm - 9.00pm | National Library  Building<br>Level 5 Possibility Room<br> | English  |
+| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg)   | 2.30pm - 3.30pm | Woodlands Regional Library <br>Level 1 Programme Zone<br>  | English  |
 
 
 
@@ -60,10 +60,21 @@ Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure
 
 Damien is a Senior Librarian with more than 20 years of experience in content creation and training. A member of the S.U.R.E. team since its inception in 2012, he has developed courseware and conducted workshops on information literacy and combating fake news. He currently leads a team which develops new content, courseware, and programmes to educate the public about new trends in online misinformation and disinformation, particularly through the use and misuse of generative A.I. 
 
- 
+
+
+**Jessie Yak (Librarian / Manager)**
+
+**Jessie Yak** is an Outreach Librarian, and has been with the National Library Board for almost a decade. She is a bibliophile, who is passionate about promoting the knowledge and importance of information literacy to the public.
+
+
 
 **Mervin Ang (Librarian / Manager)**
 
 Mervin is a librarian and manager with more than 8 years of experience in NLB’s S.U.R.E. team. With his passion and specialty in public education and content creation, he has conducted several talks, workshops and tours to a diverse public audience of more than 40,000 individuals, along with spear-heading various collaborative projects with various agencies and schools.
 
- 
+
+
+**Nadia Ramli (Librarian / Manager)**
+
+Nadia Ramli (Librarian, Outreach) has been with the National Library Board (NLB) for more than 7 years. She has conducted numerous tours and talks for children, students and adults during her time at NLB. She believes that information literacy is an important skill for all ages, be it researching projects for school or discerning information on social media.
+
