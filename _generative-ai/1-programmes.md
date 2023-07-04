@@ -23,12 +23,12 @@ This talk features interactive quizzes and activities conducted via your smartph
 
 Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
 
-| Date                                                  | Time              | Venue                                                     | Language |
-| ----------------------------------------------------- | ----------------- | --------------------------------------------------------- | -------- |
-| [20 Aug 2023](https://nlb-genai-20aug.eventbrite.sg)  | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm <br>    | English  |
-| [19 Sep 2023](https://nlb-genai-19sep.eventbrite.sg ) | 7.00pm - 8.00pm   | This session will be conducted online via Zoom.<br>       | English  |
-| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)  | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone<br>   | Mandarin |
-| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg)  | 2.30pm - 3.30pm   | Woodlands Regional Library <br>Level 1 Programme Zone<br> | English  |
+| Date                                                         | Time              | Venue                                                     | Language |
+| ------------------------------------------------------------ | ----------------- | --------------------------------------------------------- | -------- |
+| [20 Aug 2023](https://www.eventbrite.com/e/chatgpt-ai-image-generators-and-the-dangers-of-misinformation-tickets-662081893767?aff=odcleoeventsincollection&keep_tld=1) | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm <br>    | English  |
+| [19 Sep 2023](https://nlb-genai-19sep.eventbrite.sg )        | 7.00pm - 8.00pm   | This session will be conducted online via Zoom.<br>       | English  |
+| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)         | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone<br>   | Mandarin |
+| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg)         | 2.30pm - 3.30pm   | Woodlands Regional Library <br>Level 1 Programme Zone<br> | English  |
 
 
 
