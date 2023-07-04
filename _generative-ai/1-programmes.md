@@ -1,5 +1,5 @@
 ---
-title: 'S.U.R.E. generative AI programmes'
+`title: 'S.U.R.E. generative AI programmes'
 permalink: /generative-ai/programmes/
 breadcrumb: 'Programmes'
 
@@ -9,7 +9,9 @@ breadcrumb: 'Programmes'
 
 ![](../images/eb-banner-gen-ai-2023.png)
 
-## Programme Synopsis
+### Generative A.I. 101 - ChatGPT, A.I. Image Generators and the Dangers of Misinformation
+
+**Synopsis**
 
 In this talk, learn about how popular generative A.I. tools such as ChatGPT and MidJourney might be exploited by bad actors to create online falsehoods. 
 
@@ -17,18 +19,36 @@ Find out how you can apply NLB’s S.U.R.E. (Source, Understand, Research, Evalu
 
 This talk features interactive quizzes and activities conducted via your smartphones and is suitable for ages 13 and above.
 
-
-
 ## Schedule
 
 Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
 
-| Date                                                         | Time              | Venue                                                     | Language |
-| ------------------------------------------------------------ | ----------------- | --------------------------------------------------------- | -------- |
-| [20 Aug 2023](https://www.eventbrite.com/e/chatgpt-ai-image-generators-and-the-dangers-of-misinformation-tickets-662081893767?aff=odcleoeventsincollection&keep_tld=1) | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm <br>    | English  |
-| [19 Sep 2023](https://nlb-genai-19sep.eventbrite.sg )        | 7.00pm - 8.00pm   | This session will be conducted online via Zoom.<br>       | English  |
-| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)         | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone<br>   | Mandarin |
-| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg)         | 2.30pm - 3.30pm   | Woodlands Regional Library <br>Level 1 Programme Zone<br> | English  |
+| Date                                                         | Time              | Venue                                                   | Language |
+| ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- | -------- |
+| [20 Aug 2023](https://www.eventbrite.com/e/chatgpt-ai-image-generators-and-the-dangers-of-misinformation-tickets-662081893767?aff=odcleoeventsincollection&keep_tld=1) | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm <br>  | English  |
+| [19 Sep 2023](https://nlb-genai-19sep.eventbrite.sg )        | 7.00pm - 8.00pm   | This session will be conducted online via Zoom.<br>     | English  |
+| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)         | s3.30pm - 4.30pm  | Jurong Regional Library  <br>Level 1 Programme Zone<br> | Mandarin |
+
+
+
+<hr>
+
+### Generative A.I. 201 - Verifying Generative A.I. Content
+
+**Synopsis**
+
+ChatGPT and other generative A.I. tools are increasingly used to generate text, images, videos and other content by students, professionals, and even some bad actors like scammers and creators of online falsehoods.
+
+In this workshop, find out how you can apply various tools and techniques - as well as NLB’s S.U.R.E. (Source, Understand, Research, Evaluate) steps - to verify and fact-check A.I.-generated content.
+
+***Note to participants: While it is not mandatory, participants are advised to attend one of these talks in Aug or Sep, before attending this workshop.***
+
+Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
+
+| Date                                                 | Time            | Venue                                                      | Language |
+| ---------------------------------------------------- | --------------- | ---------------------------------------------------------- | -------- |
+| 17 Oct 2023                                          | 7.00pm - 9.00pm | National Library  Building<br>Level 5 Possibility Room<br> | English  |
+| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg) | 2.30pm - 3.30pm | Woodlands Regional Library <br>Level 1 Programme Zone<br>  | English  |
 
 
 
