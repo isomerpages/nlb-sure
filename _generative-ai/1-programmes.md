@@ -27,8 +27,8 @@ This talk features interactive quizzes and activities conducted via your smartph
 | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- | -------- |
 | [20 Aug 2023](https://www.eventbrite.com/e/chatgpt-ai-image-generators-and-the-dangers-of-misinformation-tickets-662081893767?aff=odcleoeventsincollection&keep_tld=1) | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm <br>  | English  |
 | [19 Sep 2023](https://nlb-genai-19sep.eventbrite.sg )        | 7.00pm - 8.00pm   | This session will be conducted online via Zoom.<br>     | English  |
-| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)         | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone<br> | Mandarin |
-
+| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)         | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone<br> | English  |
+| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg)   | 2.30pm - 3.30pm | Woodlands Regional Library <br>Level 1 Programme Zone<br>  | Mandarin |
 
 
 <hr>
@@ -48,10 +48,8 @@ Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure
 | Date                                                   | Time            | Venue                                                      | Language |
 | ------------------------------------------------------ | --------------- | ---------------------------------------------------------- | -------- |
 | [17 Oct 2023](https://sure-genai-17oct.eventbrite.sg/) | 7.00pm - 9.00pm | National Library  Building<br>Level 5 Possibility Room<br> | English  |
-| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg)   | 2.30pm - 3.30pm | Woodlands Regional Library <br>Level 1 Programme Zone<br>  | English  |
 
-
-
+<hr>
 
 
 ## Speaker profiles
