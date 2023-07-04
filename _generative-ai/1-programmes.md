@@ -1,5 +1,5 @@
 ---
-`title: 'S.U.R.E. generative AI programmes'
+title: 'S.U.R.E. generative AI programmes'
 permalink: /generative-ai/programmes/
 breadcrumb: 'Programmes'
 
