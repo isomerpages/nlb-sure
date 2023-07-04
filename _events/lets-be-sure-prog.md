@@ -28,8 +28,8 @@ For the most updated information on each programme, please visit the respective 
 | 22 Aug, Tue   | 4pm-4.30pm    | Tampines Regional Library        | Storytime for 4-6 years old @ Tampines Regional Library (link will be up shortly) |
 | 24 Aug, Thu   | 7pm-8pm       | Online (Zoom)  <br/>             | <a href="https://www.eventbrite.sg/e/ggwp-staying-safe-and-calm-in-online-games-tickets-669145420967">GGWP: Staying Safe and Calm in Online Games</a> |
 | 26 Aug, Sat   | 12.30pm-1pm   | Jurong Regional Library          | [Storytime for 4-6 years old @ Jurong Regional Library](https://www.eventbrite.sg/e/storytime-for-4-6-years-old-jurong-regional-library-early-read-tickets-670573191467) |
-| 26-Aug, Sat   | 4pm-5.30pm    | Jurong Regional Library          | <a href="https://www.eventbrite.sg/e/seniors-go-safe-online-workshop-tickets-669146554357">Seniors Go Safe Online" Workshop</a> |
-| 27-Aug, Sun   | 10am-11.30am  | Jurong Regional Library  <br/>   | <a href="https://www.eventbrite.sg/e/seniors-go-safe-online-workshop-tickets-669146885347">Seniors Go Safe Online" Workshop</a>  <br/> |
+| 26-Aug, Sat   | 4pm-5.30pm    | Jurong Regional Library          | <a href="https://www.eventbrite.sg/e/seniors-go-safe-online-workshop-tickets-669146554357">"Seniors Go Safe Online" Workshop</a> |
+| 27-Aug, Sun   | 10am-11.30am  | Jurong Regional Library  <br/>   | <a href="https://www.eventbrite.sg/e/seniors-go-safe-online-workshop-tickets-669146885347">"Seniors Go Safe Online" Workshop</a>  <br/> |
 | 27-Aug, Sun   | 2pm-5pm       | Jurong Regional Library          | <a href="https://www.eventbrite.sg/e/unleash-your-inner-innovator-creating-solutions-with-design-thinking-ai-tickets-669148399877">Unleash Your Inner Innovator: Creating Solutions with Design  Thinking and A.I. </a> <br> |
 | 31-Aug, Thurs | 7pm-8pm       | Online (Zoom)                    | <a href="https://www.eventbrite.sg/e/social-media-online-harms-teaching-empowering-our-children-tickets-669150967557">Social MEdia & Online Harms: Teaching and Empowering Our Children</a> |
 
