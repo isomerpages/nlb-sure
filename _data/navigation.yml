@@ -80,12 +80,10 @@ links:
               url: /events/proveit2023/
             - title: 'Prove It! 2023 Briefing'
               url: /events/proveit2023-briefing/
+            - title: 'Historical Scene Investigation'
+              url: /events/hsi2023/
             - title: 'S.U.R.E. Celebrates M.I.L. 2022'
               url: /events/surecelebratesmil/
-            - title: 'Historical Scene Investigation'
-              url: /events/hsi2022/
-            - title: 'Prove It! 2021'
-              url: /events/proveit2021/
     - title: Blog
       url: /blog/
       false_collection: true
