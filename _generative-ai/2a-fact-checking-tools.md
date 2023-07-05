@@ -38,6 +38,8 @@ The tools listed here generally require the user to copy and paste text into a d
 
 - [Maybe's AI Art Detector](https://umm-maybe-ai-image-detector.hf.space/)
 
+- [The Hive - AI-Generated Media Recognition API](https://thehive.ai/demos?case_study=ai_generated_image_detection) 
+
   
 
 <hr>
