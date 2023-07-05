@@ -52,6 +52,14 @@ sections:
           alt: 'alt text'
           button: 'Find out more'
     - infopic:
+          title: 'Historical Scene Investigation Challenge 2023'
+          subtitle: 'For students'
+          description: The Historical Scene Investigation (H.S.I.) Challenge is an annual contest organised by the National Library Board, which promises an exciting experience for students to put their historical inquiry and research skills to the test.  
+          url: /events/hsi2023/
+          image: /images/HSI-2022-logo.png
+          alt: 'alt text'
+          button: 'Find out more'
+    - infopic:
           title: 'S.U.R.E. Courseware for Schools'
           subtitle: 'For students & teachers'
           description: Introducing a new series of courseware for students in Primary, Secondary and Pre-U/Junior College levels. Topics covered include Information Literacy, Digital Safety and Digital Wellness. 
