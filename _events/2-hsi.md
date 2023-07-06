@@ -30,4 +30,4 @@ Teams will create a 3-minute video to present their investigation findings along
 - An award ceremony date will be confirmed in October
 - Further details will be included in the task briefing deck which will be sent to registered schools in late July
 
-The top 3 teams will be awarded with the H.S.I. Challenge trophy, the MOE Young Historian Award and book vouchers. All participants will receive digital certificates of award (Bronze, Silver, Gold) based on their scores. 
+The top 3 teams will be awarded the H.S.I. Challenge trophy, the MOE Young Historian Award and book vouchers. All participants will receive digital certificates of award (Bronze, Silver, Gold) based on their scores. 
