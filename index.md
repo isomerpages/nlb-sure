@@ -123,15 +123,7 @@ sections:
           image: /images/FA_NLB_SURE_Eventbrite_1272x424.jpg
           alt: 'alt text'
           button: 'View winners now!'
-    - infopic:
-          title: 'Nodes at Parks'
-          subtitle: 'For everyone'
-          description: Encounter eResources on Sustainability at a park near you! From 14 October 2022 to 26 February 2023, NLB is presenting a brand-new initiative called “Nodes at Parks”. Come interact with NLB’s exciting eResources on Sustainability.
-          url: /nodes-at-parks/overview/
-          image: /images/nodes-at-parks-01-min.png
-          alt: 'alt text'
-          button: 'Visit the Nodes'
-    - infopic:
+   - infopic:
           title: 'Be S.U.R.E. before you “add to cart”'
           subtitle: 'For everyone'
           description: null
