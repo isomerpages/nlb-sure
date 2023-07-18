@@ -19,21 +19,33 @@ links:
             - title: 'Teachers’ workshop'
               url: /tours-and-workshops/teachers-cfn-workshop/
     - title: 'Read to be Sure'
-      url: /read-to-be-sure-volume-3/issue1-generative-ai/
+      url: /read-to-be-sure-volume-2/issue4-workrevolution/
       false_collection: true
       sublinks:
             - title: 'What is Read to be SURE?'
-              url: /read-to-be-sure/intro-volume3/intro/
-            - title: 'Volume 3, Issue 1: Generative A.I.
-              url: /read-to-be-sure-volume-3/issue1-generative-ai/
-            - title: 'Volume 2, Issue 4: Work Revolution
-              url: /read-to-be-sure-volume-2/issue4-workrevolution/
-            - title: 'Volume 2, Issue 3: Higher Education'
-              url: /read-to-be-sure-volume-2/issue3-education/
-            - title: 'Volume 2, Issue 2: Metaverse'
-              url: /read-to-be-sure-volume-2/issue2-metaverse/
+              url: /read-to-be-sure/intro-volume2/
             - title: 'Volume 2, Issue 1: Gender Equality'
               url: /read-to-be-sure-volume-2/issue1-gender-equality/
+            - title: 'Volume 2, Issue 2: Metaverse'
+              url: /read-to-be-sure-volume-2/issue2-metaverse/
+            - title: 'Volume 2, Special Issue: World Cup 2022'
+              url: /read-to-be-sure-volume-2/special-issue1-worldcup/
+            - title: 'Volume 2, Issue 3: Higher Education'
+              url: /read-to-be-sure-volume-2/issue3-education/
+            - title: 'Volume 2, Issue 4: Work Revolution'
+              url: /read-to-be-sure-volume-2/issue4-workrevolution/
+            - title: 'Volume 2, Public Debate'
+              url: /read-to-be-sure-volume-2/mainstage-debate/
+            - title: 'RTBS x Nodes at Parks'
+              url: /nodes-at-parks/overview/
+            - title: 'Volume 1, Issue 1: Fast Fashion'
+              url: /read-to-be-sure/issue1-introduction/
+            - title: 'Volume 1, Issue 2: COVID-19 Restrictions'
+              url: /read-to-be-sure/issue2-overview/
+            - title: 'Volume 1, Issue 3: Cryptocurrencies & NFTs'
+              url: /read-to-be-sure/issue3-overview/
+            - title: 'Volume 1, Issue 4: Russia-Ukraine Information War'
+              url: /read-to-be-sure/issue4-ukraine/
     - title: School Courseware
       url: /resources/school-curriculum/
       false_collection: true
