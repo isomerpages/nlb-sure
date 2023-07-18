@@ -1,6 +1,6 @@
 ---
 title: 'What is Read to be SURE?'
-permalink: /read-to-be-sure/intro-volume2/
+permalink: /read-to-be-sure-volume-2/intro/
 breadcrumb: 'What is Read to be SURE?'
 ---
 
