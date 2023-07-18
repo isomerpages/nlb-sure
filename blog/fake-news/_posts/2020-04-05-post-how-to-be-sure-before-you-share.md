@@ -28,9 +28,9 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 **[Infographic] How to be S.U.R.E. before you share**
 
-Download the full infographic [HERE](/infographic/4-Ways-of-SURE.pdf).
+Download the latest version of the infographic **[HERE](https://go.gov.sg/2023-sure-infographic-eng)**.
 
-![How to b SURE before you share](../../../images/4-Ways-of-SURE-thumbnail.JPG)
+
 
 
 
