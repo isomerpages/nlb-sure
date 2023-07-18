@@ -76,9 +76,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ## Online Course
 
-*[Master Generative AI: Automate Content Effortlessly with AI](https://nlbsg.udemy.com/course/ai-content-generation/)*
-
-Access the Udemy course link [here](https://nlbsg.udemy.com/course/ai-content-generation/), through [NLB website](https://eresources.nlb.gov.sg/main/Browse?startsWith=U) or app. [myLibrary ID](https://account.nlb.gov.sg/) is required to access the course. 
+*[Master Generative AI: Automate Content Effortlessly with AI](https://nlbsg.udemy.com/course/ai-content-generation/)*<br>Access the Udemy course link [here](https://nlbsg.udemy.com/course/ai-content-generation/), through [NLB website](https://eresources.nlb.gov.sg/main/Browse?startsWith=U) or app. [myLibrary ID](https://account.nlb.gov.sg/) is required to access the course. 
 
 
 
@@ -100,23 +98,17 @@ CNA Insider. (2023, May 22). [*How Smart is ChatGPT, really?*](https://youtu.be/
 
 ## Websites
 
-**[Good or Evil? How AI is Transforming Life, Work and Society](https://dldnews.com/good-or-evil-how-ai-is-transforming-life-work-and-society/)**
-
-*Good or Evil? How AI is Transforming Life, Work and Society.* (2023, May 12). Digital Life Design*.* Retrieved 2023, June 20.
+**[Good or Evil? How AI is Transforming Life, Work and Society](https://dldnews.com/good-or-evil-how-ai-is-transforming-life-work-and-society/)**<br>*Good or Evil? How AI is Transforming Life, Work and Society.* (2023, May 12). Digital Life Design*.* Retrieved 2023, June 20.
 
  
 
-**[The Economic Potential of Generative AI: The Next Productivity Frontier](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#/)**
-
-*The Economic Potential of Generative AI: The Next Productivity Frontier.* (2023, June 14). McKinsey & Company*.* Retrieved 2023, June 20.
+**[The Economic Potential of Generative AI: The Next Productivity Frontier](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#/)**<br>*The Economic Potential of Generative AI: The Next Productivity Frontier.* (2023, June 14). McKinsey & Company*.* Retrieved 2023, June 20.
 
 
 
 ## Podcasts
 
-**['AI Will Either Compete with us or Augment us' - so How do We Pick the Right Path?](https://www.weforum.org/podcasts/radio-davos/episodes/generative-ai-episode-4-governance)**
-
-World Economic Forum. (2023, June 15). *'AI Will Either Compete with us or Augment us' - so How do We Pick the Right Path?* Retrieved 2023, June 20.
+**['AI Will Either Compete with us or Augment us' - so How do We Pick the Right Path?](https://www.weforum.org/podcasts/radio-davos/episodes/generative-ai-episode-4-governance)**<br>World Economic Forum. (2023, June 15). *'AI Will Either Compete with us or Augment us' - so How do We Pick the Right Path?* Retrieved 2023, June 20.
 
 
 
