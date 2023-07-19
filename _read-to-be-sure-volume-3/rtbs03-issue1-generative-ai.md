@@ -29,11 +29,11 @@ GenAI is in its infancy and its [implications](https://aiverifyfoundation.sg/dow
 
 <table border="1" style="background-color:#FFFFFF;border-collapse:collapse;border:1px solid #FFCC00;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
-		<td width=50%>The power and promises of generative AI</td>
-		<td width=50%>The perils and challenges of generative AI</td>
+		<th style="width:50%">The power and promises of generative AI</th>
+		<th>The perils and challenges of generative AI</th>
 	</tr>
 	<tr>
-		<td><b>xGenerative AI could unleash the next productivity frontier and raise global GDP</b>
+		<td><b>Generative AI could unleash the next productivity frontier and raise global GDP</b>
 <br><br>
 GenAI could revolutionise the way many <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction">jobs</a> are performed such as sales and marketing, customer operations, and software development. 
 <br><br>
@@ -60,7 +60,8 @@ GenAI tools such as ChatGPT and Midjourney are threatening to disrupt the world 
 	</tr>
 </table>
 
-[]: 
+
+
 
 
 
