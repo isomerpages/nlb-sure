@@ -59,7 +59,7 @@ Programmes such as DALL-E 2 could <a href="https://www.technologyreview.com/2023
 <br><br>
             A great number of Singaporean employees (<a href="https://www.asiaone.com/business/microsoft-work-trend-index-2023-singapore-data-unveils-opportunities-unlock-workplace">81%</a>) would delegate as much work as possible to AI to lessen their workload. Most Singaporeans are comfortable using AI for analytical work (<a href="https://www.asiaone.com/business/microsoft-work-trend-index-2023-singapore-data-unveils-opportunities-unlock-workplace">87%</a>), administrative tasks (<a href="https://www.asiaone.com/business/microsoft-work-trend-index-2023-singapore-data-unveils-opportunities-unlock-workplace">85%</a>), and even creative work (<a href="">81%</a>). 
 </td>
-        <td><b> creativity still trumps generative AI</b> 
+        <td><b>Human creativity still trumps generative AI</b> 
 <br><br>
 Although GenAI is changing the nature of creativity, it’s not the <a href="https://www.theguardian.com/artanddesign/2023/jan/23/its-the-opposite-of-art-why-illustrators-are-furious-about-ai">death knell for human creativity</a> and originality. AI won’t replace <a href="https://www.cnbc.com/2023/06/15/adobe-ceo-says-ai-will-wont-replace-human-ingenuity-itll-augment-it.html">human ingenuity</a>, it only enhances <a href="https://www.fastcompany.com/90877017/generative-ai-will-change-the-world-but-wont-put-creative-jobs-at-risk">creativity</a> and efficiency.  
 <br><br>
