@@ -47,7 +47,7 @@ Advances in AI could expose some <a href="https://www.goldmansachs.com/intellige
 <br><br>
             While it’s true that GenAI will create many new jobs, it’s likely that many existing jobs will be altered, from entry-level positions to those at <a href="https://www.cnbc.com/2023/05/16/how-generative-ai-chatgpt-will-change-jobs-at-all-work-levels.html">professional</a> levels, including the C-suite and middle managers. Workers need to start using AI now or <a href="https://ia.acs.org.au/article/2023/start-using-ai-now-or-risk-being-left-behind.html">risk being left behind</a>. 
 <br><br>
-GenAI tools such as ChatGPT and Midjourney are threatening to disrupt the world of <a href="https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work">content creation</a>, impacting on marketing, software, design, entertainment, and interpersonal communications.
+GenAI tools such as ChatGPT and Midjourney are threatening to disrupt the world of <a href="https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work">content creation</a>, impacting on marketing, software, design, entertainment, and interpersonal communications.<BR><BR>
  </td>
 	</tr>
 	<tr>
@@ -65,7 +65,7 @@ Although GenAI is changing the nature of creativity, it’s not the <a href="htt
 <br><br>
 Most artists, writers and musicians believe GenAI cannot replicate <a href="https://www.forbes.com/sites/forbestechcouncil/2023/05/26/how-generative-ai-is-changing-creative-work/?sh=7ffa3c54d9ca">human expression</a> that goes into a creative work. The written word, music and art are vehicles to express thoughts and share emotions, and despite how powerful this technology may be, it cannot replace our <a href="https://www.forbes.com/sites/forbestechcouncil/2023/05/26/how-generative-ai-is-changing-creative-work/?sh=7ffa3c54d9ca">urge to create</a> or human creators. 
 <br><br>
-GenAI cannot replicate all the intricacies of human expressions and artistic expression. A creative work that connects with a human deeply will always require a <a href="https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/">creative human</a> in the loop. AI can automate and accelerate, but it’s the <a href="https://medium.com/@ibrahimandcompany/valuing-the-human-touch-ai-authenticity-and-the-future-of-original-content-7b44e9b5d66d">human touch</a> that infuses authenticity and depth into our creations. 
+GenAI cannot replicate all the intricacies of human expressions and artistic expression. A creative work that connects with a human deeply will always require a <a href="https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/">creative human</a> in the loop. AI can automate and accelerate, but it’s the <a href="https://medium.com/@ibrahimandcompany/valuing-the-human-touch-ai-authenticity-and-the-future-of-original-content-7b44e9b5d66d">human touch</a> that infuses authenticity and depth into our creations. <BR><BR>
 </td>
 	</tr>
 	<tr>
@@ -83,7 +83,7 @@ GenAI could cause <a href="https://thehill.com/opinion/technology/4037499-genera
 <br><br>
             AI tools are increasingly used to support people’s health needs, including providing <a href="https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/">therapy</a>. But the <a href="https://www.who.int/news/item/16-05-2023-who-calls-for-safe-and-ethical-ai-for-health">World Health Organization</a>a urges caution in using AI generated large language model (LLM) tools to protect human well-being, safety, and preserve public health. When the risks of LLMs are not fully examined, it could lead to errors by healthcare workers and cause harms to patients.
 <br><br>
-It could also <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00216-7/fulltext">harm</a> our mental health due to perpetuating biases relating to <a href="https://www.vox.com/technology/23738987/racism-ai-automated-bias-discrimination-algorithm">race</a>, <a href="https://www.cigionline.org/articles/generative-ai-tools-are-perpetuating-harmful-gender-stereotypes/">gender</a>, nationality and age occurring in natural language processing computer programmes, which understand human language as it’s written and spoken. 
+It could also <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00216-7/fulltext">harm</a> our mental health due to perpetuating biases relating to <a href="https://www.vox.com/technology/23738987/racism-ai-automated-bias-discrimination-algorithm">race</a>, <a href="https://www.cigionline.org/articles/generative-ai-tools-are-perpetuating-harmful-gender-stereotypes/">gender</a>, nationality and age occurring in natural language processing computer programmes, which understand human language as it’s written and spoken. <BR><BR>
 </td>
 	</tr>
 </table>
