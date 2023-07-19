@@ -27,6 +27,41 @@ GenAI is in its infancy and its [implications](https://aiverifyfoundation.sg/dow
 
 [<a href="#top">Back to top</a>]
 
+<table border="1" style="background-color:#FFFFFF;border-collapse:collapse;border:1px solid #FFCC00;color:#000000;width:100%" cellpadding="3" cellspacing="3">
+	<tr>
+		<td width=50%>The power and promises of generative AI</td>
+		<td width=50%>The perils and challenges of generative AI</td>
+	</tr>
+	<tr>
+		<td><b>xGenerative AI could unleash the next productivity frontier and raise global GDP</b>
+<br><br>
+GenAI could revolutionise the way many <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction">jobs</a> are performed such as sales and marketing, customer operations, and software development. 
+<br><br>
+Not only could it boost productivity, but it could also raise global GDP by 7% and increase productivity growth by 1.5 percentage points over a 10-year period, according to <a href="https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html"></a>Goldman Sachs Research</a>. 
+<br><br>
+But perhaps the most exciting thing about this technology is the way it promotes divergent thinking and <a href="https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity">augments human creativity</a>. By challenging expertise bias and helping us create unimaginable solutions, it opens up a whole new world of innovation. 
+</td>
+		<td><b>Generative AI could cause major disruption for the labour market</b>
+<br><br>
+Advances in AI could expose some <a href="https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html">300 million jobs</a> worldwide to automation. In the U.S., two thirds of occupations could be partially automated, with a quarter of their workload replaced. However, most jobs and industries are likely to be complemented rather than replaced by AI. 
+<br><br>
+            While it’s true that GenAI will create many new jobs, it’s likely that many existing jobs will be altered, from entry-level positions to those at <a href="https://www.cnbc.com/2023/05/16/how-generative-ai-chatgpt-will-change-jobs-at-all-work-levels.html">professional</a> levels, including the C-suite and middle managers. Workers need to start using AI now or <a href="https://ia.acs.org.au/article/2023/start-using-ai-now-or-risk-being-left-behind.html">risk being left behind</a>. 
+<br><br>
+GenAI tools such as ChatGPT and Midjourney are threatening to disrupt the world of <a href="https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work">content creation</a>, impacting on marketing, software, design, entertainment, and interpersonal communications.
+ </td>
+	</tr>
+	<tr>
+		<td>Cell</td>
+		<td>Cell</td>
+	</tr>
+	<tr>
+		<td>Cell</td>
+		<td>Cell</td>
+	</tr>
+</table>
+
+[]: 
+
 
 
 | **The power and promises of generative AI** <br><br>         | **The perils and challenges of generative AI**<br><br>       |
