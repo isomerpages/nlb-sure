@@ -37,7 +37,7 @@ GenAI is in its infancy and its [implications](https://aiverifyfoundation.sg/dow
 <br><br>
 GenAI could revolutionise the way many <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction">jobs</a> are performed such as sales and marketing, customer operations, and software development. 
 <br><br>
-Not only could it boost productivity, but it could also raise global GDP by 7% and increase productivity growth by 1.5 percentage points over a 10-year period, according to <a href="https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html"></a>Goldman Sachs Research</a>. 
+Not only could it boost productivity, but it could also raise global GDP by 7% and increase productivity growth by 1.5 percentage points over a 10-year period, according to <a href="https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html">Goldman Sachs Research</a>. 
 <br><br>
 But perhaps the most exciting thing about this technology is the way it promotes divergent thinking and <a href="https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity">augments human creativity</a>. By challenging expertise bias and helping us create unimaginable solutions, it opens up a whole new world of innovation. 
 </td>
