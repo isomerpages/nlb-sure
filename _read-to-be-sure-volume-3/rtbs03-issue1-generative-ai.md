@@ -29,8 +29,8 @@ GenAI is in its infancy and its [implications](https://aiverifyfoundation.sg/dow
 
 <table border="1" style="background-color:#FFFFFF;border-collapse:collapse;border:1px solid #FFCC00;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
-        <th style="width:50%"><font size=6>The power and promises of generative AI</font></th>
-        <th><font size=6>The perils and challenges of generative AI</font></th>
+        <th style="width:50%"><font size=5>The power and promises of generative AI</font></th>
+        <th><font size=5>The perils and challenges of generative AI</font></th>
 	</tr>
 	<tr>
 		<td><b>Generative AI could unleash the next productivity frontier and raise global GDP</b>
