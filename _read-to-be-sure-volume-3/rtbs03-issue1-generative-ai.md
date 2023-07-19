@@ -27,7 +27,7 @@ GenAI is in its infancy and its [implications](https://aiverifyfoundation.sg/dow
 
 [<a href="#top">Back to top</a>]
 
-<table border="2" style="background-color:#FFFFFF;border-collapse:collapse;border:2px solid #FFFFFF;color:#000000;width:100%" cellpadding="3" cellspacing="3">
+<table border="2" style="background-color:#FFFFFF;border-collapse:collapse;border:2px solid #000000;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
         <th style="width:50%"><font size=5>The power and promises of generative AI</font></th>
         <th><font size=5>The perils and challenges of generative AI</font></th>
@@ -87,6 +87,7 @@ It could also <a href="https://www.thelancet.com/journals/lancet/article/PIIS014
 </td>
 	</tr>
 </table>
+
 
 
 
