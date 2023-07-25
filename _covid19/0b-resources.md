@@ -14,7 +14,6 @@ second_nav_title: null
 **SINGAPORE**
 
 - [Ministry of Health (MOH) - updates on COVID-19 local situation](https://www.moh.gov.sg/covid-19)
-- [MOH - useful public education content](https://www.moh.gov.sg/covid-19/resources), including infographics and [videos](https://www.moh.gov.sg/covid-19/resources#videos) 
 - [Enterprise Singapore - advisory on COVID-19 for businesses](https://www.enterprisesg.gov.sg/covid-19)
 - [MTI GoBusiness](https://www.gobusiness.gov.sg/covid/?src=home_quicklinks)
 - [MCI - Updates on the COVID-19 situation in Singapore](https://www.gov.sg/features/covid-19)
