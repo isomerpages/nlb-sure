@@ -20,11 +20,11 @@ This carried on for years; in fact, it was only once I started working that I be
 
 What do I mean by this? We often believe that there are two kinds of statements about the world: facts, which are objective, verifiable, and neutral; and opinions, which are subjective and therefore somewhat untrustworthy. We also tend to assume that “factual” is the same as “truthful”: that claims that appear to be objective are more likely to be true than those which are clearly based on a particular perspective or interpretation. This is where the idea of bias comes from, and also why so much trust is placed in data – why we tend to believe that numbers, unlike people, cannot lie.
 
-But as any statistician will tell you, numbers *can,* and in fact *do*, lie all the time. This is because numbers cannot actually tell us	 anything without the aid of human interpretation, and can often support multiple different interpretations at once. Statistics are also extremely susceptible to manipulation, and the choices that statisticians make in choosing what data to collect and include can dramatically change the results they produce: as Kalev Leetaru points out in an article for Forbes, many apparent “truths” drawn from data are, in fact, “factually true statements that utilize such a carefully constructed population sample that their argument is almost meaningless”.
+But as any statistician will tell you, numbers *can,* and in fact *do*, lie all the time. This is because numbers cannot actually tell us anything without the aid of human interpretation, and can often support multiple different interpretations at once. Statistics are also extremely susceptible to manipulation, and the choices that statisticians make in choosing what data to collect and include can dramatically change the results they produce: as Kalev Leetaru points out in an article for Forbes, many apparent “truths” drawn from data are, in fact, “factually true statements that utilize such a carefully constructed population sample that their argument is almost meaningless”.
 
 <img src="../../../images/The_Dress_(viral_phenomenon).png" style="zoom:40%;" />
 
-*What colour is this dress? ([Photo source](https://en.wikipedia.org/wiki/File:The_Dress_(viral_phenomenon).png))*
+*What colour is this dress? ([Photo source](https://en.wikipedia.org/wiki/The_dress#/media/File:The_dress_blueblackwhitegold.jpg))*
 
 
 

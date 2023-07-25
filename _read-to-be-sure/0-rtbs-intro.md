@@ -6,6 +6,11 @@ breadcrumb: 'What is Read to be SURE?'
 
 **Read to be SURE (RTBS)** is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a five-year journey of our next phase of transformation. RTBS aims to educate and inform the public on trending topics through a combination of curated content and accompanying programmes. By exploring multiple perspectives on these topics, readers and participants will benefit from a balanced and credible knowledge base.
 
+- **Volume 3:**
+  - [Issue 1 - Generative A.I.](/read-to-be-sure-volume-3/issue1-generative-ai/)
+
+<br>
+
 - **Volume 2:**
 
   - [Issue 1 - Gender Equality](/read-to-be-sure-volume-2/issue1-gender-equality/)

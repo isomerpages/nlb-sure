@@ -1,19 +1,17 @@
 ---
 
-title: 'Bingo Programmes & Activities'
+title: 'Programmes & Activities'
 permalink: /events/surecelebratesmil-bingo-activities/
-breadcrumb: 'Bingo Programmes & Activities'
+breadcrumb: 'Programmes & Activities'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ---
 
-# Bingo Programmes and Activities
+# Programmes and Activities
 
-Want to learn how to “Be S.U.R.E., Stay Connected” in this digital age? 
+View recordings of our key events in 2022:
 
-Discover and explore bite-sized content, visit our book displays and The News Gallery, and participate in the learning programmes, quiz and game below!
 
-**Complete 5 different S.U.R.E BINGO programmes and activities, and stand a chance to win a prize in our Lucky Draw!**
 
 ## PROGRAMMES
 

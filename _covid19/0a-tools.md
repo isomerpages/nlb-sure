@@ -31,7 +31,7 @@ Local media websites also debunk fake news, though **not all of them are exclusi
   - E.g. [网站称伊维菌素能治疗冠病 卫生部：没有科学证明](https://www.zaobao.com.sg/realtime/singapore/story20211015-1203776) 
 - [Berita Harian articles on fake news](https://www.beritaharian.sg/taxonomy/term/9159)
   - E.g. [Truth Warriors dikenakan arahan pembetulan Pofma berkaitan dakwaan palsu Covid-19](https://www.beritaharian.sg/setempat/truth-warriors-dikenakan-arahan-pembetulan-pofma-berkaitan-dakwaan-palsu-covid-19)
-- [Tamil Murasu articles about fake news](https://www.tamilmurasu.com.sg/search/google/%22fake%20news%22)
+- [Tamil Murasu](https://www.tamilmurasu.com.sg/)
   - E.g. [கொவிட்-19 தொடர்பில் பொய்ச் செய்திகள்; ஏராளமான பதிவுகளை அகற்றிய ஃபேஸ்புக், டுவிட்டர் ](https://www.tamilmurasu.com.sg/singapore/story20210324-63377.html)
 - [STOMP articles about fake news (written by journalists)](https://stomp.straitstimes.com/tag/fake-news) 
   - E.g. [Temasek Foundation debunks circulated photo regarding distribution of masks on Aug 4](https://stomp.straitstimes.com/singapore-seen/temasek-foundation-debunks-circulated-photo-regarding-distribution-of-masks-on-aug-4)
