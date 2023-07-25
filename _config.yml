@@ -62,8 +62,6 @@ collections:
         output: true
     mainstage-debate:
         output: true
-    nodes-at-parks:
-        output: true
     school-curriculum:
         output: true
     generative-ai:
