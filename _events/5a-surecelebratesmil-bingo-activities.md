@@ -1,6 +1,6 @@
 ---
 
-title: 'Bingo Programmes & Activities'
+title: 'Programmes & Activities'
 permalink: /events/surecelebratesmil-bingo-activities/
 breadcrumb: 'Programmes & Activities'
 third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
