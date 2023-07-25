@@ -23,9 +23,7 @@ links:
       false_collection: true
       sublinks:
             - title: 'What is Read to be SURE?'
-              url: /read-to-be-sure/intro-volume3/
-            - title: 'Volume 3, Issue 1: Generative AI'
-              url: /read-to-be-sure-volume-3/issue1-generative-ai/
+              url: /read-to-be-sure/intro-volume2/
             - title: 'Volume 2, Issue 1: Gender Equality'
               url: /read-to-be-sure-volume-2/issue1-gender-equality/
             - title: 'Volume 2, Issue 2: Metaverse'
@@ -38,6 +36,8 @@ links:
               url: /read-to-be-sure-volume-2/issue4-workrevolution/
             - title: 'Volume 2, Public Debate'
               url: /read-to-be-sure-volume-2/mainstage-debate/
+            - title: 'RTBS x Nodes at Parks'
+              url: /nodes-at-parks/overview/
             - title: 'Volume 1, Issue 1: Fast Fashion'
               url: /read-to-be-sure/issue1-introduction/
             - title: 'Volume 1, Issue 2: COVID-19 Restrictions'
