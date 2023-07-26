@@ -6,6 +6,8 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 ---
 
+Download the image **[here](https://go.gov.sg/sure-misinfo-mayhem)**.
+
 ![](../images/Misinformation-Mayhem-Numbered2.jpg)
 
 
