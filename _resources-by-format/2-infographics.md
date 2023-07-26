@@ -6,6 +6,17 @@ breadcrumb: Infographics
 ---
 
 
+
+**[How to be S.U.R.E. before you share](https://go.gov.sg/2023-sure-infographic-eng)**
+
+![](../images/how-to-be-sure-infographic-eng.PNG)
+
+Learn how to safeguard yourself and others against online falsehoods by using the National Library Board’s S.U.R.E. steps. Watch the video version [HERE](/resources/format/videos).
+
+
+
+<hr>
+
 **[Evaluating Images](/blog/information-literacy/il00003)**
 
 We encounter many images daily – through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.  
@@ -33,20 +44,6 @@ This infographic is also available in **[Chinese](/blog/information-literacy/il0
 
 
 <hr>
-
-
-
-[**How to be S.U.R.E. before you share**](/infographic/4-Ways-of-SURE.pdf)
-
-![How to b SURE before you share](../images/4-Ways-of-SURE-thumbnail.JPG)
-
-Learn how to safeguard yourself and others against online falsehoods by using the National Library Board’s S.U.R.E. steps. Watch the video version [HERE](/resources/format/videos).
-
-<hr>
-
-
-
-
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
 ![](../images/Multiple-Sources-Header.jpg)
