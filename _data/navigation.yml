@@ -23,7 +23,9 @@ links:
       false_collection: true
       sublinks:
             - title: 'What is Read to be SURE?'
-              url: /read-to-be-sure/intro-volume2/
+              url: /read-to-be-sure/intro-volume3/
+            - title: 'Volume 3, Issue 1: Generative AI'
+              url: /read-to-be-sure-volume-3/issue1-generative-ai/
             - title: 'Volume 2, Issue 1: Gender Equality'
               url: /read-to-be-sure-volume-2/issue1-gender-equality/
             - title: 'Volume 2, Issue 2: Metaverse'
