@@ -21,6 +21,11 @@ Pessimists predict [job disruption](https://www.forbes.com/sites/jackkelly/2023/
 
 GenAI is in its infancy and its [implications](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf) are not fully known. Some experts fear that it could be used for [malicious](https://www.bbc.com/news/technology-65855333) exploitation. Nevertheless, it has great potential to empower individuals and organisations. When used in a safe and responsible manner, this technology can unlock tremendous opportunities that transform many aspects of modern life. 
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ERrwlyiuKk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+
 ## So, is generative AI bringing more power or peril to society? 
 
 <a name="perspectives"></a>
@@ -87,16 +92,10 @@ It could also <a href="https://www.thelancet.com/journals/lancet/article/PIIS014
 </td>
 	</tr>
 </table>
-
-
-
-
-
-
 Let's hear our guest speakers weigh in on this issue: <PLACEHOLDER VIDEO>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NPhX9ocUEOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2EcPtWwdRlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
