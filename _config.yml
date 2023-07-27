@@ -62,6 +62,10 @@ collections:
         output: true
     mainstage-debate:
         output: true
+    read-to-be-sure-volume-3:
+        output: true
+    issue1-generative-ai:
+        output: true
     school-curriculum:
         output: true
     generative-ai:
