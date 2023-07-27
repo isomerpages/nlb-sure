@@ -115,7 +115,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-![](../images/RTBS-T1_IG-FB-GIF_230724_LR.gif)
+![](../images/RTBS-T1-KV_230725.png)
 
 
 
