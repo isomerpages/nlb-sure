@@ -115,7 +115,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-![](../images/rtbs-vol3-topic1_IG-FB-GIF_230714_2.gif)
+![](../images/RTBS-T1_IG-FB-GIF_230724_LR.gif)
 
 
 
@@ -142,13 +142,15 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 The Economist. (2023, May 29). *[Generative AI: What is it Good for?](https://www.youtube.com/watch?v=gCDacaohqaA)* Retrieved 2023, June 20.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gCDacaohqaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gCDacaohqaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <br>
 
 CNA Insider. (2023, May 22). [*How Smart is ChatGPT, really?*](https://youtu.be/JFDE9L7exKU) Retrieved 2023, June 29.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JFDE9L7exKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JFDE9L7exKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <br>
 
@@ -174,8 +176,8 @@ CNA Insider. (2023, May 22). [*How Smart is ChatGPT, really?*](https://youtu.be/
 
 |                                                              | **Recommended Titles**                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=book&id=7A48B532-1D1D-429F-A802-2F26F26D7254&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=guideai">![](../images/rtbs-vol3-topic1-bookcover01-youandi.jpg)</a> | [**[You & AI: A Guide to Understanding How Artificial Intelligence Is Shaping Our Lives](https://nlb.overdrive.com/media/9838861)**](https://go.nlb.gov.sg/m-link/details?type=book&id=7A48B532-1D1D-429F-A802-2F26F26D7254&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=guideai)<br/>Scherer, Anne, and Cindy Candrian (2023). *You & AI: A Guide to Understanding How Artificial Intelligence Is Shaping Our Lives.* Books on Demand. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=4B0E5E8B-FA65-4CBB-B0D8-F68FD91596C9&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=humansapply">![](../images/rtbs-vol3-topic1-bookcover02-humansneednotapply.jpg)</a> | **[Humans need not apply: A guide to wealth & work in the age of artificial intelligence](https://go.nlb.gov.sg/m-link/details?type=ebook&id=4B0E5E8B-FA65-4CBB-B0D8-F68FD91596C9&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=humansapply)**<br/>Kaplan, Jerry. (2020). Humans need not apply: A guide to wealth & work in the age of artificial intelligence. Yale University Press. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=60BD5306-6A4A-4994-B522-C67C40B7452A&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=genaichatgpt">![](../images/rtbs-vol3-topic1-bookcover01.jpg)</a> | [**Rise of Generative AI and ChatGPT**](https://nlb.overdrive.com/media/9838861) |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=61265F16-C0F3-46CC-B880-0C77330D483B&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=aiprofits">![](../images/rtbs-vol3-topic1-bookcover02.jpg)</a> | **[Artificial Intelligence, Real Profits](https://go.nlb.gov.sg/m-link/details?type=ebook&id=61265F16-C0F3-46CC-B880-0C77330D483B&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=aiprofits)**<br/>Jack Pemberton. (2023). Artificial Intelligence, Real Profits. eBookIt.com. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=D8D300A8-4DF8-43C9-87FC-E91F14EB5285&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=ihuman">![](../images/rtbs-vol3-topic1-bookcover03-ihuman.jpg)</a> | **[I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique](https://go.nlb.gov.sg/m-link/details?type=ebook&id=D8D300A8-4DF8-43C9-87FC-E91F14EB5285&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=ihuman)**<br/>Chamorro-Premuzic, Toman. (2023). I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique. Harvard Business Review Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream">![](../images/rtbs-vol3-topic1-bookcover04-doandroids.JPG)</a> | **[Do Androids Dream of Electric Sheep? ](https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream)**<br/>Dick, Phillip. K. (2008). Do Androids Dream of Electric Sheep? Random House Publishing Group. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 |                                                              |                                                              |
