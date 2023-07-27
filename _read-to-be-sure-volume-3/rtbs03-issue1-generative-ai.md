@@ -2,7 +2,7 @@
 title: 'Generative A.I.'
 permalink: /read-to-be-sure-volume-3/issue1-generative-ai/
 breadcrumb: 'Issue 1 - Generative A.I.'
-image: ../images/rtbs-vol3-iss1-web-banner2.png
+image: ../images/rtbs-vol3-iss1-web-banner3.png
 ---
 
 <a name="top"></a>
