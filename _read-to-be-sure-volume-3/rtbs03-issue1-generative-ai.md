@@ -64,13 +64,13 @@ Programmes such as DALL-E 2 could <a href="https://www.technologyreview.com/2023
 <br><br>
             A great number of Singaporean employees (<a href="https://www.asiaone.com/business/microsoft-work-trend-index-2023-singapore-data-unveils-opportunities-unlock-workplace">81%</a>) would delegate as much work as possible to AI to lessen their workload. Most Singaporeans are comfortable using AI for analytical work (<a href="https://www.asiaone.com/business/microsoft-work-trend-index-2023-singapore-data-unveils-opportunities-unlock-workplace">87%</a>), administrative tasks (<a href="https://www.asiaone.com/business/microsoft-work-trend-index-2023-singapore-data-unveils-opportunities-unlock-workplace">85%</a>), and even creative work (<a href="">81%</a>). 
 </td>
-        <td><b>Human creativity still trumps generative AI</b> 
+        <td><b>Critics argue that GenAI may lead to the demise of human creativity.</b> 
 <br><br>
-Although GenAI is changing the nature of creativity, it’s not the <a href="https://www.theguardian.com/artanddesign/2023/jan/23/its-the-opposite-of-art-why-illustrators-are-furious-about-ai">death knell for human creativity</a> and originality. AI won’t replace <a href="https://www.cnbc.com/2023/06/15/adobe-ceo-says-ai-will-wont-replace-human-ingenuity-itll-augment-it.html">human ingenuity</a>, it only enhances <a href="https://www.fastcompany.com/90877017/generative-ai-will-change-the-world-but-wont-put-creative-jobs-at-risk">creativity</a> and efficiency.  
+With GenAI changing the nature of creativity, there is growing concern <a href="https://www.theguardian.com/artanddesign/2023/jan/23/its-the-opposite-of-art-why-illustrators-are-furious-about-ai">among artists and critics</a> that it could spell the end of human creativity and originality.
 <br><br>
-Most artists, writers and musicians believe GenAI cannot replicate <a href="https://www.forbes.com/sites/forbestechcouncil/2023/05/26/how-generative-ai-is-changing-creative-work/?sh=7ffa3c54d9ca">human expression</a> that goes into a creative work. The written word, music and art are vehicles to express thoughts and share emotions, and despite how powerful this technology may be, it cannot replace our <a href="https://www.forbes.com/sites/forbestechcouncil/2023/05/26/how-generative-ai-is-changing-creative-work/?sh=7ffa3c54d9ca">urge to create</a> or human creators. 
-<br><br>
-GenAI cannot replicate all the intricacies of human expressions and artistic expression. A creative work that connects with a human deeply will always require a <a href="https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/">creative human</a> in the loop. AI can automate and accelerate, but it’s the <a href="https://medium.com/@ibrahimandcompany/valuing-the-human-touch-ai-authenticity-and-the-future-of-original-content-7b44e9b5d66d">human touch</a> that infuses authenticity and depth into our creations. <BR><BR>
+While it might not entirely replace human ingenuity, GenAI has demonstrated the ability to produce “a hit song” in a fraction of the time. 
+  <br><br>
+            Reliance on earning technologies that can visualise and conceptualise for us may lead to a <a href="https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work">decline in primary artistic skills</a>, such as writing, drawing or painting. These skills typically require a deep understanding, continuous practice, and the development of expertise over time. While it democratises the artistic practice and it seems that <a href="https://www.cbsnews.com/news/ai-art-created-by-artificial-intelligence/">anyone can be an artist now</a>	, is it impending doom for human creativity? As the emphasis shifts away from honing these skills and towards relying on technology, the risk of losing the ability to create without GenAI tools looms large.             																	
 </td>
 	</tr>
 	<tr>
@@ -92,7 +92,10 @@ It could also <a href="https://www.thelancet.com/journals/lancet/article/PIIS014
 </td>
 	</tr>
 </table>
-Let's hear our guest speakers weigh in on this issue: <PLACEHOLDER VIDEO>
+
+
+
+Let's hear  our guest speakers weigh in on this issue:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2EcPtWwdRlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
