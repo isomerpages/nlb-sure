@@ -3,7 +3,7 @@ title: 'Historical Scene Investigation Challenge 2023'
 permalink: /events/hsi2023/
 breadcrumb: '2023 Challenge'
 third_nav_title: 'Historical Scene Investigation'
-image: ../../../images/HSI-2022-logo.png
+image: ../../../images/hsi2023-logo.PNG
 
 ---
 
@@ -31,3 +31,7 @@ Teams will create a 3-minute video to present their investigation findings along
 - Further details will be included in the task briefing deck which will be sent to registered schools in late July
 
 The top 3 teams will be awarded the H.S.I. Challenge trophy, the MOE Young Historian Award and book vouchers. All participants will receive digital certificates of award (Bronze, Silver, Gold) based on their scores. 
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=7a2331c9-e061-4c65-be34-b050005be6b7&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></div> 
+
