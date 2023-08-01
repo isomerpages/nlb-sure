@@ -26,6 +26,6 @@ Don't miss out on month-long displays at Jurong Regional Library, Woodlands Regi
 
 Join us for an unforgettable experience that will leave your family digitally S.U.R.E.!
 
-Parents: Download the Parenting Toolkit **[HERE](https://go.gov.sg/sure-parenting-toolkit)** (about 68MB):![](../images/sure-parenting-toolkit-sm.JPG)
+Parents: Download the Parenting Toolkit **[HERE](https://go.gov.sg/sure-parenting-toolkit)** (about 7MB):![](../images/sure-parenting-toolkit-sm.JPG)
 
  
