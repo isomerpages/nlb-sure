@@ -6,7 +6,9 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 ---
 
-Download the image **[here](https://go.gov.sg/sure-misinfo-mayhem)**.
+Here are the answers to the [Misinformation Mayhem puzzles](/events/lets-be-sure-activations/) located at the Tampines, Jurong and Woodlands Regional Libraries.
+
+Download the image **[HERE](https://go.gov.sg/sure-misinfo-mayhem)**.
 
 ![](../images/Misinformation-Mayhem-Numbered2.jpg)
 
