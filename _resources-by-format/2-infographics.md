@@ -11,6 +11,12 @@ breadcrumb: Infographics
 
 ![](../images/how-to-be-sure-infographic-eng.PNG)
 
+This infographic is also available in:
+
+- [Chinese language](https://go.gov.sg/2023-sure-infographic-chi)
+- [Malay language](https://go.gov.sg/2023-sure-infographic-malay)
+- [Tamil language](https://go.gov.sg/2023-sure-infographic-tamil)
+
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board’s S.U.R.E. steps. Watch the video version [HERE](/resources/format/videos).
 
 

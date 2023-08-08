@@ -24,8 +24,6 @@ The  [National Library Board](http://www.nlb.gov.sg/) ’s (NLB) S.U.R.E program
 * **Evaluate: Find the balance. Exercise fair judgement.**
   <br>Look from different angles. There are at least two sides to every story.
 
-
-
 #### How to be S.U.R.E. before you share
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
@@ -35,7 +33,21 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 </div>
 
 
-#### **	Who we are and What we do**
+**[How to be S.U.R.E. before you share](https://go.gov.sg/2023-sure-infographic-eng)**
+
+![](../images/how-to-be-sure-infographic-eng.PNG)
+
+This infographic is also available in:
+
+- [Chinese language](https://go.gov.sg/2023-sure-infographic-chi)
+
+- [Malay language](https://go.gov.sg/2023-sure-infographic-malay)
+
+- [Tamil language](https://go.gov.sg/2023-sure-infographic-tamil)
+
+  
+
+#### **Who we are and What we do**
 
 ![S.U.R.E. poster for brochure](../images/aboutsureheader-600x318.png)
 
