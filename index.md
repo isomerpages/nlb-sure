@@ -36,7 +36,7 @@ sections:
           alt: 'Lets be SURE Together 2023'
           button: 'Find out more'
     - infopic:
-          title: 'Read to be SURE, Volume 2 Issue 3: Generative A.I.'
+          title: 'Read to be SURE, Volume 3 Issue 1: Generative A.I.'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Generative AI. Does it bring power or peril to us?
           url: /read-to-be-sure-volume-3/issue1-generative-ai/
