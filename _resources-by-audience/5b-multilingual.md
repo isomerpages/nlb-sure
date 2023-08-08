@@ -54,8 +54,21 @@ This video is also available in other languages:
 
 
 <hr>
-
 ## Infographics	
+
+**[How to be S.U.R.E. before you share](https://go.gov.sg/2023-sure-infographic-eng)**
+
+![](../images/how-to-be-sure-infographic-eng.PNG)
+
+This infographic is also available in:
+
+- [Chinese language](https://go.gov.sg/2023-sure-infographic-chi)
+
+- [Malay language](https://go.gov.sg/2023-sure-infographic-malay)
+
+- [Tamil language](https://go.gov.sg/2023-sure-infographic-tamil)
+
+  
 
 ![](../images/dubious-messages-English-1573549989107.png)
 
