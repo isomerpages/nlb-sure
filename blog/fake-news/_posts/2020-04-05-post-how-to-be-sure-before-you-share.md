@@ -25,11 +25,16 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 <hr>
 
 
-
 **[Infographic] How to be S.U.R.E. before you share**
 
-Download the latest version of the infographic **[HERE](https://go.gov.sg/2023-sure-infographic-eng)**. 
+**[How to be S.U.R.E. before you share](https://go.gov.sg/2023-sure-infographic-eng)**
+
+![](../../../images/how-to-be-sure-infographic-eng.PNG)
+
+This infographic is also available in:
+
+- [Chinese language](https://go.gov.sg/2023-sure-infographic-chi)
+- [Malay language](https://go.gov.sg/2023-sure-infographic-malay)
+- [Tamil language](https://go.gov.sg/2023-sure-infographic-tamil)
 
 Check out the SURE animated video **[HERE](/blog/fake-news/fn0004)**.
-
-
