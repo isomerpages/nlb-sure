@@ -14,9 +14,9 @@ For the most updated information on each programme, please visit the respective 
 
 | Date/Day      | **Time**      | **Venue**                        | **Programme**                                                |
 | ------------- | ------------- | -------------------------------- | ------------------------------------------------------------ |
-| 3 Aug,  Thurs | 7pm-8pm       | Online (Zoom)<br/>               | <a href="https://www.eventbrite.com/cc/lets-be-sure-together-2280469">Building Connections: Safe spaces for a digital childhood</a> |
+| 3 Aug,  Thurs | 7pm-8pm       | Online (Zoom)<br/>               | <a href="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=93fce909-8ad1-4446-adb2-b061000f457e">[Video recording] Building Connections: Safe spaces for a digital childhood</a> |
 | 5 Aug,  Sat   | 2.30pm-4pm    | Tampines Regional Library  <br/> | <a href="https://www.eventbrite.sg/e/rtbs-youth-debates-this-house-regrets-the-proliferation-of-generative-ai-tickets-669130626717">RTBS Youth Debates: This House regrets the proliferation of  generative A.I.</a><br> |
-| 10 Aug,   Thu | 7pm-8pm       | Online (Zoom)  <br/>             | <a href="https://www.eventbrite.sg/e/growing-up-with-ai-raising-digitally-sure-kids-tickets-669131539447">Growing Up with A.I.: Raising Digitally S.U.R.E. Kids</a> |
+| 10 Aug,   Thu | 7pm-8pm       | Online (Zoom)  <br/>             | <a href="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=0179aef8-a77f-41d2-9859-b061001e50d4">[Video recording] Growing Up with A.I.: Raising Digitally S.U.R.E. Kids</a> |
 | 11 Aug, Fri   | 3pm-3.30pm    | Punggol Regional Library         | [Storytime for 4-6 years old @ Punggol Regional Library](https://www.eventbrite.sg/e/storytime-for-4-6-years-old-punggol-regional-library-early-read-tickets-658276902937) |
 | 12 Aug, Sat   | 11am-12pm     | Woodlands Regional Library <br/> | <a href="https://www.eventbrite.sg/e/digital-detectives-a-cyber-sure-drama-workshop-for-kids-tickets-669132512357">Digital Detectives: A Cyber S.U.R.E. Drama Workshop for Kids</a> |
 | 17 Aug, Thurs | 7pm-8pm       | Online (Zoom)  <br/>             | <a href="https://www.eventbrite.sg/e/ai-101-understanding-chatgpt-and-other-ai-tools-for-students-tickets-669134077037">A.I. 101: Understanding ChatGPT and Other A.I. Tools for Students</a> |
