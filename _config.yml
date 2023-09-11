@@ -64,13 +64,15 @@ collections:
         output: true
     read-to-be-sure-volume-3:
         output: true
-    issue1-generative-ai:
+  issue1-generative-ai:
         output: true
-    school-curriculum:
+      school-curriculum:
         output: true
     generative-ai:
         output: true
-    tng:
+    prebunking:
+        output: true 
+   tng:
         output: true
     pri-activity:
         output: true
