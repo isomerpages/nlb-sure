@@ -7,7 +7,7 @@ breadcrumb: 'Posters'
 
 [Introduction](/prebunking/introduction/)  |   [Videos](/prebunking/videos/)  |  [Infographics](/prebunking/posters/)  |  [Articles](/prebunking/writeups/) 
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\prebunking-infographics-thmb.png)
+![](../images/prebunking-infographics-thmb.png)
 
 Download the infographics here:
 
@@ -21,4 +21,3 @@ Download the infographics here:
 <tr><td><a href="https://go.gov.sg/8i0v8s">JPEG format</a></td>
 	<td><a href="https://go.gov.sg/wz21wm">JPEG format</a></td>
     <td><a href="https://go.gov.sg/jgg943">JPEG format</a></td></tr></table>
-

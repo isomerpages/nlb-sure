@@ -11,7 +11,7 @@ breadcrumb: 'Videos'
 
 **Full Video**
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\YouTube-Thumbnails_Long.jpg)
+![](../images/YouTube-Thumbnails_Long.jpg)
 
 
 
@@ -21,16 +21,16 @@ breadcrumb: 'Videos'
 
 **Video 1: "Bubble Tea Contamination"**
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\YouTube-Thumbnails_Short_Contamination.jpg)
+![](../images/YouTube-Thumbnails_Short_Contamination.jpg)
 
 
 
 **Video 2: "Fake Heath Advisory"**
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\YouTube-Thumbnails_Short_Health.jpg)
+![](../images/YouTube-Thumbnails_Short_Health.jpg)
 
 
 
 **Video 3: "Building Collapse Rumour"**
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\YouTube-Thumbnails_Short_Collapses.jpg)
+![](../images/YouTube-Thumbnails_Short_Collapses.jpg)
