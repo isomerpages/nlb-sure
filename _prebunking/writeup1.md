@@ -5,10 +5,6 @@ breadcrumb: 'Article 1'
 
 ---
 
-[Introduction](/prebunking/introduction/)  |   [Videos](/prebunking/videos/)  |  [Infographics](/prebunking/posters/)  |  [Articles](/prebunking/writeup1/) 
-
-
-
 In January 2020, a fake health advisory was circulated on alternative news sites, purportedly from the Singapore Ministry of Health (MOH). It went viral over many social media platforms and caused major concern and confusion in the community.
 
  

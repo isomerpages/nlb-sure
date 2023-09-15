@@ -1,13 +1,11 @@
 ---
-title: 'Generative Ai And The Rise Of Disinformation'
+title: 'Generative AI And The Rise Of Disinformation'
 permalink: /prebunking/writeup2/
 breadcrumb: 'Article 2'
 
 ---
 
-[Introduction](/prebunking/introduction/)  |   [Videos](/prebunking/videos/)  |  [Infographics](/prebunking/posters/)  |  [Articles](/prebunking/writeup1/) 
 
-​	
 
 **Donald Trump arrested!** Fake images of former President of the United States, Donald Trump involved in a skirmish with New York Police were shared on social media sites and messaging platforms on March 23, 2023. These online falsehoods, created by artificial intelligence (AI) image generators, show how vulnerable we are to generative AI.  
 
