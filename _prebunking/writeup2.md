@@ -1,0 +1,85 @@
+---
+title: 'Generative AI And The Rise Of Disinformation'
+permalink: /prebunking/writeup2/
+breadcrumb: 'Article 2'
+
+---
+
+
+
+**Donald Trump arrested!** Fake images of former President of the United States, Donald Trump involved in a skirmish with New York Police were shared on social media sites and messaging platforms on March 23, 2023. These online falsehoods, created by artificial intelligence (AI) image generators, show how vulnerable we are to generative AI.  
+
+ ![](..\images\prebunking-article3-trump.png)
+
+*Image source: BBC*
+
+Eliot Higgins, the co-founder of the investigative journalism group [Bellingcat](https://www.channelnewsasia.com/world/trump-putin-xi-fake-images-generated-ai-3370641), generated these images to play off the public’s expectation of Trump’s detention. They were viewed more than 5 million times but weren’t labelled as fake. Higgins was subsequently banned from using Midjourney — the tool he had used to generate the artificially [manipulated pictures](https://www.channelnewsasia.com/commentary/fake-ai-image-midjourney-stable-diffusion-trump-macron-social-media-disinformation-3376691) that many couldn’t distinguish from reality. 
+
+ 
+
+**What is Generative AI?**
+
+This is a category of artificial intelligence algorithms that continuously generate data based on the ones they have been modelled on. It is an advanced system that creates new content in the form of images, text, audio and more, as opposed to the traditional system that recognises only patterns and make predictions based on them. 
+
+ 
+
+Generative AI has an expanded range of applications, such as:
+
+•     **Images** — new images can be recreated based on existing ones, for example a person’s face or existing scenery
+
+•     **Text** — it can generate news articles, poems, scripts and more, as well as the translation of many languages
+
+•     **Audio** — can generate new music, sound effects and manipulate even voices to sound exactly the same as the original
+
+ 
+
+This new technology can have a positive impact on our lives — automating time-consuming tasks to helping us make more informed decisions by analysing huge chunks of data faster. This frees up our time to focus on our priorities. In fact, it can revolutionise industries like education with the amazing things it can do.
+
+ 
+
+**AI as Partners in Education**
+
+Today, online learning enables students to learn how to [integrate online information in schools](https://nie.edu.sg/about-us/news-events/news/news-detail/chatgpt-could-be-partners-in-education-if-we-overcome-these-challenges). In fact, the Internet has become a powerful tool to circumvent the restrictions of classroom time and help students become independent learners and critical thinkers.
+
+ 
+
+The Ministry of Education (MOE), Singapore, has launched [programmes](https://www.straitstimes.com/singapore/politics/students-teachers-will-learn-to-properly-use-tools-like-chatgpt-chan-chun-sing) to guide teachers in schools and institutes of higher learning on [how to use artificial intelligence tools such as ChatGPT to enhance learning,](https://www.straitstimes.com/tech/tech-news/don-t-ban-chatgpt-in-schools-but-teach-with-it) given that these tools are likely to become widespread over time. Students will also be taught to understand how AI tools work and learn to critically assess the responses from such tools, which can be flawed or biased, for accuracy and objectivity.
+
+ 
+
+**The dark side of Generative AI**
+
+Although extremely useful, generative AI comes with a dark side. People with bad intentions have manipulated this powerful tool to spread fake news, influence opinions and use malice to drive their objectives. 
+
+ 
+
+Generative AI programmes generate prose, not facts. Many who have used them have become confused by its inaccuracies. However, these programmes are not yet meant to be a provider of information. The algorithm used here relies heavily on writing prose that appears human. It produces these without fact checking, as it is only a creative tool — not a factual one.
+
+ 
+
+**The release of AI Chatbot**
+
+In November 2022, the world was introduced to ChatGPT — a natural language processing tool driven by AI technology. This chatbot allows for human-like conversations and can assist with tasks like writing stories, composing emails, essays and even coding. Users get instantaneous responses that are unsourced — sometimes filled with factual errors no matter how plausible it may sound. Many have used this technology to unwittingly share information. 
+
+ 
+
+Fake news is ever-present. And the rapid growth of generative AI is making the spread of online falsehoods even more prevalent. At the speed of its progress, we may not be able to distinguish between real and fake images, or videos, in the future. An example of this is the fake image of Pope Francis in a designer puffer jacket and silver bejewelled crucifix walking outside the Vatican. Many were unaware that these were [generated by Midjourney](https://www.cbsnews.com/news/pope-francis-puffer-jacket-fake-photos-deepfake-power-peril-of-ai/). 
+
+ 
+
+Policymakers, fact-checkers and social media platforms are proactively looking for ways to identify and expose these harmful AI generated posts.
+
+
+
+<hr>
+
+
+
+Here are recommendations from NLB to help you identify and stop the spread of online falsehood:
+
+ 
+
+1. Question the origin of the source — are they from a reliable website? 
+2. Realise the impact if the news are just false rumours as it could lead to public alarm and a waste of emergency resources. 
+3. Check with official sites and lookout for news alerts from relevant authorities. 
+4. After reviewing all the facts and you still feel uncertain about it — don’t spread it. 

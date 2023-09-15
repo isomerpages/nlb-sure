@@ -70,6 +70,8 @@ collections:
         output: true
     generative-ai:
         output: true
+    prebunking:
+        output: true 
     tng:
         output: true
     pri-activity:
