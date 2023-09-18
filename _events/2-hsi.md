@@ -7,7 +7,11 @@ image: ../../../images/hsi2023-logo.PNG
 
 ---
 
-Download: Task Brief](https://go.gov.sg/hsi2023-task-brief2)** | HSI written report 2022 [sample 1](https://go.gov.sg/hsi22-sample1) & [sample 2](https://go.gov.sg/hsi22-sample2).
+Download: 
+
+- Task Brief](https://go.gov.sg/hsi2023-task-brief2)** .
+
+-  HSI written report 2022 [sample 1](https://go.gov.sg/hsi22-sample1) & [sample 2](https://go.gov.sg/hsi22-sample2).
 
 ![](../images/hsi2023-logo.PNG)
 
