@@ -28,6 +28,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Be S.U.R.E. before you share'
+          subtitle: 'For everyone'
+          description: Find out how you can do your part to stop misinformation from going viral. 
+          url: /prebunking/overview/
+          image: /images/YouTube-Thumbnails_Long.jpg
+          alt: 'Be S.U.R.E. before you share'
+          button: 'Explore now'
+    - infopic:
           title: 'Let&#39;s Be S.U.R.E. 2023'
           subtitle: 'For everyone'
           description: Get ready for a thrilling cyber adventure with your family this August 2023! “Let's be S.U.R.E. together” and explore the online world while ensuring safety and well-being for your digitally savvy family.
