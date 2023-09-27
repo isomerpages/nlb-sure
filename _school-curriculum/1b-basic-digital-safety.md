@@ -1,12 +1,12 @@
 ---
-title: 'Digital Safety (Basic)'
+title: 'Digital Safety'
 permalink: /resources/school-curriculum/basic/part2-digital-safety/
-breadcrumb: 'Digital Safety (Basic)'
+breadcrumb: 'Digital Safety'
 third_nav_title: 'Basic Level'
 
 ---
 
-## PART 2 - Digital Safety
+## PART 2 - Digital Safety (Basic  Level)
 
 
 
@@ -14,11 +14,7 @@ third_nav_title: 'Basic Level'
 
 ![](../images/basic-ds1.JPG)
 
-In this topic, you will: 
-
-- Learn about what constitutes a digital footprint
-- Understand the difference between a positive and a negative digital footprint
-- Explore the concept of your online identity
+Let’s learn about who you are online and how you can stay  safe in the virtual world!
 
 Download the PDF slides **[HERE](https://go.gov.sg/sure-ds1-basic-slides)**.
 

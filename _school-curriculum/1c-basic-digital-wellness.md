@@ -1,12 +1,12 @@
 ---
-title: 'Digital Wellness (Basic)'
+title: 'Digital Wellness'
 permalink: /resources/school-curriculum/basic/part3-digital-wellness/
-breadcrumb: 'Digital Wellness (Basic)'
+breadcrumb: 'Digital Wellness'
 third_nav_title: 'Basic Level'
 
 ---
 
-## PART 3 - Digital Wellness
+## PART 3 - Digital Wellness (Basic Level)
 
 
 
@@ -14,7 +14,8 @@ third_nav_title: 'Basic Level'
 
 Coming soon!
 
-###  
+
+
 
 ### Module DW2 - Positive Online Habits
 
