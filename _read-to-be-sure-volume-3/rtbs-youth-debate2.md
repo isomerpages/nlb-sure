@@ -1,7 +1,8 @@
 ---
 title: 'RTBS Youth Debate: 28 Oct 2023'
-permalink: /read-to-be-sure/youth-debate-28oct2023/
+permalink: /read-to-be-sure-volume-3/youth-debate-28oct2023/
 breadcrumb: 'Youth Debate (28 Oct 2023)'
+image: ../images/rtbs-vol3-school-debate2-web-banner.png
 ---
 
 **![](..\images\rtbs-vol3-school-debate2-web-banner.png)**
@@ -24,4 +25,4 @@ This programme is a collaboration between Anglo Chinese Junior College and Natio
 
  
 
-**Register here: [https://bit.ly/rtbs-28oct](https://bit.ly/rtbs-28oct)**
+**Register here: [https://bit.ly/rtbs-28oct](https://bit.ly/rtbs-28oct)**	
