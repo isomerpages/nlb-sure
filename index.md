@@ -36,13 +36,13 @@ sections:
           alt: 'Be S.U.R.E. before you share'
           button: 'Explore now'
     - infopic:
-          title: 'Let&#39;s Be S.U.R.E. 2023'
+          title: 'RTBS Youth Debate (28 Oct 2023)'
           subtitle: 'For everyone'
-          description: Get ready for a thrilling cyber adventure with your family this August 2023! “Let's be S.U.R.E. together” and explore the online world while ensuring safety and well-being for your digitally savvy family.
-          url: /events/lets-be-sure-about/
-          image: /images/letsbesure-activations.png
-          alt: 'Lets be SURE Together 2023'
-          button: 'Find out more'
+          description: Join us for an exciting debate as students take the stand on whether funding should be prioritised for eco-friendly science and technology.
+          url: /read-to-be-sure-volume-3/youth-debate-28oct2023/
+          image: /images/rtbs-vol3-school-debate2-web-banner.png
+          alt: 'alt text'
+          button: 'Register now!'
     - infopic:
           title: 'Read to be SURE, Volume 3 Issue 1: Generative A.I.'
           subtitle: 'For everyone'
@@ -66,6 +66,14 @@ sections:
           url: /generative-ai/programmes/
           image: /images/eb-banner-gen-ai-2023.png
           alt: 'alt text'
+          button: 'Find out more'
+    - infopic:
+          title: 'Let&#39;s Be S.U.R.E. 2023'
+          subtitle: 'For everyone'
+          description: Get ready for a thrilling cyber adventure with your family this August 2023! “Let's be S.U.R.E. together” and explore the online world while ensuring safety and well-being for your digitally savvy family.
+          url: /events/lets-be-sure-about/
+          image: /images/letsbesure-activations.png
+          alt: 'Lets be SURE Together 2023'
           button: 'Find out more'
     - infopic:
           title: 'Historical Scene Investigation Challenge 2023'
@@ -92,27 +100,11 @@ sections:
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
-          title: 'A.I. Chatbots: The Good, The Bad, and The Future'
-          subtitle: 'For everyone'
-          description: In this panel discussion organised by NLB, learn from industry experts on the role of A.I. chatbots in the current and future world.
-          url: /blog/tech/TECH0005
-          image: /images/banner-26Apr2023-AI-webinar.png
-          alt: 'alt text'
-          button: 'Find out more'
-    - infopic:
           title: 'Read to be SURE, Volume 2 Issue 3 - Higher Education'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Education. What is the value of a university degree today? Is a degree still needed to succeed in the modern economy?
           url: /read-to-be-sure-volume-2/issue3-education/
           image: /images/rtbs-vol2-topic3-KV.PNG
-          alt: 'alt text'
-          button: 'Read it now!'
-    - infopic:
-          title: 'Read to be SURE, Special Issue - World Cup 2022'
-          subtitle: 'For everyone'
-          description: In this issue of Read to be SURE, explore multiple perspectives about the World Cup. Is there more to it than football?
-          url: /read-to-be-sure-volume-2/special-issue1-worldcup/
-          image: /images/rtbs-vol2-hottopic1-world-cup.jpg
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
