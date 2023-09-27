@@ -5,7 +5,7 @@ breadcrumb: 'Youth Debate (28 Oct 2023)'
 image: ../images/rtbs-vol3-school-debate2-web-banner.png
 ---
 
-**![](../images/rtbs-vol3-school-debate2-web-banner.png)
+![](../images/rtbs-vol3-school-debate2-web-banner.png)
 
 Join us for an exciting debate as students take the stand on whether funding should be prioritised for eco-friendly science and technology.
 
@@ -17,7 +17,7 @@ With climate change and the challenges of building a sustainable future, will ou
 
 
 
-**About this programme:**
+### About this programme:
 
 This programme is a collaboration between Anglo Chinese Junior College and National Library Board, Singapore.
 
