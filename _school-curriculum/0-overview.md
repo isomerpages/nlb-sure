@@ -17,10 +17,17 @@ The learning materials are catered to students at various levels of education:
 
 - [Basic Level](/resources/school-curriculum/basic/part1-sure/
   ) – For primary schools
+  - [Digital Safety](/resources/school-curriculum/basic/part2-digital-safety/)
+  - [Digital Wellness](/resources/school-curriculum/basic/part3-digital-wellness/)
+  
 - [Intermediate Level](/resources/school-curriculum/intermediate/part1-sure/) – For secondary schools
-- [Advanced Level](/resources/school-curriculum/advanced/part1-sure/) – For pre-university and junior colleges
+  - [Digital Safety](/resources/school-curriculum/inter/part2-digital-safety/)
+  - [Digital Wellness](/resources/school-curriculum/inter/part3-digital-wellness/)
 
- 
+- [Advanced Level](/resources/school-curriculum/advanced/part1-sure/) – For pre-university and junior colleges
+  - [Digital Safety](/resources/school-curriculum/adv/part2-digital-safety/)
+  - [Digital Wellness](/resources/school-curriculum/adv/part3-digital-wellness/)
+
 
 To facilitate different learning styles, the educational resources cover a range of materials in different formats, including videos, case studies, infographics and presentation slides. These materials can be used in blended learning approach, allowing students to work at their own pace and access them any time or facilitated by teachers in the classroom.
 
@@ -30,9 +37,7 @@ Teachers are welcome to contact us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg) 
 
  
 
-### Coming up soon…
-
- 
+### The Roadmap
 
 We will be introducing new modules related to “Digital Wellness” and “Digital Safety”. These topics include digital identity, online risks, cyber relationships and online ethics. Be sure to stay tuned for these additions to our S.U.R.E. courseware! You can also email us if you would like to be updated when the modules are ready,
 
