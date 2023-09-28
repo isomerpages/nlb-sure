@@ -7,7 +7,7 @@ breadcrumb: 'Prebunking Explained'
 
 ### What is "prebunking"?
 
-You may be familiar with the concept of "debunking" misinformation, and websites like [AFP Factcheck](https://factcheck.afp.com/),  [Reuters Fact Check](https://www.reuters.com/fact-check) or [Factually](https://www.gov.sg/factually) which counter misinformation and disinformation using facts and counterarguments.  
+You may be familiar with the concept of "debunking" falsehoods, and websites like [AFP Factcheck](https://factcheck.afp.com/),  [Reuters Fact Check](https://www.reuters.com/fact-check) or [Factually](https://www.gov.sg/factually) which counter misinformation and disinformation using facts and counterarguments.  
 
 [Prebunking](https://www.psychologytoday.com/us/blog/misinformation-desk/202108/what-is-prebunking) works differently. It involves being educated about misinformation *beforehand*, to instill a critical and awareness-driven mindset and to build media literacy. We can compare this to inoculation, or a vaccine against a disease. Essentially, prebunking prevents us from falling for misinformation in the first place.
 
