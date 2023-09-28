@@ -1,7 +1,7 @@
 ---
-title: 'Digital Wellness (Advanced)'
+title: 'Digital Wellness'
 permalink: /resources/school-curriculum/adv/part3-digital-wellness/
-breadcrumb: 'Digital Wellness (Advanced)'
+breadcrumb: 'Digital Wellness'
 third_nav_title: 'Advanced Level'
 
 ---

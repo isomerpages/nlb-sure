@@ -1,12 +1,12 @@
 ---
-title: 'Digital Safety (Intermediate)'
+title: 'Digital Safety'
 permalink: /resources/school-curriculum/inter/part2-digital-safety/
-breadcrumb: 'Digital Safety (Intermediate)'
+breadcrumb: 'Digital Safety'
 third_nav_title: 'Intermediate Level'
 
 ---
 
-## PART 2 - Digital Safety
+## PART 2 - Digital Safety (Intermediate Level)
 
 
 

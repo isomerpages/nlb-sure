@@ -1,12 +1,12 @@
 ---
-title: 'S.U.R.E. framework (Intermediate)'
+title: 'S.U.R.E. framework'
 permalink: /resources/school-curriculum/intermediate/part1-sure/
-breadcrumb: 'S.U.R.E. framework (Intermediate)'
+breadcrumb: 'S.U.R.E. framework'
 third_nav_title: 'Intermediate Level'
 
 ---
 
-## PART 1 - Using the S.U.R.E. framework
+## PART 1 - Using the S.U.R.E. framework (Intermediate Level)
 
 ### Module IL1 - Source
 

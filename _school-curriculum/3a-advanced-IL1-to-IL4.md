@@ -1,12 +1,12 @@
 ---
-title: 'S.U.R.E. framework (Advanced)'
+title: 'S.U.R.E. framework'
 permalink: /resources/school-curriculum/advanced/part1-sure/
-breadcrumb: 'S.U.R.E. framework (Advanced)'
+breadcrumb: 'S.U.R.E. framework'
 third_nav_title: 'Advanced Level'
 
 ---
 
-## PART 1 - Using the S.U.R.E. framework
+## PART 1 - Using the S.U.R.E. framework (Advanced Level)
 
 ### Module IL1 - Source
 

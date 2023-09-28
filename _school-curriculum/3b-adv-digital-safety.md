@@ -1,14 +1,12 @@
 ---
-title: 'Digital Safety (Advanced)'
+title: 'Digital Safety'
 permalink: /resources/school-curriculum/adv/part2-digital-safety/
-breadcrumb: 'Digital Safety (Advanced)'
-third_nav_title: 'AdvancedLevel'
+breadcrumb: 'Digital Safety'
+third_nav_title: 'Advanced Level'
 
 ---
 
-## PART 2 - Digital Safety
-
-
+## PART 2 - Digital Safety  (Advanced Level)
 
 ### Module DS1 - Digital Footprint
 

@@ -1,12 +1,12 @@
 ---
-title: 'Digital Wellness (Intermediate)'
+title: 'Digital Wellness'
 permalink: /resources/school-curriculum/inter/part3-digital-wellness/
-breadcrumb: 'Digital Wellness (Intermediate)'
+breadcrumb: 'Digital Wellness'
 third_nav_title: 'Intermediate Level'
 
 ---
 
-## PART 3 - Digital Wellness
+## PART 3 - Digital Wellness (Intermediate Level)
 
 
 
