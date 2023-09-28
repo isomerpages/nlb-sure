@@ -14,7 +14,7 @@ third_nav_title: 'Intermediate Level'
 
 Coming soon!
 
-###  
+ 
 
 ### Module DW2 - Positive Online Habits
 
