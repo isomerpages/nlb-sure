@@ -6,7 +6,7 @@ third_nav_title: 'Advanced Level'
 
 ---
 
-## PART 3 - Digital Wellness
+## PART 3 - Digital Wellness  (Advanced Level)
 
 
 
