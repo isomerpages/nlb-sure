@@ -1,12 +1,12 @@
 ---
-title: 'S.U.R.E. framework (Basic)'
+title: 'S.U.R.E. framework'
 permalink: /resources/school-curriculum/basic/part1-sure/
-breadcrumb: 'S.U.R.E. framework (Basic)'
+breadcrumb: 'S.U.R.E. framework'
 third_nav_title: 'Basic Level'
 
 ---
 
-## PART 1 - Using the S.U.R.E. framework
+## PART 1 - Using the S.U.R.E. framework (Basic)
 
 
 
