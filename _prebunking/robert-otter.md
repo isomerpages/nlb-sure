@@ -11,7 +11,7 @@ You may be familiar with the concept of "debunking" misinformation, and websites
 
 [Prebunking](https://www.psychologytoday.com/us/blog/misinformation-desk/202108/what-is-prebunking) works differently. It involves being educated about misinformation *beforehand*, to instill a critical and awareness-driven mindset and to build media literacy. We can compare this to inoculation, or a vaccine against a disease. Essentially, prebunking prevents us from falling for misinformation in the first place.
 
-Prebunking comes in different forms. [Google has produced a series of videos](https://news.sky.com/story/prebunking-the-new-tactic-to-help-you-people-spot-fake-news-12811636) which focus on different techniques used, like scapegoating, false comparisons and exaggeration. Before prebunking videos, it was thought that [playing games about fake news](https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/) could be useful too.
+Prebunking comes in different forms. [Google has produced a series of videos](https://news.sky.com/story/prebunking-the-new-tactic-to-help-you-people-spot-fake-news-12811636) which focus on different techniques used, like scapegoating, false comparisons and exaggeration. The other category would be [online games about fake news](https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/), such as [Bad News](https://www.getbadnews.com/en#intro), as reported in the [media](https://www.bbc.com/news/technology-43154667).
 
 
 
