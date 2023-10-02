@@ -171,8 +171,12 @@ Sustainable Tech. *The Future of Green Technology.* Retrieved 2023, September 13
 
 <table border="2" style="background-color:#FFFFFF;border-collapse:collapse;border:2px solid #000000;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
+        <th style="width:50%"></th>
+        <th></th>
+	</tr>
+	<tr>
         <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><img src="../images/rtbs-vol3-topic2-bookcover01.png"></a></td>
-        <td width=50%><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><b>Future on Fire: Capitalism and the Politics of Climate Change</b></a><br>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><b>Future on Fire: Capitalism and the Politics of Climate Change</b></a><br>
 Camfield, David. Future on Fire: Capitalism and the Politics of Climate Change. Halifax: PM Press, 2022. 
 <br><br>
 Retrieved from OverDrive. (myLibrary username is required to access the eBook).
