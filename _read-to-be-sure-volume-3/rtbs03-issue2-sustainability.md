@@ -9,7 +9,9 @@ image: ../images/rtbs-vol3-iss2-web-banner3.png
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
-Are you feeling the heat? It’s not just you – Singapore’s annual mean temperature has been on the rise due to [climate change](https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/). But it’s not just about feeling uncomfortable – the effects of climate change are far-reaching and can impact our way of life, from water resources to food security. 
+![](C:\Users\user\Documents\GitHub\nlb-sure\images\RTBS-T2-KV-draft.png)
+
+]Are you feeling the heat? It’s not just you – Singapore’s annual mean temperature has been on the rise due to [climate change](https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/). But it’s not just about feeling uncomfortable – the effects of climate change are far-reaching and can impact our way of life, from water resources to food security. 
 
  
 
@@ -33,8 +35,7 @@ As such, some argue that science and technology is not the only solution. We can
 
 *PLACEHOLDER FOR TEASER VIDEO*
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ERrwlyiuKk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+![](C:\Users\user\Documents\GitHub\nlb-sure\images\Slide2.PNG)
 
 
 
@@ -103,10 +104,7 @@ Let's hear  our guest speakers weigh in on this issue:
 
 ###### *PLACEHOLDER FOR NEW MAIN VIDEO*
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2EcPtWwdRlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
+![](C:\Users\user\Documents\GitHub\nlb-sure\images\Slide1.PNG)
 
 <hr>
 <a name="poll"></a>
@@ -194,6 +192,5 @@ McDonald, Bob. The Future is Now: Solving the Climate Crisis with Today’s Tech
 </td>
 	</tr>
 </table>
-
 
 
