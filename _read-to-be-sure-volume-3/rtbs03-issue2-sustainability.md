@@ -191,8 +191,8 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr>
     <tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=book&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futureisnow"><img src="../images/rtbs-vol3-topic2-bookcover03.png"></a></td>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=book&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futureisnow"><b>The Future is Now: Solving the Climate Crisis with Today's Technologies</b></a><br>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=future"><img src="../images/rtbs-vol3-topic2-bookcover03.png"></a></td>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=future"><b>The Future is Now: Solving the Climate Crisis with Today's Technologies</b></a><br>
 McDonald, Bob. The Future is Now: Solving the Climate Crisis with Today’s Technologies. Toronto: Viking Canada, 2022. <br><br>Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr>
