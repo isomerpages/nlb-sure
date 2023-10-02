@@ -35,7 +35,7 @@ As such, some argue that science and technology is not the only solution. We can
 
 *PLACEHOLDER FOR TEASER VIDEO*
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\Slide2.PNG)
+![](../images/Slide2.PNG)
 
 
 
@@ -66,7 +66,7 @@ Solar photovoltaic (PV) panels require several metals, some of which are toxic. 
  </td>
 	</tr>
 	<tr>
-		<td><b>Electric vehicles are the future for zero-emissions vehicles.</b></b>	 
+		<td><b>Electric vehicles are the future for zero-emissions vehicles.</b>	 
 <br><br>
 Electric vehicles are more energy efficient than fuel-burning internal combustion engines. The transition from fossil fuels to electricity reduces greenhouse gases and emits less pollution. Electric vehicles emit 200 grams of carbon dioxide per mile driven over their lifetime, whereas gasoline vehicles emit 350 grams.
 <br><br>
@@ -100,11 +100,12 @@ Cultivated meat is likely to be more resource-intensive with a higher carbon foo
 
 
 
+
 Let's hear  our guest speakers weigh in on this issue:
 
 ###### *PLACEHOLDER FOR NEW MAIN VIDEO*
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\Slide1.PNG)
+![](../images/Slide1.PNG)
 
 <hr>
 <a name="poll"></a>
@@ -133,7 +134,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 [<a href="#top">Back to top</a>]
 
-*Explore the resources below to find out more about Sustainability.
+Explore the resources below to find out more about Sustainability.
 
 
 
@@ -171,7 +172,7 @@ Sustainable Tech. *The Future of Green Technology.* Retrieved 2023, September 13
 <table border="2" style="background-color:#FFFFFF;border-collapse:collapse;border:2px solid #000000;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
         <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><img src="../images/rtbs-vol3-topic2-bookcover01.png"></a></td>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><b>Future on Fire: Capitalism and the Politics of Climate Change</b></a><br>
+        <td width=50%><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><b>Future on Fire: Capitalism and the Politics of Climate Change</b></a><br>
 Camfield, David. Future on Fire: Capitalism and the Politics of Climate Change. Halifax: PM Press, 2022. 
 <br><br>
 Retrieved from OverDrive. (myLibrary username is required to access the eBook).
