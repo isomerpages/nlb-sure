@@ -9,7 +9,7 @@ image: ../images/rtbs-vol3-iss2-web-banner3.png
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
-![](../images/RTBS-T2-KV-draft.png)
+![](../images/RTBS-T2-KV-draft.jpg)
 
 Are you feeling the heat? It’s not just you – Singapore’s annual mean temperature has been on the rise due to [climate change](https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/). But it’s not just about feeling uncomfortable – the effects of climate change are far-reaching and can impact our way of life, from water resources to food security. 
 
