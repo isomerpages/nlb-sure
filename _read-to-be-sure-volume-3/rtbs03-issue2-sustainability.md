@@ -120,9 +120,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-*PLACEHOLDER FOR KEY VISUAL*
-
-![](../images/RTBS-T1-KV_230725.png)
+![](../images/RTBS_T2_FBIG-231004.jpg)
 
 
 
