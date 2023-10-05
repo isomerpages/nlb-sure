@@ -28,6 +28,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Read to be SURE, Volume 3, Issue 2: Sustainability'
+          subtitle: 'For everyone'
+          description: In this issue of Read to be SURE, explore multiple perspectives about Sustainability. Does science and technology harming or healing the environment? 
+          url: /read-to-be-sure-volume-2/issue2-sustainability/
+          image: /images/YouTube-Thumbnails_Long.jpg
+          alt: 'Read to be SURE, Volume 3, Issue 2: Sustainability'
+          button: 'Explore now'
+    - infopic:
           title: 'Be S.U.R.E. before you share'
           subtitle: 'For everyone'
           description: Find out how you can do your part to stop misinformation from going viral. 
