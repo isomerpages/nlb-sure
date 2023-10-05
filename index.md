@@ -32,7 +32,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Sustainability. Does science and technology harming or healing the environment? 
           url: /read-to-be-sure-volume-2/issue2-sustainability/
-          image: /images/YouTube-Thumbnails_Long.jpg
+          image: /images/RTBS_T2_FBIG-231004.jpg
           alt: 'Read to be SURE, Volume 3, Issue 2: Sustainability'
           button: 'Explore now'
     - infopic:
