@@ -19,13 +19,16 @@ links:
             - title: 'Teachers’ workshop'
               url: /tours-and-workshops/teachers-cfn-workshop/
     - title: 'Read to be Sure'
-      url: /read-to-be-sure-volume-2/issue4-workrevolution/
+      url: /read-to-be-sure-volume-2/issue2-sustainability/
       false_collection: true
       sublinks:
             - title: 'What is Read to be SURE?'
               url: /read-to-be-sure/intro-volume3/
             - title: 'Volume 3, Issue 1: Generative AI'
               url: /read-to-be-sure-volume-3/issue1-generative-ai/
+              url: /read-to-be-sure/intro-volume3/
+            - title: 'Volume 3, Issue 2: Sustainability'
+              url: /read-to-be-sure-volume-2/issue2-sustainability/
             - title: 'RTBS Youth Debate (28 Oct 2023)'
               url: /read-to-be-sure-volume-3/youth-debate-28oct2023/
             - title: 'Volume 2, Issue 1: Gender Equality'

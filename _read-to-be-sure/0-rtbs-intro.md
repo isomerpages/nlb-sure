@@ -8,6 +8,7 @@ breadcrumb: 'What is Read to be SURE?'
 
 - **Volume 3:**
   - [Issue 1 - Generative A.I.](/read-to-be-sure-volume-3/issue1-generative-ai/)
+  - [Issue 2 - Sustainability](/read-to-be-sure-volume-2/issue2-sustainability/)
 
 <br>
 

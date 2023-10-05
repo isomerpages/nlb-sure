@@ -111,7 +111,9 @@ Let's hear  our guest speakers weigh in on this issue:
 
 If you are unable to view the embedded form below, please click **<a href="https://forms.gle/mYbgcbp8LQBZVkoY7" target="_blank">here</a>**.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpOHgd2jxpqZv0rI1aD2T48BJr-udbiqLCsG7Z-30N3ER_Tw/viewform?embedded=true" width="640" height="1167" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+View poll results **[here](https://docs.google.com/forms/d/1nzChGP3YBEF-_YPiocfD8aEC4_dl8twQ4IfrbfUPoII/viewanalytics)**.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7IVnyqWfCsaV-TVGzxNZiSIcP9EvpDt9fQ42CsFTYC69m_A/viewform?embedded=true" width="640" height="1529" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ​	
 
@@ -182,5 +184,4 @@ CNA Insider. (2023, May 22). [*How Smart is ChatGPT, really?*](https://youtu.be/
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=D8D300A8-4DF8-43C9-87FC-E91F14EB5285&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=ihuman">![](../images/rtbs-vol3-topic1-bookcover03-ihuman.jpg)</a> | **[I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique](https://go.nlb.gov.sg/m-link/details?type=ebook&id=D8D300A8-4DF8-43C9-87FC-E91F14EB5285&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=ihuman)**<br/>Chamorro-Premuzic, Toman. (2023). I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique. Harvard Business Review Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream">![](../images/rtbs-vol3-topic1-bookcover04-doandroids.JPG)</a> | **[Do Androids Dream of Electric Sheep? ](https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream)**<br/>Dick, Phillip. K. (2008). Do Androids Dream of Electric Sheep? Random House Publishing Group. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 |                                                              |                                                              |
-
 
