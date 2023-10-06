@@ -2,7 +2,7 @@
 title: 'Sustainability'
 permalink: /read-to-be-sure-volume-2/issue2-sustainability/
 breadcrumb: 'Issue 2 - Sustainability'
-image: ../images/rtbs-vol3-iss2-web-banner3.png
+image: ../images/RTBS-T2-KV-draft.jpg
 ---
 
 <a name="top"></a>
