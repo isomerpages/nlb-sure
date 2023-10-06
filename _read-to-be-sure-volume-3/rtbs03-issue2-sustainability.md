@@ -2,7 +2,7 @@
 title: 'Sustainability'
 permalink: /read-to-be-sure-volume-2/issue2-sustainability/
 breadcrumb: 'Issue 2 - Sustainability'
-image: ../images/rtbs-vol3-iss2-web-banner3.png
+image: ../images/RTBS-T2-KV-draft.jpg
 ---
 
 <a name="top"></a>
@@ -31,11 +31,8 @@ As such, some argue that science and technology is not the only solution. We can
 
  
 
-
-
-*PLACEHOLDER FOR TEASER VIDEO*
-
-![](../images/Slide2.PNG)
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rj8C_uEdPjM?si=FozyfVl83zCTK3_D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 
 
@@ -103,12 +100,14 @@ Cultivated meat is likely to be more resource-intensive with a higher carbon foo
 
 Let's hear  our guest speakers weigh in on this issue:
 
-###### *PLACEHOLDER FOR NEW MAIN VIDEO*
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P39XClXxuao?si=Mm-ZfJ2wxM06kx96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-![](../images/Slide1.PNG)
+
 
 <hr>
 <a name="poll"></a>
+
 
 ## Poll: Your views matter!
 
