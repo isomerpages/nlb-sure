@@ -28,7 +28,7 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: '[27 Oct] Safeguarding You & Your Family Against Fake News and Scams'
+          title: '[28 Oct] Safeguarding You & Your Family Against Fake News and Scams'
           subtitle: 'For Adults'
           description: Learn how to protect yourself and your loved ones against fake news and scams in this informative session. 
           url: https://www.eventbrite.sg/e/safeguarding-you-your-family-against-fake-news-and-scams-tickets-735264605227?aff=oddtdtcreator
