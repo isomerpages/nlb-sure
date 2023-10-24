@@ -1,0 +1,10 @@
+collections:
+  resources-by-format:
+    output: true
+    order:
+      - format.md
+      - infographics.md
+      - cheat-sheets.md
+      - videos.md
+      - presentations.md
+      - quizzes.md

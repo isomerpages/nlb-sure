@@ -1,0 +1,24 @@
+collections:
+  resources-by-audience:
+    output: true
+    order:
+      - audience.md
+      - For Teachers & Students/.keep
+      - For Teachers & Students/primary-level.md
+      - For Teachers & Students/primary-level-social-studies.md
+      - For Teachers & Students/primary-level-research-skills.md
+      - For Teachers & Students/secondary-level.md
+      - For Teachers & Students/secondary-level-history.md
+      - For Teachers & Students/secondary-level-geography.md
+      - For Teachers & Students/secondary-level-social-studies.md
+      - For Teachers & Students/secondary-level-cce-cyberwellness-ict.md
+      - For Teachers & Students/post-secondary-level.md
+      - For Adults/.keep
+      - For Adults/combating-fake-news.md
+      - For Adults/research-skills.md
+      - For Adults/nlb-eresources.md
+      - For Seniors/.keep
+      - For Seniors/combating-fake-news.md
+      - For Seniors/multilingual-resources.md
+      - For Seniors/nlb-eresources.md
+      - For Seniors/time-of-your-life-articles.md

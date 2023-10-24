@@ -1,0 +1,12 @@
+collections:
+  read-to-be-sure-volume-2:
+    output: true
+    order:
+      - what-is-read-to-be-sure.md
+      - generative-a-i.md
+      - gender-equality.md
+      - metaverse.md
+      - is-there-more-to-the-world-cup-than-football.md
+      - higher-education.md
+      - work-revolution.md
+      - metaverse-a-welcome-possibility-or-unrealistic-utopia.md

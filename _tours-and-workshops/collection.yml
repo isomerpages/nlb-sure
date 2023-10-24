@@ -1,0 +1,11 @@
+collections:
+  tours-and-workshops:
+    output: true
+    order:
+      - learning-resources-for-schools-to-support-blended-learning-experiences.md
+      - Online Learning Journeys/.keep
+      - Online Learning Journeys/the-news-gallery-virtual-tour-and-workshop.md
+      - Workshops/.keep
+      - Workshops/historical-investigation-workshop-for-students.md
+      - Workshops/academic-research-skills-workshop.md
+      - Workshops/teachers-workshop-combating-online-misinformation-and-fake-news.md

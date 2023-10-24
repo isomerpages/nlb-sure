@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - about-us.md
+      - SURE Campaign/.keep
+      - SURE Campaign/sure-for-school.md
+      - SURE Campaign/sure-for-work.md
+      - SURE Campaign/sure-for-life.md

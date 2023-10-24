@@ -1,0 +1,17 @@
+collections:
+  school-curriculum:
+    output: true
+    order:
+      - school-courseware.md
+      - Basic Level/.keep
+      - Basic Level/s-u-r-e-framework.md
+      - Basic Level/digital-safety.md
+      - Basic Level/digital-wellness.md
+      - Intermediate Level/.keep
+      - Intermediate Level/s-u-r-e-framework.md
+      - Intermediate Level/digital-safety.md
+      - Intermediate Level/digital-wellness.md
+      - Advanced Level/.keep
+      - Advanced Level/s-u-r-e-framework.md
+      - Advanced Level/digital-safety.md
+      - Advanced Level/digital-wellness.md
