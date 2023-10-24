@@ -46,8 +46,8 @@ colors:
       color: '#007CB3'
     - title: media-color-five
       color: '#E86826'
-staging: https://staging-nlb-sure.netlify.app
-prod: https://production-nlb-sure.netlify.app
+staging: https://staging.d2vvpgjco2lwa.amplifyapp.com/
+prod: https://master.d2vvpgjco2lwa.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
