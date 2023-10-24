@@ -1,6 +1,6 @@
 ---
 title: 'Sustainability'
-permalink: /read-to-be-sure-volume-3/issue2-sustainability/
+permalink: /read-to-be-sure-volume-2/issue2-sustainability/
 breadcrumb: 'Issue 2 - Sustainability'
 image: ../images/RTBS-T2-KV-draft.jpg
 ---
