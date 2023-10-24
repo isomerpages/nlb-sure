@@ -24,7 +24,7 @@ breadcrumb: 'What is Read to be SURE?'
   
   - [Issue 4 - Work Revolution](/read-to-be-sure-volume-2/issue4-workrevolution/)
   
-  - [[Public Debate] Metaverse: A Welcome Possibility or Unrealistic Utopia?](/read-to-be-sure-volume-2/school-debate/)
+  - [[Public Debate] Metaverse: A Welcome Possibility or Unrealistic Utopia?](/read-to-be-sure-volume-2/mainstage-debate/)
   
     
   
