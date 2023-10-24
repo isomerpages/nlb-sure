@@ -28,28 +28,12 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: '[28 Oct] Safeguarding You & Your Family Against Fake News and Scams'
-          subtitle: 'For Adults'
-          description: Learn how to protect yourself and your loved ones against fake news and scams in this informative session. 
-          url: https://www.eventbrite.sg/e/safeguarding-you-your-family-against-fake-news-and-scams-tickets-735264605227?aff=oddtdtcreator
-          image: /images/whitebyte-27oct2023.png
-          alt: 'Safeguarding You & Your Family Against Fake News and Scams'
-          button: 'Sign up now'
-    - infopic:
           title: 'Navigating the Digital Age: Building Trust via Media & Information Literacy'
           subtitle: 'For everyone'
           description: Join us our panelists as they share their knowledge and thoughts how to navigate the digital age with media and information literacy skills. 
           url: https://www.eventbrite.sg/e/navigating-the-digital-age-building-trust-via-media-information-literacy-tickets-736993686957?aff=oddtdtcreator
           image: /images/COP_panel_07nov2023.png
           alt: 'Navigating the Digital Age: Building Trust via Media & Information Literacy'
-          button: 'Sign up now'
-    - infopic:
-          title: '[5 Nov] Safeguarding You & Your Family Against Fake News and Scams'
-          subtitle: 'For Adults'
-          description: Learn how to protect yourself and your loved ones against fake news and scams in this informative session. 
-          url: https://www.eventbrite.sg/e/safeguarding-you-your-family-against-fake-news-and-scams-tickets-735264906127?aff=oddtdtcreator
-          image: /images/whitebyte-5nov2023.png
-          alt: 'Safeguarding You & Your Family Against Fake News and Scams'
           button: 'Sign up now'
     - infopic:
           title: 'Read to be SURE, Volume 3, Issue 2: Sustainability'
