@@ -1,0 +1,20 @@
+collections:
+  events:
+    output: true
+    order:
+      - Prove It!/.keep
+      - Prove It!/prove-it-contest-2023.md
+      - Prove It!/prove-it-contest-2023-briefing.md
+      - Prove It!/prove-it-contest-2021.md
+      - Historical Scene Investigation/.keep
+      - Historical Scene Investigation/historical-scene-investigation-challenge-2023.md
+      - Historical Scene Investigation/historical-scene-investigation-challenge-2022.md
+      - Historical Scene Investigation/historical-scene-investigation-challenge-2021.md
+      - S.U.R.E. Celebrates M.I.L./.keep
+      - S.U.R.E. Celebrates M.I.L./introduction.md
+      - S.U.R.E. Celebrates M.I.L./programmes-activities.md
+      - Let&#39;s be S.U.R.E./.keep
+      - Let&#39;s be S.U.R.E./let-39-s-be-s-u-r-e-2023.md
+      - Let&#39;s be S.U.R.E./let-39-s-be-s-u-r-e-2023-activations.md
+      - Let&#39;s be S.U.R.E./let-39-s-be-s-u-r-e-2023-programmes.md
+      - Let&#39;s be S.U.R.E./answers-to-misinformation-mayhem.md

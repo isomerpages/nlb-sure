@@ -1,0 +1,20 @@
+collections:
+  tng:
+    output: true
+    order:
+      - the-news-gallery-learning-activities.md
+      - Primary School Activities/.keep
+      - Primary School Activities/early-editions.md
+      - Primary School Activities/extra-extra.md
+      - Primary School Activities/behind-every-story.md
+      - Activity Sheets/.keep
+      - Activity Sheets/activity-sheets.md
+      - Meet the SUREvivors/.keep
+      - Meet the SUREvivors/introduction.md
+      - Meet the SUREvivors/surevivors-quiz.md
+      - Meet the SUREvivors/create-your-surevivors-story.md
+      - Meet the SUREvivors/primary-and-secondary-sources.md
+      - Meet the SUREvivors/how-do-you-check-the-reliability-of-sources-of-information.md
+      - Meet the SUREvivors/how-do-you-differentiate-between-fact-and-opinion.md
+      - Meet the SUREvivors/what-intentions-can-an-author-have.md
+      - Meet the SUREvivors/how-to-search-for-information-effectively.md

@@ -1,0 +1,32 @@
+collections:
+  read-to-be-sure:
+    output: true
+    order:
+      - what-is-read-to-be-sure.md
+      - Love it or Hate it?/.keep
+      - Love it or Hate it?/introduction.md
+      - Love it or Hate it?/fast-fashion-the-5-perspectives.md
+      - Love it or Hate it?/how-does-it-change-our-economy.md
+      - Love it or Hate it?/how-are-prices-kept-low.md
+      - Love it or Hate it?/is-it-part-of-climate-change.md
+      - Love it or Hate it?/how-are-the-working-conditions-like.md
+      - Love it or Hate it?/is-sustainable-fashion-the-solution.md
+      - Love it or Hate it?/conversations.md
+      - Love it or Hate it?/share-your-thoughts.md
+      - Dive Deeper/.keep
+      - Dive Deeper/why-fast-fashion-is-hot.md
+      - Dive Deeper/fast-fashion-giants.md
+      - Dive Deeper/when-shopping-becomes-your-personality.md
+      - Dive Deeper/the-real-price-tag-of-fast-fashion.md
+      - Dive Deeper/the-fast-fashion-crisis.md
+      - COVID-19 Curbs— Less or More?/.keep
+      - COVID-19 Curbs— Less or More?/at-the-crossroads.md
+      - COVID-19 Curbs— Less or More?/more-curbs.md
+      - COVID-19 Curbs— Less or More?/less-curbs.md
+      - COVID-19 Curbs— Less or More?/a-middle-path.md
+      - COVID-19 Curbs— Less or More?/conversations.md
+      - Risks or Rewards?/.keep
+      - Risks or Rewards?/risks-or-rewards.md
+      - Risks or Rewards?/conversations.md
+      - Russia-Ukraine Information War/.keep
+      - Russia-Ukraine Information War/how-can-we-filter-the-truth.md

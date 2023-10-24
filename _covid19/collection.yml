@@ -1,0 +1,8 @@
+collections:
+  covid19:
+    output: true
+    order:
+      - covid-19-fake-news.md
+      - covid-19-fact-checking-tools.md
+      - trusted-sources.md
+      - quiz.md

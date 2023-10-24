@@ -1,0 +1,8 @@
+collections:
+  prebunking:
+    output: true
+    order:
+      - be-s-u-r-e-before-you-share.md
+      - what-is-prebunking.md
+      - the-influenza-this-time-is-serious.md
+      - generative-ai-and-the-rise-of-disinformation.md

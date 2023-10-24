@@ -1,0 +1,8 @@
+collections:
+  read-to-be-sure-volume-3:
+    output: true
+    order:
+      - what-is-read-to-be-sure.md
+      - generative-a-i.md
+      - sustainability.md
+      - 28-oct-2023.md

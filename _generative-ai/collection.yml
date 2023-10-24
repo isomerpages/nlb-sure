@@ -1,0 +1,15 @@
+collections:
+  generative-ai:
+    output: true
+    order:
+      - what-is-generative-ai.md
+      - s-u-r-e-generative-ai-programmes.md
+      - games-on-generative-ai.md
+      - poll-on-generative-a-i.md
+      - resource-toolkit.md
+      - ai-fact-checking-tools.md
+      - ai-chatbots.md
+      - ai-image-generators.md
+      - ai-search-engines.md
+      - ai-video-generators.md
+      - generative-ai-in-singapore.md
