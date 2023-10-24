@@ -18,7 +18,7 @@ third_nav_title: 'Issue #1: Dive Deeper'
 
  
 
-![](../images/rtbs1-students-article4b.jpg)
+![](/images/rtbs1-students-article4b.jpg)
 
 *Clothes sales rack.* *[Artem Beliaikin/Unsplash](https://unsplash.com/photos/Ta3f1ZcCgWg).*
 
@@ -48,7 +48,7 @@ The oppression of garment workers intersects with gender-based violence in many 
 
  
 
-![](../images/rtbs1-students-article4c.jpg)
+![](/images/rtbs1-students-article4c.jpg)
 
 *Factory workers in Indonesia, 2020. An estimated [80% of garment workers worldwide are women](https://www.fairtradecertified.org/news/fashion-is-a-womens-issue#:~:text=Despite the fact that women,of garment workers are female.), often from countries where they have fewer legal rights or protections against gender-based violence.*
 
@@ -92,7 +92,7 @@ For example, [a 2016 survey](https://www.channelnewsasia.com/singapore/bursting-
 
  
 
-![](../images/rtbs1-students-article4a.jpg)
+![](/images/rtbs1-students-article4a.jpg)
 
  *Uniqlo store in ION Orchard. [Shutterstock](https://www.shutterstock.com/image-photo/singapore-oct-19-uniqlo-store-ion-235832014).*
 
@@ -120,7 +120,7 @@ The sheer quantity of unwanted clothing exported for resale or as trash has caus
 
 Exporting clothes in shipping containers further contributes to fashion’s [already significant carbon emissions](https://www.un.org/sustainabledevelopment/blog/2019/08/actnow-for-zero-waste-fashion/). Oversupply of cheap, literally disposable clothing makes reselling less cost-effective and also decimates local clothing makers who cannot afford to compete with rock-bottom prices. 
 
- ![](../images/rtbs1-students-article4 .jpg)
+ ![](/images/rtbs1-students-article4 .jpg)
  *Discarded clothing and shoes made from synthetic materials can cause microplastic runoff and harm wildlife. Fabrics derived from plastic account for around[ ](https://www.vox.com/the-goods/2018/9/19/17800654/clothes-plastic-pollution-polyester-washing-machine)[60% of all clothing](https://www.vox.com/the-goods/2018/9/19/17800654/clothes-plastic-pollution-polyester-washing-machine) produced today.[ ](https://www.istockphoto.com/photo/pile-of-old-clothes-and-shoes-dumped-on-the-grass-as-junk-and-garbage-littering-and-gm957312514-261398518?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fclothing-waste&utm_term=clothing waste%3A%3A%3A)[Shutterstock](https://www.istockphoto.com/photo/pile-of-old-clothes-and-shoes-dumped-on-the-grass-as-junk-and-garbage-littering-and-gm957312514-261398518?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fclothing-waste&utm_term=clothing waste%3A%3A%3A).*
 
 Merchants also claim that the quality of second-hand clothing has steadily decreased. “[People] think [that in] Africa here… we are not like human beings,” says Ghanaian importer Emmanuel Ajaab, “Even if somebody knocked [on] your door [to beg], you cannot just … pick something from your dustbin. In this case … they’re doing this to us”.

@@ -7,7 +7,7 @@ breadcrumb: 'Programmes'
 
 [Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Gen AI in SG](/generative-ai/generative-ai-singapore/)
 
-![](../images/eb-banner-gen-ai-2023.png)
+![](/images/eb-banner-gen-ai-2023.png)
 
 ### Generative A.I. 101 - ChatGPT, A.I. Image Generators and the Dangers of Misinformation
 

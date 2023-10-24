@@ -16,7 +16,7 @@ third_nav_title: 'Issue #1: Dive Deeper'
 
 *Although flash sales, point rewards and aggressive marketing are popular sales tactics, it’s often a familiar (or attractive) face that rakes in the most cash. With the rise of social media, everyone can be an influencer. Hopping on trends to get views, many* *TikTokkers show off Shein hauls and styles that last as long as a TikTok trend cycle — that is, barely a month.*
 
-![](../images/rtbs1-students-article3a.png)
+![](/images/rtbs1-students-article3a.png)
 
 *A collage of TikTok #sheinhaul videos. TikTok.*
 
@@ -52,7 +52,7 @@ Fast fashion brands are tapping into this influence on social media. For instanc
 
  
 
-![](../images/rtbs1-students-article3b.png)
+![](/images/rtbs1-students-article3b.png)
 
 *Missguided makes a replica of a dress hours after influencer Kim Kardashian posts a picture. Instagram.*
 
@@ -82,7 +82,7 @@ TikTok, arguably one of the most influential social media platforms today with [
 
  
 
-![](../images/rtbs1-students-article3.jpg)
+![](/images/rtbs1-students-article3.jpg)
 
 *Person recording themselves with a new sweater and clothes.* *[Shutterstock](https://www.shutterstock.com/image-photo/young-woman-selling-clothes-online-by-1931387588).*
 

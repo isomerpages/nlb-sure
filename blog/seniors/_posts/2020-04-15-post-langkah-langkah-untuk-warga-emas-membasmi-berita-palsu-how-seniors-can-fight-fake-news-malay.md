@@ -6,11 +6,11 @@ permalink: /blog/seniors/sn0019/
 ---
 
 
- ![](../../../images/seniors-fake-news-malay.jpg)
+ ![](/images/seniors-fake-news-malay.jpg)
 
 
 
-**[Langkah-langkah untuk warga emas membasmi berita palsu](/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
+**[Langkah-langkah untuk warga emas membasmi berita palsu](/files/infographic/SENIOR-CITIZENS-MALAY-r2.pdf)**
 
 Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak informasi dengan menggunakan tip-tip berikut.
 

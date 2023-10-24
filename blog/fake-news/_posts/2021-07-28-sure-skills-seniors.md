@@ -2,10 +2,10 @@
 title: 'S.U.R.E. Skills Series for Seniors: Safeguarding Your Mind From Fake News'
 date: 2021-07-28T00:00:00.000Z
 permalink: /blog/fake-news/fn0010/
-image: ../../../images//sure-skills-series-seniors1.jpg
+image: /images//sure-skills-series-seniors1.jpg
 ---
 
-![](../../../images//sure-skills-series-seniors1.jpg)
+![](/images//sure-skills-series-seniors1.jpg)
 
 **Learn more about the psychological reasons behind the spread of fake news, and more importantly, what you can do about it.**
 

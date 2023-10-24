@@ -16,7 +16,7 @@ third_nav_title: 'Issue #1: Dive Deeper'
 
 *Fast fashion is the norm now – because who doesn’t like being spoilt for choice, purchasing dirt-cheap shirts and supporting brands that celebrate diversity?*
 
- ![](../images/rtbs1-students-article1.jpg)
+ ![](/images/rtbs1-students-article1.jpg)
 
 Entrance to UNIQLO Orchard Central. [Shutterstock](https://www.shutterstock.com/image-photo/singapore-circa-january-2020-entrance-uniqlo-1661613289).
 

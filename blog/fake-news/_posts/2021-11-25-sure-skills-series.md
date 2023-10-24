@@ -2,10 +2,10 @@
 title: 'S.U.R.E Skills Series workshop - How to Be A Smart Fact-Checker'
 date: 2021-11-25T00:00:00.000Z
 permalink: /blog/fake-news/fn0017/
-image: ../../../images/sure-skills-series-dec2021.jpg
+image: /images/sure-skills-series-dec2021.jpg
 ---
 
-![](../../../images/sure-skills-series-dec2021.JPG)
+![](/images/sure-skills-series-dec2021.JPG)
 
 **Learn useful tips and techniques in fact-checking suspicious messages or posts you receive in this interactive workshop.**
 
@@ -21,9 +21,9 @@ Date: Fri, 3 Dec 2021 <br>Time: 7:00PM to 8:30 PM<br>Conducted via Zoom<br>Free 
 
   This workshop is the concluding session in the *S.U.R.E. Skill Series* *Workshops*:
 
-  Part 1: Detecting Fake Videos and Images([Link](https://sure.nlb.gov.sg/blog/fake-news/fn0008))
+  Part 1: Detecting Fake Videos and Images([Link](/blog/fake-news/fn0008))
 
-  Part 2: Safeguarding Your Mind Against Fake News ([Link](https://sure.nlb.gov.sg/blog/fake-news/fn0012))
+  Part 2: Safeguarding Your Mind Against Fake News ([Link](/blog/fake-news/fn0012))
 
   Part 3: Be a Smart Fact-checker
 

@@ -63,7 +63,7 @@ We have categorised our resources according to *audience categories*:
 #### For all ages: 
 
 - [COVID-19 resources](/covid19/fake-news/)
-- [S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)
+- [S.U.R.E. Research Guide](/files/cheatsheet/SURE Research Guide 2019 Single.pdf)
 
 
 

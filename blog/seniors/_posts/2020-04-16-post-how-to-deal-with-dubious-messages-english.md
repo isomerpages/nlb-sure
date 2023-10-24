@@ -6,9 +6,9 @@ permalink: /blog/seniors/sn0005/
 ---
 
 
-![](../../../images/dubious-messages-english-1573549989107.png)
+![](/images/dubious-messages-english-1573549989107.png)
 
-**[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
+**[How To Deal With Dubious Messages](/files/infographic/Dubious-Messages-Eng.pdf)**
 
 Bogus stories can be easily spread through SMS and social messaging tools and apps. Before you share, verify the information using the steps in this tip sheet. 
 

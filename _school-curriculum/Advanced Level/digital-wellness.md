@@ -18,7 +18,7 @@ Coming soon!
 
 ### Module DW2 - Positive Online Habits
 
-![](../images/adv-dw2.jpg)
+![](/images/adv-dw2.jpg)
 
 In this topic, you will: 
 

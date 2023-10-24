@@ -14,7 +14,7 @@ Learn how to apply the S.U.R.E. steps to dubious health advice about COVID-19.
 
 [**Academic Research with NLB eResources**](/blog/home-based-learning/dd00001)
 
-In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/cheatsheet/SURE Research Guide 2019 Single.pdf)** to complement your learning.
+In this e-lecture, learn how to conduct academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website. Please download the **[S.U.R.E. Research Guide](/files/cheatsheet/SURE Research Guide 2019 Single.pdf)** to complement your learning.
 
 
 

@@ -2,10 +2,10 @@
 title: 'S.U.R.E Skills Series workshop - Safeguarding Your Mind Against Fake News'
 date: 2021-08-24T00:00:00.000Z
 permalink: /blog/fake-news/fn0012/
-image: ../../../images/sure-skills-series-sep2021.jpg
+image: /images/sure-skills-series-sep2021.jpg
 ---
 
-![](../../../images/sure-skills-series-Sep2021.JPG)
+![](/images/sure-skills-series-Sep2021.JPG)
 
 Learn more about the psychological reasons behind the spread of fake news, and more importantly, what YOU can do about it.
 

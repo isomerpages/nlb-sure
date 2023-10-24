@@ -12,7 +12,7 @@ third_nav_title: 'Intermediate Level'
 
 ### Module DS1 - Digital Footprint
 
-![](../images/inter-ds1.jpg)
+![](/images/inter-ds1.jpg)
 
 In this topic, you will: 
 
@@ -25,7 +25,7 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-ds1-inter-slides)**.
 
 ### Module DS2 - Personal Data and Privacy
 
-![](../images/inter-ds2.jpg)
+![](/images/inter-ds2.jpg)
 
 In this topic, you will: 
 

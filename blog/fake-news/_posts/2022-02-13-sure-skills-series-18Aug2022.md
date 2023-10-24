@@ -2,10 +2,10 @@
 title: '银发族S.U.R.E.技能系列 -如何识破 “深度伪造” 图像和影像'
 date: 2022-02-13T00:08:00.000Z
 permalink: /blog/fake-news/fn0025/
-image: ../../../images/sure-skills-series-seniors-chi3.jpg
+image: /images/sure-skills-series-seniors-chi3.jpg
 ---
 
-![](../../../images/sure-skills-series-seniors-chi3.JPG)
+![](/images/sure-skills-series-seniors-chi3.JPG)
 
 **通过这个工作坊，您能了解什么是利用人工智能（AI）合成的“深度伪造” (Deepfake) 图像和影像，以及如何识破它们。**
 

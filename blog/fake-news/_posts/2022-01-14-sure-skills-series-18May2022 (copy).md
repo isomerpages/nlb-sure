@@ -2,10 +2,10 @@
 title: 'S.U.R.E Skills Series for Seniors -Spotting Deepfake Images & Videos'
 date: 2022-01-14T00:08:00.000Z
 permalink: /blog/fake-news/fn0022/
-image: ../../../images/sure-skills-series-seniors-eng3.jpg
+image: /images/sure-skills-series-seniors-eng3.jpg
 ---
 
-![](../../../images/sure-skills-series-seniors-eng3.JPG)
+![](/images/sure-skills-series-seniors-eng3.JPG)
 
 **Learn more about Artificial Intelligence generated deepfake images and videos, how they work, and how to detect them.**
 

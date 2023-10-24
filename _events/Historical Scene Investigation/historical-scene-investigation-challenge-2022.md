@@ -3,11 +3,11 @@ title: 'Historical Scene Investigation Challenge 2022'
 permalink: /events/hsi2022/
 breadcrumb: '2022 Challenge'
 third_nav_title: 'Historical Scene Investigation'
-image: ../../../images/hsi-2022-logo.png
+image: /images/hsi-2022-logo.png
 
 ---
 
-![](../images/HSI-2022-logo.png)
+![](/images/HSI-2022-logo.png)
 
 Organised by the National Library Board and supported by the Ministry of Education (Humanities Branch, History Unit), the Historical Scene Investigation (HSI) Challenge is an inter-school contest in which students put their historical inquiry and research skills to the test. 
 
@@ -17,7 +17,7 @@ A record participation of 170 teams from 82 schools participated in the contest 
 
 On 19 October 2022, the top 10 school teams were invited to the National Library for the awards ceremony.
 
-![](../images/hsi-2022-group-photo.jpg)
+![](/images/hsi-2022-group-photo.jpg)
 
 We would like to congratulate the following school teams for achieving the top 3 positions, along with being awarded the Young Historians’ Award by MOE:
 

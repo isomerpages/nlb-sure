@@ -32,9 +32,9 @@ We have a range of learning activities and resources to support the [National Di
 
 **Resources for Students** 
 
-- [A Journey Through Time with the National Library](https://sure.nlb.gov.sg/blog/home-based-learning/dd00017)
+- [A Journey Through Time with the National Library](/blog/home-based-learning/dd00017)
 
-- [Be a S.U.R.E. Historical Investigator](https://sure.nlb.gov.sg/blog/home-based-learning/dd00016)
+- [Be a S.U.R.E. Historical Investigator](/blog/home-based-learning/dd00016)
 
  
 

@@ -5,7 +5,7 @@ breadcrumb: '2021 Contest'
 third_nav_title: 'Prove It!'
 ---
 
-![](../images/proveit2021-logo.jpg)
+![](/images/proveit2021-logo.jpg)
 
 Organised by the National Library Board, the S.U.R.E. Prove It! Contest 2021 aimed to equip students with information literacy skills in the digital age and apply it to current affairs consumed online. 
 

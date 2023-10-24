@@ -2,10 +2,10 @@
 title: '银发族 S.U.R.E. 技能系列: 如何避免受假信息影响'
 date: 2021-07-29T00:00:00.000Z
 permalink: /blog/fake-news/fn0011/
-image: ../../../images/sure-skills-seriesseniors1-chinese.jpg
+image: /images/sure-skills-seriesseniors1-chinese.jpg
 ---
 
-![](../../../images/sure-skills-seriesseniors1-chinese.jpg)
+![](/images/sure-skills-seriesseniors1-chinese.jpg)
 
 **这个工作坊将能让您了解人们撒播假信息背后的心理因素，以及您能如何协助制止假信息的传播。**
 

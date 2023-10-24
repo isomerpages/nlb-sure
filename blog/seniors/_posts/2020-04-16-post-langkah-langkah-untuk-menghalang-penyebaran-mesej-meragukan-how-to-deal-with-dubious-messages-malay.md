@@ -6,11 +6,11 @@ permalink: /blog/seniors/sn0015/
 ---
 
 
-![](../../../images/dubious-messages-Malay-600x363 (1) thmb.JPG)
+![](/images/dubious-messages-Malay-600x363 (1) thmb.JPG)
 
-**[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/infographic/DubiousMsg_Malay_FA.pdf)**
+**[Langkah-Langkah Untuk Menghalang Penyebaran Mesej Meragukan](/files/infographic/DubiousMsg_Malay_FA.pdf)**
 
 Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan aplikasi sebaran mesej sosial. Pastikan anda menyemak informasi dengan menggunakan tip-tip  berikut.
 
-Download the PDF **[here](/infographic/DubiousMsg_Malay_FA.pdf)**.
+Download the PDF **[here](/files/infographic/DubiousMsg_Malay_FA.pdf)**.
 

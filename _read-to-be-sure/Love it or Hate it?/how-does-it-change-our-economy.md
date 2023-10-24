@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/towfiqu-barbhuiya-jhevwhcbvyw-unsplash.jpg)<font size="2">Photo by Towfiqu barbhuiya on Unsplash</font>
+![](/images/towfiqu-barbhuiya-jhevwhcbvyw-unsplash.jpg)<font size="2">Photo by Towfiqu barbhuiya on Unsplash</font>
 
 Buying your next T-shirt could [feed households and reduce poverty](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/briefingnote/wcms_758626.pdf) in many countries in the Asia-Pacific (APAC) region, also known as “the clothing factory of the world”. In 2019, 65 million people worked in the [APAC clothing manufacturing industry](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/publication/wcms_669355.pdf) — that’s every seven out of 10 workers worldwide.
 
@@ -22,7 +22,7 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 <div class="row is-multiline">
     <div class="col is-one-third-desktop is-one-third-tablet"></div>
     <div class="col is-one-third-desktop is-one-third-tablet">
-<a href="/read-to-be-sure/issue1-perspective2/"><img src="../images/rtbs1-perspective2.jpg" alt="image 2"></a>
+<a href="/read-to-be-sure/issue1-perspective2/"><img src="/images/rtbs1-perspective2.jpg" alt="image 2"></a>
 </div>	
     <div class="col is-one-third-desktop is-one-third-tablet"></div>
 </div>
@@ -34,16 +34,16 @@ Would this affect the price? Is there such a thing as cheap and good? Here’s m
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=Ir1b-ez2x5g"><img src="../images/rtbs1-watch1.jpg" alt="image 2"></a>
+<a href="https://www.youtube.com/watch?v=Ir1b-ez2x5g"><img src="/images/rtbs1-watch1.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail"><img src="../images/rtbs1-read12-instant.jpg" alt="image 4"></a>
+<a href="https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail"><img src="/images/rtbs1-read12-instant.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://fortune.com/2021/09/15/fast-fashion-zara-inditex-hennes-mauritz-pandemic-recovery-earnings/"><img src="../images/rtbs1-read13-size.jpg" alt="image 4"></a>
+<a href="https://fortune.com/2021/09/15/fast-fashion-zara-inditex-hennes-mauritz-pandemic-recovery-earnings/"><img src="/images/rtbs1-read13-size.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.vox.com/the-goods/22573682/shein-future-of-fast-fashion-explained"><img src="../images/rtbs1-read2.jpg" alt="image 2"></a>
+<a href="https://www.vox.com/the-goods/22573682/shein-future-of-fast-fashion-explained"><img src="/images/rtbs1-read2.jpg" alt="image 2"></a>
 </div>
 </div>	
 </div>

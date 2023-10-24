@@ -23,13 +23,13 @@ We encounter a wide range of information in our day to day lives. Amidst this in
 
 Learn the S.U.R.E. steps to more effective research in the infographic below. Download the Infographic **[HERE](https://go.gov.sg/sure-phase1-adv-info)**.
 
-![](../images/curriculum-part1-infographic-adv.jpg)
+![](/images/curriculum-part1-infographic-adv.jpg)
 
 
 
 ### Module IL2 - Understand
 
-![](../images/curriculum-il2-advanced.png)
+![](/images/curriculum-il2-advanced.png)
 
 In this topic, you will:
 
@@ -46,7 +46,7 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-il2-adv-slides)**.
 
 ### Module IL3 - Research
 
-![](../images/curriculum-il3-advanced.png)
+![](/images/curriculum-il3-advanced.png)
 
 In this topic, you will: 
 
@@ -64,7 +64,7 @@ In this topic, you will:
 
 ### Module IL4 - Evaluate
 
-![](../images/curriculum-il4-advanced.png)
+![](/images/curriculum-il4-advanced.png)
 
 In this topic, you will: 
 

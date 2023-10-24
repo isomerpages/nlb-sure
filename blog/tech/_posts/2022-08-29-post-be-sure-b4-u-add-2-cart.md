@@ -2,10 +2,10 @@
 title: 'Be S.U.R.E. before you “add to cart”'
 date: 2022-08-29T00:00:00.000Z
 permalink: /blog/tech/tech0002/
-image: ../../../images/ecommerce-g0a4095276_1920.jpg
+image: /images/ecommerce-g0a4095276_1920.jpg
 ---
 
-![](../../../images/ecommerce-g0a4095276_1920.jpg)                               
+![](/images/ecommerce-g0a4095276_1920.jpg)                               
 
 *Image credit: [Pixabay](http://www.pixabay.com)*
 
@@ -49,7 +49,7 @@ Read on to find out how you can apply the S.U.R.E. steps when you next shop onli
 
 (Check your Sources and Understand the information provided)
 
-![](../../../images/online-shopping-ge7754ddf3_1280.png) 
+![](/images/online-shopping-ge7754ddf3_1280.png) 
 
  *Image credit: [Pixabay](http://www.pixabay.com)*
 
@@ -63,7 +63,7 @@ Falling prey to [e-commerce scams](https://www.police.gov.sg/media-room/news/202
 
 (Research across websites)
 
-![](../../../images/e-commerce-g5388248d3_1280.png) 
+![](/images/e-commerce-g5388248d3_1280.png) 
 
  
 
@@ -81,7 +81,7 @@ Assuming you’ve checked your sellers and verified their credibility, there’s
 
 (Evaluate before making a decision)
 
- ![](../../../images/discount-g6f488526f_1920.png)
+ ![](/images/discount-g6f488526f_1920.png)
 
 *Image credit: [Pixabay](http://www.pixabay.com)*
 

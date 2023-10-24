@@ -5,7 +5,7 @@ permalink: /blog/information-literacy/il00007/
 
 ---
 
-**Click [HERE](/infographic/NLB_Infographic_News_Literacy_SURE_BINGO.pdf) to view the full infographic.**
+**Click [HERE](/files/infographic/NLB_Infographic_News_Literacy_SURE_BINGO.pdf) to view the full infographic.**
 
-![](../../../images/news-literacy-infographic2022.jpg)
+![](/images/news-literacy-infographic2022.jpg)
 

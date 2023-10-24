@@ -2,10 +2,10 @@
 title: 'Watch Out for Manipulated Content'
 date: 2020-06-29T00:00:00.000Z
 permalink: /blog/fake-news/fn0006/
-image: ../../../images/114238488_s.jpg
+image: /images/114238488_s.jpg
 ---
 
-![](../../../images/114238488_s.jpg)
+![](/images/114238488_s.jpg)
 
 In today’s world, false information is chipping away our trust in media, people and resources around us. As we spend much time in the online space, it is more important than ever to separate truth from fiction.
 
@@ -17,7 +17,7 @@ Overseas, there have been many examples of videos and photographs being doctored
 
 - A video of a politician was slowed down to make it sound like she was slurring, to mock and discredit her.
 
-|               ![](../../../images/pelosi.jpg)                |
+|               ![](/images/pelosi.jpg)                |
 | :----------------------------------------------------------: |
 | *Doctored video of US politician Nancy Pelosi*<br />Source: [The Guardian](https://www.google.com/amp/s/amp.theguardian.com/technology/2019/may/24/facebook-leaves-fake-nancy-pelosi-video-on-site) |
 |                                                              |
@@ -27,7 +27,7 @@ Overseas, there have been many examples of videos and photographs being doctored
 - An image of a politician waving a flag was edited to replace it with a different flag, inflaming tensions in a fragile
   situation.
 
-|              ![](../../../images/juniusho.jpg)               |
+|              ![](/images/juniusho.jpg)               |
 | :----------------------------------------------------------: |
 | *Doctored and original photos of Hong Kong politician Junius Ho*<br />Source: [AFP Fact Check](https://factcheck.afp.com/image-has-been-doctored-photo-hong-kong-politician-junius-ho-waving-chinese-flag-beijing) |
 
@@ -35,7 +35,7 @@ Overseas, there have been many examples of videos and photographs being doctored
 
 - Even celebrities have had their photos edited by others, to associate them with political movements.
 
-|              ![](../../../images/k-jenner.png)               |
+|              ![](/images/k-jenner.png)               |
 | :----------------------------------------------------------: |
 | *Original and edited image of US celebrity Kendall Jenner*<br />Source: [Yahoo News](https://www.google.com/amp/s/news.yahoo.com/amphtml/kendall-jenner-sets-record-straight-173836639.html) |
 
@@ -69,9 +69,9 @@ Be **SURE** before you choose to believe, share or forward the information!
 
 
 
-Download our infographic **[HERE](/infographic/4-Ways-of-SURE.pdf)**.
+Download our infographic **[HERE](/files/infographic/4-Ways-of-SURE.pdf)**.
 
-![1593431228147](../../../images/1593431228147.png)
+![1593431228147](/images/1593431228147.png)
 
 
 

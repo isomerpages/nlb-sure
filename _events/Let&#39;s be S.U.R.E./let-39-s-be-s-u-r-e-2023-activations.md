@@ -10,7 +10,7 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 **19 - 20 August 2023**
 
- ![](../images/letsbesure-activations.png)
+ ![](/images/letsbesure-activations.png)
 
 Are you ready to explore the online world together and ensure the safety and well-being of your digitally-savvy family? Join us at our weekend pop-up event and “Let’s be S.U.R.E. together!”. 
 
@@ -36,18 +36,18 @@ But wait, there’s more! Don’t forget to collect S.U.R.E. goodies* after part
 
 Are you ready to tackle the misinformation mayhem in our digital world? Don’t miss our eye-opening display at:
 
-- Jurong Regional Library (B1, Children's Section)![](../images/misinformation-mayhem-jrl.jpg)
+- Jurong Regional Library (B1, Children's Section)![](/images/misinformation-mayhem-jrl.jpg)
 
   
 
 - Woodlands Regional Library (Level 4, Children's Section) 
 
-  ![](../images/misinformation-mayhem-wrl.jpg)
+  ![](/images/misinformation-mayhem-wrl.jpg)
 
   
 
 - Tampines Regional Library (Level 2)
-  ![](../images/misinformation-mayhem-trl.jpg)
+  ![](/images/misinformation-mayhem-trl.jpg)
 
  
 
@@ -55,9 +55,9 @@ Learn to spot the threats of misinformation and scams and discover good digital 
 
  
 
-Plus, don’t forget to collect your [S.U.R.E.vivors](https://sure.nlb.gov.sg/tng/surevivors/) stickers* at our displays to help you stay informed about the online world. 
+Plus, don’t forget to collect your [S.U.R.E.vivors](/tng/surevivors/) stickers* at our displays to help you stay informed about the online world. 
 
- ![](../images/misinformation-mayhem-stickers.jpg)
+ ![](/images/misinformation-mayhem-stickers.jpg)
 
 **While stocks last.*
 

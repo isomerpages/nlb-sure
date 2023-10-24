@@ -2,10 +2,10 @@
 title: '银发族S.U.R.E.技能系列 -如何查证图像和影像的真伪'
 date: 2022-02-12T00:08:00.000Z
 permalink: /blog/fake-news/fn0024/
-image: ../../../images/sure-skills-series-seniors-chi3.jpg
+image: /images/sure-skills-series-seniors-chi3.jpg
 ---
 
-![](../../../images/sure-skills-series-seniors-chi2.jpg)
+![](/images/sure-skills-series-seniors-chi2.jpg)
 
 **您是否曾经从社交群组里收到令人感到不安的图像，觉得很可疑却又不能确定？一起来参加这个工作坊，学习如何使用网上的查证工具来核实可疑图像和影像的真伪吧！**
 

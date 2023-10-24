@@ -2,10 +2,10 @@
 title: 'S.U.R.E. Skills Series for Seniors: Fact-checking Dubious Emails & Messages'
 date: 2021-08-31T00:00:00.000Z
 permalink: /blog/fake-news/fn0013/
-image: ../../../images//sure-skills-series-seniors2.jpg
+image: /images//sure-skills-series-seniors2.jpg
 ---
 
-![](../../../images//sure-skills-series-seniors2.jpg)
+![](/images//sure-skills-series-seniors2.jpg)
 
 **Hone your skill at spotting fact from fiction - learn how check and confirm like a professional before you share emails and messages**
 

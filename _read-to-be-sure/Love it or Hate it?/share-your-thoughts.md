@@ -8,7 +8,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 
 We would love to hear your views about Fast Fashion:
 
-<a href="https://forms.gle/ZuAp1CsG2mRdG6KM7"><img src="../images/rtbs1-poll.jpg" alt="Entry Poll"></a>
+<a href="https://forms.gle/ZuAp1CsG2mRdG6KM7"><img src="/images/rtbs1-poll.jpg" alt="Entry Poll"></a>
 
 
 
@@ -18,5 +18,5 @@ We would love to hear your views about Fast Fashion:
 
 Share your feedback about this Issue of **Read to be SURE**:
 
-<a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="../images/rtbs1-poll2.jpg" alt="Exit Poll"></a>
+<a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="/images/rtbs1-poll2.jpg" alt="Exit Poll"></a>
 

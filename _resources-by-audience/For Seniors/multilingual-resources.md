@@ -58,7 +58,7 @@ This video is also available in other languages:
 
 **[How to be S.U.R.E. before you share](https://go.gov.sg/2023-sure-infographic-eng)**
 
-![](../images/how-to-be-sure-infographic-eng.png)
+![](/images/how-to-be-sure-infographic-eng.png)
 
 This infographic is also available in:
 
@@ -70,7 +70,7 @@ This infographic is also available in:
 
   
 
-![](../images/dubious-messages-english-1573549989107.png)
+![](/images/dubious-messages-english-1573549989107.png)
 
 [**How To Deal With Dubious Messages**](/blog/seniors/sn0005)
 
@@ -98,7 +98,7 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 <hr>
 
-![](../images/seniors-fake-news.jpg)
+![](/images/seniors-fake-news.jpg)
 
 **[How seniors can fight fake news](/blog/seniors/sn0017)**
 
@@ -139,11 +139,11 @@ Use the S.U.R.E. steps to identify if the health information you read can be tru
 
   
 
-![](../images/infographic-identifying%20credible%20health%20information%2001.jpg)
+![](/images/infographic-identifying%20credible%20health%20information%2001.jpg)
 
 
 
-**[Download the PDF version HERE](../../../infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
+**[Download the PDF version HERE](/files/infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
 
 This infographic is also available in **[Chinese](/blog/information-literacy/il00004)**, **[Malay](/blog/information-literacy/il00005)** and **[Tamil](/blog/information-literacy/il00006)** languages.
 

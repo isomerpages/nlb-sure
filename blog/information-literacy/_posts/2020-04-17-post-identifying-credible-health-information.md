@@ -11,7 +11,7 @@ How do you ensure that the medical and health information that you consume is re
 
 Use the S.U.R.E. steps to identify if the health information you read can be trusted.
 
-**[Download the PDF version HERE](../../../infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
+**[Download the PDF version HERE](/files/infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
 
 This infographic is also available in **[Chinese](/blog/information-literacy/il00004)**, **[Malay](/blog/information-literacy/il00005)** and **[Tamil](/blog/information-literacy/il00006)** languages.
 
@@ -57,7 +57,7 @@ Do your research and compare a few reliable sources.
 
 By applying the S.U.R.E. steps above, you will be able to make an informed decision on whether the health information that you read is credible!   
 
-![](../../../images/infographic-Identifying Credible Health Information 01.jpg)
+![](/images/infographic-Identifying Credible Health Information 01.jpg)
 
 
 

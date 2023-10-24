@@ -8,7 +8,7 @@ permalink: /blog/information-literacy/il00005/
 
 <h1>Identifying Credible Health Information (in Malay)</h1>
 
-![](../../../images/infographic-Credible Health Information-Malay.JPG)
+![](/images/infographic-Credible Health Information-Malay.JPG)
 
-**[Download the PDF version HERE](../../../infographic/IdentifyingCredible_Health_Information_Malay.pdf)**.
+**[Download the PDF version HERE](/files/infographic/IdentifyingCredible_Health_Information_Malay.pdf)**.
 

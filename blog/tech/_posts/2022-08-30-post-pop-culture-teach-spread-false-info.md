@@ -2,7 +2,7 @@
 title: 'What Popular Culture Teaches Us About the Spread of False Information'
 date: 2022-08-30T08:00:00.000Z
 permalink: /blog/tech/tech0004/
-image: ../../../images/blog-tech4a.jpg
+image: /images/blog-tech4a.jpg
 ---
 
 According to *Oxford Bibliographies Online*, popular culture constitutes ‘the set of practices, beliefs, and objects that embody the most broadly shared meanings of a social system’. The fact that the spread of false information has long been depicted in popular books and films, then, signals that false information is a striking aspect of our society. Indeed, from the fake news published by *[The Daily Prophet](https://www.newstatesman.com/politics/2017/06/boy-who-lies-what-daily-prophet-can-teach-us-about-fake-news)* in the *[Harry Potter](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=13720061)* series to the portrayal of how sensationalist news contributed to the outbreak of the Spanish-American war in *[Citizen Kane](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7677705)*, depictions of false information in popular culture are not hard to come by.
@@ -15,7 +15,7 @@ However, in recent times, portrayals of the spread of false information in popul
 
 *spoilers ahead!*
 
-![](../../../images/blog-tech4a.jpg)
+![](/images/blog-tech4a.jpg)
 
 Image by Alexander Jawfox, retrieved from [Unsplash](https://unsplash.com/photos/V0zU9A_Zq9A)
 
@@ -53,11 +53,11 @@ The result of Mysterio’s actions are revealed in the next film, *Spider-Man: N
 
  
 
-It might be tempting to dismiss Peter’s mishap as merely a work of fiction but, in the real world, quotes, images and videos have in fact been taken out of context to stir up public opinion. For instance, during the Russian-Ukraine crisis, many misleading videos were circulated online: a video of an explosion in China was framed as an explosion in Ukraine and a video of Russian aircraft flying in formation over Moscow as part of a rehearsal for an air show was similarly framed as footage from Russia’s invasion of Kyiv (to learn more about false information published during the Russian-Ukraine crisis, click [here](https://sure.nlb.gov.sg/read-to-be-sure/issue4-ukraine/)).
+It might be tempting to dismiss Peter’s mishap as merely a work of fiction but, in the real world, quotes, images and videos have in fact been taken out of context to stir up public opinion. For instance, during the Russian-Ukraine crisis, many misleading videos were circulated online: a video of an explosion in China was framed as an explosion in Ukraine and a video of Russian aircraft flying in formation over Moscow as part of a rehearsal for an air show was similarly framed as footage from Russia’s invasion of Kyiv (to learn more about false information published during the Russian-Ukraine crisis, click [here](/read-to-be-sure/issue4-ukraine/)).
 
  
 
-To avoid falling for false information, it is a good habit to search for the original source of information you come across and check whether the information has been accurately represented. For a step-by-step guide on how to detect false information, check out the S.U.R.E. steps [here](https://sure.nlb.gov.sg/about-us/sure-campaign/). It is better to be S.U.R.E. than sorry — after all, even superheroes can be victims of the spread of false information!
+To avoid falling for false information, it is a good habit to search for the original source of information you come across and check whether the information has been accurately represented. For a step-by-step guide on how to detect false information, check out the S.U.R.E. steps [here](/about-us/sure-campaign/). It is better to be S.U.R.E. than sorry — after all, even superheroes can be victims of the spread of false information!
 
  
 

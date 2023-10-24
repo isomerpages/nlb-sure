@@ -2,10 +2,10 @@
 title: 'S.U.R.E Skills Series for Seniors -Verifying Images & Videos'
 date: 2022-01-13T00:08:00.000Z
 permalink: /blog/fake-news/fn0021/
-image: ../../../images/sure-skills-series-seniors-eng2.jpg
+image: /images/sure-skills-series-seniors-eng2.jpg
 ---
 
-![](../../../images/sure-skills-series-seniors-eng2.JPG)
+![](/images/sure-skills-series-seniors-eng2.JPG)
 
 **Received an image that you suspect is fake, but cannot be sure? Discover tools to check for dubious images and videos at this workshop.**
 

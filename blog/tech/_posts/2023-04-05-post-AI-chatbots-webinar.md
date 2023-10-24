@@ -2,10 +2,10 @@
 title: 'A.I. Chatbots: The Good, The Bad, and The Future'
 date: 2023-04-05T08:00:00.000Z
 permalink: /blog/tech/tech0005/
-image: ../../../images/banner-26apr2023-ai-webinar.png
+image: /images/banner-26apr2023-ai-webinar.png
 ---
 
-![](../../../images/banner-26Apr2023-AI-webinar.png)
+![](/images/banner-26Apr2023-AI-webinar.png)
 
 **In this panel discussion organised by NLB, learn from industry experts on the role of A.I. chatbots in the current and future world.**
 
@@ -22,7 +22,7 @@ A.I. chatbots have become increasingly popular in recent years as they have the 
 
 ### Speakers
 
-![](../../../images/banner-26apr2023-ai-webinar-pang.png)
+![](/images/banner-26apr2023-ai-webinar-pang.png)
 
 **Dr Natalie Pang**
 
@@ -30,7 +30,7 @@ Dr. Pang is Deputy Head at the Communications and New Media Department, and Prin
 
 
 
-![](../../../images/banner-26apr2023-ai-webinar-prahl.png)
+![](/images/banner-26apr2023-ai-webinar-prahl.png)
 
 **Prof. Andrew Prahl**
 
@@ -38,13 +38,13 @@ Prof. Prahl (PhD University of Wisconsin-Madison) is an Assistant Professor at t
 
 
 
-![](../../../images/banner-26apr2023-ai-webinar-chuang.png)
+![](/images/banner-26apr2023-ai-webinar-chuang.png)
 
 **Mr. Chuang Shin Wee**
 
 Mr. Chuang is the Founder and CEO of Pand.ai, a Singapore-headquartered specialist in conversational AI. Today, Pand.ai serves a number of blue-chip companies across Southeast Asia including Allianz, Bangkok Bank, CIMB, Great Eastern, MSIG and Schroders. Prior to founding Pand.ai, Shin Wee was the Head of Digital Banking for Standard Chartered Bank in China, where he built a number of award-winning digital capabilities for the bank. In 2013, he was named “Top 50 Business Innovators in China” by CBN Weekly for inventing an ATM software that helped the bank reduced the cost per new-to-bank lead by more than 90%.  
 
-![](../../../images/banner-26apr2023-ai-webinar-tandoc.png)
+![](/images/banner-26apr2023-ai-webinar-tandoc.png)
 
 **Prof. Edson Tandoc Jr. (Moderator)**
 

@@ -2,14 +2,14 @@
 title: 'Work Revolution'
 permalink: /read-to-be-sure-volume-2/issue4-workrevolution/
 breadcrumb: 'Issue 4 - Work Revolution'
-image: ../images/rtbs-vol2-iss4-web-banner.png
+image: /images/rtbs-vol2-iss4-web-banner.png
 ---
 
 <a name="top"></a>
 
 **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /  **<a href="#resources">Recommended Resources</a>** 
 
-![](../images/rtbs-vol2-iss4-web-banner.PNG)
+![](/images/rtbs-vol2-iss4-web-banner.PNG)
 
 With the rise of buzzwords like “[Quiet Quitting](https://www.straitstimes.com/business/is-quiet-quitting-a-sign-of-workers-slacking-off-or-pushing-back)”, [“Death” of the 9-5 workday](https://www.cnbc.com/2023/03/03/the-future-of-remote-work-labor-experts-weigh-in.html) and “[Humineral](https://www.forbes.com/sites/jackkelly/2023/02/23/china-workers-have-their-version-of-quiet-quitting-and-acting-your-wage-huminerals-are-extracted-exploited-and-disposed-of/?sh=22cc828f7fa0)”, it begs the question: Is it time to overhaul the workplace?
 
@@ -66,7 +66,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 
 
-![](../images/rtbs-vol2-topic4-kv.png)
+![](/images/rtbs-vol2-topic4-kv.png)
 
 
 
@@ -123,10 +123,10 @@ CBS News. (2023, February 1). The Rise of AI: Could ChatGPT Take Your Job? Retri
 
 |                                                              | **Recommended Titles**                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=35961B85-7510-496C-B6BB-08D3290C66EB&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=world_without_work">![](../images/rtbs-vol2-topic4-bookcover01-worldwithoutwork.png)</a> | [**A World Without Work: Technology, Automation and How We Should Respond**](https://go.nlb.gov.sg/m-link/details?type=ebook&id=C68A0EF9-6BF1-4B8E-9517-6232C8C3B62D&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_office )**<br/>Susskind, Daniel. (2020). *A World Without Work: Technology, Automation and How We Should Respond.* Penguin Books Ltd*.*<br/><br/>Retrieved from OverDrive. ([myLibrary ID](https://account.nlb.gov.sg/) is required to access the eBook).<br> |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=C68A0EF9-6BF1-4B8E-9517-6232C8C3B62D&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_office">![](../images/rtbs-vol2-topic4-bookcover02-futureofoffice.png)</a> | [**The Future of the Office: Work from Home, Remote Work, and the Hard Choices We All Face**](https://go.nlb.gov.sg/m-link/details?type=ebook&id=C68A0EF9-6BF1-4B8E-9517-6232C8C3B62D&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_office )<br/>Cappelli, Peter. (2021). *The Future of the Office: Work from Home, Remote Work, and the Hard Choices We All Face*. Wharton School Press. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=book&id=205608798&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=several_people_typing">![](../images/rtbs-vol2-topic4-bookcover03-severalpeoplearetyping.png)</a> | [**Several people are typing: A novel**](https://go.nlb.gov.sg/m-link/details?type=book&id=205608798&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=several_people_typing )<br/>Kasulke, Calvin. (2021). *Several people are typing: A novel.* London: Hodder Studio. <br/><br/>Call no.: KAS -[SF]<br><br>Available at selected libraries.<br><br> |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=DC017015-2DF8-4965-BB26-B992D8954C09&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_work">![](../images/rtbs-vol2-topic4-bookcover04-futureofwork.png)</a> | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=DC017015-2DF8-4965-BB26-B992D8954C09&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_work">The Future of Work: The Insights You Need from Harvard Business Review</a><br><br>Harvard Business Review. (2021). *The Future of Work: The Insights You Need from Harvard Business Review.* Harvard Business Review<br><br>Retrieved from OverDrive. ([myLibrary ID](https://account.nlb.gov.sg/) is required to access the eBook).<br/> |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=35961B85-7510-496C-B6BB-08D3290C66EB&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=world_without_work">![](/images/rtbs-vol2-topic4-bookcover01-worldwithoutwork.png)</a> | [**A World Without Work: Technology, Automation and How We Should Respond**](https://go.nlb.gov.sg/m-link/details?type=ebook&id=C68A0EF9-6BF1-4B8E-9517-6232C8C3B62D&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_office )**<br/>Susskind, Daniel. (2020). *A World Without Work: Technology, Automation and How We Should Respond.* Penguin Books Ltd*.*<br/><br/>Retrieved from OverDrive. ([myLibrary ID](https://account.nlb.gov.sg/) is required to access the eBook).<br> |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=C68A0EF9-6BF1-4B8E-9517-6232C8C3B62D&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_office">![](/images/rtbs-vol2-topic4-bookcover02-futureofoffice.png)</a> | [**The Future of the Office: Work from Home, Remote Work, and the Hard Choices We All Face**](https://go.nlb.gov.sg/m-link/details?type=ebook&id=C68A0EF9-6BF1-4B8E-9517-6232C8C3B62D&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_office )<br/>Cappelli, Peter. (2021). *The Future of the Office: Work from Home, Remote Work, and the Hard Choices We All Face*. Wharton School Press. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=book&id=205608798&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=several_people_typing">![](/images/rtbs-vol2-topic4-bookcover03-severalpeoplearetyping.png)</a> | [**Several people are typing: A novel**](https://go.nlb.gov.sg/m-link/details?type=book&id=205608798&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=several_people_typing )<br/>Kasulke, Calvin. (2021). *Several people are typing: A novel.* London: Hodder Studio. <br/><br/>Call no.: KAS -[SF]<br><br>Available at selected libraries.<br><br> |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=DC017015-2DF8-4965-BB26-B992D8954C09&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_work">![](/images/rtbs-vol2-topic4-bookcover04-futureofwork.png)</a> | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=DC017015-2DF8-4965-BB26-B992D8954C09&utm_source=online&utm_campaign=RTBS_Mar23&utm_medium=website&utm_content=future_of_work">The Future of Work: The Insights You Need from Harvard Business Review</a><br><br>Harvard Business Review. (2021). *The Future of Work: The Insights You Need from Harvard Business Review.* Harvard Business Review<br><br>Retrieved from OverDrive. ([myLibrary ID](https://account.nlb.gov.sg/) is required to access the eBook).<br/> |
 
 
 

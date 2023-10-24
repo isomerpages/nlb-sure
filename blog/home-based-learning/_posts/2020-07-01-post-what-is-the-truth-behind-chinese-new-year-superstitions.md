@@ -10,9 +10,9 @@ Chinese New Year is a time when age-old superstitions are observed by households
 
 
 
-Download the infographic here: [What is the truth behind Chinese New Year superstitions?](/infographic/What is the truth behind Chinese New Year Superstitions.pdf)
+Download the infographic here: [What is the truth behind Chinese New Year superstitions?](/files/infographic/What is the truth behind Chinese New Year Superstitions.pdf)
 
-![](../../../images/infographic-cny-sm.jpg)
+![](/images/infographic-cny-sm.jpg)
 
 
 

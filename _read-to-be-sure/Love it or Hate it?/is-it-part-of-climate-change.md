@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/maxim-tolchinskiy-w3y2crfkvis-unsplash.jpg)<font size="2">Photo by Maxim Tolchinskiy on Unsplash</font>
+![](/images/maxim-tolchinskiy-w3y2crfkvis-unsplash.jpg)<font size="2">Photo by Maxim Tolchinskiy on Unsplash</font>
 
 How many clothing items do you buy and get rid of within a year? A survey involving 1,000 Singaporeans revealed that we [buy 34 pieces of new clothing on average](https://www.channelnewsasia.com/singapore/bursting-seams-singapores-cast-clothing-1035441) and dispose of 27 items within 12 months. For almost every item we buy, we throw away another.
 
@@ -24,7 +24,7 @@ The demand to be “on trend” leads to clothes churned out faster than we can 
 <div class="row is-multiline">
     <div class="col is-one-third-desktop is-one-third-tablet"></div>
     <div class="col is-half-desktop is-third-tablet">
-<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="/images/rtbs1-perspective4.jpg" alt="image 4"></a>
 </div>
     <div class="col is-one-third-desktop is-one-third-tablet"></div>
 </div>	
@@ -37,19 +37,19 @@ The demand to be “on trend” leads to clothes churned out faster than we can 
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=n75jVQTUEE8"><img src="../images/rtbs1-watch3.jpg" alt="image 2"></a>
+<a href="https://www.youtube.com/watch?v=n75jVQTUEE8"><img src="/images/rtbs1-watch3.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix"><img src="../images/rtbs1-listen1.jpg" alt="image 4"></a>
+<a href="https://www.npr.org/2021/08/03/1024284959/fulfilling-our-fast-fashion-fix"><img src="/images/rtbs1-listen1.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion"><img src="../images/rtbs1-listen2.jpg" alt="image 4"></a>
+<a href="https://neweconomics.org/2021/08/weekly-economics-podcast-fast-fashion"><img src="/images/rtbs1-listen2.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/"><img src="../images/rtbs1-read4.jpg" alt="image 2"></a>
+<a href="https://unearthed.greenpeace.org/2019/09/12/fast-facts-about-fast-fashion/"><img src="/images/rtbs1-read4.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363"><img src="../images/rtbs1-read5.jpg" alt="image 2"></a>
+<a href="https://theconversation.com/following-a-t-shirt-from-cotton-field-to-landfill-shows-the-true-cost-of-fast-fashion-127363"><img src="/images/rtbs1-read5.jpg" alt="image 2"></a>
 </div>
 </div>	
 </div>

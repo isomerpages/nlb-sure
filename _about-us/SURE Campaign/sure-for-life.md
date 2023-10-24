@@ -17,47 +17,47 @@ For more information about our public runs, please refer to the following:
 
 
 - **Total Defence Day 2022** 
-  - [Detecting Scams and Fake Images (15 Feb 2022, 6-7pm)](../../blog/fake-news/FN0026)
-  - [Detecting Scams and Fake Images (22 Feb 2022, 6-7pm)](../../blog/fake-news/FN0027)
+  - [Detecting Scams and Fake Images (15 Feb 2022, 6-7pm)](/blog/fake-news/fn0026)
+  - [Detecting Scams and Fake Images (22 Feb 2022, 6-7pm)](/blog/fake-news/fn0027)
 
 
 
 * **S.U.R.E. Skills Series for Seniors workshops**
-  * [Part 1: Factchecking Dubious Emails & Messages (30 Mar 2022, 3-4pm)](../../blog/fake-news/FN0020)
-  * [Part 2: Verifying Images & Videos (21 Apr 2022, 3-4pm)](../../blog/fake-news/FN0021)
-  * [Part 3: Spotting Deepfake Images & Videos (18 May 2022, 3-4pm)](../../blog/fake-news/FN0022)
+  * [Part 1: Factchecking Dubious Emails & Messages (30 Mar 2022, 3-4pm)](/blog/fake-news/fn0020)
+  * [Part 2: Verifying Images & Videos (21 Apr 2022, 3-4pm)](/blog/fake-news/fn0021)
+  * [Part 3: Spotting Deepfake Images & Videos (18 May 2022, 3-4pm)](/blog/fake-news/fn0022)
 
 
 
 - **银发族S.U.R.E.技能系列**
   - [第一部分:  如何查证电邮和短信的真伪 （2022年6月16日，下午三时至四时）](/blog/fake-news/fn0023)
-  - [第二部分:  如何查证图像和影像的真伪（2022年7月20日，下午三时至四时）](../../blog/fake-news/FN0024)
-  - [第三部分:  如何识破 “深度伪造” 图像和影像（2022年8月18日，下午三时至四时)](../../blog/fake-news/FN0025)
+  - [第二部分:  如何查证图像和影像的真伪（2022年7月20日，下午三时至四时）](/blog/fake-news/fn0024)
+  - [第三部分:  如何识破 “深度伪造” 图像和影像（2022年8月18日，下午三时至四时)](/blog/fake-news/fn0025)
 
 
 
 **2021 SERIES:**
 
 - **S.U.R.E Skills Series workshops** 
-  - [Part 1: Detecting Fake Videos and Images (2 July 2021, 7pm – 8.30pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0008)
-  - [Part 2: Safeguarding Your Mind Against Fake News (3 September 2021, 7pm – 8.30pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0012)
-  - [Part 3: Be a Smart Factchecker (3 December 2021, 7pm – 8.30 pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0017)
+  - [Part 1: Detecting Fake Videos and Images (2 July 2021, 7pm – 8.30pm)](/blog/fake-news/fn0008)
+  - [Part 2: Safeguarding Your Mind Against Fake News (3 September 2021, 7pm – 8.30pm)](/blog/fake-news/fn0012)
+  - [Part 3: Be a Smart Factchecker (3 December 2021, 7pm – 8.30 pm)](/blog/fake-news/fn0017)
 
 
 
 * **S.U.R.E. Skills Series for Seniors workshops**
-  * [Part 1: Safeguarding Your Mind From Fake News (12 August 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0010)
-  * [Part 2: Factchecking Dubious Emails & Messages (15 September 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0013)
-  * [Part 3: Verifying Images & Videos (11 November 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/fn0015)
-  * [Part 4: Spotting Deepfake Images & Videos (7 December 2021, 3-4pm)](https://sure.nlb.gov.sg/blog/fake-news/FN0018)
+  * [Part 1: Safeguarding Your Mind From Fake News (12 August 2021, 3-4pm)](/blog/fake-news/fn0010)
+  * [Part 2: Factchecking Dubious Emails & Messages (15 September 2021, 3-4pm)](/blog/fake-news/fn0013)
+  * [Part 3: Verifying Images & Videos (11 November 2021, 3-4pm)](/blog/fake-news/fn0015)
+  * [Part 4: Spotting Deepfake Images & Videos (7 December 2021, 3-4pm)](/blog/fake-news/fn0018)
 
 
 
 * **银发族 S.U.R.E. 技能系列: 如何避免受假信息影响**
-  * [第一部分：如何避免受假信息影响 （2021年8月24日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/fn0011)
-  * [第二部分：如何查证电邮和信息的真伪（2021年9月21日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/fn0014)
-  * [第三部分：如何查证图像和影像的真伪（2021年11月15日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/fn0016)
-  * [第四部分：如何识破 “深度伪造” 图像和影像（2021年12月15日，下午三时至四时）](https://sure.nlb.gov.sg/blog/fake-news/FN0019)
+  * [第一部分：如何避免受假信息影响 （2021年8月24日，下午三时至四时）](/blog/fake-news/fn0011)
+  * [第二部分：如何查证电邮和信息的真伪（2021年9月21日，下午三时至四时）](/blog/fake-news/fn0014)
+  * [第三部分：如何查证图像和影像的真伪（2021年11月15日，下午三时至四时）](/blog/fake-news/fn0016)
+  * [第四部分：如何识破 “深度伪造” 图像和影像（2021年12月15日，下午三时至四时）](/blog/fake-news/fn0019)
 
 <hr>
 **“COMBATING FAKE NEWS” TALK**

@@ -2,13 +2,13 @@
 title: 'My guilty love affair with food hack videos'
 date: 2020-10-28T00:00:00.000Z
 permalink: /blog/tech/tech0001/
-image: ../../../images/foodhack.jpg
+image: /images/foodhack.jpg
 ---
 
 
 I have a confession to make: I love food hack videos. It is soothing to watch chefs perform magic, transforming things into other, better things with seemingly no mess or effort. Condensed milk, microwaved for ten minutes, becomes perfectly smooth, golden-brown caramel; melted strawberry ice cream is whipped into creamy pink icing in seconds. In the land of food hack videos, every food item is photogenic, every recipe takes ten minutes or less, and there are never any dishes to wash. 
 
-![](../../../images/foodhack.jpg)
+![](/images/foodhack.jpg)
 
 None of this, of course, is true. Anyone who has ever cooked a meal will know that cooking is messy and time-consuming, and that real food seldom looks Instagram-worthy. And aside from being unrealistic, food hack videos contain dangerous misinformation. Food vloggers, lifestyle bloggers, and even the BBC have explained how “white strawberries” made with bleach are actually poison, or how trying to make grilled cheese in a sideways toaster might actually burn down your house.
 

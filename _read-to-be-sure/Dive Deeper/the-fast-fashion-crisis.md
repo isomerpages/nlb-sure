@@ -44,7 +44,7 @@ The [2013 collapse of the Rana Plaza factory](https://theconversation.com/years-
 
 Governments around the world are responding by implementing legislations that will hold fashion brands accountable for unethical supply chain practices. For example, the German government is introducing a [‘due diligence’ law](https://www.just-style.com/news/germany-agrees-new-law-on-supply-chain-due-diligence/) that enforces legal penalties against German companies for labour abuses and a lack of compliance against environmental standards in their global supply chains.
 
- ![](../images/rtbs1-students-article5a.jpg)                              
+ ![](/images/rtbs1-students-article5a.jpg)                              
 
 *Female garment workers demanding for compensation for the survivors of the Rana Plaza factory building collapse. The factory took only over 90 seconds to collapse, with unions referring to the event as a “mass industrial homicide.” [Shutterstock](https://www.shutterstock.com/zh-Hant/image-photo/young-labors-demanding-long-overdue-rana-1708455925).*
 
@@ -80,7 +80,7 @@ Raye’s journey in sustainable fashion started in 2013 when he realised that th
 
  
 
- ![](../images/rtbs1-students-article5b.jpg)
+ ![](/images/rtbs1-students-article5b.jpg)
 
 *A store in Sweden, Stockholm, which produces clothes from recycled materials. [Shutterstock](https://www.shutterstock.com/zh-Hant/image-photo/sweden-stockholm-march-2019-storefront-clothes-1373121191).*
 

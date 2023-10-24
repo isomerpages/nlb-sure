@@ -13,7 +13,7 @@ Hi everyone!
 
  
 
-What will the SUREvivors explore next? Create your own SUREvivors adventures! You can draw or use any digital tool or app to tell YOUR story or stories! Please refer to [this page](https://sure.nlb.gov.sg/tng/surevivors/) to get to know the characters!
+What will the SUREvivors explore next? Create your own SUREvivors adventures! You can draw or use any digital tool or app to tell YOUR story or stories! Please refer to [this page](/tng/surevivors/) to get to know the characters!
 
  
 
@@ -23,7 +23,7 @@ When you are done, you can post it in your social media account (e.g. Instagram 
 
 In this example below, we used “Gacha Life” to create this cartoon panel. As you can see, the SUREvivors are also masking up and maintaining their social distance in cyberspace.
 
-![](../images/surevivor-gacha.jpg)
+![](/images/surevivor-gacha.jpg)
 
 Stuck with ideas on your story? Here are [some tips](https://www.kidlit.tv/2016/10/how-to-make-a-comic/):
 

@@ -29,17 +29,17 @@ third_nav_title: 'For Teachers & Students'
 
 
 
-[Housing in Singapore](/infographic/BigPicture_Housing-in-Singapore.pdf) 
+[Housing in Singapore](/files/infographic/BigPicture_Housing-in-Singapore.pdf) 
 
-[Living in Kampongs](/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf) 
+[Living in Kampongs](/files/infographic/BigPicture_KampongLife_FINAL-publish-Aug2017.pdf) 
 
-[Gambling](/infographic/BigPicture-theme04-Gambling_FINAL-publish.pdf)
+[Gambling](/files/infographic/BigPicture-theme04-Gambling_FINAL-publish.pdf)
 
-[Street Hawkers](/infographic/BigPicture-theme01-Street-Hawkers_FINAL-publish-Aug2017.pdf) 
+[Street Hawkers](/files/infographic/BigPicture-theme01-Street-Hawkers_FINAL-publish-Aug2017.pdf) 
 
-[Ancient Kingdoms in Southeast Asia](/cheatsheet/NLB_Cheatsheet_SEAKingdom_Jul2019.pdf) 
+[Ancient Kingdoms in Southeast Asia](/files/cheatsheet/NLB_Cheatsheet_SEAKingdom_Jul2019.pdf) 
 
-[Singapore Street Names](/infographic/UPDATED19 Singapore street names.pdf) 
+[Singapore Street Names](/files/infographic/UPDATED19 Singapore street names.pdf) 
 
-[Singapore Clan Associations](/infographic/NLB_A1infographic_Sg-Clan-Associations.pdf)  
+[Singapore Clan Associations](/files/infographic/NLB_A1infographic_Sg-Clan-Associations.pdf)  
 

@@ -2,10 +2,10 @@
 title: 'Safeguarding Yourself From Fake News - 8 Mar 2023 (Video)'
 date: 2023-03-20T00:08:00.000Z
 permalink: /blog/fake-news/fn0028/
-image: ../../../images/breaking-news-video.jpg
+image: /images/breaking-news-video.jpg
 ---
 
-![](../../../images/8mar2023-safeguardingfakenews.png)
+![](/images/8mar2023-safeguardingfakenews.png)
 
 Over the years, the threat of fake news and online misinformation has evolved in their forms and impact on society. In this talk, learn about the characteristics of fake news, the psychological reasons why people fall victim to them and measures on how to safeguard yourself against them using NLB’s S.U.R.E. steps (Source, Understand, Research, Evaluate). 
 

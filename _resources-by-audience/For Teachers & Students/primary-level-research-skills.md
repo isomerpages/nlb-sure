@@ -45,47 +45,47 @@ If you’re not sure where to go to find sources to research for your homework, 
 
 
 
-[Social Studies: Issues Investigation Made Easy](/infographic/NLB_Infographic_SocialStudies.pdf)
+[Social Studies: Issues Investigation Made Easy](/files/infographic/NLB_Infographic_SocialStudies.pdf)
 
 #### Searching Skills
 
 The information available on the Internet can be overwhelming. Here are some ways to make your search for information more effective. 
 
-[Google Search Tips](/infographic/NLB_Infographic_GoogleSearchTips.pdf)
+[Google Search Tips](/files/infographic/NLB_Infographic_GoogleSearchTips.pdf)
 
-[Research Strategy: Information Chaining](/infographic/NLB_Infographic_InformationChaining.pdf)
+[Research Strategy: Information Chaining](/files/infographic/NLB_Infographic_InformationChaining.pdf)
 
-[Smart Searching Saves Precious Time](/infographic/NILP-inforgraphics-search-save-time-lowres.pdf) 
+[Smart Searching Saves Precious Time](/files/infographic/NILP-inforgraphics-search-save-time-lowres.pdf) 
 
-[Six Steps to Success](/infographic/NLB_6Steps_LR.pdf) 
+[Six Steps to Success](/files/infographic/NLB_6Steps_LR.pdf) 
 
-[Be Search Smart](/infographic/NLB-search-smart_A2_LR.pdf)
+[Be Search Smart](/files/infographic/NLB-search-smart_A2_LR.pdf)
 
 #### Determining the Reliability of Information
 
 Not all information on the internet can be trusted. You can refer to the information below and determine if your information is reliable. 
 
-[Deconstructing media messages](/infographic/Infographics6_FA-Low-Res.pdf)
+[Deconstructing media messages](/files/infographic/Infographics6_FA-Low-Res.pdf)
 
-[Facts versus opinion](/infographic/FactsVsOpinionInfoG1505.pdf)
+[Facts versus opinion](/files/infographic/FactsVsOpinionInfoG1505.pdf)
 
-[Analysing Visuals](/cheatsheet/Cheat-sheet-9-Visual-text-analysis-0812.pdf) 
+[Analysing Visuals](/files/cheatsheet/Cheat-sheet-9-Visual-text-analysis-0812.pdf) 
 
-[Inferential Skills](/cheatsheet/cheat-sheet-11-inferential-skils.pdf) 
+[Inferential Skills](/files/cheatsheet/cheat-sheet-11-inferential-skils.pdf) 
 
-[Reading Critically](/infographic\ReadingInfoGFA.pdf) 
+[Reading Critically](/files/infographic\ReadingInfoGFA.pdf) 
 
-[Logical Fallacies](/infographic/LogicalFallaciesInfoG5FA (1).pdf) 
+[Logical Fallacies](/files/infographic/LogicalFallaciesInfoG5FA (1).pdf) 
 
-[5W1H Questioning Technique](/infographic/5W1H Questioning Technique.pdf)
+[5W1H Questioning Technique](/files/infographic/5W1H Questioning Technique.pdf)
 
-[Be SURE About Your Research](/infographic/Be-SURE_Infographic_Hires.pdf) 
+[Be SURE About Your Research](/files/infographic/Be-SURE_Infographic_Hires.pdf) 
 
-[The power of the click and tell](/infographic/NILP-inforgraphics-lowres.pdf)
+[The power of the click and tell](/files/infographic/NILP-inforgraphics-lowres.pdf)
 
-[Identifying Professionals from the Imposters](/infographic/Identify Professionals.pdf) 
+[Identifying Professionals from the Imposters](/files/infographic/Identify Professionals.pdf) 
 
-[Reading Critically](/infographic/ReadingInfoGFA.pdf) 
+[Reading Critically](/files/infographic/ReadingInfoGFA.pdf) 
 
 #### SURE Lok Hom & the Case of Antique Chairs
 
@@ -100,25 +100,25 @@ Not all information on the internet can be trusted. You can refer to the informa
 
 If you need help with writing your report after finding all the necessary information, refer to the resources below. 
 
-[How to Paraphrase](/infographic/Infographic-how-to-paraphrase.pdf)
+[How to Paraphrase](/files/infographic/Infographic-how-to-paraphrase.pdf)
 
-[How to Avoid Plagiarism](/infographic/NLB_infographic_AvoidPlagiarism.pdf)
+[How to Avoid Plagiarism](/files/infographic/NLB_infographic_AvoidPlagiarism.pdf)
 
-[Citations](/infographic/Cheatsheet_Citation_25nov_.pdf) 
+[Citations](/files/infographic/Cheatsheet_Citation_25nov_.pdf) 
 
-[How to Take Notes in Class](/infographic/take-notes-lowres.pdf) 
+[How to Take Notes in Class](/files/infographic/take-notes-lowres.pdf) 
 
-[How to Do a Literature Review](/infographic/LiteratureReviewInfoG11FA.pdf) 
+[How to Do a Literature Review](/files/infographic/LiteratureReviewInfoG11FA.pdf) 
 
 #### Staying Safe Online 
 
 Not everybody surfing the internet has good intentions. Look through the resources below to find out how you can stay safe online. 
 
-[Privacy and You](/infographic/NLB_Infographic_PrivacyandYou.pdf)
+[Privacy and You](/files/infographic/NLB_Infographic_PrivacyandYou.pdf)
 
-[Be vigilant against online predators](/infographic/NLB_Infographic_BeVigilant.pdf)
+[Be vigilant against online predators](/files/infographic/NLB_Infographic_BeVigilant.pdf)
 
-[To tweet or not to tweet?](/infographic/NLB-inforgraphics-tweet.pdf)
+[To tweet or not to tweet?](/files/infographic/NLB-inforgraphics-tweet.pdf)
 
-[Street Smart on Social Media](/infographic/Infographic-8.pdf) 
+[Street Smart on Social Media](/files/infographic/Infographic-8.pdf) 
 

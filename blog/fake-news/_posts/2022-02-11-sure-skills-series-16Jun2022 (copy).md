@@ -2,10 +2,10 @@
 title: '银发族S.U.R.E.技能系列 - 如何查证电邮和短信的真伪'
 date: 2022-02-11T00:08:00.000Z
 permalink: /blog/fake-news/fn0023/
-image: ../../../images/sure-skills-series-seniors-chi1.jpg
+image: /images/sure-skills-series-seniors-chi1.jpg
 ---
 
-![](../../../images/sure-skills-series-seniors-chi1.JPG)
+![](/images/sure-skills-series-seniors-chi1.JPG)
 
 **您是否对在社交媒体里层出不穷的假信息感到厌烦？您曾否因在不知情的情况下分享假信息而感到尴尬？通过这个工作坊，您能学习怎么核实可疑电邮和短信的内容，便可以像专业人士一样地先查证信息的真伪，再决定要不要分享**
 

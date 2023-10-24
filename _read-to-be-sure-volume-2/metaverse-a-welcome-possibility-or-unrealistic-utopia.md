@@ -2,10 +2,10 @@
 title: 'RTBS Debate: Metaverse – A Welcome Possibility or Unrealistic Utopia?'
 permalink: /read-to-be-sure-volume-2/mainstage-debate/
 breadcrumb: 'RTBS Debate: Metaverse – A Welcome Possibility or Unrealistic Utopia?'
-image: ../images/rtbs-vol2-mainstage-debate.png
+image: /images/rtbs-vol2-mainstage-debate.png
 ---
 
-![](../images/rtbs-vol2-mainstage-debate.PNG)
+![](/images/rtbs-vol2-mainstage-debate.PNG)
 
 **Join our speakers as they deliberate and debate on the metaverse. Listen to the different perspectives and vote for the winning side!**
 

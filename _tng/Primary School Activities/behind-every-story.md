@@ -7,7 +7,7 @@ third_nav_title: 'Primary School Activities'
 ---
 
 
-![](../images/behind-every-story-4in.jpg)
+![](/images/behind-every-story-4in.jpg)
 
 News stories are subject to many influences and written in multiple viewpoints. Thus, the same topic, reported by different newspapers and media sources can vary significantly. Primary school kids can learn about sensational headlines, confirmation bias and media frames, through this activity.
 

@@ -17,7 +17,7 @@ third_nav_title: 'Issue #1: Dive Deeper'
 
 *Brands from Zara to Shein have revolutionised fashion consumption. With a different style to shop for every time you set foot in their stores or open your browser, these brands keep up with trends with shocking speed. One giant has emerged as reigning champion with bags of profit in tow — Shein and its almighty algorithm.*
 
-![](../images/rtbs1-students-article2a.jpg)
+![](/images/rtbs1-students-article2a.jpg)
 
 *Shein online store.* *[Shutterstock](https://www.shutterstock.com/zh-Hant/image-photo/stuttgart-germany-aug-14-2021-cellphone-2037893501).*
 
@@ -41,7 +41,7 @@ Fast fashion’s prescient ability to keep up with the latest trends has almost 
 
 In 2011, [H&M opened its flagship store in Orchard Building](https://hmgroup.com/news/first-hm-store-in-singapore-has-opened/). [Hundreds of people lined up](https://sg.style.yahoo.com/style/blogs/going-out-by-day/h-m-orchard-rd-launch-draws-hundreds-031237565.html) to be the first to enter the store. Since then, H&M had a hold on Singapore shoppers. Queues — some 3 days long — would form every time there was a drop, whether it was for the [Kenzo](https://www.straitstimes.com/lifestyle/fashion/hms-collaboration-with-kenzo-draws-long-queues-at-orchard-building-and-ion-orchard) or [Balmain](https://www.straitstimes.com/lifestyle/fashion/after-3-day-queue-shoppers-wipe-balmain-x-hm-collection-off-shelves) collaboration. By offering trendy luxury labels at affordable prices, H&M dominated fashion retail in Singapore. 
 
- ![](../images/rtbs1-students-article2b.jpg)
+ ![](/images/rtbs1-students-article2b.jpg)
 
 *A Zara store in Hong Kong having a sale.* *[Shutterstock](https://www.shutterstock.com/image-photo/hong-kong-circa-january-2016-zara-466425656).*
 

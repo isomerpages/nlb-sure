@@ -8,9 +8,9 @@ permalink: /blog/information-literacy/il00004/
 
 <h1>Identifying Credible Health Information (in Chinese)</h1>
 
-![](../../../images/infographic-Credible Health Information-Chinese.JPG)
+![](/images/infographic-Credible Health Information-Chinese.JPG)
 
 
 
-**[Download the PDF version HERE](../../../infographic/IdentifyingCredible_Health_Information_Chinese.pdf)**.
+**[Download the PDF version HERE](/files/infographic/IdentifyingCredible_Health_Information_Chinese.pdf)**.
 

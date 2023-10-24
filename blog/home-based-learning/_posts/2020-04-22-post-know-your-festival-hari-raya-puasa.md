@@ -11,9 +11,9 @@ by Muslims. It is celebrated after a month of fasting during the holy Ramadan. I
 and family gatherings in which beautiful clothes are worn and delicious feasts are shared. Here are
 some interesting things to learn about the festival!
 
-Download the infographic here: [Know Your Festival: Hari Raya Puasa](/infographic/1_Hari Raya Infographic 2020.pdf)
+Download the infographic here: [Know Your Festival: Hari Raya Puasa](/files/infographic/1_Hari Raya Infographic 2020.pdf)
 
-![](../../../images/infographic-hari-raya-sm.jpg)
+![](/images/infographic-hari-raya-sm.jpg)
 
 
 

@@ -48,7 +48,7 @@ Read to be SURE (RTBS) is part of NLB’s Libraries and Archives Blueprint 2025 
 
 - **Benjamin Gaw** – Director, Corporate and Mergers & Acquisitions, and Head, Healthcare & Life Sciences (Corporate & Regulatory), Drew & Napier LLC
 
- ![](../images/rtbs3-convo-speakers.jpg)
+ ![](/images/rtbs3-convo-speakers.jpg)
 
 <details> <summary><b>About the Speakers and Moderator</b></summary>
     <p><b>Chia Hock Lai</b> is the co-founder of the Global Fintech Institute, CEO of Switchnovate and Senior Blockchain Advisor of Tembusu Partners. He has two decades of experience in the financial and technology industries, having worked in Singapore’s GovTech and NTUC Income. An alumnus of NUS and NTU, he is the co-chairman of the Blockchain Association Singapore, and former & founding president of Singapore Fintech Association. He is a council member of and strategic advisor to numerous tech start-ups and organizations such as Bondevalue, RootAnt Global, RegTank, Morpheus Labs and IEEE Blockchain and Distributed Ledger Standard Committee. In addition, he is also an Institute of Banking and Finance (IBF) Fellow for digital transformation and a Fintech Fellow at the the Singapore University of Social Science (SUSS).

@@ -12,13 +12,13 @@ Can you tell the difference between photos and A.I.-generated images? Try our si
 
 ### [Quiz #1](https://kahoot.it/challenge/001881407)
 
-![](../images/gen-ai-kahoot-set1.png)
+![](/images/gen-ai-kahoot-set1.png)
 
 
 
 ### [Quiz  #2](https://kahoot.it/challenge/0090188)
 
-![](../images/gen-ai-kahoot-set2.png)
+![](/images/gen-ai-kahoot-set2.png)
 
 
 

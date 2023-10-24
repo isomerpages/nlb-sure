@@ -2,14 +2,14 @@
 title: 'How I Almost Got Hooked Into a Scam'
 date: 2022-08-30T00:00:00.000Z
 permalink: /blog/tech/tech0003/
-image: ../../../images/blog-tech3-1.jpg
+image: /images/blog-tech3-1.jpg
 ---
 
-![](../../../images/blog-tech3-1.jpg)
+![](/images/blog-tech3-1.jpg)
 
 I was in the middle of a group discussion for my university project when I received an unsolicited Telegram message from someone named *Winnie*. “Hello, I am Winnie, Do you willing to know more about boosting movie’s review!? And get extra 50 per review’s,Text me for more details.” I knew it was just another job scam message because of Winnie’s poor command of English and the fact that I was offered a job that I never applied for. However, I was very curious about how scammers operate. Confident that I would never fall for such a scam, I responded with a similarly-worded message. “I am will to know more!” That was the start of how I nearly got hooked into a scam. 
 
-![](../../../images/blog-tech3-2.jpg)
+![](/images/blog-tech3-2.jpg)
 
 Photo by Janna Aw (Screenshot)
 

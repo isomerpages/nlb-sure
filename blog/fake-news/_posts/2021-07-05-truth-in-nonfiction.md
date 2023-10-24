@@ -2,11 +2,11 @@
 title: 'Story Books: What’s “Truth” in a Non-Fiction Text?'
 date: 2021-07-05T00:00:00.000Z
 permalink: /blog/fake-news/fn0009/
-image: ../../../images/102503256_s.jpg
+image: /images/102503256_s.jpg
 
 ---
 
-![](../../../images/102503256_s.jpg)
+![](/images/102503256_s.jpg)
 
 It took me a long time to learn to read, when I was a child, but once I did, I read *everything*: menus, manuals, advertisements. I’d follow my parents to the supermarket and hover in front of the freezers, reading the words on the chicken nugget boxes. I used to go everywhere with a book wedged under my little arm, sometimes two: joke books, trivia books; books about science and maths and history. And, of course, my favourites: all those books of fiction, the chapter books and short novels and anthologies. The storybooks.
 
@@ -22,7 +22,7 @@ What do I mean by this? We often believe that there are two kinds of statements 
 
 But as any statistician will tell you, numbers *can,* and in fact *do*, lie all the time. This is because numbers cannot actually tell us anything without the aid of human interpretation, and can often support multiple different interpretations at once. Statistics are also extremely susceptible to manipulation, and the choices that statisticians make in choosing what data to collect and include can dramatically change the results they produce: as Kalev Leetaru points out in an article for Forbes, many apparent “truths” drawn from data are, in fact, “factually true statements that utilize such a carefully constructed population sample that their argument is almost meaningless”.
 
-<img src="../../../images/the_dress_(viral_phenomenon).png" style="zoom:40%;" />
+<img src="/images/the_dress_(viral_phenomenon).png" style="zoom:40%;" />
 
 *What colour is this dress? ([Photo source](https://en.wikipedia.org/wiki/The_dress#/media/File:The_dress_blueblackwhitegold.jpg))*
 

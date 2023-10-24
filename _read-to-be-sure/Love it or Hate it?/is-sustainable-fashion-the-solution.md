@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/sustainable-fashion.jpg)<font size="2">Photo by Jess @ Harper Sunday on Unsplash</font>  
+![](/images/sustainable-fashion.jpg)<font size="2">Photo by Jess @ Harper Sunday on Unsplash</font>  
 
 You head down to a store to get your fashion fix. Immediately, some clothes nearby catch your eye. You spot the tag and are taken aback by the high price. When you look closer, you spot it — a sticker labelled “Sustainable Fashion”.
 
@@ -21,10 +21,10 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="../images/rtbs1-poll2.jpg" alt="image 2"></a>
+<a href="https://forms.gle/BfjqAq7KfiSHMXxk7"><img src="/images/rtbs1-poll2.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-conversations/"><img src="../images/rtbs1-join-the-convo.jpg" alt="image 2"></a>
+<a href="/read-to-be-sure/issue1-conversations/"><img src="/images/rtbs1-join-the-convo.jpg" alt="image 2"></a>
 </div>    
 </div>	
 </div>
@@ -39,13 +39,13 @@ Finally, you decide to buy a sustainable shirt. On the way home, you suddenly sp
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=elU32XNj8PM&feature=emb_imp_woyt"><img src="../images/rtbs1-watch4.jpg" alt="image 2"></a>
+<a href="https://www.youtube.com/watch?v=elU32XNj8PM&feature=emb_imp_woyt"><img src="/images/rtbs1-watch4.jpg" alt="image 2"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.goodwear.com/blogs/news/the-top-benefits-of-sustainable-clothing"><img src="../images/rtbs1-read7.jpg" alt="image 4"></a>
+<a href="https://www.goodwear.com/blogs/news/the-top-benefits-of-sustainable-clothing"><img src="/images/rtbs1-read7.jpg" alt="image 4"></a>
 </div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="https://www.politico.eu/article/fast-fashion-waste-losing-appeal-greta-thunberg-environment/"><img src="../images/rtbs1-read8.jpg" alt="image 4"></a>
+<a href="https://www.politico.eu/article/fast-fashion-waste-losing-appeal-greta-thunberg-environment/"><img src="/images/rtbs1-read8.jpg" alt="image 4"></a>
 </div>
 </div>	
 </div>

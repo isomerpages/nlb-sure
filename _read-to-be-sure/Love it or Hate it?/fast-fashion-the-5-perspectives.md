@@ -12,7 +12,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/becca-mchaffie-fzde_6itjkw-unsplash-min.jpg)<font size="2">Photo by Becca McHaffie on Unsplash</font>
+![](/images/becca-mchaffie-fzde_6itjkw-unsplash-min.jpg)<font size="2">Photo by Becca McHaffie on Unsplash</font>
 
 It’s the weekend and you’ve got some time and money. You browse your favourite clothing store but find nothing you like. No worries, you’ll come back again next week. Chances are you’ll find [new styles](https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706) on the shelves.
 
@@ -27,19 +27,19 @@ Is fast fashion worth it? Here’s the lowdown on fast fashion:
 <div>
 <div class="row is-multiline">
 <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective1/"><img src="../images/rtbs1-perspective1.jpg" alt="image 1"></a>
+<a href="/read-to-be-sure/issue1-perspective1/"><img src="/images/rtbs1-perspective1.jpg" alt="image 1"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective2/"><img src="../images/rtbs1-perspective2.jpg" alt="image 2"></a>
+<a href="/read-to-be-sure/issue1-perspective2/"><img src="/images/rtbs1-perspective2.jpg" alt="image 2"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective3/"><img src="../images/rtbs1-perspective3.jpg" alt="image 3"></a>
+<a href="/read-to-be-sure/issue1-perspective3/"><img src="/images/rtbs1-perspective3.jpg" alt="image 3"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="/images/rtbs1-perspective4.jpg" alt="image 4"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 5"></a>
+<a href="/read-to-be-sure/issue1-perspective5/"><img src="/images/rtbs1-perspective5.jpg" alt="image 5"></a>
 </div>
 </div>
 </div>
