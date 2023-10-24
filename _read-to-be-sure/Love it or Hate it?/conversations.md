@@ -24,7 +24,7 @@ Watch the full recording:
 
 
 
-![](../images/rtbs1-speakers.JPG)
+![](../images/rtbs1-speakers.jpg)
 
 **Speakers:**
 
@@ -60,7 +60,7 @@ Watch the full recording:
 
  Here's a visual map of the different perspectives:
 
-<a href="https://staging-nlb-sure.netlify.app/images/RTBS1-visualmap.jpg">![](../images/RTBS1-visualmap.JPG)</a>
+<a href="https://staging-nlb-sure.netlify.app/images/RTBS1-visualmap.jpg">![](../images/rtbs1-visualmap.jpg)</a>
 
 
 

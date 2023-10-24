@@ -2,7 +2,7 @@
 title: 'S.U.R.E Skills Series for Seniors -Factchecking Dubious Emails & Messages'
 date: 2022-01-12T00:00:00.000Z
 permalink: /blog/fake-news/fn0020/
-image: ../../../images/sure-skills-series-seniors-eng1.JPG
+image: ../../../images/sure-skills-series-seniors-eng1.jpg
 ---
 
 ![](../../../images/sure-skills-series-seniors-eng1.JPG)

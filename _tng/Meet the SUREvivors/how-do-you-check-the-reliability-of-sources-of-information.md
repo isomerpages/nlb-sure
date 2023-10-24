@@ -9,7 +9,7 @@ third_nav_title: 'Meet the SUREvivors'
 
 ## How Do You Check the Reliability of Sources of Information?
 
-![](../images/SURE-Activity4-feature-image-FB.jpg)
+![](../images/sure-activity4-feature-image-fb.jpg)
 
 Hi everyone, it’s me, Source-finding Sarah! I hope that you tried my previous quiz about sources of information. Today, we will learn how to check the reliability of these sources! 
 
@@ -20,7 +20,7 @@ Please read the short article below, before you **[START THE QUIZ](https://go.go
 
 You may come across many primary and secondary sources of information while doing research for your homework or project work. How can you be sure if the sources you find are trustworthy and credible (or believable)? 
 
-![](../images/surevivors-act4-01.JPG) 
+![](../images/surevivors-act4-01.jpg) 
 
 **Reliable Sources of Information**
 
@@ -62,7 +62,7 @@ Thanks to the internet, information is at our fingertips! It’s usually our fir
 
  One way to check if an online source of information is trustworthy or reliable is to look closely at the website. 
 
-![](../images/surevivors-act4-02.JPG)
+![](../images/surevivors-act4-02.jpg)
 
 
 

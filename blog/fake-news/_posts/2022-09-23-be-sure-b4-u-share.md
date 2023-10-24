@@ -2,7 +2,7 @@
 title: 'Be S.U.R.E. before you share: Breaking news'
 date: 2022-09-23T00:08:00.000Z
 permalink: /blog/fake-news/fn0027/
-image: ../../../images/breaking-news-video.JPG
+image: ../../../images/breaking-news-video.jpg
 ---
 
 As more people turn to social media to get the latest updates on breaking news, how can we be S.U.R.E. of what we read online? Watch this video on how to be S.U.R.E. before you share on a story that is still developing.

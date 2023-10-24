@@ -56,7 +56,7 @@ The Read to be SURE showcase explores the following topics:
 
 From now until 14 September 2023, patrons can engage and interact with the various features, including an interactive quiz station, which introduces them to multiple perspectives of the featured topics.
 
-![](../images/RTBS-exhibition.jpg)
+![](../images/rtbs-exhibition.jpg)
 
 
 

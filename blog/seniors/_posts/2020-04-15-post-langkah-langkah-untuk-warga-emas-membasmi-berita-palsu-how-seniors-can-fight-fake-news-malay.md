@@ -6,7 +6,7 @@ permalink: /blog/seniors/sn0019/
 ---
 
 
- ![](../../../images/seniors-fake-news-malay.JPG)
+ ![](../../../images/seniors-fake-news-malay.jpg)
 
 
 

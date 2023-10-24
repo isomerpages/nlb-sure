@@ -2,7 +2,7 @@
 title: 'S.U.R.E Skills Series for Seniors -Spotting Deepfake Images & Videos'
 date: 2022-01-14T00:08:00.000Z
 permalink: /blog/fake-news/fn0022/
-image: ../../../images/sure-skills-series-seniors-eng3.JPG
+image: ../../../images/sure-skills-series-seniors-eng3.jpg
 ---
 
 ![](../../../images/sure-skills-series-seniors-eng3.JPG)

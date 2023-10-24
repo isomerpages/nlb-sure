@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/rio-lecatompessy-cfDURuQKABk-unsplash.jpg)
+![](../images/rio-lecatompessy-cfduruqkabk-unsplash.jpg)
 <font size="2">Photo by Rio Lecatompessy on Unsplash </font> 
 
 We know all about fast fashion’s great [economic impact](/read-to-be-sure/issue1-perspective1/). While that may be true, the industry has long been plagued by low wages, modern slavery, child labour and poor working conditions.

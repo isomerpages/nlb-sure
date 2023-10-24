@@ -18,7 +18,7 @@ The SUREvivors need your help!  Defeat the Fake News Monsters by answering the q
 
 
 
-![](../images/SUREvivors-quiz-thmb.JPG)
+![](../images/surevivors-quiz-thmb.jpg)
 
 
 

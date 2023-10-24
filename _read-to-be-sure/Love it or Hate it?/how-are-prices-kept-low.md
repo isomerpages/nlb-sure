@@ -11,7 +11,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/dollar-gill-LUzZ1MllFxU-unsplash.jpg)<font size="2">Photo by Dollar Gill on Unsplash</font>  
+![](../images/dollar-gill-luzz1mllfxu-unsplash.jpg)<font size="2">Photo by Dollar Gill on Unsplash</font>  
 
 Getting your hands on [the latest fashion trends](https://www.drapersonline.com/news/how-the-desire-for-instant-gratification-is-shaping-retail) within a short time seems too good to be true. Yet this is what the industry delivers, and at affordable prices to boot.
 

@@ -29,7 +29,7 @@ Learn the S.U.R.E. steps to more effective research in the infographic below. Do
 
 ### Module IL2 - Understand
 
-![](../images/curriculum-IL2-advanced.PNG)
+![](../images/curriculum-il2-advanced.png)
 
 In this topic, you will:
 
@@ -46,7 +46,7 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-il2-adv-slides)**.
 
 ### Module IL3 - Research
 
-![](../images/curriculum-IL3-advanced.PNG)
+![](../images/curriculum-il3-advanced.png)
 
 In this topic, you will: 
 
@@ -64,7 +64,7 @@ In this topic, you will:
 
 ### Module IL4 - Evaluate
 
-![](../images/curriculum-IL4-advanced.PNG)
+![](../images/curriculum-il4-advanced.png)
 
 In this topic, you will: 
 

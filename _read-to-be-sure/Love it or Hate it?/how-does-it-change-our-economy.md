@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/towfiqu-barbhuiya-JhevWHCbVyw-unsplash.jpg)<font size="2">Photo by Towfiqu barbhuiya on Unsplash</font>
+![](../images/towfiqu-barbhuiya-jhevwhcbvyw-unsplash.jpg)<font size="2">Photo by Towfiqu barbhuiya on Unsplash</font>
 
 Buying your next T-shirt could [feed households and reduce poverty](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/briefingnote/wcms_758626.pdf) in many countries in the Asia-Pacific (APAC) region, also known as “the clothing factory of the world”. In 2019, 65 million people worked in the [APAC clothing manufacturing industry](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/publication/wcms_669355.pdf) — that’s every seven out of 10 workers worldwide.
 

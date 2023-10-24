@@ -9,7 +9,7 @@ third_nav_title: 'Meet the SUREvivors'
 
 ## **What Intentions Can An Author Have?**
 
-![](../images/SURE-Activity6-feature-image.jpg)
+![](../images/sure-activity6-feature-image.jpg)
 
 Hi everyone, it’s me again, Understanding Upin! Did you try out my [previous quiz](https://sure.nlb.gov.sg/tng/surevivors-activity5/) on differentiating between facts and opinions? We will now learn about what intentions authors may have when they write. Usually, these intentions are to:
 
@@ -29,11 +29,11 @@ If the writing is one-sided, the author intends to persuade you to believe somet
 
 When writing articles, authors may use persuasive language to influence you to believe in certain messages. 
 
-![](../images/surevivors-act6-01.JPG)
+![](../images/surevivors-act6-01.jpg)
 
 
 
-![](../images/surevivors-act6-02.JPG)
+![](../images/surevivors-act6-02.jpg)
 
 
 
@@ -43,7 +43,7 @@ You would definitely have come across advertisements, be it on the internet, tel
 
 Their aim is to persuade you to buy whatever product or service they are advertising. This can be done by making the images of the product look attractive or showing you the reactions of people using them.
 
-![](../images/surevivors-act6-03.JPG)
+![](../images/surevivors-act6-03.jpg)
 
 
 
@@ -53,7 +53,7 @@ One example is a magazine article featuring an educational game software that ha
 
 
 
-![](../images/surevivors-act6-04.JPG)
+![](../images/surevivors-act6-04.jpg)
 
 
 

@@ -2,7 +2,7 @@
 title: 'ChatGPT, AI image generators and the dangers of misinformation'
 date: 2023-09-19T08:00:00.000Z
 permalink: /blog/tech/tech0006/
-image: ../../../images/19Sep2023_GenAI-Webinar.jpg
+image: ../../../images/19sep2023_genai-webinar.jpg
 ---
 
 ![](../../../images/19Sep2023_GenAI-Webinar.jpg)

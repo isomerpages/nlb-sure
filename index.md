@@ -32,7 +32,7 @@ sections:
           subtitle: 'For everyone'
           description: Join us our panelists as they share their knowledge and thoughts how to navigate the digital age with media and information literacy skills. 
           url: https://www.eventbrite.sg/e/navigating-the-digital-age-building-trust-via-media-information-literacy-tickets-736993686957?aff=oddtdtcreator
-          image: /images/COP_panel_07nov2023.png
+          image: /images/cop_panel_07nov2023.png
           alt: 'Navigating the Digital Age: Building Trust via Media & Information Literacy'
           button: 'Sign up now'
     - infopic:
@@ -40,7 +40,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Sustainability. Does science and technology harming or healing the environment? 
           url: /read-to-be-sure-volume-2/issue2-sustainability/
-          image: /images/RTBS-T2-KV-draft.jpg
+          image: /images/rtbs-t2-kv-draft.jpg
           alt: 'Read to be SURE, Volume 3, Issue 2: Sustainability'
           button: 'Explore now'
     - infopic:
@@ -48,7 +48,7 @@ sections:
           subtitle: 'For everyone'
           description: Find out how you can do your part to stop misinformation from going viral. 
           url: /prebunking/overview/
-          image: /images/YouTube-Thumbnails_Long.jpg
+          image: /images/youtube-thumbnails_long.jpg
           alt: 'Be S.U.R.E. before you share'
           button: 'Explore now'
     - infopic:
@@ -96,7 +96,7 @@ sections:
           subtitle: 'For students'
           description: The Historical Scene Investigation (H.S.I.) Challenge is an annual contest organised by the National Library Board, which promises an exciting experience for students to put their historical inquiry and research skills to the test.  
           url: /events/hsi2023/
-          image: /images/HSI-2022-logo.png
+          image: /images/hsi-2022-logo.png
           alt: 'alt text'
           button: 'Find out more'
     - infopic:
@@ -112,7 +112,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about the Work Revolution. Is the future of work changing radically, or only incrementally?
           url: /read-to-be-sure-volume-2/issue4-workrevolution/
-          image: /images/rtbs-vol2-topic4-KV.PNG
+          image: /images/rtbs-vol2-topic4-kv.png
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
@@ -120,7 +120,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Education. What is the value of a university degree today? Is a degree still needed to succeed in the modern economy?
           url: /read-to-be-sure-volume-2/issue3-education/
-          image: /images/rtbs-vol2-topic3-KV.PNG
+          image: /images/rtbs-vol2-topic3-kv.png
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
@@ -128,7 +128,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about the Metaverse. Will it become a digital paradise or a virtual nightmare?
           url: /read-to-be-sure-volume-2/issue2-metaverse/
-          image: /images/NLB-RTBS_TOPIC2-MBApp_221123-Socials.png
+          image: /images/nlb-rtbs_topic2-mbapp_221123-socials.png
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
@@ -136,7 +136,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives on the topic of gender equality, where it is not *just* a women's issue. Take a moment to read, watch and listen to the journeys towards progress and equality for women and men everywhere. 
           url: /read-to-be-sure-volume-2/issue1-gender-equality/
-          image: /images/rtbs-vol2-iss1-splash-graphic.JPG
+          image: /images/rtbs-vol2-iss1-splash-graphic.jpg
           alt: 'alt text'
           button: 'Read it now!'
     - infopic:
@@ -144,7 +144,7 @@ sections:
           subtitle: 'For everyone'
           description: null
           url: /events/surecelebratesmil/
-          image: /images/FA_NLB_SURE_Eventbrite_1272x424.jpg
+          image: /images/fa_nlb_sure_eventbrite_1272x424.jpg
           alt: 'alt text'
           button: 'View winners now!'
     - infopic:
@@ -159,7 +159,7 @@ sections:
           title: 'Be S.U.R.E. before you “add to cart”'
           subtitle: 'For everyone'
           description: null
-          url: /blog/tech/TECH0002
+          url: /blog/tech/tech0002
           image: /images/ecommerce-g0a4095276_1920.jpg
           alt: 'alt text'
           button: 'Read it now!'
@@ -167,7 +167,7 @@ sections:
           title: 'How I Almost Got Hooked Into a Scam'
           subtitle: 'For everyone'
           description: null
-          url: /blog/tech/TECH0003
+          url: /blog/tech/tech0003
           image: /images/blog-tech3-1.jpg
           alt: 'alt text'
           button: 'Read it now!'
@@ -175,7 +175,7 @@ sections:
           title: 'What Popular Culture Teaches Us About the Spread of False Information'
           subtitle: 'For everyone'
           description: null
-          url: /blog/tech/TECH0004
+          url: /blog/tech/tech0004
           image: /images/blog-tech4a.jpg
           alt: 'alt text'
           button: 'Read it now!'
@@ -184,14 +184,14 @@ sections:
           subtitle: 'For everyone'
           description: null
           url: /read-to-be-sure/issue4-ukraine/
-          image: /images/rtbs4-hot-button-ukraine.JPG
+          image: /images/rtbs4-hot-button-ukraine.jpg
           alt: 'alt text'
           button: 'Read Issue #4 now, and share your thoughts with us!'
     - infopic:
           title: 'Digital Resources of the National Library and National Archives of Singapore'
           subtitle: 'For secondary school students'
           description: null
-          url: /blog/home-based-learning/DD00010
+          url: /blog/home-based-learning/dd00010
           image: /images/nlnas-video1.jpg
           alt: 'alt text'
           button: 'Watch the video now!'
@@ -199,8 +199,8 @@ sections:
           title: 'Identifying Credible Health Information (Chinese, Malay and Tamil versions)'
           subtitle: 'For Seniors'
           description: 'How do you ensure that the medical and health information that you consume is reliable? Use the S.U.R.E. steps to identify if the health information you read can be trusted. This infographic is now available in Chinese, Malay and Tamil languages.'
-          url: /blog/information-literacy/IL00002
-          image: /images/Credible-Health-Information-Chinese.jpg
+          url: /blog/information-literacy/il00002
+          image: /images/credible-health-information-chinese.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
@@ -208,7 +208,7 @@ sections:
           subtitle: 'For primary school students'
           description: 'How to Search for Information Effectively'
           url: /tng/surevivors-activity7/
-          image: /images/Researching_Raju1.jpg
+          image: /images/researching_raju1.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:
@@ -224,7 +224,7 @@ sections:
           subtitle: 'For primary school students'
           description: 'What Intentions Can an Author Have?'
           url: /tng/surevivors-activity6/
-          image: /images/SURE-Activity6-feature-image.jpg
+          image: /images/sure-activity6-feature-image.jpg
           alt: 'alt text'
           button: 'Check them out now!'
     - infopic:

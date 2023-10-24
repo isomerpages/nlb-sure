@@ -6,7 +6,7 @@ permalink: /blog/seniors/sn0020/
 ---
 
 
-![](../../../images/seniors-fake-news-tamil.JPG)
+![](../../../images/seniors-fake-news-tamil.jpg)
 
 
 

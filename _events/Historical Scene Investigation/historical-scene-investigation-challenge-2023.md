@@ -3,7 +3,7 @@ title: 'Historical Scene Investigation Challenge 2023'
 permalink: /events/hsi2023/
 breadcrumb: '2023 Challenge'
 third_nav_title: 'Historical Scene Investigation'
-image: ../../../images/hsi2023-logo.PNG
+image: ../../../images/hsi2023-logo.png
 
 ---
 

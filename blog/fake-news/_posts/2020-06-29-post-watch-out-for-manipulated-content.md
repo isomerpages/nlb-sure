@@ -17,7 +17,7 @@ Overseas, there have been many examples of videos and photographs being doctored
 
 - A video of a politician was slowed down to make it sound like she was slurring, to mock and discredit her.
 
-|               ![](../../../images/Pelosi.jpg)                |
+|               ![](../../../images/pelosi.jpg)                |
 | :----------------------------------------------------------: |
 | *Doctored video of US politician Nancy Pelosi*<br />Source: [The Guardian](https://www.google.com/amp/s/amp.theguardian.com/technology/2019/may/24/facebook-leaves-fake-nancy-pelosi-video-on-site) |
 |                                                              |
@@ -27,7 +27,7 @@ Overseas, there have been many examples of videos and photographs being doctored
 - An image of a politician waving a flag was edited to replace it with a different flag, inflaming tensions in a fragile
   situation.
 
-|              ![](../../../images/JuniusHo.jpg)               |
+|              ![](../../../images/juniusho.jpg)               |
 | :----------------------------------------------------------: |
 | *Doctored and original photos of Hong Kong politician Junius Ho*<br />Source: [AFP Fact Check](https://factcheck.afp.com/image-has-been-doctored-photo-hong-kong-politician-junius-ho-waving-chinese-flag-beijing) |
 
@@ -35,7 +35,7 @@ Overseas, there have been many examples of videos and photographs being doctored
 
 - Even celebrities have had their photos edited by others, to associate them with political movements.
 
-|              ![](../../../images/K-Jenner.png)               |
+|              ![](../../../images/k-jenner.png)               |
 | :----------------------------------------------------------: |
 | *Original and edited image of US celebrity Kendall Jenner*<br />Source: [Yahoo News](https://www.google.com/amp/s/news.yahoo.com/amphtml/kendall-jenner-sets-record-straight-173836639.html) |
 

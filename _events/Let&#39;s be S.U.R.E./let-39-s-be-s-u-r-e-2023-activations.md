@@ -36,18 +36,18 @@ But wait, there’s more! Don’t forget to collect S.U.R.E. goodies* after part
 
 Are you ready to tackle the misinformation mayhem in our digital world? Don’t miss our eye-opening display at:
 
-- Jurong Regional Library (B1, Children's Section)![](../images/Misinformation-Mayhem-JRL.JPG)
+- Jurong Regional Library (B1, Children's Section)![](../images/misinformation-mayhem-jrl.jpg)
 
   
 
 - Woodlands Regional Library (Level 4, Children's Section) 
 
-  ![](../images/Misinformation-Mayhem-WRL.JPG)
+  ![](../images/misinformation-mayhem-wrl.jpg)
 
   
 
 - Tampines Regional Library (Level 2)
-  ![](../images/Misinformation-Mayhem-TRL.JPG)
+  ![](../images/misinformation-mayhem-trl.jpg)
 
  
 
@@ -57,7 +57,7 @@ Learn to spot the threats of misinformation and scams and discover good digital 
 
 Plus, don’t forget to collect your [S.U.R.E.vivors](https://sure.nlb.gov.sg/tng/surevivors/) stickers* at our displays to help you stay informed about the online world. 
 
- ![](../images/Misinformation-Mayhem-stickers.JPG)
+ ![](../images/misinformation-mayhem-stickers.jpg)
 
 **While stocks last.*
 

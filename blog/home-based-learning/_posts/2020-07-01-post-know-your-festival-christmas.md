@@ -16,7 +16,7 @@ celebrations amongst families and friends involving gift exchanges and feasting.
 
 Download the infographic here: **[Know Your Festival Christmas](/infographic/3_Christmas%20Infographic%202020.pdf)**
 
-![](../../../images/infographic-christmas-sm.JPG)
+![](../../../images/infographic-christmas-sm.jpg)
 
 
 

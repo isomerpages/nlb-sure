@@ -10,7 +10,7 @@ Here are the answers to the [Misinformation Mayhem puzzles](/events/lets-be-sure
 
 Download the image **[HERE](https://go.gov.sg/sure-misinfo-mayhem)**.
 
-![](../images/Misinformation-Mayhem-Numbered2.jpg)
+![](../images/misinformation-mayhem-numbered2.jpg)
 
 
 

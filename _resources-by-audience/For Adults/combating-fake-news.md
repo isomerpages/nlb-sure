@@ -44,7 +44,7 @@ This video is also available in other languages:
 
 We encounter many images daily – through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.  
 
-![](../images/infographic-eval-photos-3.JPG)
+![](../images/infographic-eval-photos-3.jpg)
 
 <hr>
 
@@ -52,7 +52,7 @@ We encounter many images daily – through messaging apps, on social media or va
 
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
-![](../images/Multiple-Sources-Header.jpg)
+![](../images/multiple-sources-header.jpg)
 
 If you receive any dubious information, you can check the facts using credible sources before you share.
 
@@ -60,7 +60,7 @@ If you receive any dubious information, you can check the facts using credible s
 
 **[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
 
-![](../images/dubious-messages-English-1573549989107.png)
+![](../images/dubious-messages-english-1573549989107.png)
 
 Bogus stories can be easily spread through SMS and social messaging tools and apps. Before you share, verify the information using the steps in this tip sheet. 
 

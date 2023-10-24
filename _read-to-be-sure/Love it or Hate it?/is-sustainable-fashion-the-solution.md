@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/sustainable-fashion.JPG)<font size="2">Photo by Jess @ Harper Sunday on Unsplash</font>  
+![](../images/sustainable-fashion.jpg)<font size="2">Photo by Jess @ Harper Sunday on Unsplash</font>  
 
 You head down to a store to get your fashion fix. Immediately, some clothes nearby catch your eye. You spot the tag and are taken aback by the high price. When you look closer, you spot it — a sticker labelled “Sustainable Fashion”.
 

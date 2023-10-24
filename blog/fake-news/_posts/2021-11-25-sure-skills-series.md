@@ -2,7 +2,7 @@
 title: 'S.U.R.E Skills Series workshop - How to Be A Smart Fact-Checker'
 date: 2021-11-25T00:00:00.000Z
 permalink: /blog/fake-news/fn0017/
-image: ../../../images/sure-skills-series-dec2021.JPG
+image: ../../../images/sure-skills-series-dec2021.jpg
 ---
 
 ![](../../../images/sure-skills-series-dec2021.JPG)

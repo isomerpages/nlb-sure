@@ -29,7 +29,7 @@ So what are your thoughts about COVID-19 restrictions? Take our [poll](https://f
 
 Here's what others think so far:
 
-![](../images/rtbs2-poll1-2feb2022.JPG)
+![](../images/rtbs2-poll1-2feb2022.jpg)
 
 
 

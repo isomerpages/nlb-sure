@@ -5,7 +5,7 @@ permalink: /blog/information-literacy/il00018/
 
 ---
 
-![](../../../images/TNG-Nov-Dec-2022.png)
+![](../../../images/tng-nov-dec-2022.png)
 
 *Learn about the importance of news and information literacy in this fun and interactive tour and workshop at the National Library.*
 

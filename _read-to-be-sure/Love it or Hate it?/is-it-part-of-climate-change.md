@@ -10,7 +10,7 @@ third_nav_title: 'Issue #1: Fast Fashion: Love it or Hate it?'
 | :---------------: |
 |                   |
 
-![](../images/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)<font size="2">Photo by Maxim Tolchinskiy on Unsplash</font>
+![](../images/maxim-tolchinskiy-w3y2crfkvis-unsplash.jpg)<font size="2">Photo by Maxim Tolchinskiy on Unsplash</font>
 
 How many clothing items do you buy and get rid of within a year? A survey involving 1,000 Singaporeans revealed that we [buy 34 pieces of new clothing on average](https://www.channelnewsasia.com/singapore/bursting-seams-singapores-cast-clothing-1035441) and dispose of 27 items within 12 months. For almost every item we buy, we throw away another.
 

@@ -16,7 +16,7 @@ third_nav_title: 'For Adults'
 
 **[Fact Checking Using Multiple Sources](/infographic/Multiple-Sources-English_revised.pdf)**
 
-![](../images/Multiple-Sources-Header.jpg)
+![](../images/multiple-sources-header.jpg)
 
 If you receive any dubious information, you can check the facts using credible sources before you share.
 
@@ -30,13 +30,13 @@ When doing your project essay, you might have plagiarised unknowingly when you d
 
 **[How to Avoid Plagiarism](/infographic/NLB_infographic_AvoidPlagiarism.pdf)**
 
-![](../images/Plagiarism-1050x700.jpg)
+![](../images/plagiarism-1050x700.jpg)
 
 Nowadays, anyone can easily copy and paste information from the internet for their schoolwork. However, doing so is committing plagiarism, which is a serious offence. Download the full infographic to find out what are the different types of plagiarism and how to avoid it.
 
 
 **[Citations](/infographic/Cheatsheet_Citation_25nov_.pdf)**
 
-![](../images/Citations-1050x700.jpg)
+![](../images/citations-1050x700.jpg)
 
 A quick guide to doing citation for academic research and projects. Download our cheat sheet to learn why, when and how to cite sources.

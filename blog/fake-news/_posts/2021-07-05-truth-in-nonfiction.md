@@ -22,7 +22,7 @@ What do I mean by this? We often believe that there are two kinds of statements 
 
 But as any statistician will tell you, numbers *can,* and in fact *do*, lie all the time. This is because numbers cannot actually tell us anything without the aid of human interpretation, and can often support multiple different interpretations at once. Statistics are also extremely susceptible to manipulation, and the choices that statisticians make in choosing what data to collect and include can dramatically change the results they produce: as Kalev Leetaru points out in an article for Forbes, many apparent “truths” drawn from data are, in fact, “factually true statements that utilize such a carefully constructed population sample that their argument is almost meaningless”.
 
-<img src="../../../images/The_Dress_(viral_phenomenon).png" style="zoom:40%;" />
+<img src="../../../images/the_dress_(viral_phenomenon).png" style="zoom:40%;" />
 
 *What colour is this dress? ([Photo source](https://en.wikipedia.org/wiki/The_dress#/media/File:The_dress_blueblackwhitegold.jpg))*
 

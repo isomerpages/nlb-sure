@@ -6,7 +6,7 @@ permalink: /blog/seniors/sn0017/
 ---
 
 
-![](../../../images/seniors-fake-news.JPG)
+![](../../../images/seniors-fake-news.jpg)
 
 **[How seniors can fight fake news](/infographic/Infog-1-Marcus-Chin-English-FINAL-002.pdf)**
 

@@ -12,7 +12,7 @@ third_nav_title: 'Primary School Activities'
 *Put their media literacy skills to the test and uncover key historical events of the nation through the perspectives of news reports along the way. Hone their skills at discerning information and prevent the spread of fake news. See if they have what it takes to be a news journalist?*
 
 <hr>
-![](../images/Early-Editions-4in.JPG)
+![](../images/early-editions-4in.jpg)
 
 Singapore’s first newspaper, Singapore Chronicle and Commercial Register, was founded in 1824. It remained the only local newspaper for more than a decade due to the [Gagging Act](https://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html), which banned any publication that was not approved by the authorities.
 

@@ -6,7 +6,7 @@ permalink: /blog/seniors/sn0005/
 ---
 
 
-![](../../../images/dubious-messages-English-1573549989107.png)
+![](../../../images/dubious-messages-english-1573549989107.png)
 
 **[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
 

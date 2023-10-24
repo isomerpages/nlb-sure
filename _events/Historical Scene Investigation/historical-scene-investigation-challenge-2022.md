@@ -3,7 +3,7 @@ title: 'Historical Scene Investigation Challenge 2022'
 permalink: /events/hsi2022/
 breadcrumb: '2022 Challenge'
 third_nav_title: 'Historical Scene Investigation'
-image: ../../../images/HSI-2022-logo.png
+image: ../../../images/hsi-2022-logo.png
 
 ---
 
@@ -17,7 +17,7 @@ A record participation of 170 teams from 82 schools participated in the contest 
 
 On 19 October 2022, the top 10 school teams were invited to the National Library for the awards ceremony.
 
-![](../images/HSI-2022-Group-Photo.jpg)
+![](../images/hsi-2022-group-photo.jpg)
 
 We would like to congratulate the following school teams for achieving the top 3 positions, along with being awarded the Young Historians’ Award by MOE:
 

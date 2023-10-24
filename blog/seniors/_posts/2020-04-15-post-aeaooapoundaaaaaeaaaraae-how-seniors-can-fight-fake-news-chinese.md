@@ -6,7 +6,7 @@ permalink: /blog/seniors/sn0018/
 ---
 
 
- ![](../../../images/seniors-fake-news-chinese.JPG)
+ ![](../../../images/seniors-fake-news-chinese.jpg)
 
 [**乐龄人士如何参与打击不实信息**](/infographic/Marcus-Chin-Chinese-R2.pdf)
 

@@ -19,7 +19,7 @@ Coming soon!
 
 ### Module DW2 - Positive Online Habits
 
-![](../images/basic-dw2.JPG)
+![](../images/basic-dw2.jpg)
 
 Let’s learn about how to achieve digital wellness!
 

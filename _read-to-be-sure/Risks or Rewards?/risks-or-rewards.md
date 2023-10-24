@@ -7,7 +7,7 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 ---
 
-![](../images/RTBS3-masthead.jpg)
+![](../images/rtbs3-masthead.jpg)
 
 <table border="0" cellpadding="50">
 	<tbody>
@@ -50,16 +50,16 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 
 
-![](../images/rtbs3-engagement-poll-results.JPG)
+![](../images/rtbs3-engagement-poll-results.jpg)
 
 
 
 Reasons cited for investing in cryptocurrencies or NFTs:
 
-![](../images/rtbs3-engagement-poll-results-yes.JPG)
+![](../images/rtbs3-engagement-poll-results-yes.jpg)
 
 
 
 Reasons cited for NOT investing in cryptocurrencies or NFTs:
 
-![](../images/rtbs3-engagement-poll-results-no.JPG)
+![](../images/rtbs3-engagement-poll-results-no.jpg)
