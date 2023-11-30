@@ -10,6 +10,8 @@ links:
       url: /tours-and-workshops/learn/
       false_collection: true
       sublinks:
+            - title: 'SURE Programmes & Content for Schools 2024'
+              url: /tours-and-workshops/school-programmes2024/
             - title: 'News Gallery tour'
               url: /tours-and-workshops/tng-virtual-tour/
             - title: 'H.I. workshop'
@@ -18,6 +20,8 @@ links:
               url: /tours-and-workshops/academic-skills-workshop/
             - title: 'Teachers’ workshop'
               url: /tours-and-workshops/teachers-cfn-workshop/
+
+
     - title: 'Read to be Sure'
       url: /read-to-be-sure-volume-2/issue2-sustainability/
       false_collection: true
