@@ -12,7 +12,7 @@ third_nav_title: 'Basic Level'
 
 ### Module DW1- Online Persona
 
-Coming soon!
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=07f37044-599f-4ea2-8327-b0b2006900ce&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 
 
