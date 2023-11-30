@@ -12,7 +12,7 @@ third_nav_title: 'Advanced Level'
 
 ### Module DW1- Online Persona
 
-Coming soon!
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=f28f0e19-101c-493f-b6d7-b0b2006aec25&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 
 
