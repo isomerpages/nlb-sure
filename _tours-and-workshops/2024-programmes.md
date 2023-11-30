@@ -8,9 +8,7 @@ third_nav_title: 'Workshops'
 
 The S.U.R.E. team is excited to share the latest complimentary programmes and content for 2024, aimed at enhancing the learning experience for both students and teachers.
 
- 
-
-Please download the digital booklet **[here](/tours-and-workshops/SURE-school-prog2024.pdf/)**. 
+Please download the digital booklet **[here](/tours-and-workshops/school-prog2024.pdf/)**. 
 
 For any enquiries, please e-mail us at **[sure@nlb.gov.sg](mailto:sure@nlb.gov.sg)**.
 
