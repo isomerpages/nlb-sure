@@ -2,14 +2,14 @@
 title: 'Generative A.I.'
 permalink: /read-to-be-sure-volume-3/issue1-generative-ai/
 breadcrumb: 'Issue 1 - Generative A.I.'
-image: ../images/rtbs-vol3-iss1-web-banner.png
+image: https://sure.nlb.gov.sg/images/rtbs-vol3-iss1-web-banner.png
 ---
 
 <a name="top"></a>
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
-![](../images/rtbs-vol3-iss1-web-banner.png)
+![](https://sure.nlb.gov.sg/images/rtbs-vol3-iss1-web-banner.png)
 
 Generative artificial intelligence (GenAI) is taking the world by storm, and for good reason. It has gone mainstream and could revolutionise society and the economy as we know it. This technology has caused both [excitement and fear about the future](https://www.pewresearch.org/internet/2023/06/21/as-ai-spreads-experts-predict-the-best-and-worst-changes-in-digital-life-by-2035/). [72% of Singaporeans surveyed are excited](https://sg.style.yahoo.com/more-working-singaporeans-excited-generative-171604863.html?guccounter=1) to use GenAI at work, but 51% cited worries about jobs. 
 
@@ -57,7 +57,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-![](../images/rtbs-vol3-topic1_IG-FB-GIF_230714_2.gif)
+![](https://sure.nlb.gov.sg/images/rtbs-vol3-topic1_IG-FB-GIF_230714_2.gif)
 
 
 
@@ -124,10 +124,9 @@ World Economic Forum. (2023, June 15). *'AI Will Either Compete with us or Augme
 
 |                                                              | **Recommended Titles**                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=book&id=7A48B532-1D1D-429F-A802-2F26F26D7254&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=guideai">![](../images/rtbs-vol3-topic1-bookcover01-youandi.jpg)</a> | [**[You & AI: A Guide to Understanding How Artificial Intelligence Is Shaping Our Lives](https://nlb.overdrive.com/media/9838861)**](https://go.nlb.gov.sg/m-link/details?type=book&id=7A48B532-1D1D-429F-A802-2F26F26D7254&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=guideai)<br/>Scherer, Anne, and Cindy Candrian (2023). *You & AI: A Guide to Understanding How Artificial Intelligence Is Shaping Our Lives.* Books on Demand. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=4B0E5E8B-FA65-4CBB-B0D8-F68FD91596C9&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=humansapply">![](../images/rtbs-vol3-topic1-bookcover02-humansneednotapply.jpg)</a> | **[Humans need not apply: A guide to wealth & work in the age of artificial intelligence](https://go.nlb.gov.sg/m-link/details?type=ebook&id=4B0E5E8B-FA65-4CBB-B0D8-F68FD91596C9&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=humansapply)**<br/>Kaplan, Jerry. (2020). Humans need not apply: A guide to wealth & work in the age of artificial intelligence. Yale University Press. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=D8D300A8-4DF8-43C9-87FC-E91F14EB5285&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=ihuman">![](../images/rtbs-vol3-topic1-bookcover03-ihuman.jpg)</a> | **[I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique](https://go.nlb.gov.sg/m-link/details?type=ebook&id=D8D300A8-4DF8-43C9-87FC-E91F14EB5285&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=ihuman)**<br/>Chamorro-Premuzic, Toman. (2023). I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique. Harvard Business Review Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
-| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream">![](../images/rtbs-vol3-topic1-bookcover04-doandroids.JPG)</a> | **[Do Androids Dream of Electric Sheep? ](https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream)**<br/>Dick, Phillip. K. (2008). Do Androids Dream of Electric Sheep? Random House Publishing Group. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=book&id=7A48B532-1D1D-429F-A802-2F26F26D7254&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=guideai">![](https://sure.nlb.gov.sg/images/rtbs-vol3-topic1-bookcover01-youandi.jpg)</a> | [**[You & AI: A Guide to Understanding How Artificial Intelligence Is Shaping Our Lives](https://nlb.overdrive.com/media/9838861)**](https://go.nlb.gov.sg/m-link/details?type=book&id=7A48B532-1D1D-429F-A802-2F26F26D7254&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=guideai)<br/>Scherer, Anne, and Cindy Candrian (2023). *You & AI: A Guide to Understanding How Artificial Intelligence Is Shaping Our Lives.* Books on Demand. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=4B0E5E8B-FA65-4CBB-B0D8-F68FD91596C9&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=humansapply">![](https://sure.nlb.gov.sg/images/rtbs-vol3-topic1-bookcover02-humansneednotapply.jpg)</a> | **[Humans need not apply: A guide to wealth & work in the age of artificial intelligence](https://go.nlb.gov.sg/m-link/details?type=ebook&id=4B0E5E8B-FA65-4CBB-B0D8-F68FD91596C9&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=humansapply)**<br/>Kaplan, Jerry. (2020). Humans need not apply: A guide to wealth & work in the age of artificial intelligence. Yale University Press. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=D8D300A8-4DF8-43C9-87FC-E91F14EB5285&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=ihuman">![](https://sure.nlb.gov.sg/images/rtbs-vol3-topic1-bookcover03-ihuman.jpg)</a> | **[I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique](https://go.nlb.gov.sg/m-link/details?type=ebook&id=D8D300A8-4DF8-43C9-87FC-E91F14EB5285&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=ihuman)**<br/>Chamorro-Premuzic, Toman. (2023). I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique. Harvard Business Review Press.<br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
+| <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream">![](https://sure.nlb.gov.sg/images/rtbs-vol3-topic1-bookcover04-doandroids.JPG)</a> | **[Do Androids Dream of Electric Sheep? ](https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream)**<br/>Dick, Phillip. K. (2008). Do Androids Dream of Electric Sheep? Random House Publishing Group. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 |                                                              |                                                              |
-
 
