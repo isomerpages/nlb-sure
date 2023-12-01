@@ -185,3 +185,4 @@ CNA Insider. (2023, May 22). [*How Smart is ChatGPT, really?*](https://youtu.be/
 | <a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream">![](https://sure.nlb.gov.sg/images/rtbs-vol3-topic1-bookcover04-doandroids.JPG)</a> | **[Do Androids Dream of Electric Sheep? ](https://go.nlb.gov.sg/m-link/details?type=ebook&id=56F21589-D078-48DF-91BC-B21D6972A276&utm_source=online&utm_campaign=RTBS_Jul23&utm_medium=website&utm_content=androidsdream)**<br/>Dick, Phillip. K. (2008). Do Androids Dream of Electric Sheep? Random House Publishing Group. <br/><br/>Retrieved from OverDrive. (myLibrary ID is required to access the eBook). |
 |                                                              |                                                              |
 
+​	

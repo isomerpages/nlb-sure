@@ -29,7 +29,7 @@ With the world affected by COVID-19 over the past 2 years, restrictions have bec
 
 Read to be SURE (RTBS) is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a five-year journey of our next phase of transformation. RTBS aims to educate and inform the public on trending topics through a combination of curated reading content and accompanying programmes. By exploring multiple perspectives on these topics, readers and participants will benefit from a balanced and credible knowledge base.
 
-![](../images/RTBS-convo2-speakers.JPG) 
+![](https://sure.nlb.gov.sg/images/RTBS-convo2-speakers.JPG) 
 
 Speakers:
 
@@ -50,7 +50,6 @@ Moderator:
 <p><b>Quanda Ong</b> is the founder and CEO at Gnome & Bow, renowned for its unique bags and wallet designs inspired by storybook classics. Over the years, Quanda has grown his brand’s presence to 9 countries and over 40 point-of-sales internationally. He was awarded as Finalist for Designer of the Year (Accessories) in 2017 and has successfully launched numerous collaborative collections with global corporations such as American Express, Tiger Beer and Knight Frank.</p>
     <p><b>Susie Chua</b> is one half of the duo, 2TravellingAunties who travelled to 3 continents, 27 countries in 2 years. In 2019 Susie chose to leave her corporate world and travelled the road less trodden living in a motorhome through Europe, United Kingdom, North Africa and Turkey, while smashing stereotypes with every mile on the clock. Five lockdowns, multiple PCR tests and many denied entries at borders did not slow her down. The 2TravellingAunties are planning and preparing their next road adventure, The Americas.</p>
 <p><b>Sean Tan</b> is the Outreach Director at Debate Association (Singapore) and a second year student at Singapore Polytechnic. Sean has represented his school in debating tournaments around the world and adjudicated at local tournaments, including the Singapore Secondary Schools Debating Championship and NYP's Inter-school Tournament. Since joining DA(S), Sean has worked on several projects including Youth Debate Open and December Debate Camp. In school, Sean is the President of the Singapore Polytechnic Debating Club, conducting weekly trainings for aspiring debaters.    </p></details>
-
 
 
 

@@ -2,7 +2,7 @@
 title: 'Sustainability'
 permalink: /read-to-be-sure-volume-3/issue2-sustainability/
 breadcrumb: 'Issue 2 - Sustainability'
-image: ../images/RTBS-T2-KV-draft.jpg
+image: https://sure.nlb.gov.sg/images/RTBS-T2-KV-draft.jpg
 ---
 
 <a name="top"></a>
@@ -172,7 +172,7 @@ Sustainable Tech. *The Future of Green Technology.* Retrieved 2023, September 13
         <th></th>
 	</tr>
 	<tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><img src="../images/rtbs-vol3-topic2-bookcover01.png"></a></td>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover01.png"></a></td>
         <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><b>Future on Fire: Capitalism and the Politics of Climate Change</b></a><br>
 Camfield, David. Future on Fire: Capitalism and the Politics of Climate Change. Halifax: PM Press, 2022. 
 <br><br>
@@ -180,7 +180,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 <br><br></td>
     </tr>
     <tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=357A2955-C5EE-4CDE-A2F2-5D9C050EDDCD&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=ministryforfuture"><img src="../images/rtbs-vol3-topic2-bookcover02.jpg"></a></td>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=357A2955-C5EE-4CDE-A2F2-5D9C050EDDCD&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=ministryforfuture"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover02.jpg"></a></td>
         <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=357A2955-C5EE-4CDE-A2F2-5D9C050EDDCD&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=ministryforfuture"><b>The Ministry for the Future</b></a><br>
 Robinson, Kim Stanley. The Ministry for the Future. New York: Orbit, 2021. 
 <br><br>
@@ -188,7 +188,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr>
     <tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=future"><img src="../images/rtbs-vol3-topic2-bookcover03.png"></a></td>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=future"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover03.png"></a></td>
         <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=future"><b>The Future is Now: Solving the Climate Crisis with Today's Technologies</b></a><br>
 McDonald, Bob. The Future is Now: Solving the Climate Crisis with Today’s Technologies. Toronto: Viking Canada, 2022. <br><br>Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>

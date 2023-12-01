@@ -2,7 +2,7 @@
 title: 'RTBS Youth Debate: 28 Oct 2023'
 permalink: /read-to-be-sure-volume-3/youth-debate-28oct2023/
 breadcrumb: 'Youth Debate (28 Oct 2023)'
-image: ../images/rtbs-vol3-school-debate2-web-banner.png
+image: https://sure.nlb.gov.sg/images/rtbs-vol3-school-debate2-web-banner.png
 ---
 
 ![](https://sure.nlb.gov.sg/images/rtbs-vol3-school-debate2-web-banner.png)

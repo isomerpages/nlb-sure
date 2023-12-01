@@ -8,7 +8,7 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 *This special edition of Read to be SURE presents multiple viewpoints on current events and issues to broaden perspectives and mindsets.*
 
-![h](../images/rtbs4-hot-button-ukraine.JPG)<font size="2">Photo by Sima Ghaffarzadeh from Pexels</font>
+![h](https://sure.nlb.gov.sg/images/rtbs4-hot-button-ukraine.JPG)<font size="2">Photo by Sima Ghaffarzadeh from Pexels</font>
 
 | **TECH GIANTS SHOULD DO MORE TO TACKLE DISINFORMATION**      | **NETIZENS SHOULD BE MORE DISCERNING AND SELF-RELIANT**      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -27,7 +27,7 @@ third_nav_title: 'Issue #4: Russia-Ukraine Information War'
 
 ##### How can we filter the truth about the Russia-Ukraine conflict?  Take our **[poll](https://forms.gle/K2K2HTdPnrVQY2AV8)** now!
 
-![](../images/rtbs4-ukraine-poll-results.JPG)
+![](https://sure.nlb.gov.sg/images/rtbs4-ukraine-poll-results.JPG)
 
 
 

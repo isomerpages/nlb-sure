@@ -7,7 +7,7 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 ---
 
-![](../images/RTBS3-masthead.jpg)
+![](https://sure.nlb.gov.sg/images/RTBS3-masthead.jpg)
 
 <table border="0" cellpadding="50">
 	<tbody>
@@ -50,16 +50,16 @@ third_nav_title: 'Issue #3: Cryptocurrencies and NFTs: Risks or Rewards?'
 
 
 
-![](../images/rtbs3-engagement-poll-results.JPG)
+![](https://sure.nlb.gov.sg/images/rtbs3-engagement-poll-results.JPG)
 
 
 
 Reasons cited for investing in cryptocurrencies or NFTs:
 
-![](../images/rtbs3-engagement-poll-results-yes.JPG)
+![](https://sure.nlb.gov.sg/images/rtbs3-engagement-poll-results-yes.JPG)
 
 
 
 Reasons cited for NOT investing in cryptocurrencies or NFTs:
 
-![](../images/rtbs3-engagement-poll-results-no.JPG)
+![](https://sure.nlb.gov.sg/images/rtbs3-engagement-poll-results-no.JPG)
