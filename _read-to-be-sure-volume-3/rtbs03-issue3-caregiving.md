@@ -9,6 +9,8 @@ image: https://sure.nlb.gov.sg/images/RTBS-T2-KV-draft.jpg
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
+##PLACEHOLDER FOR WEB BANNER##
+
 ![](https://sure.nlb.gov.sg/images/RTBS-T2-KV-draft.jpg)
 
 In Singapore, [caregivers](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-edwin-tong-senior-minister-of-state-for-health-in-response-to-motions-on-support-for-caregivers-and-ageing-with-purpose) are the unsung heroes of society, providing vital support to seniors, children and persons with disabilities (PwDs). Yet all too often their contributions remain invisible.  
@@ -20,6 +22,8 @@ While [services for autistic children](https://www.channelnewsasia.com/singapore
 Come 2030, [1 in 4 Singaporeans](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-Singapore-Ageing-Issues-and-Challenges-Ahead-Book-Launch) will be aged 65 and above. With [low birth](https://www.straitstimes.com/singapore/singapore-s-birth-rates-hit-record-low-in-2022-along-with-most-yearly-deaths-since-1960) rates and [increased life expectancy,](https://www.duke-nus.edu.sg/allnews/super-aged-singapore-society) the [rapid ageing population](https://www.straitstimes.com/singapore/singapores-population-ageing-rapidly-184-of-citizens-are-65-years-and-older) will have significant implications for caregiving, including fewer family members supporting older adults and a growing “[sandwich generation](https://www.channelnewsasia.com/singapore/sandwich-generation-money-elderly-parents-children-singapore-population-2970826)” caring for both children and older family members.
 
 [Caregivers](https://journals.lww.com/smj/fulltext/2022/10000/caregiver_burden_and_its_prevalence,_measurement.7.aspx) need concerted and [targeted support](https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08317-3.pdf) as they provide multidimensional care, including physical, medical, financial, psychological and social assistance. The government has introduced policies to enhance access to care such as [CareShield Life](https://www.careshieldlife.gov.sg/home.html), [Home Caregiving Grant](https://www.moh.gov.sg/healthcare-schemes-subsidies/caregiver-grants-subsidies), [Active Aging Care Hubs](https://aic-mosaic.sg/2021/06/03/active-ageing-centre-care-hub-aac-aach-singapore-seniors/), as well as [Caregiver Support Action Plan](https://www.moh.gov.sg/caregiver-support). [Employers](https://www.businesstimes.com.sg/singapore/ntuc-calls-flexi-work-statutory-paid-leave-workers-who-are-caregivers) are also encouraged to provide flexible work arrangements and paid leave to workers who are caregivers.
+
+##PLACEHOLDER FOR TRAILER VIDEO##
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rj8C_uEdPjM?si=FozyfVl83zCTK3_D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
@@ -95,6 +99,8 @@ Caregivers also have lower quality of life in social relationships and personal 
 
 Let's hear  our guest speakers weigh in on this issue:
 
+##PLACEHOLDER FOR MAIN VIDEO ##
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P39XClXxuao?si=Mm-ZfJ2wxM06kx96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
@@ -114,6 +120,8 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
+## PLACEHOLDER FOR KEY VISUAL ##
+
 ![](https://sure.nlb.gov.sg/images/RTBS_T2_FBIG-231004.jpg)
 
 
@@ -130,12 +138,12 @@ Explore the resources below to find out more about Sustainability.
 
 
 
-## Videos
+## Video
 
-Sustainable Tech. *The Future of Green Technology.* Retrieved 2023, September 13. 
+[You Can’t Pour from An Empty Cup](https://www.youtube.com/watch?v=l91lC71o5E4). *Caregivers Alliance Limited*. (26 September 2023). Retrieved 2023, November 27.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6TmSqBz4esU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l91lC71o5E4?si=jABkM1cWD4OMpHOz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <br>
 
@@ -143,9 +151,9 @@ Sustainable Tech. *The Future of Green Technology.* Retrieved 2023, September 13
 
 
 
-## Websites
+## Website
 
-**[Factcheck: How Electric Vehicles Help to Tackle Climate Change](https://www.carbonbrief.org/factcheck-how-electric-vehicles-help-to-tackle-climate-change/)**<br>Hausfather Zeke, “Factcheck: How Electric Vehicles Help to Tackle Climate Change.” *Carbon Brief*, last updated 7 February 2020. Retrieved 2023, September 13.
+**[Rethinking Care in a Fast-Ageing Society](https://nus.edu.sg/alumnet/thealumnus/issue-133/community/oar-highlights/rethinking-care-in-a-fast-ageing-society)**<BR>“Rethinking Care in a Fast-Ageing Society.” *NUS Alumnus*, April-June 2023. Retrieved 2023, November 27.
 
  
 
@@ -153,9 +161,9 @@ Sustainable Tech. *The Future of Green Technology.* Retrieved 2023, September 13
 
 
 
-## Podcasts
+## Podcast
 
-**[TIL About Removing CO2 From the Atmosphere](https://climate.mit.edu/podcasts/til-about-removing-co2-from-the-atmosphere)**<br>MIT Environmental Solutions Initiative. (19 August 2021). *TIL About Removing CO2 From the Atmosphere*.  Retrieved 2023, September 13.
+**[Mental Health Caregivers: Challenges & Solution](https://open.spotify.com/episode/3oBmLrkh1nFhJhRmlrcHZh?si=NA1GbM30QMeNjg7QRayMhQ&utm_source=copy-link&nd=1&dlsi=4fc5cd20471e4772)**<BR>Rebound with Resilience. (February 2022). *Mental Health Caregivers: Challenges & Solution*. Retrieved 2023, November 27.
 
 
 
@@ -167,27 +175,22 @@ Sustainable Tech. *The Future of Green Technology.* Retrieved 2023, September 13
         <th></th>
 	</tr>
 	<tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover01.png"></a></td>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=01160781-6A3A-49F7-B86A-F61B49004CA1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=futurefire"><b>Future on Fire: Capitalism and the Politics of Climate Change</b></a><br>
-Camfield, David. Future on Fire: Capitalism and the Politics of Climate Change. Halifax: PM Press, 2022. 
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=80370C9C-CB23-41B5-8F6B-E8182FC8D4DD&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=wide_circumference "><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover01.png"></a></td>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=80370C9C-CB23-41B5-8F6B-E8182FC8D4DD&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=wide_circumference"><b>The wide circumference of love. </b></a><br>
+Golden, Marita. The wide circumference of love. New York: Arcade Publishing, 2015.
 <br><br>
 Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 <br><br></td>
     </tr>
     <tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=357A2955-C5EE-4CDE-A2F2-5D9C050EDDCD&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=ministryforfuture"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover02.jpg"></a></td>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=357A2955-C5EE-4CDE-A2F2-5D9C050EDDCD&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=ministryforfuture"><b>The Ministry for the Future</b></a><br>
-Robinson, Kim Stanley. The Ministry for the Future. New York: Orbit, 2021. 
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=AC4945B6-5025-4024-BC73-92DBD03F13C0&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=conscious_caregiver"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover02.jpg"></a></td>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=AC4945B6-5025-4024-BC73-92DBD03F13C0&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=conscious_caregiver"><b>The conscious caregiver: A mindful approach to caring for your loved one without losing yourself.</b></a><br>
+Abbit, Linda. The conscious caregiver: A mindful approach to caring for your loved one without losing yourself. New York: Adams Media, 2017. 
 <br><br>
 Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr>
-    <tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=future"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover03.png"></a></td>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=FD346B96-396E-4075-80BD-E2C290110FC1&utm_source=online&utm_campaign=RTBS_Oct23&utm_medium=website&utm_content=future"><b>The Future is Now: Solving the Climate Crisis with Today's Technologies</b></a><br>
-McDonald, Bob. The Future is Now: Solving the Climate Crisis with Today’s Technologies. Toronto: Viking Canada, 2022. <br><br>Retrieved from OverDrive. (myLibrary username is required to access the eBook).
-</td>
-	</tr>
+
 </table>
 
 
