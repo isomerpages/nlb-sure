@@ -29,7 +29,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 **[How to be S.U.R.E. before you share](https://go.gov.sg/2023-sure-infographic-eng)**
 
-![](../../../images/how-to-be-sure-infographic-eng.PNG)
+![	](../../../images/how-to-be-sure-infographic-eng.PNG)
 
 This infographic is also available in:
 

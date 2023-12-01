@@ -24,7 +24,7 @@ Watch the full recording:
 
 
 
-![](../images/rtbs1-speakers.JPG)
+![](https://sure.nlb.gov.sg/images/rtbs1-speakers.JPG)
 
 **Speakers:**
 
@@ -60,7 +60,7 @@ Watch the full recording:
 
  Here's a visual map of the different perspectives:
 
-<a href="https://staging-nlb-sure.netlify.app/images/RTBS1-visualmap.jpg">![](../images/RTBS1-visualmap.JPG)</a>
+<a href="https://staging-nlb-sure.netlify.app/images/RTBS1-visualmap.jpg">![](https://sure.nlb.gov.sg/images/RTBS1-visualmap.JPG)</a>
 
 
 
@@ -76,19 +76,19 @@ Return to the 5 Perspectives:
 <div>
 <div class="row is-multiline">
 <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective1/"><img src="../images/rtbs1-perspective1.jpg" alt="image 1"></a>
+<a href="/read-to-be-sure/issue1-perspective1/"><img src="https://sure.nlb.gov.sg/images/rtbs1-perspective1.jpg" alt="image 1"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective2/"><img src="../images/rtbs1-perspective2.jpg" alt="image 2"></a>
+<a href="/read-to-be-sure/issue1-perspective2/"><img src="https://sure.nlb.gov.sg/images/rtbs1-perspective2.jpg" alt="image 2"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective3/"><img src="../images/rtbs1-perspective3.jpg" alt="image 3"></a>
+<a href="/read-to-be-sure/issue1-perspective3/"><img src="https://sure.nlb.gov.sg/images/rtbs1-perspective3.jpg" alt="image 3"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective4/"><img src="../images/rtbs1-perspective4.jpg" alt="image 4"></a>
+<a href="/read-to-be-sure/issue1-perspective4/"><img src="https://sure.nlb.gov.sg/images/rtbs1-perspective4.jpg" alt="image 4"></a>
 </div>
     <div class="col is-one-fifth-desktop is-one-fifth-tablet">
-<a href="/read-to-be-sure/issue1-perspective5/"><img src="../images/rtbs1-perspective5.jpg" alt="image 5"></a>
+<a href="/read-to-be-sure/issue1-perspective5/"><img src="https://sure.nlb.gov.sg/images/rtbs1-perspective5.jpg" alt="image 5"></a>
 </div>
 </div>
 </div>

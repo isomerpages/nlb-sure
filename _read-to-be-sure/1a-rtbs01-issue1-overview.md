@@ -17,5 +17,5 @@ Watch the video below for a quick introduction to the world of fast fashion, and
 
 We would love to hear your views:
 
-<a href="https://forms.gle/ZuAp1CsG2mRdG6KM7">![](../images/rtbs1-poll.JPG)</a>
+<a href="https://forms.gle/ZuAp1CsG2mRdG6KM7">![](https://sure.nlb.gov.sg/images/rtbs1-poll.JPG)</a>
 

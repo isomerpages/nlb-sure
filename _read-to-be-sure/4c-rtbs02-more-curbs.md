@@ -10,7 +10,7 @@ third_nav_title: 'Issue #2: COVID-19 Curbs— Less or More?'
 | :---------------: |
 |                   |
 
-![](../images/rtbs2-perspective1-notext.jpg)
+![](https://sure.nlb.gov.sg/images/rtbs2-perspective1-notext.jpg)
 
 While the pandemic started unexpectedly, the world has begun to accept that it has fully transformed our daily routine. Today’s toddlers relate wearing masks to going out, and terms like “circuit breaker”, “lockdown” and “quarantine” have become mainstream. The world came to a standstill as governments took similar approaches to deal with the unknown. Public health resource considerations and a desire to prevent the spread of the virus spurred zero-COVID strategies, despite differences in political systems and development levels. 
 
@@ -23,7 +23,7 @@ While the pandemic started unexpectedly, the world has begun to accept that it h
 <details>    <summary><b>What are the downsides to having more restrictions?</b></summary>
 <p><br>Countries fear <a href="https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll">being left behind</a> in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people.</p> 
 <p><a href="https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic">Singapore</a>, <a href="https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last">Australia, New Zealand</a> and <a href="https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327">Vietnam</a>, for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the <a href="https://www.nature.com/articles/d41586-021-00396-2">global population</a> for years to come.</p> 
-<p>73% of the respondents of a <a href="https://www.iata.org/en/pressroom/2021-releases/2021-10-05-01/">survey</a> conducted by the International Air Transport Association reported that their quality of life was suffering due to travel restrictions. They had missed many “family moments, personal development opportunities and business priorities.” <img src="../images/rtbs2-perspective2-notext.jpg"></p>
+<p>73% of the respondents of a <a href="https://www.iata.org/en/pressroom/2021-releases/2021-10-05-01/">survey</a> conducted by the International Air Transport Association reported that their quality of life was suffering due to travel restrictions. They had missed many “family moments, personal development opportunities and business priorities.” <img src="https://sure.nlb.gov.sg/images/rtbs2-perspective2-notext.jpg"></p>
 </details>
 <hr>
 
@@ -33,20 +33,19 @@ While the pandemic started unexpectedly, the world has begun to accept that it h
 <div>
 <div class="row is-multiline">
     <div class="col is-one-quarter-desktop is-half-tablet">
-<a href="https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-COVID-cero-y-como-puede-ayudarnos-a-minimizar-el-impacto-de-la-pandemia- " target="_blank"><img src="../images/rtbs2-perspective1-read1.jpg" alt="What is a zero-COVID strategy and how can it help us minimise the impact of the pandemic?"></a>
+<a href="https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-COVID-cero-y-como-puede-ayudarnos-a-minimizar-el-impacto-de-la-pandemia- " target="_blank"><img src="https://sure.nlb.gov.sg/images/rtbs2-perspective1-read1.jpg" alt="What is a zero-COVID strategy and how can it help us minimise the impact of the pandemic?"></a>
 </div>
     <div class="col is-one-quarter-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=oyueyJtKnnI" target="_blank"><img src="../images/rtbs2-perspective1-watch1.jpg" alt="Understanding social distancing behaviours"></a>
+<a href="https://www.youtube.com/watch?v=oyueyJtKnnI" target="_blank"><img src="https://sure.nlb.gov.sg/images/rtbs2-perspective1-watch1.jpg" alt="Understanding social distancing behaviours"></a>
 </div>
     <div class="col is-one-quarter-desktop is-half-tablet">
-<a href="https://www.bbc.com/news/world-asia-china-59257496" target="_blank"><img src="../images/rtbs2-perspective1-read2.jpg" alt="image 4"></a>
+<a href="https://www.bbc.com/news/world-asia-china-59257496" target="_blank"><img src="https://sure.nlb.gov.sg/images/rtbs2-perspective1-read2.jpg" alt="image 4"></a>
 </div>
     <div class="col is-one-quarter-desktop is-half-tablet">
-<a href="https://www.youtube.com/watch?v=5VJJ4hRMqlk" target="_blank"><img src="../images/rtbs2-perspective1-watch2.jpg" alt="Africa’s lockdown exit strategy, the debate"></a>
+<a href="https://www.youtube.com/watch?v=5VJJ4hRMqlk" target="_blank"><img src="https://sure.nlb.gov.sg/images/rtbs2-perspective1-watch2.jpg" alt="Africa’s lockdown exit strategy, the debate"></a>
 </div>
 </div>	
 </div>
-
 
 
 

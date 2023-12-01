@@ -9,7 +9,7 @@ third_nav_title: 'Meet the SUREvivors'
 
 ## How Do You Differentiate Between Fact and Opinion?
 
-![SUREvivors Understanding Upin](../images/SURE-Activity-5-feature-image-FB.jpg)
+![SUREvivors Understanding Upin](https://sure.nlb.gov.sg/images/SURE-Activity-5-feature-image-FB.jpg)
 
 
 
@@ -27,17 +27,17 @@ When conducting research for your homework or project work, you’ll often come 
 
 **What are facts and opinions?**
 
-![](../images/surevivors-act5-01.JPG)
+![](https://sure.nlb.gov.sg/images/surevivors-act5-01.JPG)
 
 
 
-![](../images/surevivors-act5-02.JPG)
+![](https://sure.nlb.gov.sg/images/surevivors-act5-02.JPG)
 
 
 
 **How do we differentiate facts and opinions?**
 
-![](../images/surevivors-act5-03.JPG)
+![](https://sure.nlb.gov.sg/images/surevivors-act5-03.JPG)
 
 
 

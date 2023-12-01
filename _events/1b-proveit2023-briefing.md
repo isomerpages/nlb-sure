@@ -5,7 +5,7 @@ breadcrumb: '2023 Contest Briefing'
 third_nav_title: 'Prove It!'
 ---
 
-<img src="../images/ProveIt2023-logo.png" style="zoom:33%;" />
+<img src="https://sure.nlb.gov.sg/images/ProveIt2023-logo.png" style="zoom:33%;" />
 
 **Prove It! Contest 2023 Briefing**
 

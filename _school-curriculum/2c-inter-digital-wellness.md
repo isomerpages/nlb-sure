@@ -18,7 +18,7 @@ third_nav_title: 'Intermediate Level'
 
 ### Module DW2 - Positive Online Habits
 
-![](../images/inter-dw2.JPG)
+![](https://sure.nlb.gov.sg/images/inter-dw2.JPG)
 
 In this topic, you will: 
 
