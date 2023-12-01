@@ -155,10 +155,6 @@ Explore the resources below to find out more about Sustainability.
 
 **[Rethinking Care in a Fast-Ageing Society](https://nus.edu.sg/alumnet/thealumnus/issue-133/community/oar-highlights/rethinking-care-in-a-fast-ageing-society)**<BR>“Rethinking Care in a Fast-Ageing Society.” *NUS Alumnus*, April-June 2023. Retrieved 2023, November 27.
 
- 
-
-**[Can Tech Save Us From Worst of Climate Change Effects? Doesn’t Look Good](https://news.harvard.edu/gazette/story/2022/11/can-tech-save-us-from-worst-of-climate-change-effects-doesnt-look-good/)**<br>Simon, Clea, “Can Tech Save Us From Worst of Climate Change Effects? Doesn’t Look Good.” *The Harvard Gazette*, 17 November 2022. Retrieved 2023, September 13.
-
 
 
 ## Podcast
@@ -192,5 +188,4 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 	</tr>
 
 </table>
-
 
