@@ -175,7 +175,7 @@ Explore the resources below to find out more about Sustainability.
         <th></th>
 	</tr>
 	<tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=80370C9C-CB23-41B5-8F6B-E8182FC8D4DD&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=wide_circumference "><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover01.png"></a></td>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=80370C9C-CB23-41B5-8F6B-E8182FC8D4DD&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=wide_circumference "><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-iss3-bookcover01.jpg"></a></td>
         <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=80370C9C-CB23-41B5-8F6B-E8182FC8D4DD&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=wide_circumference"><b>The wide circumference of love. </b></a><br>
 Golden, Marita. The wide circumference of love. New York: Arcade Publishing, 2015.
 <br><br>
@@ -183,7 +183,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 <br><br></td>
     </tr>
     <tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=AC4945B6-5025-4024-BC73-92DBD03F13C0&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=conscious_caregiver"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-topic2-bookcover02.jpg"></a></td>
+        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=AC4945B6-5025-4024-BC73-92DBD03F13C0&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=conscious_caregiver"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-iss3-bookcover02.png"></a></td>
         <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=AC4945B6-5025-4024-BC73-92DBD03F13C0&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=conscious_caregiver"><b>The conscious caregiver: A mindful approach to caring for your loved one without losing yourself.</b></a><br>
 Abbit, Linda. The conscious caregiver: A mindful approach to caring for your loved one without losing yourself. New York: Adams Media, 2017. 
 <br><br>
