@@ -10,7 +10,7 @@ third_nav_title: 'Advanced Level'
 
 ### Module DS1 - Digital Footprint
 
-![](../images/adv-ds1.JPG)
+![](https://sure.nlb.gov.sg/images/adv-ds1.JPG)
 
 In this topic, you will: 
 
@@ -24,7 +24,7 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-ds1-adv-slides)**.
 
 ### Module DS2 - Personal Data and Privacy
 
-![](../images/adv-ds2.JPG)
+![](https://sure.nlb.gov.sg/images/adv-ds2.JPG)
 
 In this topic, you will: 
 

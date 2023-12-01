@@ -23,7 +23,7 @@ When you are done, you can post it in your social media account (e.g. Instagram 
 
 In this example below, we used “Gacha Life” to create this cartoon panel. As you can see, the SUREvivors are also masking up and maintaining their social distance in cyberspace.
 
-![](../images/surevivor-gacha.jpg)
+![](https://sure.nlb.gov.sg/images/surevivor-gacha.jpg)
 
 Stuck with ideas on your story? Here are [some tips](https://www.kidlit.tv/2016/10/how-to-make-a-comic/):
 

@@ -19,7 +19,7 @@ third_nav_title: 'Basic Level'
 
 ### Module DW2 - Positive Online Habits
 
-![](../images/basic-dw2.JPG)
+![](https://sure.nlb.gov.sg/images/basic-dw2.JPG)
 
 Let’s learn about how to achieve digital wellness!
 

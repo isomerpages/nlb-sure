@@ -9,7 +9,7 @@ breadcrumb: Infographics
 
 **[How to be S.U.R.E. before you share](https://go.gov.sg/2023-sure-infographic-eng)**
 
-![](../images/how-to-be-sure-infographic-eng.PNG)
+![](https://sure.nlb.gov.sg/images/how-to-be-sure-infographic-eng.PNG)
 
 This infographic is also available in:
 
@@ -27,7 +27,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 We encounter many images daily – through messaging apps, on social media or various information sources. However, these pictures might not always provide us with the full story. The photographs may be taken from particular angles to convey certain messages, and may have very well been cropped or altered to serve certain agendas. Hence, it is important for us to evaluate images we come across to ascertain if they are credible.  
 
-![](../images/infographic-eval-photos-3.JPG)
+![](https://sure.nlb.gov.sg/images/infographic-eval-photos-3.JPG)
 
 <hr>
 
@@ -35,7 +35,7 @@ We encounter many images daily – through messaging apps, on social media or va
 
 [Identifying **Credible Health Information**](/blog/information-literacy/il00002) 
 
-![](../images/infographic-Identifying-Credible-Health-Information-thmb.JPG)
+![](https://sure.nlb.gov.sg/images/infographic-Identifying-Credible-Health-Information-thmb.JPG)
 
 
 
@@ -52,13 +52,13 @@ This infographic is also available in **[Chinese](/blog/information-literacy/il0
 <hr>
 [**Fact-Checking Using Multiple Sources**](/infographic/Multiple-Sources-English_revised.pdf)
 
-![](../images/Multiple-Sources-Header.jpg)
+![](https://sure.nlb.gov.sg/images/Multiple-Sources-Header.jpg)
 
 If you receive any dubious information, you can check the facts using credible sources before you share.
 
 
 
-![](../images/dubious-messages-English.png)
+![](https://sure.nlb.gov.sg/images/dubious-messages-English.png)
 
 **[How To Deal With Dubious Messages](/infographic/Dubious-Messages-Eng.pdf)**
 
@@ -92,7 +92,7 @@ Cerita palsu mudah disebarkan menerusi khidmat pesanan ringkas (SMS), alat dan a
 
 <hr>
 
-![](../images/seniors-fake-news.JPG)
+![](https://sure.nlb.gov.sg/images/seniors-fake-news.JPG)
 
 **[How seniors can fight fake news](/infographic/Infog-1-Marcus-Chin-English-FINAL-002.pdf)**
 
@@ -127,7 +127,7 @@ Jangan mudah mempercayai semua yang baca di dalam talian. Pastikan anda menyemak
 <hr>
 **[Newspaper SG](/infographic/NLB_NewspaperSG_v5.pdf)**
 
-![](../images/NewspaperSG-masthead-1050x536.jpg)
+![](https://sure.nlb.gov.sg/images/NewspaperSG-masthead-1050x536.jpg)
 
 Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore and Malaya and how to think critically when reading news articles.  
 
@@ -136,7 +136,7 @@ Learn about Newspaper SG, NLB’s online archive of newspapers from Singapore an
 <hr>
 **[Be S.U.R.E . about your research](/infographic/Be-SURE_Infographic_Hires.pdf)**
 
-![](../images/besure-infographicheader-e1450169907842-1050x700.png)
+![](https://sure.nlb.gov.sg/images/besure-infographicheader-e1450169907842-1050x700.png)
 
 How well do you know about the information you receive? Are you sure about the information your friend shared or the information you read online? Learn how to apply the 4 ways of S.U.R.E. to discern information in our daily activities, such as shopping and eating.
 

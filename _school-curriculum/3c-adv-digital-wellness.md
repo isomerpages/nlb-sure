@@ -18,7 +18,7 @@ third_nav_title: 'Advanced Level'
 
 ### Module DW2 - Positive Online Habits
 
-![](../images/adv-dw2.JPG)
+![](https://sure.nlb.gov.sg/images/adv-dw2.JPG)
 
 In this topic, you will: 
 
