@@ -17,7 +17,7 @@ Prebunking comes in different forms. [Google has produced a series of videos](ht
 
 ### Robert the Otter comic
 
-![](../images/robert-otter-prebunk.jpg)
+![](https://sure.nlb.gov.sg/images/robert-otter-prebunk.jpg)
 
 Still unsure about prebunking? Let Robert the Otter explain it to you in this comic, available in [Facebook](https://www.facebook.com/roberttheotter/posts/pfbid02TmKYYonZnB4RsAFEG9A4J5R53PT7sD9Kuof5YuMkaTpMGkPcnZbBojDx1WFJ5t6Wl) and Instagram (see below):
 

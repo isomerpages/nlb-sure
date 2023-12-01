@@ -7,7 +7,7 @@ breadcrumb: 'Introduction'
 
 [Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Gen AI in SG](/generative-ai/generative-ai-singapore/)
 
-![](../images/gen-ai-whatis.png)
+![](https://sure.nlb.gov.sg/images/gen-ai-whatis.png)
 
 The recent advances in generative artificial intelligence (AI) have garnered significant public attention. We have prepared various **[programmes](/generative-ai/programmes/)** and [**resources**](/generative-ai/resource-toolkit/) to help the public to be aware of generative AI and its broad applications and to equip them to use it effectively and safely through the lens of the S.U.R.E. (information literacy) framework.
 
@@ -44,11 +44,11 @@ When asked to provide an explanation to a young child, ChatGPT's explanation was
 >
 > It can imagine new animals like a "**cat-dog**" by combining different animals. e.g. from images of cats and dogs:
 >
-> ![](../images/gen-ai-cat-and-dog.png)
+> ![](https://sure.nlb.gov.sg/images/gen-ai-cat-and-dog.png)
 >
 > to cat-dog hybrids:
 >
-> ![](../images/gen-ai-catdog.png)
+> ![](https://sure.nlb.gov.sg/images/gen-ai-catdog.png)
 >
 > 
 >

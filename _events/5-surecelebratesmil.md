@@ -6,7 +6,7 @@ third_nav_title: 'S.U.R.E. Celebrates M.I.L.'
 
 ---
 
-![](../images/FA_NLB_SURE_Eventbrite_1272x424.jpg)
+![](https://sure.nlb.gov.sg/images/FA_NLB_SURE_Eventbrite_1272x424.jpg)
 
 ## About S.U.R.E. Celebrates M.I.L.
 

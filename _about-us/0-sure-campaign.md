@@ -35,7 +35,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 **[How to be S.U.R.E. before you share](https://go.gov.sg/2023-sure-infographic-eng)**
 
-![](../images/how-to-be-sure-infographic-eng.PNG)
+![](https://sure.nlb.gov.sg/images/how-to-be-sure-infographic-eng.PNG)
 
 This infographic is also available in:
 
@@ -49,7 +49,7 @@ This infographic is also available in:
 
 #### **Who we are and What we do**
 
-![S.U.R.E. poster for brochure](../images/aboutsureheader-600x318.png)
+![S.U.R.E. poster for brochure](https://sure.nlb.gov.sg/images/aboutsureheader-600x318.png)
 
 We get people to start thinking about the information they receive every day and its sources through awareness marketing, training and engaging the public.
 

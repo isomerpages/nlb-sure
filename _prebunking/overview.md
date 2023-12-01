@@ -21,7 +21,7 @@ Read the articles about [fake health advisories](/prebunking/writeup1/) and the 
 
 ## POSTERS
 
-![](../images/prebunking-infographics-thmb.png)
+![](https://sure.nlb.gov.sg/images/prebunking-infographics-thmb.png)
 
 Download the posters here:
 

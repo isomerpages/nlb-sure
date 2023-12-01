@@ -6,7 +6,7 @@ third_nav_title: 'Let&#39;s be S.U.R.E.'
 
 ---
 
-![](../images/letsbesure-activations.png)
+![](https://sure.nlb.gov.sg/images/letsbesure-activations.png)
 
 Get ready for a thrilling cyber adventure with your family this August 2023! “Let's be S.U.R.E. together” and explore the online world while ensuring safety and well-being for your digitally savvy family.
 
@@ -26,6 +26,6 @@ Don't miss out on month-long displays at Jurong Regional Library, Woodlands Regi
 
 Join us for an unforgettable experience that will leave your family digitally S.U.R.E.!
 
-Parents: Download the Parenting Toolkit **[HERE](https://go.gov.sg/sure-parenting-toolkit)** (about 7MB):![](../images/sure-parenting-toolkit-sm.JPG)
+Parents: Download the Parenting Toolkit **[HERE](https://go.gov.sg/sure-parenting-toolkit)** (about 7MB):![](https://sure.nlb.gov.sg/images/sure-parenting-toolkit-sm.JPG)
 
  
