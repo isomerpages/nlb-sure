@@ -119,7 +119,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-![](https://sure.nlb.gov.sg//images/RTBS_T2_FBIG-231004.jpg)
+![](https://sure.nlb.gov.sg/images/RTBS_T2_FBIG-231004.jpg)
 
 
 
