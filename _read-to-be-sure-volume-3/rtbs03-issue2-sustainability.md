@@ -1,6 +1,6 @@
 ---
 title: 'Sustainability'
-permalink: /read-to-be-sure-volume-2/issue2-sustainability/
+permalink: /read-to-be-sure-volume-3/issue2-sustainability/
 breadcrumb: 'Issue 2 - Sustainability'
 image: ../images/RTBS-T2-KV-draft.jpg
 ---
@@ -9,7 +9,7 @@ image: ../images/RTBS-T2-KV-draft.jpg
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
-![](../images/RTBS-T2-KV-draft.jpg)
+![](https://sure.nlb.gov.sg/images/RTBS-T2-KV-draft.jpg)
 
 Are you feeling the heat? It’s not just you – Singapore’s annual mean temperature has been on the rise due to [climate change](https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/). But it’s not just about feeling uncomfortable – the effects of climate change are far-reaching and can impact our way of life, from water resources to food security. 
 
@@ -119,7 +119,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-![](../images/RTBS_T2_FBIG-231004.jpg)
+![](https://sure.nlb.gov.sg/images/RTBS_T2_FBIG-231004.jpg)
 
 
 

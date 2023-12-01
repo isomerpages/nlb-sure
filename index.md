@@ -28,18 +28,10 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'Navigating the Digital Age: Building Trust via Media & Information Literacy'
-          subtitle: 'For everyone'
-          description: Join us our panelists as they share their knowledge and thoughts how to navigate the digital age with media and information literacy skills. 
-          url: https://www.eventbrite.sg/e/navigating-the-digital-age-building-trust-via-media-information-literacy-tickets-736993686957?aff=oddtdtcreator
-          image: /images/COP_panel_07nov2023.png
-          alt: 'Navigating the Digital Age: Building Trust via Media & Information Literacy'
-          button: 'Sign up now'
-    - infopic:
           title: 'Read to be SURE, Volume 3, Issue 2: Sustainability'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Sustainability. Does science and technology harming or healing the environment? 
-          url: /read-to-be-sure-volume-2/issue2-sustainability/
+          url: /read-to-be-sure-volume-3/issue2-sustainability/
           image: /images/RTBS-T2-KV-draft.jpg
           alt: 'Read to be SURE, Volume 3, Issue 2: Sustainability'
           button: 'Explore now'
@@ -58,7 +50,7 @@ sections:
           url: /read-to-be-sure-volume-3/youth-debate-28oct2023/
           image: /images/rtbs-vol3-school-debate2-web-banner.png
           alt: 'alt text'
-          button: 'Register now!'
+          button: 'Find out more'
     - infopic:
           title: 'Read to be SURE, Volume 3 Issue 1: Generative A.I.'
           subtitle: 'For everyone'

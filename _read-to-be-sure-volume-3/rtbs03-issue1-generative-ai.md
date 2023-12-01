@@ -9,7 +9,7 @@ image: ../images/rtbs-vol3-iss1-web-banner3.png
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
-![](../images/rtbs-vol3-iss1-web-banner2.png)
+![](https://sure.nlb.gov.sg/images/rtbs-vol3-iss1-web-banner2.png)
 
 Generative artificial intelligence (GenAI) is taking the world by storm, and for good reason. It has gone mainstream and could revolutionise society and the economy as we know it. This technology has caused both [excitement and fear about the future](https://www.pewresearch.org/internet/2023/06/21/as-ai-spreads-experts-predict-the-best-and-worst-changes-in-digital-life-by-2035/). [72% of Singaporeans surveyed are excited](https://sg.style.yahoo.com/more-working-singaporeans-excited-generative-171604863.html?guccounter=1) to use GenAI at work, but 51% cited worries about jobs. 
 
@@ -113,11 +113,11 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 View poll results **[here](https://docs.google.com/forms/d/1nzChGP3YBEF-_YPiocfD8aEC4_dl8twQ4IfrbfUPoII/viewanalytics)**.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7IVnyqWfCsaV-TVGzxNZiSIcP9EvpDt9fQ42CsFTYC69m_A/viewform?embedded=true" width="640" height="1529" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpOHgd2jxpqZv0rI1aD2T48BJr-udbiqLCsG7Z-30N3ER_Tw/viewform?embedded=true" width="640" height="1167" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ​	
 
-![](../images/RTBS-T1-KV_230725.png)
+![](https://sure.nlb.gov.sg/images/RTBS-T1-KV_230725.png)
 
 
 
