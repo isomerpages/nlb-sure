@@ -44,7 +44,7 @@ The key <a href="https://www.ncss.gov.sg/docs/default-source/ncss-publications-d
 <a href="https://www.ncss.gov.sg/docs/default-source/ncss-publications-doc/pdfdocument/qol-caregiver-report.pdf?sfvrsn=d2655a29_6">Organisations</a> that cater to specific groups of caregivers include Agency for Integrated Care (for caregivers of seniors, persons with dementia and mental health conditions); SG Enable (for caregivers of persons with disabilities); Movement for the Intellectually Disabled of Singapore; Dementia Singapore; Caregiving Welfare Association; Caregivers Alliance Limited; and Caregivers' Association of the Mentally Ill.
 <br><br>
 </td>
-		<td><b>Caregivers are still in need of more support..</b>
+		<td><b>Caregivers are still in need of more support.</b>
 <br><br>
 The <a href="https://www.ncss.gov.sg/docs/default-source/ncss-publications-doc/pdfdocument/qol-caregiver-report.pdf?sfvrsn=d2655a29_6">NCSS Quality of Life of Caregivers study</a> shows that 53% of caregivers were "burdened" or “barely coping” and had lower quality of life and self-efficacy. They faced financial problems, health issues, schedule disruption, and lack of family support caregiver. <a href="https://www.moh.gov.sg/caregiver-support">Informal caregiving</a> will continue to rise given that by 2030, about <a href="https://www.channelnewsasia.com/singapore/big-read-ageing-population-more-seniors-needing-care-assisted-living-3599786">100,000 seniors</a> will require help with at least one daily living activity.
 <br><br>
