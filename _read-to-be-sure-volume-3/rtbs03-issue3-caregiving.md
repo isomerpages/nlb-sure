@@ -9,9 +9,7 @@ image: https://sure.nlb.gov.sg/images/RTBS-T2-KV-draft.jpg
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
-##PLACEHOLDER FOR WEB BANNER##
-
-![](https://sure.nlb.gov.sg/images/RTBS-T2-KV-draft.jpg)
+![](../images/RTBS_T3-WebBanner_231207.jpg)
 
 In Singapore, [caregivers](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-edwin-tong-senior-minister-of-state-for-health-in-response-to-motions-on-support-for-caregivers-and-ageing-with-purpose) are the unsung heroes of society, providing vital support to seniors, children and persons with disabilities (PwDs). Yet all too often their contributions remain invisible.  
 
@@ -22,11 +20,6 @@ While [services for autistic children](https://www.channelnewsasia.com/singapore
 Come 2030, [1 in 4 Singaporeans](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-Singapore-Ageing-Issues-and-Challenges-Ahead-Book-Launch) will be aged 65 and above. With [low birth](https://www.straitstimes.com/singapore/singapore-s-birth-rates-hit-record-low-in-2022-along-with-most-yearly-deaths-since-1960) rates and [increased life expectancy,](https://www.duke-nus.edu.sg/allnews/super-aged-singapore-society) the [rapid ageing population](https://www.straitstimes.com/singapore/singapores-population-ageing-rapidly-184-of-citizens-are-65-years-and-older) will have significant implications for caregiving, including fewer family members supporting older adults and a growing “[sandwich generation](https://www.channelnewsasia.com/singapore/sandwich-generation-money-elderly-parents-children-singapore-population-2970826)” caring for both children and older family members.
 
 [Caregivers](https://journals.lww.com/smj/fulltext/2022/10000/caregiver_burden_and_its_prevalence,_measurement.7.aspx) need concerted and [targeted support](https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08317-3.pdf) as they provide multidimensional care, including physical, medical, financial, psychological and social assistance. The government has introduced policies to enhance access to care such as [CareShield Life](https://www.careshieldlife.gov.sg/home.html), [Home Caregiving Grant](https://www.moh.gov.sg/healthcare-schemes-subsidies/caregiver-grants-subsidies), [Active Aging Care Hubs](https://aic-mosaic.sg/2021/06/03/active-ageing-centre-care-hub-aac-aach-singapore-seniors/), as well as [Caregiver Support Action Plan](https://www.moh.gov.sg/caregiver-support). [Employers](https://www.businesstimes.com.sg/singapore/ntuc-calls-flexi-work-statutory-paid-leave-workers-who-are-caregivers) are also encouraged to provide flexible work arrangements and paid leave to workers who are caregivers.
-
-##PLACEHOLDER FOR TRAILER VIDEO##
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rj8C_uEdPjM?si=FozyfVl83zCTK3_D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 
 
@@ -97,12 +90,6 @@ Caregivers also have lower quality of life in social relationships and personal 
 	</tr>
 </table>
 
-Let's hear  our guest speakers weigh in on this issue:
-
-##PLACEHOLDER FOR MAIN VIDEO ##
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P39XClXxuao?si=Mm-ZfJ2wxM06kx96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 
 
@@ -119,10 +106,6 @@ If you are unable to view the embedded form below, please click **<a href="https
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8FX8KEI0g9m9iInsWldDy2NWMJW94SjraGNnsCBL9OadXvw/viewform?embedded=true" width="640" height="1800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ​	
-
-## PLACEHOLDER FOR KEY VISUAL ##
-
-![](https://sure.nlb.gov.sg/images/RTBS_T2_FBIG-231004.jpg)
 
 
 
