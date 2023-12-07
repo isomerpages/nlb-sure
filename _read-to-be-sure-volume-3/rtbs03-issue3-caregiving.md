@@ -9,7 +9,7 @@ image: https://sure.nlb.gov.sg/images/RTBS-T2-KV-draft.jpg
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
-![](../images/RTBS_T3-WebBanner_231207.jpg)
+![](https://staging-nlb-sure.netlify.app/images/RTBS_T3-WebBanner_231207.jpg)
 
 In Singapore, [caregivers](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-edwin-tong-senior-minister-of-state-for-health-in-response-to-motions-on-support-for-caregivers-and-ageing-with-purpose) are the unsung heroes of society, providing vital support to seniors, children and persons with disabilities (PwDs). Yet all too often their contributions remain invisible.  
 
