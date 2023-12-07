@@ -31,7 +31,7 @@ Come 2030, [1 in 4 Singaporeans](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Lo
 
 <table border="2" style="background-color:#FFFFFF;border-collapse:collapse;border:2px solid #000000;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
-        <th style="width:50%"><font size=5>Yes Singapore is a developed nation that has well-supported caregivers for different conditions.</font></th>
+        <th style="width:50%"><font size=5>Yes, Singapore is a developed nation that has well-supported caregivers for different conditions.</font></th>
         <th><font size=5>No, Singapore still has a long way to go to provide a supportive ecosystem for caregivers.</font></th>
 	</tr>
 	<tr>
