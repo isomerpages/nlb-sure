@@ -2,14 +2,14 @@
 title: 'Caregiving'
 permalink: /read-to-be-sure-volume-3/issue3-caregiving/
 breadcrumb: 'Issue 3 - Caregiving'
-image: https://staging-nlb-sure.netlify.app/images/RTBS_T3-WebBanner_231207-min.jpg
+image: https://sure.nlb.gov.sg/images/RTBS_T3-WebBanner_231207-min.jpg
 ---
 
 <a name="top"></a>
 
  **<a href="#perspectives">Perspectives</a>**   /  **<a href="#poll">Poll</a>**   /   **<a href="#resources">Recommended Resources</a>** 
 
-![](https://staging-nlb-sure.netlify.app/images/RTBS_T3-WebBanner_231207.jpg)
+![](https://sure.nlb.gov.sg/images/RTBS_T3-WebBanner_231207.jpg)
 
 In Singapore, [caregivers](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-edwin-tong-senior-minister-of-state-for-health-in-response-to-motions-on-support-for-caregivers-and-ageing-with-purpose) are the unsung heroes of society, providing vital support to seniors, children and persons with disabilities (PwDs). Yet all too often their contributions remain invisible.  
 
@@ -108,7 +108,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-![](https://staging-nlb-sure.netlify.app/images/RTBS_T3-FB-IG_231207-min.jpg)
+![](https://sure.nlb.gov.sg/images/RTBS_T3-FB-IG_231207-min.jpg)
 
 <HR>
 <a name="resources"></a>
