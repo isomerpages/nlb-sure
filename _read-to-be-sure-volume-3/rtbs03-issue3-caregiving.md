@@ -2,7 +2,7 @@
 title: 'Caregiving'
 permalink: /read-to-be-sure-volume-3/issue3-caregiving/
 breadcrumb: 'Issue 3 - Caregiving'
-image: https://staging-nlb-sure.netlify.app/images/RTBS-T2-KV-draft.jpg
+image: https://staging-nlb-sure.netlify.app/images/RTBS_T3-WebBanner_231207-min.jpg
 ---
 
 <a name="top"></a>
@@ -107,7 +107,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-
+![](https://staging-nlb-sure.netlify.app/images/RTBS_T3-FB-IG_231207-min.jpg)
 
 <HR>
 <a name="resources"></a>
