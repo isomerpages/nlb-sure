@@ -21,7 +21,8 @@ Come 2030, [1 in 4 Singaporeans](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Lo
 
 [Caregivers](https://journals.lww.com/smj/fulltext/2022/10000/caregiver_burden_and_its_prevalence,_measurement.7.aspx) need concerted and [targeted support](https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08317-3.pdf) as they provide multidimensional care, including physical, medical, financial, psychological and social assistance. The government has introduced policies to enhance access to care such as [CareShield Life](https://www.careshieldlife.gov.sg/home.html), [Home Caregiving Grant](https://www.moh.gov.sg/healthcare-schemes-subsidies/caregiver-grants-subsidies), [Active Aging Care Hubs](https://aic-mosaic.sg/2021/06/03/active-ageing-centre-care-hub-aac-aach-singapore-seniors/), as well as [Caregiver Support Action Plan](https://www.moh.gov.sg/caregiver-support). [Employers](https://www.businesstimes.com.sg/singapore/ntuc-calls-flexi-work-statutory-paid-leave-workers-who-are-caregivers) are also encouraged to provide flexible work arrangements and paid leave to workers who are caregivers.
 
-
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s1kfeSqmKdE?si=F04LkSihi0Mtht_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## **However, are caregivers being supported equally with respect to the broad range of care recipients?**
 
@@ -91,7 +92,10 @@ Caregivers also have lower quality of life in social relationships and personal 
 </table>
 
 
+Let’s hear our guest speakers weigh in on this issue:
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_bpYj_ghLo?si=_z9nixVH1joOGSGV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 
 <hr>
