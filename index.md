@@ -28,6 +28,14 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
+          title: 'Read to be SURE, Volume 3, Issue 3: Caregiving'
+          subtitle: 'For everyone'
+          description: In this issue of Read to be SURE, explore multiple perspectives about Caregiving. Are caregivers being supported equally with respect to the broad range of care recipients? 
+          url: /read-to-be-sure-volume-3/issue3-caregiving/
+          image: /images/RTBS_T3-WebBanner_231207-min.jpg
+          alt: 'Read to be SURE, Volume 3, Issue 3: Caregiving'
+          button: 'Explore now'
+    - infopic:
           title: 'Read to be SURE, Volume 3, Issue 2: Sustainability'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Sustainability. Does science and technology harming or healing the environment? 
