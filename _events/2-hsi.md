@@ -50,7 +50,7 @@ We would like to congratulate the following school teams for achieving the top 3
 
   
 
-We would also like to congratulate the following 7 runner-up teams (listed in no particular order of merit) for achieving the top 10 positions for their schools:
+We would also like to congratulate the following 7 Merit Award winners (listed in no particular order of merit) for achieving the top 10 positions for their schools:
 
 
 
