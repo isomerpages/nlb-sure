@@ -9,7 +9,7 @@ image: ../../https://sure.nlb.gov.sg/images/hsi2023-logo.PNG
 
 **HSI Challenge 2023**
 
-Organized by the National Library Board and supported by the Ministry of Education (Humanities Branch, History Unit), the Historical Scene Investigation (HSI) Challenge is an inter-school contest in which students put their historical inquiry and research skills to the test. 
+Organised by the National Library Board and supported by the Ministry of Education (Humanities Branch, History Unit), the Historical Scene Investigation (HSI) Challenge is an inter-school contest in which students put their historical inquiry and research skills to the test. 
 
 Opened to lower secondary school students, this year’s HSI Challenge focused on the period between 1945 and 1965, in which the students explored the lives of Singaporeans and events that played a significant role in shaping the lives of the people leading up to Singapore's independence. Each team was required to create a video to highlight their historical investigation findings, along with a written report with cited sources.
 
