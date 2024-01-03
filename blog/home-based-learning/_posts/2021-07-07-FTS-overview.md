@@ -1,0 +1,26 @@
+---
+title: 'A Journey Through Time with the National Library'
+date: 2021-07-07T00:00:00.000Z
+permalink: /blog/home-based-learning/dd00017/
+
+---
+
+As the lower secondary students embark on the journey of learning more about Singapore’s rich history from 1299 to the 1970s, four informative videos have been selected for this Blended Learning Package from the vast collection of the National Library, with an aim to pique their interest in history through providing specially curated resources to make their learning more interesting and engaging.
+
+The four selected videos from the National Library’s *From the Stacks* collection featured letters, documents, newspapers and a map written or printed during a particular period in the history of Singapore:
+
+1. [Chart of a Skirmish between the Dutch and the Portuguese in the Johor River](/blog/home-based-learning/dd00012) – from 1606, during the era of the Johor Sultanate
+
+2. [Letters from Sir Thomas Stamford Raffles to Lord Lansdowne](/blog/home-based-learning/dd00015) – from the 1820s, after the British established a trading post in Singapore
+
+3. [Collection of Business Documents on the Seletar Rubber Estates Limited](/blog/home-based-learning/dd00013) – from 1909 to 1921, when Singapore became a major processor and exporter of rubber
+
+4. [The Syonan Shimbun](/blog/home-based-learning/dd00014) – from 1942 to 1945, during the Japanese Occupation
+
+ 
+
+There is also a **Kahoot! Challenge quiz** for each video, to ensure that the student’s learning experience has been fruitful.
+
+*From the Stacks* is a collection of exclusive videos highlighting rare materials of historical significance in the National Library’s collection. More videos from the collection can be found on [YouTube](https://www.youtube.com/watch?v=4zBP_apFlUE&list=PL8iW4pSvDCw5rD_C-bq7S_svQwuSwsOKK).
+
+Please visit these websites for more e-resources from the National Library and the National Archives: The National Library Board e-Resources ([https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/)) and Archives Online ([https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/)).

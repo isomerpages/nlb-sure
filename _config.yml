@@ -1,0 +1,130 @@
+title: 'National Library Board Singapore'
+description: 'The S.U.R.E. campaign is an initiative by the National Library Board to promote the importance of information searching and discernment. The nation-wide campaign was launched in 2013, and Singapore is the first country outside of the United States to promote Information Literacy (IL) on a national scale for the general public.'
+url: 'https://sure.nlb.gov.sg'
+google_analytics: UA-50449401-2
+google_analytics_ga4: G-KZR7EN9JTE
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
+collections:
+    about-us:
+        output: true
+    covid19:
+        output: true
+    tours-and-workshops:
+        output: true
+    online learning journeys:
+        output: true
+    workshops:
+        output: true
+    read-to-be-sure:
+        output: true
+    rtbs-intro:
+        output: true
+    issue1-introduction:
+        output: true
+    issue2-overview:
+        output: true
+    issue3-overview:
+        output: true
+    issue4-ukraine:
+        output: true
+    read-to-be-sure-volume-2:
+        output: true
+    issue1-gender-equality:
+        output: true
+    issue2-metaverse:
+        output: true
+    hottopic-world-cup:
+        output: true
+    issue3-education:
+        output: true
+    issue4-workrevolution:
+        output: true
+    mainstage-debate:
+        output: true
+    read-to-be-sure-volume-3:
+        output: true
+    issue1-generative-ai:
+        output: true
+    issue2-sustainability:
+        output: true
+    issue3-caregiving:
+        output: true
+    youth-debate-28oct2023:
+        output: true
+    school-curriculum:
+        output: true
+    generative-ai:
+        output: true
+    prebunking:
+        output: true 
+    tng:
+        output: true
+    pri-activity:
+        output: true
+    surevivors-activity:
+        output: true
+    resources:
+        output: true
+    resources-by-audience:
+        output: true
+    resources-by-format:
+        output: true
+    resources-by-topics:
+        output: true
+    events:
+        output: true
+    ongoing-events:
+        output: true
+    past-events:
+        output: true
+    school-resources:
+        output: true
+    engage-us:
+        output: true
+resources_name: blog
+paginate: 12
+paginate_path: '/blog/page:num'
+favicon: /images/sure-favicon.jpg
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
+
+colors:
+    primary-color: '#1B98C2'
+    secondary-color: '#cc0000'
+    media-colors:
+        - title: media-color-one
+          color: '#007CB3' 
+        - title: media-color-two
+          color: '#E86826'
+        - title: media-color-three
+          color: '#ED0000'
+        - title: media-color-four
+          color: '#007CB3'
+        - title: media-color-five
+          color: '#E86826'

@@ -1,0 +1,112 @@
+logo: /images/nl-logo.jpg
+links:
+    - title: 'About Us'
+      url: /about-us/sure-campaign/
+      false_collection: true
+      sublinks:
+            - title: 'SURE (Information Literacy) Campaign'
+              url: /about-us/sure-campaign/
+    - title: 'Tours & Workshops'
+      url: /tours-and-workshops/learn/
+      false_collection: true
+      sublinks:
+            - title: 'SURE Programmes & Content for Schools 2024'
+              url: /tours-and-workshops/school-programmes2024/
+            - title: 'News Gallery tour'
+              url: /tours-and-workshops/tng-virtual-tour/
+            - title: 'H.I. workshop'
+              url: /tours-and-workshops/hi-workshop/
+            - title: 'Research workshop'
+              url: /tours-and-workshops/academic-skills-workshop/
+            - title: 'Teachers’ workshop'
+              url: /tours-and-workshops/teachers-cfn-workshop/
+
+
+    - title: 'Read to be Sure'
+      url: /read-to-be-sure-volume-3/issue3-caregiving/
+      false_collection: true
+      sublinks:
+            - title: 'What is Read to be SURE?'
+              url: /read-to-be-sure/intro-volume3/
+            - title: 'Volume 3, Issue 1: Generative AI'
+              url: /read-to-be-sure-volume-3/issue1-generative-ai/
+            - title: 'Volume 3, Issue 2: Sustainability'
+              url: /read-to-be-sure-volume-3/issue2-sustainability/
+            - title: 'Volume 3, Issue 3: Caregiving'
+              url: /read-to-be-sure-volume-3/issue3-caregiving/
+            - title: 'RTBS Youth Debate (28 Oct 2023)'
+              url: /read-to-be-sure-volume-3/youth-debate-28oct2023/
+            - title: 'Volume 2, Issue 1: Gender Equality'
+              url: /read-to-be-sure-volume-2/issue1-gender-equality/
+            - title: 'Volume 2, Issue 2: Metaverse'
+              url: /read-to-be-sure-volume-2/issue2-metaverse/
+            - title: 'Volume 2, Special Issue: World Cup 2022'
+              url: /read-to-be-sure-volume-2/special-issue1-worldcup/
+            - title: 'Volume 2, Issue 3: Higher Education'
+              url: /read-to-be-sure-volume-2/issue3-education/
+            - title: 'Volume 2, Issue 4: Work Revolution'
+              url: /read-to-be-sure-volume-2/issue4-workrevolution/
+            - title: 'Volume 2, Public Debate'
+              url: /read-to-be-sure-volume-2/mainstage-debate/
+            - title: 'Volume 1, Issue 1: Fast Fashion'
+              url: /read-to-be-sure/issue1-introduction/
+            - title: 'Volume 1, Issue 2: COVID-19 Restrictions'
+              url: /read-to-be-sure/issue2-overview/
+            - title: 'Volume 1, Issue 3: Cryptocurrencies & NFTs'
+              url: /read-to-be-sure/issue3-overview/
+            - title: 'Volume 1, Issue 4: Russia-Ukraine Information War'
+              url: /read-to-be-sure/issue4-ukraine/
+    - title: School Courseware
+      url: /resources/school-curriculum/
+      false_collection: true
+      sublinks:
+            - title: Basic (Primary)
+              url: /resources/school-curriculum/basic/part1-sure/
+            - title: Intermediate (Secondary)
+              url: /resources/school-curriculum/intermediate/part1-sure/
+            - title: Advanced (Pre-U/JC)
+              url: /resources/school-curriculum/advanced/part1-sure/
+    - title: Resources
+      url: /generative-ai/what-is-generative-ai/
+      false_collection: true
+      sublinks:
+            - title: 'Generative A.I.'
+              url: /generative-ai/what-is-generative-ai/
+            - title: 'Prebunking'
+              url: /prebunking/overview/
+            - title: 'News Gallery activities'
+              url: /tng/the-news-gallery-learning-journey/
+            - title: 'SUREvivors Activities'
+              url: /tng/surevivors-activity/
+            - title: Audience
+              url: /resources/audience/
+            - title: Formats
+              url: /resources/format/
+    - title: Events
+      url: /events/lets-be-sure-about/
+      false_collection: true
+      sublinks:
+            - title: 'Let&#39;s be S.U.R.E. 2023'
+              url: /events/lets-be-sure-about/
+            - title: 'Prove It! 2023'
+              url: /events/proveit2023/
+            - title: 'Historical Scene Investigation 2023'
+              url: /events/hsi2023/
+            - title: 'S.U.R.E. Celebrates M.I.L. 2022'
+              url: /events/surecelebratesmil/
+    - title: Blog
+      url: /blog/
+      false_collection: true
+      sublinks:
+            - title: 'Fake News'
+              url: /blog/fake-news/
+            - title: 'Seniors'
+              url: /blog/seniors/
+            - title: 'HBL'
+              url: /blog/home-based-learning/
+            - title: 'Information Literacy'
+              url: /blog/information-literacy/
+            - title: 'Tech'
+              url: /blog/tech/
+    - title: 'Contact Us'
+      url: /contact-us/
