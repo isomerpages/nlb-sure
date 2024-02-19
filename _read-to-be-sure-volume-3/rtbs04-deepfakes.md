@@ -109,15 +109,9 @@ TED. (2023, May 19). *[The Incredible Creativity of Deepfakes – and the Worryi
 
 Axelrod, J. (2024, Jan 18). [Think deepfakes are bad? ‘Cheapfakes’ are far more dangerous](https://www.thedailybeast.com/think-deepfakes-are-bad-cheapfakes-are-far-more-dangerous). *The Daily Beast.* Retrieved 2024, January 25. 
 
- 
-
 Leong, D. (2024, Jan 17). [Commentary: PM Lee’s deepfake video and the risk when seeing is no longer believing](https://www.channelnewsasia.com/commentary/deepfake-pm-lee-scam-danger-disinformation-election-4050821). *CNA*. Retrieved 2024, January 25. 
 
- 
-
 Katira, Kirti. (2023, Dec 27). [Explained. What are deepfakes and how to spot them?](https://www.wionews.com/entertainment/lifestyle/news-explained-what-are-deepfakes-and-how-to-spot-them-655753) *Wionews.* Retrieved 2024, January 26.
-
- 
 
 Patterson, D. (2023, October 5). [Deepfakes for good? How synthetic media is transforming business](https://techinformed.com/deepfakes-for-good-how-synthetic-media-is-transforming-business/). *Tech Informed.* Retrieved 2024, January 24. 
 
