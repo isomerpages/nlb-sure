@@ -137,7 +137,7 @@ BBC. (2022, May 17). [The future will be synthesized: Deepfakes for disinformati
         <th></th>
 	</tr>
 	<tr>
-        <td><a href="https://nlb.overdrive.com/media/5787734"><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss4-bookcover1.jpg"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/5787734"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-iss4-bookcover1.jpg"></a></td>
         <td><a href="https://nlb.overdrive.com/media/5787734"><b>Deepfakes: The Coming Infocalypse</b></a><br>
 Scnick, N. (2020). Deepfakes: The Coming Infocalypse. New York: Grand Central Publishing. 
 <br><br>
@@ -145,7 +145,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 <br><br></td>
     </tr>
     <tr>
-        <td><a href="https://nlb.overdrive.com/media/5600231 "><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss4-bookcover2.png"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/5600231 "><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-iss4-bookcover2.png"></a></td>
         <td><a href="https://nlb.overdrive.com/media/5600231 "><b>Deepfake.</b></a><br>
 Abbit, Linda. The conscious caregiver: A mindful approach to caring for your loved one without losing yourself. New York: Adams Media, 2017. 
 <br><br>
@@ -153,7 +153,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr>
         <tr>
-        <td><a href="https://nlb.overdrive.com/media/9563844"><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss4-bookcover3.png"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/9563844"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-iss4-bookcover3.png"></a></td>
         <td><a href="https://nlb.overdrive.com/media/9563844"><b>The Coming Wave: Technology, Power and the Twenty-First Century’s Greatest Dilemma. </b></a><br>
 Suleyman, M. and Bhaskar, M. (2023). The Coming Wave: Technology, Power and the Twenty-First Century’s Greatest Dilemma. New York: Crown.
 <br><br>
@@ -161,7 +161,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr> 
         <tr>
-        <td><a href="https://nlb.overdrive.com/media/9699616"><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss4-bookcover4.png"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/9699616"><img src="https://sure.nlb.gov.sg/images/rtbs-vol3-iss4-bookcover4.png"></a></td>
         <td><a href="https://nlb.overdrive.com/media/9699616"><b>Exploring Deepfakes: Deploy powerful AI techniques for face replacement and more with this comprehensive guide. </b></a><br>
 Lyon, B. and Tora, M. (2023). Exploring Deepfakes: Deploy powerful AI techniques for face replacement and more with this comprehensive guide. Birmingham: Packt Publishing. 
 <br><br>
@@ -169,3 +169,4 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr> 
 </table>
+
