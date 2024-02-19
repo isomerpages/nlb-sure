@@ -31,7 +31,7 @@ The misuse and abuse of this technology is further intensified by the surge of [
 
 ![](https://sure.nlb.gov.sg/images/pexels-google-deepmind-18069696.jpg)
 
-*Photo by Google DeepMind from Pexels:* *https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069696/*
+[Photo by Google DeepMind from Pexels](https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069696/)
 
 
 
@@ -95,21 +95,15 @@ There are countless applications of deepfake technology in the entertainment ind
 
 ### Videos
 
-MSNBC. (2024, Jan 26). *[Is 2024 going to be the ‘deepfake’ election?](https://youtu.be/NBd9-8b6P0U?si=rvVIlFMXBfuPCrni)* Retrieved 2024, January 26. <br>Link: https://youtu.be/NBd9-8b6P0U?si=rvVIlFMXBfuPCrni
+MSNBC. (2024, Jan 26). *[Is 2024 going to be the ‘deepfake’ election?](https://youtu.be/NBd9-8b6P0U?si=rvVIlFMXBfuPCrni)* Retrieved 2024, January 26.
 
- 
+CNA. (2023, Dec 1). *[Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw)**.* Retrieved 2024, January 26. <br>
 
-CNA. (2023, Dec 1). *[Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw)**.* Retrieved 2024, January 26. <br>Link: https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw
+Channel 4 News. (2023, July 8). *[How do we prevent AI from creating deepfakes?](https://youtu.be/gFRxyOjr4Gg?si=1vQ-4tPweOgd8WZi)* Retrieved 2024, January 26.
 
- 
+TED. (2023, May 19). *[The Incredible Creativity of Deepfakes – and the Worrying Future of AI.](https://youtu.be/SHSmo72oVao?si=uaJZqlI3K5R7YJZu)* Retrieved 2024, January 26. 
 
-Channel 4 News. (2023, July 8). *[How do we prevent AI from creating deepfakes?](https://youtu.be/gFRxyOjr4Gg?si=1vQ-4tPweOgd8WZi)* Retrieved 2024, January 26. <br>Link: https://youtu.be/gFRxyOjr4Gg?si=1vQ-4tPweOgd8WZi
 
- 
-
-TED. (2023, May 19). *[The Incredible Creativity of Deepfakes – and the Worrying Future of AI.](https://youtu.be/SHSmo72oVao?si=uaJZqlI3K5R7YJZu)* Retrieved 2024, January 26. <br>Link: https://youtu.be/SHSmo72oVao?si=uaJZqlI3K5R7YJZu
-
- 
 
 ### Websites
 
@@ -131,27 +125,13 @@ Patterson, D. (2023, October 5). [Deepfakes for good? How synthetic media is tra
 
 ### Podcasts
 
-The New Yorker. (2023, November 15). *[We’ve been wrong to worry about deepfakes (so far)](https://www.newyorker.com/podcast/political-scene/weve-been-wrong-to-worry-about-deepfakes-so-far)**.* Retrieved 2024, January 29. 
-
-Link: https://www.newyorker.com/podcast/political-scene/weve-been-wrong-to-worry-about-deepfakes-so-far
-
- 
+The New Yorker. (2023, November 15). *[We’ve been wrong to worry about deepfakes (so far)](https://www.newyorker.com/podcast/political-scene/weve-been-wrong-to-worry-about-deepfakes-so-far)**.* Retrieved 2024, January 29.  
 
 Northwestern University’s Roberta Buffett Institute for Global Affairs. (2023, May 21*). [Breaking Boundaries: The Future of Deepfakes with V.S. Subrahmanian, PhD](https://buffett.northwestern.edu/news/breaking-boundaries-podcast/future-of-deepfakes-with-vs-subrahmanian.html)*. Retrieved 2024, January 29. 
 
-Link: https://buffett.northwestern.edu/news/breaking-boundaries-podcast/future-of-deepfakes-with-vs-subrahmanian.html
-
- 
-
 NPR. (2023, April 27). *[AI-generated deepfakes are moving fast. Policymakers can’t keep up](https://www.npr.org/2023/04/27/1172387911/how-can-people-spot-fake-images-created-by-artificial-intelligence)**.* Retrieved 2024, January 29. 
 
-Link: https://www.npr.org/2023/04/27/1172387911/how-can-people-spot-fake-images-created-by-artificial-intelligence
-
- 
-
 BBC. (2022, May 17). *[The future will be synthesized: Deepfakes for disinformation](https://www.bbc.co.uk/sounds/play/m0017cmd)**.* Retrieved 2024, January 29. 
-
-Link: https://www.bbc.co.uk/sounds/play/m0017cmd
 
  
 
@@ -163,19 +143,35 @@ Link: https://www.bbc.co.uk/sounds/play/m0017cmd
         <th></th>
 	</tr>
 	<tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=80370C9C-CB23-41B5-8F6B-E8182FC8D4DD&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=wide_circumference "><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss3-bookcover1.jpg"></a></td>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=80370C9C-CB23-41B5-8F6B-E8182FC8D4DD&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=wide_circumference"><b>The wide circumference of love. </b></a><br>
-Golden, Marita. The wide circumference of love. New York: Arcade Publishing, 2015.
+        <td><a href="https://nlb.overdrive.com/media/5787734"><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss4-bookcover1.jpg"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/5787734"><b>Deepfakes: The Coming Infocalypse</b></a><br>
+Scnick, N. (2020). Deepfakes: The Coming Infocalypse. New York: Grand Central Publishing. 
 <br><br>
 Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 <br><br></td>
     </tr>
     <tr>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=AC4945B6-5025-4024-BC73-92DBD03F13C0&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=conscious_caregiver"><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss3-bookcover2.png"></a></td>
-        <td><a href="https://go.nlb.gov.sg/m-link/details?type=ebook&id=AC4945B6-5025-4024-BC73-92DBD03F13C0&utm_source=online&utm_campaign=RTBS_Dec23&utm_medium=website&utm_content=conscious_caregiver"><b>The conscious caregiver: A mindful approach to caring for your loved one without losing yourself.</b></a><br>
+        <td><a href="https://nlb.overdrive.com/media/5600231 "><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss4-bookcover2.png"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/5600231 "><b>Deepfake.</b></a><br>
 Abbit, Linda. The conscious caregiver: A mindful approach to caring for your loved one without losing yourself. New York: Adams Media, 2017. 
 <br><br>
 Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr>
+        <tr>
+        <td><a href="https://nlb.overdrive.com/media/9563844"><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss4-bookcover3.png"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/9563844"><b>The Coming Wave: Technology, Power and the Twenty-First Century’s Greatest Dilemma. </b></a><br>
+Suleyman, M. and Bhaskar, M. (2023). The Coming Wave: Technology, Power and the Twenty-First Century’s Greatest Dilemma. New York: Crown.
+<br><br>
+Retrieved from OverDrive. (myLibrary username is required to access the eBook).
+</td>
+	</tr> 
+        <tr>
+        <td><a href="https://nlb.overdrive.com/media/9699616"><img src="https://staging-nlb-sure.netlify.app/images/rtbs-vol3-iss4-bookcover4.png"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/9699616"><b>Exploring Deepfakes: Deploy powerful AI techniques for face replacement and more with this comprehensive guide. </b></a><br>
+Lyon, B. and Tora, M. (2023). Exploring Deepfakes: Deploy powerful AI techniques for face replacement and more with this comprehensive guide. Birmingham: Packt Publishing. 
+<br><br>
+Retrieved from OverDrive. (myLibrary username is required to access the eBook).
+</td>
+	</tr> 
 </table>
