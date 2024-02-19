@@ -2,7 +2,7 @@
 title: 'RTBS Hot Topic: Deepfakes'
 permalink: /read-to-be-sure-volume-3/deepfakes/
 breadcrumb: 'Deepfakes'
-image: https://sure.nlb.gov.sg/images/rtbs-vol3-school	-debate2-web-banner.png
+image: https://sure.nlb.gov.sg/images/rtbs-hot-topic-web-banner_deepfake.png
 ---
 
 ![](https://sure.nlb.gov.sg/images/rtbs-hot-topic-web-banner_deepfake.png)
