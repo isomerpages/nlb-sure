@@ -97,7 +97,7 @@ There are countless applications of deepfake technology in the entertainment ind
 
 MSNBC. (2024, Jan 26). *[Is 2024 going to be the ‘deepfake’ election?](https://youtu.be/NBd9-8b6P0U?si=rvVIlFMXBfuPCrni)* Retrieved 2024, January 26.
 
-CNA. (2023, Dec 1). *[Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw)**.* Retrieved 2024, January 26. <br>
+CNA. (2023, Dec 1). [Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw). Retrieved 2024, January 26. <br>
 
 Channel 4 News. (2023, July 8). *[How do we prevent AI from creating deepfakes?](https://youtu.be/gFRxyOjr4Gg?si=1vQ-4tPweOgd8WZi)* Retrieved 2024, January 26.
 
@@ -125,13 +125,13 @@ Patterson, D. (2023, October 5). [Deepfakes for good? How synthetic media is tra
 
 ### Podcasts
 
-The New Yorker. (2023, November 15). *[We’ve been wrong to worry about deepfakes (so far)](https://www.newyorker.com/podcast/political-scene/weve-been-wrong-to-worry-about-deepfakes-so-far)**.* Retrieved 2024, January 29.  
+The New Yorker. (2023, November 15). [We’ve been wrong to worry about deepfakes (so far)](https://www.newyorker.com/podcast/political-scene/weve-been-wrong-to-worry-about-deepfakes-so-far). Retrieved 2024, January 29.  
 
 Northwestern University’s Roberta Buffett Institute for Global Affairs. (2023, May 21*). [Breaking Boundaries: The Future of Deepfakes with V.S. Subrahmanian, PhD](https://buffett.northwestern.edu/news/breaking-boundaries-podcast/future-of-deepfakes-with-vs-subrahmanian.html)*. Retrieved 2024, January 29. 
 
-NPR. (2023, April 27). *[AI-generated deepfakes are moving fast. Policymakers can’t keep up](https://www.npr.org/2023/04/27/1172387911/how-can-people-spot-fake-images-created-by-artificial-intelligence)**.* Retrieved 2024, January 29. 
+NPR. (2023, April 27). [AI-generated deepfakes are moving fast. Policymakers can’t keep up](https://www.npr.org/2023/04/27/1172387911/how-can-people-spot-fake-images-created-by-artificial-intelligence). Retrieved 2024, January 29. 
 
-BBC. (2022, May 17). *[The future will be synthesized: Deepfakes for disinformation](https://www.bbc.co.uk/sounds/play/m0017cmd)**.* Retrieved 2024, January 29. 
+BBC. (2022, May 17). *[The future will be synthesized: Deepfakes for disinformation](https://www.bbc.co.uk/sounds/play/m0017cmd). Retrieved 2024, January 29. 
 
  
 
