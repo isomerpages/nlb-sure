@@ -131,7 +131,7 @@ Northwestern University’s Roberta Buffett Institute for Global Affairs. (2023,
 
 NPR. (2023, April 27). [AI-generated deepfakes are moving fast. Policymakers can’t keep up](https://www.npr.org/2023/04/27/1172387911/how-can-people-spot-fake-images-created-by-artificial-intelligence). Retrieved 2024, January 29. 
 
-BBC. (2022, May 17). *[The future will be synthesized: Deepfakes for disinformation](https://www.bbc.co.uk/sounds/play/m0017cmd). Retrieved 2024, January 29. 
+BBC. (2022, May 17). [The future will be synthesized: Deepfakes for disinformation](https://www.bbc.co.uk/sounds/play/m0017cmd). Retrieved 2024, January 29. 
 
  
 
