@@ -32,7 +32,7 @@ sections:
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Deepfakes. Are deepfakes all bad, or can they be used for good? 
           url: /read-to-be-sure-volume-3/deepfakes/
-          image: /images/RTBS_T3-WebBanner_231207-min.jpg
+          image: /images/rtbs-hot-topic-web-banner_deepfake.png
           alt: 'Read to be SURE, Volume 3, Special Issue: Deepfakes'
           button: 'Explore now'
     - infopic:
