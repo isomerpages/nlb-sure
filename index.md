@@ -28,14 +28,6 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'Read to be SURE, Special Issue: Deepfakes'
-          subtitle: 'For everyone'
-          description: In this issue of Read to be SURE, explore multiple perspectives about AI-generated Deepfakes. Are deepfakes all bad, or can they be used for good?
-          url: /read-to-be-sure-volume-3/deepfakes/
-          image: /images/rtbs-hot-topic-web-banner_deepfake.png
-          alt: 'Read to be SURE, Volume 3, Special Issue: Deepfakes'
-          button: 'Explore now'
-    - infopic:
           title: 'Read to be SURE, Volume 3, Issue 3: Caregiving'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Caregiving. Are caregivers being supported equally with respect to the broad range of care recipients? 
