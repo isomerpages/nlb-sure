@@ -27,7 +27,7 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-dw2-basic-slides)**.
 
 
 
-### Module DW4 - Interact, Collaborate,  Share
+### Module DW3 - Interact, Collaborate,  Share
 
 ![](https://sure.nlb.gov.sg/images/curriculum-DW3-basic.PNG)
 

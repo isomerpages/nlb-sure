@@ -59,16 +59,6 @@ Download the infographic **[HERE](https://go.gov.sg/sure-ds4-inter-infographic)*
 
 ### Module DS5 - Managing  Risks
 
-![](ttps://sure.nlb.gov.sg/images/curriculum-DS5-basic.png)
-
-Let’s learn about how you can manage the personal  information available about you online!
-
-Download the PDF slides **[HERE](https://go.gov.sg/sure-ds5-inter-slides)**.
-
-
-
-### Module DS5 - Managing  Risks
-
 ![](https://sure.nlb.gov.sg/images/curriculum-DS5-inter.png)
 
 Let’s learn about how you can manage the personal  information available about you online!
