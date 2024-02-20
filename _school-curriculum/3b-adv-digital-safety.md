@@ -35,3 +35,31 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-ds2-adv-slides)**.
 
 
 
+### Module DS3 - Managing Your Digital Footprint
+
+![](https://sure.nlb.gov.sg/images/curriculum-DS3-adv.png)
+
+In this topic, you will: 
+
+- Learn about how to trace and manage  your own digital footprint
+- Set and enforce your own  boundaries with regards to how  much you should share online
+
+Download the PDF slides **[HERE](https://go.gov.sg/sure-ds3-adv-slides)**.
+
+
+
+### Module DS4 - Digital Safety
+
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=ead8cb54-a2ab-43c0-ac24-b0fb002b6fbc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
+Download the infographic **[HERE](https://go.gov.sg/sure-ds4-adv-infographic)**.
+
+
+
+### Module DS5 - Managing  Risks
+
+![](https://sure.nlb.gov.sg/images/curriculum-DS5-adv.png)
+
+Let’s learn about how you can manage the personal  information available about you online!
+
+Download the PDF slides **[HERE](https://go.gov.sg/sure-ds5-adv-slides)**.
