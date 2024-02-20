@@ -33,7 +33,7 @@ Download the PDF slides **[HERE](https://go.gov.sg/sure-dw2-basic-slides)**.
 
 Let’s learn how to communicate  well with others online!
 
-Download the PDF slides **[HERE](https://go.gov.sg/sure-dw3-inter-slides)**.
+Download the PDF slides **[HERE](https://go.gov.sg/sure-dw3-basic-slides)**.
 
 
 
