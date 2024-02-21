@@ -60,7 +60,7 @@ Watch the full recording:
 
  Here's a visual map of the different perspectives:
 
-<a href="https://staging-nlb-sure.netlify.app/images/RTBS1-visualmap.jpg">![](https://sure.nlb.gov.sg/images/RTBS1-visualmap.JPG)</a>
+<a href="/images/RTBS1-visualmap.jpg">![](https://sure.nlb.gov.sg/images/RTBS1-visualmap.JPG)</a>
 
 
 
