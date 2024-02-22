@@ -49,6 +49,8 @@ Tackling the problems of deepfake is not easy. In addition to developing [more d
 
 So, do you think that deepfake technology can ever make a positive impact?
 
+
+
 <table border="2" style="background-color:#FFFFFF;border-collapse:collapse;border:2px solid #000000;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
         <th style="width:50%"><font size=5>Yes, deepfake technology is being used for good.</font></th>
@@ -57,35 +59,36 @@ So, do you think that deepfake technology can ever make a positive impact?
 	<tr>
 		<td><b>Deepfakes can be used for educational purposes.</b>
 <br><br>
-Deepfake technology can be used for educational purposes. Museums have brought “art and history to life” as in the case of Dali Lives exhibition and Samsung’s AI research lab’s Mona Lisa. There are positive use cases of deepfakes in the classroom such as engaging with historical figures.
+Deepfake technology can be used for educational purposes. <a href="https://www.smithsonianmag.com/smart-news/this-deepfake-exhibition-shows-how-convincing-the-new-technology-can-be-180979619/">Museums</a> have brought “art and history to life” as in the case of <a href="https://www.theverge.com/2019/5/10/18540953/salvador-dali-lives-deepfake-museum">Dali Lives</a> exhibition and Samsung’s AI research lab’s <a href="https://www.bbc.com/news/technology-48395521">Mona Lisa</a>. There are positive use cases of deepfakes in the classroom such as engaging with <a href="https://www.techlearning.com/news/how-to-teach-with-deep-fake-technology">historical figures</a>.
 <br><br>
 </td>
 		<td><b>Deepfakes can mislead and misinform, undermining public trust.</b>
 <br><br>
-There is a growing number of deepfakes of political figures such as US President Biden, Slovakia’s election candidates discussing how to rig votes and Ukraine President Zelenskiy’s call to lay down arms. These are but the tip of the iceberg of the waves of disinformation arising from deepfake technology. Experts and lawmakers caution that deepfakes could harm reputation and disrupt elections globally. 
+There is a growing number of deepfakes of political figures such as <a href="https://factcheck.afp.com/doc.afp.com.33YP34M">US President Biden</a>, Slovakia’s <a href="https://www.wired.co.uk/article/slovakia-election-deepfakes">election candidates</a> discussing how to rig votes and <a href="https://www.theguardian.com/world/2022/mar/19/russia-ukraine-infowar-deepfakes">Ukraine President Zelenskiy’s</a> call to lay down arms. These are but the tip of the iceberg of the waves of disinformation arising from deepfake technology. Experts and lawmakers caution that deepfakes could harm reputation and <a href="https://www.bbc.com/news/uk-politics-67518511">disrupt elections globally</a>. 
  </td>
 	</tr>
 	<tr>
 		<td><b>Deepfake could potentially improve healthcare and accessibility.</b>	 
 <br><br>
-Generative adversarial networks (GAN), the algorithms behind deepfakes, could assist in the accuracy of cancer and dental diagnosis and therapy. Patients who suffer from voice loss could possibly preserve or reclaim their voices with deepfake audio. There is also the possibility of removing language barriers for entertainment, communication and education purposes. 
+Generative adversarial networks (GAN), the algorithms behind deepfakes, could assist in the <a href="https://www.technologyreview.com/2019/07/05/134286/ai-deepfakes-gans-medical-cancer-diagnosis/">accuracy of cancer</a> and <a href="https://www.prnewswire.com/news-releases/synthetic-medical-imaging-how-deepfakes-could-improve-healthcare-301611438.html">dental</a> diagnosis and <a href="https://www.voxweb.nl/english/professor-lets-victims-talk-to-a-deepfake-to-process-their-trauma">therapy</a>. Patients who suffer from voice loss could possibly <a href="https://www.cbsnews.com/news/artificial-intelligence-als-patients-preserve-voice-lou-gehrigs-disease/">preserve or reclaim their voices</a> with <a href="https://www.yahoo.com/lifestyle/deepfake-tech-gives-val-kilmer-192409197.html">deepfake audio</a>. There is also the possibility of removing language barriers for <a href="https://www.theverge.com/2021/5/18/22430340/deepfake-dubs-dubbing-film-tv-flawless-startup">entertainment</a>, <a href="https://timreview.ca/article/1282">communication and education</a> purposes. 
 </td>
         <td><b>The use of deepfakes is worsening online harms against women. </b> 
 <br><br>
-While edited images or video are not a new concept, AI technology like deepfake has made the process easier and more accessible. Non-consensual creation of graphic images and videos are putting girls and women at increased risk of online harms, as in the cyberbullying case of young girls in Spain and harassment of celebrities like Taylor Swift. Some believe too that with more women becoming victims of deepfake, “we face a future where women’s voices are traded and their voices muted”.  
+While edited images or video are not a new concept, AI technology like deepfake has made the <a href="https://www.straitstimes.com/singapore/no-recent-spike-in-tech-facilitated-sexual-harm-but-ai-poses-concern-for-future-women-s-groups">process easier and more accessible</a>. <a href="https://www.vogue.com/article/scary-reality-of-deepfakes-online-abuse">Non-consensual creation</a> of graphic images and videos are putting <a href="https://edition.cnn.com/2023/10/29/opinions/deepfake-pornography-thriving-business-compton-hamlyn/index.html">girls and women at increased risk of online harms</a>, as in the <a href="https://theconversation.com/cyberbullying-girls-with-pornographic-deepfakes-is-a-form-of-misogyny-217182">cyberbullying</a> case of <a href="https://www.bbc.com/news/world-europe-66877718">young girls</a> in <a href="https://edition.cnn.com/2023/09/20/europe/spain-deepfake-images-investigation-scli-intl/index.html">Spain</a> and harassment of celebrities like <a href="https://www.straitstimes.com/world/united-states/fake-online-images-of-taylor-swift-alarm-white-house">Taylor Swift</a>. Some believe too that with more women becoming victims of deepfake, <a href="https://www.vogue.com/article/scary-reality-of-deepfakes-online-abuse">“we face a future where women’s voices are traded and their voices muted”</a>.  
 <br><br>            
 </td>
 	</tr>
 	<tr>
 		<td><b>Entertainment industry stand to gain from the use of deepfake technology.</b>
 <br><br>
-There are countless applications of deepfake technology in the entertainment industry – from recreating scenes with unavailable actors or depicting them younger as in the case of the ‘de-aged’ Mark Hamill in The Mandalorian and Harrison Ford in Indiana Jones and the Dial of Destiny to exploring new creative expressions. Production companies could save money and time by leveraging on deepfake technology to edit or alter videos without requiring a reshoot. Celebrities or influencers could also create personalised messages or increase their reach and presence globally as seen in footballer Lionel Messi’s partnership with PepsiCo, which enabled fans to generate customised video messages using his deepfake avatar in 8 different languages.  
+There are countless applications of deepfake technology in the entertainment industry – from recreating scenes with unavailable actors or depicting them younger as in the case of the ‘de-aged’ Mark Hamill in <a href="https://www.youtube.com/watch?v=wrHXA2cSpNU">The Mandalorian</a> and Harrison Ford in <a href="https://www.wired.co.uk/article/indiana-jones-and-the-dial-of-destiny-de-aging-tech">Indiana Jones and the Dial of Destiny</a> to exploring new <a href="https://www.analyticsinsight.net/deepfake-in-entertainment-impact-on-film-and-television/">creative expressions</a>. Production companies could <a href="https://www.dataart.com/blog/positive-applications-for-deepfake-technology-by-max-kalmykov">save money and time</a> by leveraging on deepfake technology to edit or alter videos without requiring a reshoot. <a href="https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html">Celebrities or influencers could also create personalised messages</a> or increase their reach and presence globally as seen in footballer Lionel Messi’s partnership with PepsiCo, which enabled fans to <a href="https://www.synthesia.io/post/messi">generate customised video messages using his deepfake avatar</a> in 8 different languages.  
 </td>
-		<td><b>For others, caregiving is associated with a lower quality of life.</b>  
-<br><br>Scammers can use deepfake technology to create voice recordings to trick victims into transferring money, or produce promotional videos that realistically feature celebrities or politicians endorsing products and services that they never did. In fact, in January 2024, it was reported that YouTube has deleted more than 1,000 deepfake advertisements featuring renowned personalities. Experts are concerned that as such technologies go mainstream without strong guardrails, we will see an increase in the volume and customisation of such cybercrimes.
+		<td><b>Deepfake scams are the latest addition to generative AI scams.</b>  
+<br><br>Scammers can use deepfake technology to create <a href="https://www.straitstimes.com/singapore/scammers-use-deepfakes-to-create-voice-recordings-and-videos-of-victims-family-friends-to-trick-them">voice recordings to trick victims</a> into <a href="https://www.reuters.com/technology/deepfake-scam-china-fans-worries-over-ai-driven-fraud-2023-05-22/">transferring money</a>, or produce promotional videos that realistically feature <a href="https://youtu.be/0Qpxecldv4A?si=NHM11wCOo9uVoqGv">celebrities</a> or <a href="https://www.theguardian.com/technology/2024/jan/12/deepfake-video-adverts-sunak-facebook-alarm-ai-risk-election">politicians endorsing products and services that they never did</a>. In fact, in January 2024, it was reported that YouTube has <a hhref="https://me.mashable.com/tech/37461/youtube-deletes-1000-scam-videos-with-ai-generated-celebrity-ads">deleted more than 1,000 deepfake advertisements</a> featuring renowned personalities. Experts are concerned that as such technologies go mainstream <a href="https://www.cbsnews.com/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/">without strong guardrails</a>, we will see an <a href="https://www.bnnbloomberg.ca/deepfake-imposter-scams-are-driving-a-new-wave-of-fraud-1.1961843">increase</a> in the volume and customisation of such cybercrimes.
 </td>
 	</tr>
 </table>
+
 
 
 
