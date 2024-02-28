@@ -18,6 +18,10 @@ From fans and members of the White House expressing outrage at the [explicit dee
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpJRHNjyU0g?si=yhiIpL1o3bQ-AI8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>  
 
+*CNA. (2023, December 29). [PM Lee urges vigilance against deepfake videos of him promoting investment scams](https://youtu.be/MpJRHNjyU0g?si=9iEv6LZtqk5_zYXS). Retrieved 2024, February 26.*
+
+
+
 ## What are deepfakes?  
 
 ![](https://sure.nlb.gov.sg/images/rtbs-hot-topic-web-banner_deepfake2.png)
@@ -119,11 +123,6 @@ There are countless applications of deepfake technology in the entertainment ind
 *MSNBC. (2024, Jan 26). [Is 2024 going to be the ‘deepfake’ election?](https://youtu.be/NBd9-8b6P0U?si=rvVIlFMXBfuPCrni) Retrieved 2024, January 26.*
 
 
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Z4v9cgLOpg?si=YQZm4aDp91KCwno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-*CNA. (2023, Dec 1). [Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw). Retrieved 2024, January 26. <br>*
 
 
 
