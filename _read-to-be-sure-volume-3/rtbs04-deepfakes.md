@@ -13,10 +13,10 @@ image: https://sure.nlb.gov.sg/images/rtbs-hot-topic-web-banner_deepfake.png
 
 From fans and members of the White House expressing outrage at the [explicit deepfake images of Taylor Swift on X](https://www.straitstimes.com/world/united-states/fake-online-images-of-taylor-swift-alarm-white-house), formerly known as Twitter, to [deepfake videos of PM Lee Hsien Loong and DPM Lawrence Wong ](https://www.channelnewsasia.com/commentary/deepfake-pm-lee-scam-danger-disinformation-election-4050821)used for [scams](https://www.channelnewsasia.com/singapore/deepfake-video-pm-lee-investment-scam-4012946) closer to home, seeing is no longer believing. While [deepfake technology is hardly new](https://www.britannica.com/technology/deepfake), the increasing  [misuse](https://www.reuters.com/article/idUSL1N33P28O/) and [disruption](https://time.com/6565446/biden-deepfake-audio/) by bad actors raises concerns [ among lawmakers](https://www.nbcnews.com/politics/artificial-intelligence-deepfakes-2024-election-states-rcna129525) and [the public](https://itbrief.co.nz/story/research-finds-millennials-and-boomers-fear-deepfakes-and-biometrics-most-of-future-tech) about the [real-world threat to society](https://www.straitstimes.com/tech/public-urged-to-be-on-guard-as-deepfake-content-will-grow-more-sophisticated-experts). 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src=https://www.youtube.com/embed/MpJRHNjyU0g?si=yhiIpL1o3bQ-AI8g title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-  
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MpJRHNjyU0g?si=yhiIpL1o3bQ-AI8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>  
 
 ## What are deepfakes?  
 
@@ -25,7 +25,7 @@ From fans and members of the White House expressing outrage at the [explicit dee
 [Deepfakes](https://www.wionews.com/entertainment/lifestyle/news-explained-what-are-deepfakes-and-how-to-spot-them-655753) are digitally altered content, typically videos or audio recordings, created by using artificial intelligence (AI) to realistically modify the appearance, speech, or behavior of individuals, often portraying them as saying or doing things they never actually did. The [term](https://www.britannica.com/technology/deepfake) combines *deep* from AI deep-learning technology, and *fake*, which refers to the content that is not real. 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z4v9cgLOpg?si=IHRov5Ww7Bf-ibWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Z4v9cgLOpg?si=IHRov5Ww7Bf-ibWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 *CNA. (2023, Dec 1). [Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw). Retrieved 2024, January 26.* 
 
