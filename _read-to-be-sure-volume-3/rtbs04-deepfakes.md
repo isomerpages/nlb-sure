@@ -13,15 +13,27 @@ image: https://sure.nlb.gov.sg/images/rtbs-hot-topic-web-banner_deepfake.png
 
 From fans and members of the White House expressing outrage at the [explicit deepfake images of Taylor Swift on X](https://www.straitstimes.com/world/united-states/fake-online-images-of-taylor-swift-alarm-white-house), formerly known as Twitter, to [deepfake videos of PM Lee Hsien Loong and DPM Lawrence Wong ](https://www.channelnewsasia.com/commentary/deepfake-pm-lee-scam-danger-disinformation-election-4050821)used for [scams](https://www.channelnewsasia.com/singapore/deepfake-video-pm-lee-investment-scam-4012946) closer to home, seeing is no longer believing. While [deepfake technology is hardly new](https://www.britannica.com/technology/deepfake), the increasing  [misuse](https://www.reuters.com/article/idUSL1N33P28O/) and [disruption](https://time.com/6565446/biden-deepfake-audio/) by bad actors raises concerns [ among lawmakers](https://www.nbcnews.com/politics/artificial-intelligence-deepfakes-2024-election-states-rcna129525) and [the public](https://itbrief.co.nz/story/research-finds-millennials-and-boomers-fear-deepfakes-and-biometrics-most-of-future-tech) about the [real-world threat to society](https://www.straitstimes.com/tech/public-urged-to-be-on-guard-as-deepfake-content-will-grow-more-sophisticated-experts). 
 
- 
 
-## What are deepfakes? 
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MpJRHNjyU0g?si=yhiIpL1o3bQ-AI8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>  
+
+*CNA. (2023, December 29). [PM Lee urges vigilance against deepfake videos of him promoting investment scams](https://youtu.be/MpJRHNjyU0g?si=9iEv6LZtqk5_zYXS). Retrieved 2024, February 26.*
+
+
+
+## What are deepfakes?  
 
 ![](https://sure.nlb.gov.sg/images/rtbs-hot-topic-web-banner_deepfake2.png)
 
 [Deepfakes](https://www.wionews.com/entertainment/lifestyle/news-explained-what-are-deepfakes-and-how-to-spot-them-655753) are digitally altered content, typically videos or audio recordings, created by using artificial intelligence (AI) to realistically modify the appearance, speech, or behavior of individuals, often portraying them as saying or doing things they never actually did. The [term](https://www.britannica.com/technology/deepfake) combines *deep* from AI deep-learning technology, and *fake*, which refers to the content that is not real. 
 
- 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Z4v9cgLOpg?si=IHRov5Ww7Bf-ibWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+*CNA. (2023, Dec 1). [Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw). Retrieved 2024, January 26.* 
+
+
 
 The misuse and abuse of this technology is further intensified by the surge of [generative AI](https://oecd.ai/en/incidents/21884) [ and user-friendly apps](https://www.wired.com/story/cheap-easy-deepfakes-closer-real-thing/) that have made it more [accessible to anyone](https://www.bloomberg.com/news/articles/2023-09-20/deepfakes-what-are-fake-ai-video-dangers-and-how-to-spot-them). The fears of [cybersecurity, scams and fraud](https://www.straitstimes.com/singapore/scammers-use-deepfakes-to-create-voice-recordings-and-videos-of-victims-family-friends-to-trick-them) are valid and deepfake technology has made it [all the more difficult to fight misinformation and disinformation.](https://theconversation.com/fake-biden-robocall-to-new-hampshire-voters-highlights-how-easy-it-is-to-make-deepfakes-and-how-hard-it-is-to-defend-against-ai-generated-disinformation-221744) 
 
@@ -47,7 +59,16 @@ Tackling the problems of deepfake is not easy. In addition to developing [more d
 
  
 
-So, do you think that deepfake technology can ever make a positive impact?
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-jkODdn43I?si=mkf02X1LbKO620bd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+*CNA. 2024, January 10. How to report deepfake scam ads on social media. Retrieved 2024, February 26.* 
+
+
+
+**So, do you think that deepfake technology can ever make a positive impact?**
+
+
 
 
 
@@ -98,13 +119,28 @@ There are countless applications of deepfake technology in the entertainment ind
 
 ### Videos
 
-MSNBC. (2024, Jan 26). *[Is 2024 going to be the ‘deepfake’ election?](https://youtu.be/NBd9-8b6P0U?si=rvVIlFMXBfuPCrni)* Retrieved 2024, January 26.
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NBd9-8b6P0U?si=iC8XvLSbIsIHQTO9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-CNA. (2023, Dec 1). [Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw). Retrieved 2024, January 26. <br>
+*MSNBC. (2024, Jan 26). [Is 2024 going to be the ‘deepfake’ election?](https://youtu.be/NBd9-8b6P0U?si=rvVIlFMXBfuPCrni) Retrieved 2024, January 26.*
 
-Channel 4 News. (2023, July 8). *[How do we prevent AI from creating deepfakes?](https://youtu.be/gFRxyOjr4Gg?si=1vQ-4tPweOgd8WZi)* Retrieved 2024, January 26.
 
-TED. (2023, May 19). *[The Incredible Creativity of Deepfakes – and the Worrying Future of AI.](https://youtu.be/SHSmo72oVao?si=uaJZqlI3K5R7YJZu)* Retrieved 2024, January 26. 
+
+
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFRxyOjr4Gg?si=d5Lr5fl3aqnyDFDn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+*Channel 4 News. (2023, July 8). [How do we prevent AI from creating deepfakes?](https://youtu.be/gFRxyOjr4Gg?si=1vQ-4tPweOgd8WZi) Retrieved 2024, January 26.*
+
+
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHSmo72oVao?si=hRhVxBLiO9sWhyWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+*TED. (2023, May 19). [The Incredible Creativity of Deepfakes – and the Worrying Future of AI.](https://youtu.be/SHSmo72oVao?si=uaJZqlI3K5R7YJZu) Retrieved 2024, January 26.* 
+
+
 
 
 
