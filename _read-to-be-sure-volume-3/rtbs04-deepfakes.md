@@ -21,7 +21,8 @@ From fans and members of the White House expressing outrage at the [explicit dee
 
 [Deepfakes](https://www.wionews.com/entertainment/lifestyle/news-explained-what-are-deepfakes-and-how-to-spot-them-655753) are digitally altered content, typically videos or audio recordings, created by using artificial intelligence (AI) to realistically modify the appearance, speech, or behavior of individuals, often portraying them as saying or doing things they never actually did. The [term](https://www.britannica.com/technology/deepfake) combines *deep* from AI deep-learning technology, and *fake*, which refers to the content that is not real. 
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z4v9cgLOpg?si=IHRov5Ww7Bf-ibWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z4v9cgLOpg?si=IHRov5Ww7Bf-ibWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 *CNA. (2023, Dec 1). [Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw). Retrieved 2024, January 26.* 
 
@@ -51,7 +52,8 @@ Tackling the problems of deepfake is not easy. In addition to developing [more d
 
  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-jkODdn43I?si=mkf02X1LbKO620bd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-jkODdn43I?si=mkf02X1LbKO620bd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 *CNA. 2024, January 10. How to report deepfake scam ads on social media. Retrieved 2024, February 26.* 
 
@@ -108,25 +110,29 @@ There are countless applications of deepfake technology in the entertainment ind
 
 ### Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NBd9-8b6P0U?si=iC8XvLSbIsIHQTO9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NBd9-8b6P0U?si=iC8XvLSbIsIHQTO9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 *MSNBC. (2024, Jan 26). [Is 2024 going to be the ‘deepfake’ election?](https://youtu.be/NBd9-8b6P0U?si=rvVIlFMXBfuPCrni) Retrieved 2024, January 26.*
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Z4v9cgLOpg?si=YQZm4aDp91KCwno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Z4v9cgLOpg?si=YQZm4aDp91KCwno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 *CNA. (2023, Dec 1). [Deepfake scams on the rise in Singapore](https://youtu.be/0Z4v9cgLOpg?si=2xy80oFF-4JofWNw). Retrieved 2024, January 26. <br>*
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gFRxyOjr4Gg?si=d5Lr5fl3aqnyDFDn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFRxyOjr4Gg?si=d5Lr5fl3aqnyDFDn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 *Channel 4 News. (2023, July 8). [How do we prevent AI from creating deepfakes?](https://youtu.be/gFRxyOjr4Gg?si=1vQ-4tPweOgd8WZi) Retrieved 2024, January 26.*
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SHSmo72oVao?si=hRhVxBLiO9sWhyWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHSmo72oVao?si=hRhVxBLiO9sWhyWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 *TED. (2023, May 19). [The Incredible Creativity of Deepfakes – and the Worrying Future of AI.](https://youtu.be/SHSmo72oVao?si=uaJZqlI3K5R7YJZu) Retrieved 2024, January 26.* 
 
