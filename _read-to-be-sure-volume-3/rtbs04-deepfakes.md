@@ -18,7 +18,7 @@ From fans and members of the White House expressing outrage at the [explicit dee
 
   
 
-## What are deepfakes? 
+## What are deepfakes?  
 
 ![](https://sure.nlb.gov.sg/images/rtbs-hot-topic-web-banner_deepfake2.png)
 
