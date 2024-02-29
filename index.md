@@ -36,13 +36,13 @@ sections:
           alt: 'Read to be SURE, Volume 3, Special Issue: Deepfakes'
           button: 'Explore now'
     - infopic:
-          title: 'Generative AI, Deepfakes and the Dangers of Misinformation'
+          title: '[24 Apr 2024] Generative AI, Deepfakes and the Dangers of Misinformation'
           subtitle: 'For everyone'
-          description: New course dates for 2024! 
-          url: /read-to-be-sure-volume-3/deepfakes/
-          image: /images/rtbs-hot-topic-web-banner_deepfake.png
-          alt: 'Read to be SURE, Volume 3, Special Issue: Deepfakes'
-          button: 'Explore now'
+          description: Learn how generative A.I. tools might be exploited by bad actors to create online falsehoods and how to safeguard yourself against them. 
+          url: https://sure-2404.eventbrite.sg/
+          image: https://sure.nlb.gov.sg/images/eb-banner-gen-ai-2024.png
+          alt: '[24 Apr 2024] Generative AI, Deepfakes and the Dangers of Misinformatio'
+          button: 'Register now'
     - infopic:
           title: 'Read to be SURE, Volume 3, Issue 3: Caregiving'
           subtitle: 'For everyone'
