@@ -9,6 +9,8 @@ breadcrumb: 'Programmes'
 
 ![(https://sure.nlb.gov.sg/images/eb-banner-gen-ai-2024.png)
 
+![](../images/eb-banner-gen-ai-2024.png)
+
 ## Generative AI, Deepfakes and the Dangers of Misinformation 
 
 **Synopsis**
