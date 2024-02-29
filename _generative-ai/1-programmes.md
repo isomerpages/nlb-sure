@@ -29,8 +29,8 @@ This talk features interactive quizzes and activities conducted via your smartph
 
 | Date                                                         | Time              | Venue                                                   | Language |
 | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- | -------- |
-| [24 Apr 2024](https://sure-2404.eventbrite.sg) | 7.00pm - 8.30pm  | This session will be conducted online via Zoom.<br><br  | English  |
-| [29 May 2024](https://sure-2905.eventbrite.sg) | 7.00pm - 8.30pm | This session will be conducted online via Zoom.<br/><br | English |
+| [24 Apr 2024](https://sure-2404.eventbrite.sg) | 7.00pm - 8.30pm  | This session will be conducted online via Zoom.<br><br> | English  |
+| [29 May 2024](https://sure-2905.eventbrite.sg) | 7.00pm - 8.30pm | This session will be conducted online via Zoom.<br/><br> | English |
 
 
 
