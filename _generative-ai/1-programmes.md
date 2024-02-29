@@ -7,15 +7,19 @@ breadcrumb: 'Programmes'
 
 [Introduction](/generative-ai/what-is-generative-ai/)  |   [Programmes](/generative-ai/programmes/)  |  [Games](/generative-ai/games/)  |  [Poll](/generative-ai/gen-ai-poll/)  | [Resources](/generative-ai/resource-toolkit/)  | [Fact-check](/generative-ai/fact-checking-tools/)  | [Gen AI in SG](/generative-ai/generative-ai-singapore/)
 
-![](https://sure.nlb.gov.sg/images/eb-banner-gen-ai-2023.png)
+![(https://sure.nlb.gov.sg/images/eb-banner-gen-ai-2024.png)
 
-### Generative A.I. 101 - ChatGPT, A.I. Image Generators and the Dangers of Misinformation
+## Generative AI, Deepfakes and the Dangers of Misinformation 
 
 **Synopsis**
 
-In this talk, learn about how popular generative A.I. tools such as ChatGPT and MidJourney might be exploited by bad actors to create online falsehoods. 
+Learn how generative A.I. tools might be exploited by bad actors to create online falsehoods and how to safeguard yourself against them.
 
-Find out how you can apply NLB’s S.U.R.E. (Source, Understand, Research, Evaluate) steps to identify the tell-tale signs and safeguard yourself from this new threat. 
+In this interactive talk, the speakers will share about:
+
+- The capabilities of generative A.I. tools like chatbots (ChatGPT, Gemini, Copilot), image generators (Dall-E and MidJourney), and video generators (RunwayML, deepfakes)
+- How these tools may be exploited by bad actors to facilitate online harms such as misinformation and scams
+- How you can apply different tools and techniques to identify A.I.-generated text, images and videos.
 
 This talk features interactive quizzes and activities conducted via your smartphones and is suitable for ages 13 and above.
 
@@ -25,34 +29,9 @@ This talk features interactive quizzes and activities conducted via your smartph
 
 | Date                                                         | Time              | Venue                                                   | Language |
 | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- | -------- |
-| [20 Aug 2023](https://www.eventbrite.com/e/chatgpt-ai-image-generators-and-the-dangers-of-misinformation-tickets-662081893767?aff=odcleoeventsincollection&keep_tld=1) | 11.00am - 12.00pm | Punggol Regional Library <br>Level 5 Programme Rm <br>  | English  |
-| [19 Sep 2023](https://nlb-genai-19sep.eventbrite.sg )        | 7.00pm - 8.00pm   | This session will be conducted online via Zoom.<br><br>[Event recording](/blog/tech/tech0006/) | English  |
-| [8 Nov 2023](https://www.eventbrite.sg/e/chinese-chatgpt-ai-image-generators-and-the-dangers-of-misinformation-tickets-671362060997?aff=oddtdtcreator) | 3.00pm-4.00pm | This session will be conducted online via Zoom.<br/> | Mandarin |
-| [25 Nov 2023](https://nlb-genai-25nov.eventbrite.sg)         | 3.30pm - 4.30pm   | Jurong Regional Library  <br>Level 1 Programme Zone<br> | English  |
-| [13 Jan 2024](https://nlb-genai-13jan.eventbrite.sg)   | 2.30pm - 3.30pm | Woodlands Regional Library <br>Level 1 Programme Zone<br>  | Mandarin |
+| [24 Apr 2024](https://sure-2404.eventbrite.sg) | 7.00pm - 8.30pm  | This session will be conducted online via Zoom.<br><br  | English  |
+| [29 May 2024](https://sure-2905.eventbrite.sg) | 7.00pm - 8.30pm | This session will be conducted online via Zoom.<br/><br | English |
 
-<hr>
-### Generative A.I. 201 - Verifying Generative A.I. Content
-
-**Synopsis**
-
-ChatGPT and other generative A.I. tools are increasingly used to generate text, images, videos and other content by students, professionals, and even some bad actors like scammers and creators of online falsehoods.
-
-In this workshop, find out how you can apply various tools and techniques - as well as NLB’s S.U.R.E. (Source, Understand, Research, Evaluate) steps - to verify and fact-check A.I.-generated content.
-
-***Note to participants: While it is not mandatory, participants are advised to attend one of the <a href="#101">101-level talks (listed above)</a>, before attending this workshop.***
-
-
-
-**Schedule**
-
-Please refer to the [SURE Programmes listing](https://www.eventbrite.com/cc/sure-programmes-2280469) in EventBrite for updates.
-
-| Date                                                   | Time            | Venue                                                      | Language |
-| ------------------------------------------------------ | --------------- | ---------------------------------------------------------- | -------- |
-| [17 Oct 2023](https://sure-genai-17oct.eventbrite.sg/) | 7.00pm - 9.00pm | National Library  Building<br>Level 5 Possibility Room<br> | English  |
-
-<hr>
 
 
 ## Speaker profiles
