@@ -36,6 +36,14 @@ sections:
           alt: 'Read to be SURE, Volume 3, Special Issue: Deepfakes'
           button: 'Explore now'
     - infopic:
+          title: 'Generative AI, Deepfakes and the Dangers of Misinformation'
+          subtitle: 'For everyone'
+          description: New course dates for 2024! 
+          url: /read-to-be-sure-volume-3/deepfakes/
+          image: /images/rtbs-hot-topic-web-banner_deepfake.png
+          alt: 'Read to be SURE, Volume 3, Special Issue: Deepfakes'
+          button: 'Explore now'
+    - infopic:
           title: 'Read to be SURE, Volume 3, Issue 3: Caregiving'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Caregiving. Are caregivers being supported equally with respect to the broad range of care recipients? 
