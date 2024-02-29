@@ -10,13 +10,13 @@ breadcrumb: 'Games'
 
 Can you tell the difference between photos and A.I.-generated images? Try our single-player Kahoot quizzes now!
 
-### [Quiz #1](https://kahoot.it/challenge/001881407)
+### [Quiz #1](https://kahoot.it/challenge/002409601)
 
 ![](https://sure.nlb.gov.sg/images/gen-ai-kahoot-set1.PNG)
 
 
 
-### [Quiz  #2](https://kahoot.it/challenge/0090188)
+### [Quiz  #2](https://kahoot.it/challenge/007884108)
 
 ![](https://sure.nlb.gov.sg/images/gen-ai-kahoot-set2.PNG)
 
