@@ -12,8 +12,6 @@ image: https://sure.nlb.gov.sg/images/RTBS_T4_WebBanner_240226.jpg
 
 ![](https://sure.nlb.gov.sg/images/RTBS_T4_WebBanner_240226.jpg)
 
-![](../images/RTBS_T4_WebBanner_240226.jpg)
-
 Singapore is considered a [‘blue zone’ city](https://fortune.com/well/2023/08/29/singapore-sixth-blue-zone-longevity-secrets-dan-buettner/) where people live [extraordinarily long lives](https://www.businesstimes.com.sg/opinion-features/blue-zone-singapore-beyond-longevity). Singaporeans can expect to live to about [84 years old](https://www.channelnewsasia.com/singapore/singapore-blue-zone-netflix-healthy-living-longevity-3848606) on average. It’s a city where retirement can be an exciting new chapter. However, living in one of the world’s [most expensive cities](https://www.eiu.com/n/singapore-and-zurich-top-the-list-as-the-worlds-most-expensive-cities/) has its own set of challenges, especially when it comes to planning for retirement. 
 
  
@@ -24,8 +22,7 @@ Retirement allows for the pursuit of endless new possibilities. More time can be
 
 Despite this, retirement may not be a viable option for some. They need to ensure they do not outlive their savings, as expenses may increase with age due to declining health and [inflation](https://www.businesstimes.com.sg/wealth/wealth-investing/how-inflation-changing-face-retirement). Today's high cost of living makes saving for retirement a challenge for many Singaporeans. According to a [2023 survey](https://www.manulife.com.sg/en/about-us/newsroom/singapore-respondents-hope-of-saving-for-retirement-stifled-by-more-immediate-financial-and-lifestyle-pressures.html), only 35% of Singapore respondents have a retirement savings plan, although 63% understand the importance of retirement savings. Driven by these financial concerns, another survey revealed that [87% of Singaporeans](https://www.straitstimes.com/business/invest/retirement-financial-planning-quality-of-life-report-hsbc-singapore) plan to work post-retirement. 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s1kfeSqmKdE?si=TXmbIZ8ZZDshWxBu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 
 
 
@@ -103,10 +100,9 @@ Retirement presents an excellent opportunity to <a hre="https://www.weforum.org/
 
 
 
-Let’s hear our guest speakers weigh in on this issue:
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K_bpYj_ghLo?si=ap8APs7IFGoR2WLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
 
 
 
