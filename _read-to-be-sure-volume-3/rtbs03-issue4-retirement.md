@@ -123,7 +123,7 @@ If you are unable to view the embedded form below, please click **<a href="https
 
 ​	
 
-![](https://sure.nlb.gov.sg/images/RTBS_T3-FB-IG_231207-min.jpg)
+![](https://sure.nlb.gov.sg/images/RTBS-T4-FBIG-Animated-240305.gif)
 
 <HR>
 <a name="resources"></a>
