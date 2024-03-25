@@ -12,7 +12,7 @@ image: https://sure.nlb.gov.sg/images/RTBS_T4_WebBanner_240226.jpg
 
 ![](https://sure.nlb.gov.sg/images/RTBS_T4_WebBanner_240226.jpg)
 
-![](C:\Users\user\Documents\GitHub\nlb-sure\images\RTBS_T4_WebBanner_240226.jpg)
+![](../images/RTBS_T4_WebBanner_240226.jpg)
 
 Singapore is considered a [‘blue zone’ city](https://fortune.com/well/2023/08/29/singapore-sixth-blue-zone-longevity-secrets-dan-buettner/) where people live [extraordinarily long lives](https://www.businesstimes.com.sg/opinion-features/blue-zone-singapore-beyond-longevity). Singaporeans can expect to live to about [84 years old](https://www.channelnewsasia.com/singapore/singapore-blue-zone-netflix-healthy-living-longevity-3848606) on average. It’s a city where retirement can be an exciting new chapter. However, living in one of the world’s [most expensive cities](https://www.eiu.com/n/singapore-and-zurich-top-the-list-as-the-worlds-most-expensive-cities/) has its own set of challenges, especially when it comes to planning for retirement. 
 
@@ -175,7 +175,7 @@ Explore the resources below to find out more about Retirement.
         <th></th>
 	</tr>
 	<tr>
-        <td><a href="https://nlb.overdrive.com/media/2180337"><img src="/images/rtbs-vol3-iss4-bookcover1.jpg"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/2180337"><img src="/images/rtbs-vol3-iss4-bookcover1a.png"></a></td>
         <td><a href="https://nlb.overdrive.com/media/2180337"><b>How to Retire with Enough Money: And How to Know What Enough Is</b></a><br>
 Teresa Ghilarducci. How to Retire with Enough Money: And How to Know What Enough Is. New York: Workman Publishing Company, 2015. 
 <br><br>
@@ -191,6 +191,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr>
 </table>
+
 
 
 
