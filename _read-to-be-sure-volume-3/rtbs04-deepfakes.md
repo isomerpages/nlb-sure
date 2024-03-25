@@ -70,6 +70,8 @@ Tackling the problems of deepfake is not easy. In addition to developing [more d
 
 
 
+
+
 <table border="2" style="background-color:#FFFFFF;border-collapse:collapse;border:2px solid #000000;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
         <th style="width:50%"><font size=5>Yes, deepfake technology is being used for good.</font></th>
