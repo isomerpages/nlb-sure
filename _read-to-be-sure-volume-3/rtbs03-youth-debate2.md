@@ -2,7 +2,7 @@
 title: 'RTBS Youth Debate: 27 Apr 2024'
 permalink: /read-to-be-sure-volume-3/youth-debate-27apr2024/
 breadcrumb: 'Youth Debate (27 Apr 2024)'
-image: https://sure.nlb.gov.sg/images/rtbs_youth_debate_Apr2024.png.png
+image: https://sure.nlb.gov.sg/images/rtbs_youth_debate_Apr2024.png
 ---
 
 ![](./../images/rtbs_youth_debate_Apr2024.png)
