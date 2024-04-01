@@ -28,14 +28,6 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'Read to be SURE, Volume 3, Issue 4: Retirement'
-          subtitle: 'For everyone'
-          description: In this issue of Read to be SURE, explore multiple perspectives about Retirement: is it a growing gain or a growing pain?
-          url: /read-to-be-sure-volume-3/retirement/
-          image: /images/RTBS_T4_WebBanner_240226.jpg
-          alt: 'Read to be SURE, Volume 3, Issue 4: Retirement'
-          button: 'Explore now'
-    - infopic:
           title: 'Read to be SURE, Volume 3, Special Issue: Deepfakes'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Deepfakes. Are deepfakes all bad, or can they be used for good? 
@@ -76,6 +68,14 @@ sections:
           alt: 'Be S.U.R.E. before you share'
           button: 'Explore now'
     - infopic:
+          title: 'Read to be SURE, Volume 3, Issue 4: Retirement'
+          subtitle: 'For everyone'
+          description: In this issue of Read to be SURE, explore multiple perspectives about Retirement: is it a growing gain or a growing pain?
+          url: /read-to-be-sure-volume-3/retirement/
+          image: /images/RTBS_T4_WebBanner_240226.jpg
+          alt: 'Read to be SURE, Volume 3, Issue 4: Retirement'
+          button: 'Explore now'
+    - infopic:
           title: 'Read to be SURE, Volume 3 Issue 1: Generative A.I.'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Generative AI. Does it bring power or peril to us?
@@ -106,6 +106,14 @@ sections:
           url: /events/lets-be-sure-about/
           image: /images/letsbesure-activations.png
           alt: 'Lets be SURE Together 2023'
+          button: 'Find out more'
+    - infopic:
+          title: 'Historical Scene Investigation Challenge 2023'
+          subtitle: 'For students'
+          description: The Historical Scene Investigation (H.S.I.) Challenge is an annual contest organised by the National Library Board, which promises an exciting experience for students to put their historical inquiry and research skills to the test.  
+          url: /events/hsi2023/
+          image: /images/HSI-2022-logo.png
+          alt: 'alt text'
           button: 'Find out more'
     - infopic:
           title: 'S.U.R.E. Courseware for Schools'
@@ -179,6 +187,86 @@ sections:
           image: /images/blog-tech3-1.jpg
           alt: 'alt text'
           button: 'Read it now!'
+    - infopic:
+          title: 'What Popular Culture Teaches Us About the Spread of False Information'
+          subtitle: 'For everyone'
+          description: null
+          url: /blog/tech/TECH0004
+          image: /images/blog-tech4a.jpg
+          alt: 'alt text'
+          button: 'Read it now!'
+    - infopic:
+          title: 'Read to be SURE Issue #4: Who can help us filter the truth?'
+          subtitle: 'For everyone'
+          description: null
+          url: /read-to-be-sure/issue4-ukraine/
+          image: /images/rtbs4-hot-button-ukraine.JPG
+          alt: 'alt text'
+          button: 'Read Issue #4 now, and share your thoughts with us!'
+    - infopic:
+          title: 'Digital Resources of the National Library and National Archives of Singapore'
+          subtitle: 'For secondary school students'
+          description: null
+          url: /blog/home-based-learning/DD00010
+          image: /images/nlnas-video1.jpg
+          alt: 'alt text'
+          button: 'Watch the video now!'
+    - infopic:
+          title: 'Identifying Credible Health Information (Chinese, Malay and Tamil versions)'
+          subtitle: 'For Seniors'
+          description: 'How do you ensure that the medical and health information that you consume is reliable? Use the S.U.R.E. steps to identify if the health information you read can be trusted. This infographic is now available in Chinese, Malay and Tamil languages.'
+          url: /blog/information-literacy/IL00002
+          image: /images/Credible-Health-Information-Chinese.jpg
+          alt: 'alt text'
+          button: 'Check them out now!'
+    - infopic:
+          title: 'SUREvivors Activity 7'
+          subtitle: 'For primary school students'
+          description: 'How to Search for Information Effectively'
+          url: /tng/surevivors-activity7/
+          image: /images/Researching_Raju1.jpg
+          alt: 'alt text'
+          button: 'Check them out now!'
+    - infopic:
+          title: 'How to be S.U.R.E. before you share (Chinese, Malay and Tamil versions)'
+          subtitle: 'For Seniors'
+          description: 'Learn how to safeguard yourself and others against online falsehoods by using the National Library Board''s S.U.R.E. steps. <br>学习如何运用国家图书馆S.U.R.E四个步骤来确认信息的真假,并帮助您周围的人。<br>Belajar cara-cara melindungi diri anda menentang kepalsuan di talian dengan menggunakan langkah-langkah S.U.R.E. Lembaga Perpustakaan Negara.  <br>'
+          url: /resources/audience/seniors/multilingual
+          image: /images/sure-animated-video-chinese.jpg
+          alt: 'alt text'
+          button: 'Check them out now!'
+    - infopic:
+          title: 'SUREvivors Activity 6'
+          subtitle: 'For primary school students'
+          description: 'What Intentions Can an Author Have?'
+          url: /tng/surevivors-activity6/
+          image: /images/SURE-Activity6-feature-image.jpg
+          alt: 'alt text'
+          button: 'Check them out now!'
+    - infopic:
+          title: 'How to be S.U.R.E. before you share'
+          subtitle: 'For Adults'
+          description: 'We have a new e-Presentation and new infographic on applying the four S.U.R.E. steps to verify dubious information.'
+          url: /blog/fake-news/fn0002
+          image: /images/4-ways-of-sure-thumbnail.jpg
+          alt: 'alt text'
+          button: 'Check them out now!'
+    - infopic:
+          title: 'Multilingual Resources'
+          subtitle: 'For Seniors'
+          description: 'Videos and infographics available in Chinese, Malay and Tamil languages'
+          url: /resources/audience/seniors/multilingual
+          image: /images/seniors-fake-news.jpg
+          alt: 'alt text'
+          button: 'Check them out now!'
+    - infopic:
+          title: 'SUREvivors Activity 5'
+          subtitle: 'For primary school students'
+          description: 'How Do You Differentiate Between Fact and Opinion?'
+          url: /tng/surevivors-activity5/
+          image: /images/sure-activity-5-feature-image-fb.jpg
+          alt: 'alt text'
+          button: 'Check them out now!'
 notification: "\n"
 ---
 
