@@ -28,14 +28,6 @@ sections:
           button: 'Learn More'
           url: /about-us/sure-campaign/
     - infopic:
-          title: 'Read to be SURE, Volume 3, Issue 4: Retirement'
-          subtitle: 'For everyone'
-          description: In this issue of Read to be SURE, explore multiple perspectives about Retirement: is it a growing gain or a growing pain?
-          url: /read-to-be-sure-volume-3/retirement/
-          image: /images/RTBS_T4_WebBanner_240226.jpg
-          alt: 'Read to be SURE, Volume 3, Issue 4: Retirement'
-          button: 'Explore now'
-    - infopic:
           title: 'Read to be SURE, Volume 3, Special Issue: Deepfakes'
           subtitle: 'For everyone'
           description: In this issue of Read to be SURE, explore multiple perspectives about Deepfakes. Are deepfakes all bad, or can they be used for good? 
