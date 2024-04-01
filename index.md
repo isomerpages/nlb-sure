@@ -68,13 +68,13 @@ sections:
           alt: 'Be S.U.R.E. before you share'
           button: 'Explore now'
     - infopic:
-          title: 'Read to be SURE, Volume 3, Issue 4: Retirement'
+          title: 'RTBS Youth Debate (28 Oct 2023)'
           subtitle: 'For everyone'
-          description: In this issue of Read to be SURE, explore multiple perspectives about Retirement: is it a growing gain or a growing pain?
-          url: /read-to-be-sure-volume-3/retirement/
-          image: /images/RTBS_T4_WebBanner_240226.jpg
-          alt: 'Read to be SURE, Volume 3, Issue 4: Retirement'
-          button: 'Explore now'
+          description: Join us for an exciting debate as students take the stand on whether funding should be prioritised for eco-friendly science and technology.
+          url: /read-to-be-sure-volume-3/youth-debate-28oct2023/
+          image: /images/rtbs-vol3-school-debate2-web-banner.png
+          alt: 'alt text'
+          button: 'Find out more'
     - infopic:
           title: 'Read to be SURE, Volume 3 Issue 1: Generative A.I.'
           subtitle: 'For everyone'
