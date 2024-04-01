@@ -27,7 +27,7 @@ According to a recent local study, nearly 3 in 10 seniors in their 50s and 60s d
 
 So, should the retirement age be abolished?
 
-Discover the diverse perspectives surrounding retirement Visit our Read to be SURE website to learn more: https://sure.nlb.gov.sg/read-to-be-sure-volume-3/issue4-retirement/
+Discover the diverse perspectives surrounding retirement. Visit our [Read to be SURE website](https://sure.nlb.gov.sg/read-to-be-sure-volume-3/issue4-retirement/) to learn more.
 
  
 
