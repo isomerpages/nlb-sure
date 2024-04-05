@@ -61,7 +61,7 @@ Start creating your own adventures with these tools below:
 
 ·    [Canva](https://www.canva.com/create/comic-strips/) 
 
-·    [Pixton](https://www.pixton.com/student-comic-builder) 
+·    [Pixton](https://www.pixton.com/welcome) 
 
 ·    [Powerpoint](https://youtu.be/OZUkNY97nzk)  
 

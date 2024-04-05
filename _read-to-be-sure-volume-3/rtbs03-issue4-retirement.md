@@ -183,7 +183,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 <br><br></td>
     </tr>
     <tr>
-        <td><a href="https://nlb.overdrive.com/media/219679r"><img src="/images/rtbs-vol3-iss4-bookcover2.png"></a></td>
+        <td><a href="https://nlb.overdrive.com/media/219679"><img src="/images/rtbs-vol3-iss4-bookcover2.png"></a></td>
         <td><a href="https://nlb.overdrive.com/media/219679"><b>Encore: Finding Work that Matters in the Second Half of Life</b></a><br>
 Marc Freedman. Encore: Finding Work that Matters in the Second Half of Life. Luzern: PublicAffairs, 2008. 
 <br><br>
@@ -191,6 +191,7 @@ Retrieved from OverDrive. (myLibrary username is required to access the eBook).
 </td>
 	</tr>
 </table>
+
 
 
 

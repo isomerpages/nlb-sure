@@ -52,7 +52,7 @@ Nowadays, anyone can easily copy and paste information from the internet for the
 
 A quick guide to doing citation for academic research and projects. Download our cheat sheet to learn why, when and how to cite sources.
 
-[Using Scientific Skills for Daily Life](/infographic/scientificskills-1050x700.png) 
+[**Using Scientific Skills for Daily Life**](https://sure.nlb.gov.sg/cheatsheet/NLB_Cheatsheet_Using_Scientific_Skills_Jul2019.pdf) 
 
 ![](https://sure.nlb.gov.sg/images/scientificskills-1050x700 (1).jpg)
 

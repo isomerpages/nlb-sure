@@ -15,6 +15,5 @@ View our collection of resources by format:
 - [Cheat Sheets](/resources/format/cheat-sheets)
 - [Videos](/resources/format/videos)
 - [Presentations](/resources/format/presentations)
-- [Articles](/resources/format/articles)
 - [Quizzes](/resources/format/quizzes)
 

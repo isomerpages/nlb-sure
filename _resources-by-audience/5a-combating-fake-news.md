@@ -11,7 +11,7 @@ third_nav_title: 'For Seniors'
 
 These sources will help you discern the reliability of the information that you’re reading. 
 
-**[How to be S.U.R.E. of your COVID-19 Information](//blog/seniors/SN0021)**
+**[How to be S.U.R.E. of your COVID-19 Information](https://sure.nlb.gov.sg/blog/seniors/sn0021/)**
 
 
 

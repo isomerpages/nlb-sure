@@ -5,7 +5,7 @@ breadcrumb: 'Learning Resources For Schools to Support Blended Learning Experien
 
 ---
 
-We have a range of learning activities and resources to support the [National Digital Literacy Programme](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html), [Home-Based Learning](https://www.moe.gov.sg/news/press-releases/20200327-schools-to-implement-one-day-of-home-based-learning-a-week), [Blended Learning](https://www.moe.gov.sg/news/press-releases/20201229-blended-learning-to-enhance-schooling-experience-and-further-develop-students-into-self-directed-learners) and Student-Initiated Learning in schools.
+We have a range of learning activities and resources to support the [National Digital Literacy Programme](https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills), [Home-Based Learning](https://www.moe.gov.sg/news/press-releases/20200327-schools-to-implement-one-day-of-home-based-learning-a-week), [Blended Learning](https://www.moe.gov.sg/news/press-releases/20201229-blended-learning-to-enhance-schooling-experience-and-further-develop-students-into-self-directed-learners) and Student-Initiated Learning in schools.
 
 
 
