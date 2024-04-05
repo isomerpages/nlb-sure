@@ -75,7 +75,7 @@ Zara follows trendsetters, and according to them, that trendsetter is you — th
 
  
 
-[Radio Frequency Identification Technology (RFID) is also used to track inventory](https://www.advancedmobilegroup.com/blog/how-zara-controls-stock-with-rfid) to quickly assess which items or styles sell best. Instead of employees manually scanning each and every item that is sold, RFID allows headquarters to know which item is running low and needs replenishment. Completing inventories every 6 weeks, [Zara produces over 450 million items annually](https://martinroll.com/resources/articles/strategy/the-secret-of-zaras-success-a-culture-of-customer-co-creation/).
+Radio Frequency Identification Technology (RFID) is also used to track inventory to quickly assess which items or styles sell best. Instead of employees manually scanning each and every item that is sold, RFID allows headquarters to know which item is running low and needs replenishment. Completing inventories every 6 weeks, [Zara produces over 450 million items annually](https://martinroll.com/resources/articles/strategy/the-secret-of-zaras-success-a-culture-of-customer-co-creation/).
 
 Besides data collection and analysis, brands are also harnessing the power of the celebrity to come up with consumer-savvy designs. Kim Kardashian, [the “Balmain Barbie”](https://edition.cnn.com/style/article/kim-kardashian-west-40-fashion/index.html), was and is the world’s biggest influencer. With the world catching onto Kardashian-esque styles, [H&M launched a collaboration with Balmain, which sold out in days after a 3-day queue for its drop](https://www.straitstimes.com/lifestyle/fashion/after-3-day-queue-shoppers-wipe-balmain-x-hm-collection-off-shelves). 
 

@@ -17,7 +17,7 @@ Getting your hands on [the latest fashion trends](https://www.drapersonline.com/
 
 How do they do it? 
 
-Vertically integrated supply chains allow fast fashion producers [greater control of everything](https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706) from fabrics to logistics. Outsourcing manufacturing to [low-cost countries offers bargain deals](https://www.wsj.com/articles/the-hidden-cost-of-cheap-fashion-could-catch-up-to-investors-zara-old-navy-11621556298) to consumers across the globe. Cheaper prices have been linked not only to [cheap](https://www.channelnewsasia.com/commentary/fast-fashion-manufacturing-cheap-modern-slavery-913181) labour but [child labour](https://labs.theguardian.com/unicef-child-labour/) as well. 
+Vertically integrated supply chains allow fast fashion producers [greater control of everything](https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706) from fabrics to logistics. Outsourcing manufacturing to [low-cost countries offers bargain deals](https://www.wsj.com/articles/the-hidden-cost-of-cheap-fashion-could-catch-up-to-investors-zara-old-navy-11621556298) to consumers across the globe. Cheaper prices have been linked not only to [cheap](https://theconversation.com/fashion-production-is-modern-slavery-5-things-you-can-do-to-help-now-115889) labour but [child labour](https://labs.theguardian.com/unicef-child-labour/) as well. 
 
 This industry continues to grow to keep up with rising demand and rapidly changing fashion trends. One has to stop and wonder: At what cost?
 
