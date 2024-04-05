@@ -26,7 +26,7 @@ The planet is spiraling into crisis mode due to our incessant need to update our
 
  
 
-The fast fashion industry is responsible for [10% of global carbon emissions](https://www.unep.org/news-and-stories/press-release/un-alliance-sustainable-fashion-addresses-damage-fast-fashion) worldwide. Overconsumption and overproduction also mean that [92 million tonnes of textile waste](https://www.qut.edu.au/study/creative-industries/news?id=177289) are sent to landfills annually, while [93% of fashion brands](https://fashionchecker.org/) do not pay their workers a living wage.
+The fast fashion industry is responsible for [10% of global carbon emissions](https://www.unep.org/news-and-stories/press-release/un-alliance-sustainable-fashion-addresses-damage-fast-fashion) worldwide. Overconsumption and overproduction also mean that 92 million tonnes of textile waste are sent to landfills annually, while [93% of fashion brands](https://fashionchecker.org/) do not pay their workers a living wage.
 
  
 

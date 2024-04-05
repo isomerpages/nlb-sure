@@ -12,7 +12,7 @@ breadcrumb: 'Search Engines'
 
 ### Articles 
 
-- [Misinformation in search engines: how it spreads and how to spot it](https://www.buster.ai/blog/misinformation-in-search-engines-how-it-spreads-and-how-to-spot-it) (Buster.AI, n.d.)
+- [Misinformation in search engines: how it spreads and how to spot it](https://www.buster.ai/post/misinformation-in-search-engines-how-it-spreads-and-how-to-spot-it) (Buster.AI, n.d.)
 - [Why you shouldn’t trust AI search engines](https://safe.menlosecurity.com/https://www.technologyreview.com/2023/02/14/1068498/why-you-shouldnt-trust-ai-search-engines/) (MIT Technology Review, February 14, 2023)
 - [TikTok’s search engine repeatedly delivers misinformation to its majority-young user base, report says](https://safe.menlosecurity.com/https://edition.cnn.com/2022/09/18/business/tiktok-search-engine-misinformation/index.html) (CNN, Sep 18, 2022)
 - [How AI Bias In Search Engines Contributes To Disinformation](https://safe.menlosecurity.com/https://www.diplomaticourier.com/posts/how-ai-bias-in-search-engines-contributes-to-disinformation) (Diplomatic Courier, Jan 27, 2022)

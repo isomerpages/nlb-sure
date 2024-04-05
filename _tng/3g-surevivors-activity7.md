@@ -58,7 +58,7 @@ You can broaden your search by using synonyms. Synonyms are words with the same 
 
 After you have decided on your topic and keywords, think about the various sources of information for your research, such as reference books from the library or online.
 
-Your first stop in finding resource from the library will most likely be the [library catalogue](http://www.catalogue.nlb.gov.sg). After identifying the books that you need from the online catalogue, you can look for them in the library. 
+Your first stop in finding resource from the library will most likely be the [library catalogue](https://catalogue.nlb.gov.sg/). After identifying the books that you need from the online catalogue, you can look for them in the library. 
 
 ![](https://sure.nlb.gov.sg/images/surevivors-act7-04.JPG)
 

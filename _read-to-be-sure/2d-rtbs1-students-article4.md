@@ -50,7 +50,7 @@ The oppression of garment workers intersects with gender-based violence in many 
 
 ![](../images/rtbs1-students-article4c.jpg)
 
-*Factory workers in Indonesia, 2020. An estimated [80% of garment workers worldwide are women](https://www.fairtradecertified.org/news/fashion-is-a-womens-issue#:~:text=Despite the fact that women,of garment workers are female.), often from countries where they have fewer legal rights or protections against gender-based violence.*
+*Factory workers in Indonesia, 2020. An estimated 80% of garment workers worldwide are women, often from countries where they have fewer legal rights or protections against gender-based violence.*
 
  *[Rio Lecatompessy/Unsplash](https://unsplash.com/photos/cfDURuQKABk).*
 

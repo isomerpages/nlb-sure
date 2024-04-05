@@ -143,10 +143,11 @@ Use the S.U.R.E. steps to identify if the health information you read can be tru
 
 
 
-**[Download the PDF version HERE](../../../infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
+**[Download the PDF version HERE](https://sure.nlb.gov.sg/infographic/Infographic-Identifying-Credible-Health-Information.pdf)**.
 
 This infographic is also available in **[Chinese](/blog/information-literacy/il00004)**, **[Malay](/blog/information-literacy/il00005)** and **[Tamil](/blog/information-literacy/il00006)** languages.
 
 
 
 <hr>
+
