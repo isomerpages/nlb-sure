@@ -26,11 +26,6 @@ GenAI is in its infancy and its [implications](https://aiverifyfoundation.sg/dow
 
 
 
-## <details>    <summary><b>What are the downsides to having more restrictions?</b></summary>
-<p><br>Countries fear <a href="https://www.theguardian.com/world/2021/oct/30/people-are-starting-to-wane-china-zero-covid-policy-takes-toll">being left behind</a> in social and economic pursuits as the zero-tolerance strategy has a significant impact on work and life for millions of people.</p> 
-<p><a href="https://www.straitstimes.com/singapore/health/moving-from-covid-19-pandemic-to-endemic">Singapore</a>, <a href="https://www.economist.com/china/2021/10/16/how-long-can-chinas-zero-covid-policy-last">Australia, New Zealand</a> and <a href="https://theconversation.com/zero-covid-worked-for-some-countries-but-high-vaccine-coverage-is-now-key-169327">Vietnam</a>, for example, have shifted their prior zero-COVID policy approach as scientists expect that COVID-19 will become endemic over time – meaning that it will continue to circulate within pockets of the <a href="https://www.nature.com/articles/d41586-021-00396-2">global population</a> for years to come.</p> 
-<p>73% of the respondents of a survey conducted by the International Air Transport Association reported that their quality of life was suffering due to travel restrictions. They had missed many “family moments, personal development opportunities and business priorities.” <img src="https://sure.nlb.gov.sg/images/rtbs2-perspective2-notext.jpg"></p>
-</details>
 <hr>
 
 <a name="perspectives"></a>
@@ -39,8 +34,8 @@ GenAI is in its infancy and its [implications](https://aiverifyfoundation.sg/dow
 
 <table border="2" style="background-color:#FFFFFF;border-collapse:collapse;border:2px solid #000000;color:#000000;width:100%" cellpadding="3" cellspacing="3">
 	<tr>
-        <th style="width:50%"><font size=5>The power and promises of generative AI</font></th>
-        <th><font size=5>The perils and challenges of generative AI</font></th>
+        <th style="width:50%"><font size=3>The power and promises of generative AI</font></th>
+        <th><font size=3>The perils and challenges of generative AI</font></th>
 	</tr>
 	<tr>
 		<td><b>Generative AI could unleash the next productivity frontier and raise global GDP</b>
